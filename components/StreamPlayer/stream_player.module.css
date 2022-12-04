@@ -1,0 +1,62 @@
+.streamBox {
+	width: 80vw;
+	z-index: 1;
+	margin:  10px;
+	padding: 10px;
+	border-radius: 21px;
+	border:  3px solid #000C7B;
+	align-items: center;
+	display: flex;
+	position: relative;
+}
+
+.liveButton {
+	z-index: 4;
+	font-size: 12px;
+	font-weight: 700;
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+	color:  white;
+	top:  3vh;
+	right: 2vw;
+}
+
+.streamer {
+	z-index: 2;
+	width: 80vw; 
+	min-height: 40vw;
+	border-radius: 21px !important;
+    border: 1px solid #000C7B;
+    position: relative;
+    marign:  0 auto;
+    background-color: black;
+}
+
+@media (max-width:  800px){
+	.streamBox {
+		width: 92vw;
+		margin:  5px;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+	.liveButton {
+		width: 30px;
+		height: 30px;
+		font-size: 8px;
+		top:  2vh;
+		left: 4vw;
+	}
+
+	.streamer {
+		border-radius: 6px !important;
+		width: 92vw !important;
+	}
+}

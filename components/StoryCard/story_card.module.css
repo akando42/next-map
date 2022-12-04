@@ -1,0 +1,43 @@
+.container {
+	margin: 0 10px;
+	display: flex;
+	width: 40vh;
+	height: 30vh;
+	border: 1px solid 000C7B;
+	border-radius: 4px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: multiply;
+	background-position: center;
+	background-color: ;
+	color: white;
+}
+
+.container:hover {
+	transform: scale(1.04);
+	transition-duration: .5s;
+}
+
+.overlay {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-end;
+	padding: 4vh 1vw;
+	background-color: rgba(0,0,0,0.3);
+	width: 40vh;
+	height: 30vh;
+	border-radius: 4px;
+}
+
+.date {
+	font-size: 16px;
+	font-weight: 200;
+	width: 35vh;
+}
+
+.title {
+	font-size:23px;
+	font-weight: 700;
+}
+
