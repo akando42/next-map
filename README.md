@@ -5,7 +5,7 @@ yarn dev
 ```
 
 ## TODO
-[ ] Markdown Content Parsing. 
+[ ] Markdown Content Parsing.   
 [ ] Design for Location-Based Stories Blog.
 
 ## References

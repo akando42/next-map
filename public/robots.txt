@@ -1,0 +1,4 @@
+sitemap: User-agent: *
+Disallow: */tags/
+
+sitemap: https://spykman.mikedoconsulting.com/sitemap.xml
