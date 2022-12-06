@@ -16,6 +16,7 @@
 .container:hover {
 	transform: scale(1.04);
 	transition-duration: .5s;
+	border: 4px solid white;
 }
 
 .overlay {
