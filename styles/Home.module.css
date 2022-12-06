@@ -1,5 +1,6 @@
 .container {
   padding: 0 0;
+  overflow-y: hidden;
 }
 
 .main {
@@ -27,9 +28,12 @@
   align-items: center;
   justify-content: flex-start;
   padding: 1vh 1vw;
-  overflow: scroll;
-  scroll-snap-type: y mandatory;
+  overflow-x: scroll;
 }
+
+/*.timeline::-webkit-scrollbar {
+    display: none;
+}*/
 
 
 @keyframes rotating {
