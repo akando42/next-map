@@ -1,0 +1,123 @@
+--- 
+path: "/john-f-kennedy-and-the-dilusion-of-adam-smith-vision"
+cover: "content/posts/11-22/spykman-world-JFK_limo.png"
+date: "11-22"
+title: "John F. Kennedy Assassination and the Dilution of Adam Smith Vision"
+tags: ['England','Assassination','John F. Kennedy','Texas','Florida','The Atlantic','Spykman World','Nicholas Spykman']  
+published: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F1563265210479919%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+### JOHN F. KENNEDY ASSASSINATION - A PIERCING BULLET THAT CHANGE HISTORY
+
+JFK assassination at the high of the COLD WAR marked the beginning of a constant dilution of working-class hard-earn value unit with US Dollar printing spree.
+
+Nowaday, FED minutes is being watched by bankers and policy makers around the world.
+
+The FED signals their lowering of interest rates and more quantitative easing. Every other central banks would follow with their own policies of  lowering interest rates and quantitative easing. 
+
+If you are a big bank and at  the top with access to cheap, ultra-low credit then you are cool but if you have a normal working person with a saving then you are the suckers.
+
+Original role of the Bank is to hold Value Creator deposit or saving and lend it back to
+businesses to create more value. 
+
+Modern banking does not make money by lending out money from their depositor money anymore.
+
+Modern banking makes money from extra-cash print out by the FED and central banks around the world and charge their depositors ridiculous fees.
+
+Normal working people have no to little access to the Equity market to counter this value erosion trend created by Central Banks and the FEDs.
+
+And even if you have a portfolio to counter the FED’s induced value-erosion policies, each financial crisis, you will get robbed of all your hard-earn value and wealth are increasing concentrating on the top 1%.  The king and monarchy is already back and we do not even know it. 
+
+The modern 30 years Mortgage at 5% interest rate and Consumer Credit Card industry at 21% interest while the big banks are getting near 0% interest from OUR government is just another form of Bondage that had enslaved European people in 17 & 18 century and led them to escape the continent and find freedom in the United States. 
+
+This distortion of natural cycle of value creation started with the Cold War and the Vietnam War. 
+The US needed extra financial resources in order to fund the IRON curtain countries and the US dollar is the value anchor of the whole world anyway so no one can stop it.
+
+Extra dollars were being shipped to IRON curtain countries via IMF and World BANK lending and financial assistant programs. These IRON curtains countries will then maximize their OUTPUT via Industrial built-up WHILE  the AMERICAN will maximize their INPUT by absorbing the OUTPUT from IRON-CURTAIN countries via Consumption and Credit Usage.
+
+This is supposed to be a UP-Ward Spiral or an UPward ReCURSIVE process with the US lifting the entire world industrial and productivity output. 
+
+However, they overdid it and the Vietnam War eventually led to the collapse of Brenton Wood agreement and Richard Nixion got rid of the Gold standard. This led to the beginning of the Down-ward Spiral Process of VALUE.
+
+If Kennedy was still president, the US probably end the Vietnam War 10 years earlier, did not have to break the post WWII Brenton Wood agreement and the Gold Standard and start the Down-ward spiral of the World value storage and productivity growth. 
+
+The Vietnam War and Kennedy assisassisation marked the peak of the US role as the world's leader and start the deceleration process of US industrial and productivity growth. 
+
+US economy gradually transitioned from Productivity Growth and Value Creation Activities to Financial and Lending related activities with their share of the GDP gradually moving away from Value Creation activities into more of Financial and Banking related activities. 
+
+Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. 
+
+Real Estate is just another money-sunk credit-driven industry. We like to live in a nice house but a mansion or a one bed-room studio does not help to increase or decrease our individual Productivity. 
+
+Manufacturing, Agriculture, Transportation, Technology, Science and Research was the main driver that propelled the US into the World number 1 economy and will most likely propell China and Germany into number 1 and 2 spot of the World Economy since they see the most improvement in Productivity growth as well as Population growth since WWII and have a very strong industrial and technology value creation economy. 
+
+The US is holding on to its number 1 spot with more cheap credit, its unfair advantage as Currency reserve and its NUKE to pressure non-Nuclear nations like Germany and Japan in trade negotiating table. 
+
+Well humans can INVENT NUKE then we should be able to figure out a way to DISABLE NUKE. 
+
+### Fort Knox, Kentucky - The Golden Eggs Stash That Ensure American Perpetual Dominance.
+
+Gold is something we all believe in since before the birth of Christ, across different cultures, at the time of war or peace as long as the Sun is still shining with its golden rays. 
+
+Gold reserve is the requirement of a true world superpower. As of today, top 6 countries in gold reserves are USA, Germany, Italy, France, China and Russia. 
+
+United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling. 
+
+United Kingdom more than anyone else understand the crucial role of a nation treasure in its long-term prospect. 
+
+During the early 1700 War of Spanish Succession, France and Spain are moving too close to become a formidable and dangerous coalition. If France and Spain become a single cohesive unit, Britain’s war in the American continent as well the Indian subcontinent is a lost cause. 
+
+So the British diplomats and planners pitched Holy Roman Empire and its allies into a major war against Spain and France on land as well as at sea in the Mediterian and the Caribean. 
+
+Spain's power was drawing mainly from its endless gold supply from Central and South America. Understanding this, British sponsored piracies activities in the Caribbean to deal lethal blows to Spain’s strength and eventually force Spain to its knees and forever prevent the creation of a formiddle giant: France and Spain as a cohesive unit. 
+
+Nowaday, we can still find clues of these past piracy activities along the Treasure Coast of Florida. The sinking of Spanish 1715 treasure fleet marked the decline of Spain as a major European power and start the Golden age of Ocean piracies in the Carribean as well as around the world. 
+
+The Spanish 1715 treasure fleet was sunk during a big tropical hurricane. However like the Malaysia Flight 370, the geography and the political implication tells a very different story.
+
+Spain and France are major land power but also have a long coast line and direct access to the Mediaterian and Atlantic. Both languages are Latin-based language and both countries are past Roman Empire territorials with main religion as Roman Catholics. 
+
+Britain like Russia wants to be Christian but think of themselves as better and want to create their own separate branch of Christian to reduce influence from the Pope and the Roman Catholic church. 
+
+So here it is Protestian of the West and Orthodox of the East with federated Holy Roman Empire at the central loosely control other Christian branches via Royalty endorsement.
+
+Mostly the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The raid of 1715 Spanish treasure fleets was most likely launched from 2 locations:
+
+The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau.
+And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
+
+Pirates sponsored by the Crown will then make sure most of treasure will be captured and shared among Caribean pirates as kick-start capital for further piracy payroll, working capital, ship upgrade and weapon purchases.
+
+After the sinking of Spanish treasure fleet of 1715, we saw the Golden Age of Caribean piracies from 1716 - 1726. The whole Spanish Succession War and The Pirates of Carribeans look a lot like the China-Russia relationship of 21 century and South China Sea dispute.  
+
+During the height of the Cold War, China is still a developing nation with backward industrial capabilities as well as a peasant army with little to none naval or air force. The Soviet Union alone already put up a good fight and come close to bankrupt America but bankrupt itself first. 
+
+At the beginning of 21 centuries, America's biggest ally, England is at the sunset of its power.
+China is rising to number 2 economies with both land, sea and air offensive nuclear and conventional capabilities 
+
+Russia no longer has the Soviet Union might but still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
+
+Russia and China both a Denisovan descendants but have very different skin color and religion. 
+
+Russian are white Christian and Chinese are yellow Confusian. 
+
+Both countries have long common border that could trigger major conflict like France and Germany but luckily their capital, the power center of gravity and all its major population centers are far away from each other with Moscow near the Baltics sea and Beijing near the Pacifics. 
+
+So if both focus on the geographic and economic factors then they compliment each others and have great synergy, looking like a perfect M & A. However, if both focus on ethnicity and religious factors then they are vastly different and could be arch enemy. World War losers let their land become the battle ground while the winners fund the war and sell weapons to both sides. 
+
+Most WWII casualties are in Russia and China and maybe the American weapon designer was planning to wipe out half of the world population with the majority of that trunk comes from Middle East, China, India and Indonesia. That’s why the newest stealth fighters are F35 and we have little more than 7 billion people on earth. 
+
+Russia is the land-bridge between East and West. It has the power to unite the Euro-Asia Continent or plunge itself and the entire continent into another war.
+
+### Triple Headed Eagle and Its Mandate From the Sky
+
+Whether the West like it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities.  Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
+
+Americans need to look into mirror, fix its soul, redeem its karma from past African slavery, native Americans massacre and modern day White Christian supremacy first before it can truly claim its role as world liberators or the promoters of liberal and democratic value.  
+
+People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure. 
+
+People wants food, clean air and water, housing, healthcare, child development and then when they have free-time then they will go to vote.
