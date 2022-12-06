@@ -12,16 +12,16 @@
   align-items: center;
 }
 
-.map {
+.mapContainer {
   width: 100vw;
   height: 65vh;
-  background-color: black;
+  background-color: white;
 }
 
 .timeline {
+  background-color: black;
   width: 100vw;
   height: 35vh;
-  background-color: white;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -30,3 +30,29 @@
   overflow: scroll;
   scroll-snap-type: y mandatory;
 }
+
+
+@keyframes rotating {
+  from {
+    transform: rotateY(0deg);
+  }
+
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+.logo {
+  width:  60px;
+  height: 60px;
+  border-radius: 30px;
+  border: 2px solid black;
+  top: 30px;
+  left: 30px;
+  position: fixed;
+  z-index: 2;
+  animation: rotating 4s linear infinite;
+}
+
+
+

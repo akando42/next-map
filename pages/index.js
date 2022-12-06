@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { Component } from "react" 
 import styles from '../styles/Home.module.css'
 import StoryCard from "../components/StoryCard"
+import Map from "../components/Map"
 
 export default class Main extends Component {
   constructor(props){
@@ -47,10 +48,8 @@ export default class Main extends Component {
     }
   }
   
-  
-  componentDidMount(){
-    
-  }
+ 
+  componentDidMount(){}
 
   render(){
     return (
@@ -62,8 +61,18 @@ export default class Main extends Component {
         </Head>
 
         <main className={styles.main}>
-          <div className={styles.logo}></div>
-          <div className={styles.map}></div>
+          <div 
+            className={styles.logo}
+            style={{
+              backgroundColor: `white`,
+              backgroundSize: `cover`,
+              backgroundImage: `url(logo/version1.png)`
+            }}
+            >
+          </div>
+          <div className={styles.mapContainer}>
+            <Map />          
+          </div>
           <div className={styles.timeline}>
             { 
                 this.state.items.map(
