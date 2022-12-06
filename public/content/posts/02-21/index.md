@@ -1,6 +1,6 @@
 --- 
 path: "/richard-nixon-and-the-art-of-manipulation"
-cover: "content/posts/02_21/spykman-world-permanent.jpg"
+cover: "content/posts/02-21/spykman-world-permanent.jpg"
 date: "02-21"
 title: "Richard Nixon and The Art of Manipulation"
 tags: ['Russia', 'China', 'United States', 'Richard Nixon', 'Vietnam', 'Spykman World','Nicholas Spykman']  
