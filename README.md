@@ -6,9 +6,8 @@ yarn dev
 
 ## TODO
 [X] Design for Location-Based Stories Blog.
-[ ] Build the Layout.
 [ ] Markdown Content Parsing.   
-
+[ ] Build the Layout.
 
 ## References
 

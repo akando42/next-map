@@ -4,6 +4,18 @@ import { Component } from "react"
 import styles from '../styles/Home.module.css'
 import StoryCard from "../components/StoryCard"
 import Map from "../components/Map"
+import { getSortedPostsData } from '../libs/posts'
+
+const postsDirectory = "public/content/posts"
+
+export async function getStaticProps() {
+  const postsData = await getSortedPostsData(postsDirectory)
+  return {
+    props: {
+      postsData
+    }
+  }
+}
 
 export default class Main extends Component {
   constructor(props){
@@ -80,7 +92,7 @@ export default class Main extends Component {
           
           <div className={styles.timeline}>
             { 
-                this.state.items.map(
+                this.props.postsData.map(
                   (item, index) => <StoryCard key={index}  item={item} />
                 )
             }   
