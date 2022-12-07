@@ -1,4 +1,7 @@
 --- 
+zoom: 6
+lat: 47.374862955822856
+lng: 8.542570363758998
 path: "/military-medicine-and-the-innovator-of-medical-industry"
 cover: "content/posts/02-02/spykman-world-benh_vien_108_zing_9.jpg"
 date: "02-02"

@@ -1,4 +1,7 @@
 ---
+zoom: 10
+lat: 10.38509580601526
+lng: 107.05232388188348
 path: "/one_single_god_and_its_poweful_magnetism"
 cover: "content/posts/03-31/spykman-world-ho-chi-minh-statue.jpg"
 date: "03-31"

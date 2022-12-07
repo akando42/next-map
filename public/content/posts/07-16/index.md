@@ -1,4 +1,7 @@
 ---
+zoom: 3
+lat: 69.19770962885133
+lng: -105.01265031843745
 path: "/melting-ice-is-opening-up-the-fabled-northwest-passage"
 cover: "content/posts/07-16/spykman-world-melting-ice-openning-up-northwest-passage.jpg"
 date: "07-16"

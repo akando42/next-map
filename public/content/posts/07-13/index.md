@@ -1,4 +1,7 @@
 ---
+zoom: 3
+lat: 11.616576336564476
+lng: 165.37722736729668
 path: "/mutual-assured-destruction-an-outdated-doctrine"
 cover: "content/posts/07-13/spykman-world-new-era.jpg"
 date: "07-13"

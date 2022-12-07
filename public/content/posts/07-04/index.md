@@ -1,4 +1,7 @@
 ---
+zoom: 12
+lat: 32.77461476677898
+lng: -97.44639695988717
 path: "/stealth_the_all_eggs_in_one_basket_approach"
 cover: "content/posts/07-04/spykman-world-devil_eggs_in_one_basket.jpg"
 date: "07-04"

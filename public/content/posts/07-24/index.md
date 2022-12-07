@@ -1,4 +1,7 @@
 ---
+zoom: 10
+lat: 27.771313182469545
+lng: -82.61130237406577
 path: "/a-mueller-walking-to-a-barr"
 cover: "content/posts/07-24/spykman-world-a-mueller-walking-to-a-barr.jpg"
 date: "07-24"

@@ -1,4 +1,7 @@
 ---
+zoom: 10 
+lat: 32.08574509735867 
+lng: 34.77046631494252
 path: "/the_power_of_imagination_and_the_jewish_secrets"
 cover: "content/posts/03-20/spykman-world-gravitational_lensing.jpg"
 date: "03-20"

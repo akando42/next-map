@@ -1,5 +1,7 @@
 ---
-
+zoom: 6
+lat: 13.85512660570624
+lng: 100.53925276321912
 path: "/thailand-a-forever-puppet-or-independence-at-last"
 cover: "/content/posts/01-25/spykman-world-artOfEightLimbs.jpg"
 date: "01-25"

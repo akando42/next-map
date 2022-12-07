@@ -1,4 +1,7 @@
 ---
+zoom: 10
+lat: 37.86931604673499
+lng: 112.58916454477725
 path: "/moving-manufacturing-from-china-to-the-moon"
 cover: "content/posts/07-21/spykman-world-moving-manufacturing-from-china-to-the-moon.png"
 date: "07-21"
