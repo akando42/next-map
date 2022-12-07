@@ -12,12 +12,12 @@ export function getSortedPostsData(postsDirectory) {
   // Get file names under /posts
   const dirNames = fs.readdirSync(postsDirectory)
   
-  console.log(
-    "Files in our directory ",
-    postsDirectory, 
-    "are: \n", 
-    dirNames
-  )
+  // console.log(
+  //   "Files in our directory ",
+  //   postsDirectory, 
+  //   "are: \n", 
+  //   dirNames
+  // )
 
   const allPostsData = dirNames.map(dirName => {
     // Remove ".md" from file name to get id

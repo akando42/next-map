@@ -34,12 +34,28 @@ export default class Map extends Component {
 	}
 
 	componentDidMount(){
+		console.log(
+			this.props.height, 
+			this.props.width
+		)
+
+		this.setState({
+			lng: this.props.lng,
+			lat: this.props.lat,
+			zoom: this.props.zoom
+		})
+
 		this.loadMap()
 	}
 
 	render(){
 		return (
 			<div 
+				style={{
+					width: `${this.props.width}`,
+					height: this.props.height
+				}}
+
 				className={Styles.map} 
 				ref={this.mapContainer}>
 			</div>

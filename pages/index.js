@@ -4,6 +4,8 @@ import { Component } from "react"
 import styles from '../styles/Home.module.css'
 import StoryCard from "../components/StoryCard"
 import Map from "../components/Map"
+import Logo from "../components/Logo"
+
 import { getSortedPostsData } from '../libs/posts'
 
 const postsDirectory = "public/content/posts"
@@ -78,16 +80,7 @@ export default class Main extends Component {
         </Head>
 
         <main className={styles.main}>
-          <div 
-            className={styles.logo}
-            style={{
-              backgroundColor: `white`,
-              backgroundSize: `cover`,
-              backgroundImage: `url(logo/version1.png)`
-            }}
-            >
-          </div>
-          
+          <Logo />
           <Map />          
           
           <div className={styles.timeline}>

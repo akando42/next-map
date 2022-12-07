@@ -36,27 +36,9 @@
 }*/
 
 
-@keyframes rotating {
-  from {
-    transform: rotateY(0deg);
-  }
 
-  to {
-    transform: rotateY(360deg);
-  }
-}
 
-.logo {
-  width:  60px;
-  height: 60px;
-  border-radius: 30px;
-  border: 2px solid black;
-  top: 30px;
-  left: 30px;
-  position: fixed;
-  z-index: 2;
-  animation: rotating 4s linear infinite;
-}
+
 
 
 

@@ -71,6 +71,7 @@ Fossil fuels or solar powers or wind power will still all affect the overall ene
 
 The Roman Republics is among the first human civilizations to figure out an economic theory to create sustainable continuous economic expansion. Great generals win battles while a superior economic model wins the war. The Roman discovered the time-tested method to organize human energy and resources behind common visions.
 
-
 ### The Amphibious-First Navy of Russian and European Unions
+
+
 
