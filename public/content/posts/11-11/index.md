@@ -1,7 +1,7 @@
 --- 
-zoom: 6
-lat: 1.3614081225529289
-lng: 103.86037772269773
+zoom: 6  
+lat: 7.665672742993175
+lng: 81.88449879560726
 path: "/indian-ocean-india-and-the-asia-association"
 cover: "content/posts/11-11/spykman-world-group-meditation.png"
 date: "11-11"
