@@ -23,7 +23,7 @@ export default class Map extends Component {
 		const { lng, lat, zoom } = this.state;
 	    const map = new mapboxgl.Map({
 	        container: this.mapContainer.current,
-	        style: 'mapbox://styles/mapbox/streets-v11',
+	        style: 'mapbox://styles/hillodesign/clb95v8zd000v15nudmodao0i',
 	        center: [lng, lat],
 	        zoom: zoom
 	    });

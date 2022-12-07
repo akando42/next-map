@@ -82,7 +82,7 @@ export default class Main extends Component {
         <main className={styles.main}>
           <Logo />
           <Map 
-            zoom="1.5" 
+            zoom="2" 
             lng="90.09105767050022"
             lat="12.74421786982952"
           />          
