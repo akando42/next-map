@@ -1,4 +1,7 @@
 --- 
+zoom: 10
+lat: 37.5415107922221 
+lng: -77.43050032058635
 path: "/constitution-the-dna-of-a-nation"
 cover: "content/posts/09-17/spykman-world-constitution-the-dna-of-a-nation.jpg"
 date: "09-17"

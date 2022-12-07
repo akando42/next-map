@@ -1,4 +1,7 @@
 --- 
+zoom: 10
+lat: 32.77827966119764
+lng: -96.79800561213413
 path: "/john-f-kennedy-and-the-dilusion-of-adam-smith-vision"
 cover: "content/posts/11-22/spykman-world-JFK_limo.png"
 date: "11-22"

@@ -1,4 +1,7 @@
 --- 
+zoom: 6
+lat: 43.22812395600636
+lng: 76.85489432710617
 path: "/bitcoin-and-the-first-WAR-initial-coin-offering"
 cover: "content/posts/08-18/spykman-world-bitcoin-and-the-first-WAR-initial-coin-offering.jpg"
 date: "08-18"

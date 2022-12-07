@@ -1,4 +1,7 @@
 ---
+zoom: 10
+lat: 37.4563
+lng: 126.7052
 path: "/one-korea-and-the-awakening-of-third-asian-tigers"
 cover: "content/posts/07-27/spykman-world-one-korea-and-the-awakening-of-third-asian-tigers.png"
 date: "07-27"

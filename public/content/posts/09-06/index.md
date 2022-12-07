@@ -1,4 +1,7 @@
 --- 
+zoom: 12
+lat: 34.13435879081865
+lng: -118.32087188946139
 path: "/pornography-the-third-pillar-in-the-trinity-of-power"
 cover: "content/posts/09-06/spykman-world-pornography-the-third-pillar-in-the-trinity-of-power.png"
 date: "09-06"

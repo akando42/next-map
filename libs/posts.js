@@ -73,7 +73,7 @@ export async function getPostData(postsDirectory, id) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
 
   // console.log("POST FULL PATH", fullPath)
-  console.log("FILE CONTENT",fileContents)
+  // console.log("FILE CONTENT",fileContents)
 
 
   // Use gray-matter to parse the post metadata section

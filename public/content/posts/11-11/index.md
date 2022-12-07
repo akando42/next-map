@@ -1,4 +1,7 @@
 --- 
+zoom: 6
+lat: 1.3614081225529289
+lng: 103.86037772269773
 path: "/indian-ocean-india-and-the-asia-association"
 cover: "content/posts/11-11/spykman-world-group-meditation.png"
 date: "11-11"
@@ -6,8 +9,6 @@ title: "Indian Ocean, India and the Asia Association"
 tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','Nicholas Spykman']  
 published: true
 ---
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2820924811272345%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### INDIAN OCEAN AND THE TOWER OF HANOI
 
@@ -69,8 +70,11 @@ America is already great, we only need to make sure it will be great INDEFINITEL
 
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
+<img 
+  width="40vw" 
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Franks_casket_03.jpg/2880px-Franks_casket_03.jpg" 
+/>
 
-![Frank Casket](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Franks_casket_03.jpg/2880px-Franks_casket_03.jpg)
 
 
 

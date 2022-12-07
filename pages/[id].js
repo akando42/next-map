@@ -40,9 +40,9 @@ export default class Post extends Component {
 			    <Map 
 			    	width="100vw" 
 			    	height="50vh" 
-			    	zoom="10" 
-			    	lng="120.09105767050022"
-			    	lat="80.74421786982952"
+			    	lng={this.props.postsData.lng}
+			    	lat={this.props.postsData.lat}
+			    	zoom={this.props.postsData.zoom}
 			    />
 
 			    <div className={Styles.container}>

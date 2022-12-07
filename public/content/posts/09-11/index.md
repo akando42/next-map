@@ -1,4 +1,7 @@
 --- 
+zoom: 12
+lat: 40.711613355774354 
+lng: -74.01254356435004
 path: "/9-11-asymetrical-warfare-false-flag-or-a-knock"
 cover: "content/posts/09-11/spykman-world-9-11-asymetrical-warfare-false-flag-or-a-knock.jpeg"
 date: "09-11"

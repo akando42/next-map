@@ -1,4 +1,7 @@
 ---
+zoom: 5
+lat: 48.71178046964093
+lng: 44.498443094926095
 path: "/georgia-stalin-and-the-future-of-euroasia"
 cover: "content/posts/07-31/spykman-world-georgia-stalin-and-the-future-of-euroasia.png"
 date: "07-31"

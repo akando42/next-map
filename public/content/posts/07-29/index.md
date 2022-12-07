@@ -1,4 +1,7 @@
 ---
+zoom: 6
+lat: 16.665290685666694
+lng: 112.71882657408325
 path: "/supercarrier-like-uss-forrestal-is-unsinkable"
 cover: "content/posts/07-29/spykman-world-supercarrier-like-uss-forrestal-is-unsinkable.png"
 date: "07-29"

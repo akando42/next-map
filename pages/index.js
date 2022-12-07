@@ -81,7 +81,11 @@ export default class Main extends Component {
 
         <main className={styles.main}>
           <Logo />
-          <Map />          
+          <Map 
+            zoom="1.5" 
+            lng="90.09105767050022"
+            lat="12.74421786982952"
+          />          
           
           <div className={styles.timeline}>
             { 

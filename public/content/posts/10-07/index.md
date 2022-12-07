@@ -1,4 +1,7 @@
 --- 
+zoom: 4
+lat: 53.71129023633367
+lng: 108.19065044967628
 path: "/putin-the-force-multiplier"
 cover: "content/posts/10-07/spykman-world-putin-the-force-multiplier.png"
 date: "10-07"

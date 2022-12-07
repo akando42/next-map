@@ -1,4 +1,7 @@
 ---
+zoom: '6'
+lat: '34.290836334083224'
+lng: '108.93696456978837'
 path: "/consolidation_the_inevitable_trend"
 cover: "content/posts/06-01/spykman-world-global_nomad.jpeg"
 date: "06-01"

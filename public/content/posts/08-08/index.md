@@ -1,4 +1,7 @@
 ---
+zoom: 16
+lat: 37.88361577206362
+lng: -85.95857286079594
 path: "/the-role-of-US-dollar-in-21-century"
 cover: "content/posts/08-08/spykman-world-the-role-of-US-dollar-in-21-century.png"
 date: "08-08"

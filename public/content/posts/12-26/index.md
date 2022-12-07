@@ -1,4 +1,7 @@
 --- 
+zoom: "6"
+lat: "28.540381629725182"
+lng: "33.97484315008055"
 path: "/a-full-cup-is-bout-to-spill-from-moses-to-hannibal-to-maozedong"
 cover: "content/posts/12-26/spykman-world-moses-hannibal-maozedong.jpg"
 date: "12-26"
