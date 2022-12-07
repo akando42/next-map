@@ -1,5 +1,6 @@
 import {Component} from 'react'
 import Styles from "./map.module.css"
+import 'mapbox-gl/dist/mapbox-gl.css';
 import mapboxgl from '!mapbox-gl';
 import React from 'react'
 
@@ -47,7 +48,7 @@ export default class Map extends Component {
 
         	const marker = new mapboxgl
         	    .Marker()
-        	    .setLngLat([lat,long])
+        	    .setLngLat([long, lat])
         	    .addTo(map)
 	    }
 	}
@@ -61,7 +62,7 @@ export default class Map extends Component {
 			<div 
 				style={{
 					width: `${this.props.width}`,
-					height: this.props.height
+					height: `${this.props.height}`
 				}}
 
 				className={Styles.map} 
