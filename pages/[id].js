@@ -18,7 +18,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths(){
 	const paths = getAllPostIds(postsDirectory)
-    console.log("our static paths is", paths)
+    // console.log("our static paths is", paths)
   
 	return {
 		paths,
@@ -40,6 +40,7 @@ export default class Post extends Component {
 			    <Map 
 			    	width="100vw" 
 			    	height="50vh" 
+			    	data={this.props.postsData}
 			    	lng={this.props.postsData.lng}
 			    	lat={this.props.postsData.lat}
 			    	zoom={this.props.postsData.zoom}

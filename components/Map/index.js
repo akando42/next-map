@@ -19,7 +19,7 @@ export default class Map extends Component {
 	}
 
 
-	loadMap(props){
+	loadMap(){
 		const { lng, lat, zoom } = this.state;
 	    const map = new mapboxgl.Map({
 	        container: this.mapContainer.current,
@@ -28,21 +28,31 @@ export default class Map extends Component {
 	        zoom: zoom
 	    });
 
-	    
+	    const attractions = this.props.data;
+	    console.log(attractions);
+
+	    if (attractions.length > 1){
+	    	attractions.map(attraction => {
+	    		const long = attraction.lng
+	        	const lat = attraction.lat
+
+	        	const marker = new mapboxgl
+	        	    .Marker()
+	        	    .setLngLat([long,lat])
+	        	    .addTo(map)
+		    	})
+	    } else {
+	    	const long = attractions.lng
+        	const lat = attractions.lat
+
+        	const marker = new mapboxgl
+        	    .Marker()
+        	    .setLngLat([lat,long])
+        	    .addTo(map)
+	    }
 	}
 
 	componentDidMount(){
-		this.setState({
-			lng: this.props.lng,
-			lat: this.props.lat,
-			zoom: this.props.zoom
-		})
-
-		console.log(
-			this.props.lat, this.props.lng, this.props.zoom
-		)
-
-
 		this.loadMap()
 	}
 
