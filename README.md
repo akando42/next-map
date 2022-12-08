@@ -11,7 +11,7 @@ yarn dev
 [X] Build the Post Layout.
 [X] Mobile Layout for Landing Page
 [X] Mobile Layout for Post Page
-[ ] Markdown Image and HTML Resizing
+[X] Markdown Image and HTML Resizing
 [ ] Fly To Location Basing on Post
 
 ## References

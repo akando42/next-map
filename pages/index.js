@@ -22,8 +22,21 @@ export async function getStaticProps() {
 export default class Main extends Component {
   constructor(props){
     super(props)
+    this.flyTo= this.flyTo.bind(this);
+    this.zoomOut = this.zoomOut.bind(this);
+
     this.state = {
+
     }
+
+  }
+
+  async flyTo(){
+     console.log("Flying")
+  }
+
+  async zoomOut(){
+     console.log("Zooming Out")
   }
   
  
@@ -53,7 +66,12 @@ export default class Main extends Component {
           <div className={styles.timeline}>
             { 
                 this.props.postsData.map(
-                  (item, index) => <StoryCard key={index} item={item} />
+                  (item, index) => <StoryCard 
+                      key={index} 
+                      item={item} 
+                      flyTo={this.flyTo}
+                      zoomOut={this.zoomOut}
+                  />
                 )
             }   
           </div>
