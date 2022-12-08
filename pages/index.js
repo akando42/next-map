@@ -31,8 +31,10 @@ export default class Main extends Component {
 
   }
 
-  async flyTo(){
-     console.log("Flying")
+  async flyTo(event){
+    const lng = event.target.dataset.lng
+    const lat = event.target.dataset.lat
+    console.log("Flying to", lng, lat)
   }
 
   async zoomOut(){

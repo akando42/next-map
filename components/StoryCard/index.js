@@ -19,6 +19,8 @@ export default class StoryCard extends Component {
 
 					onMouseEnter={this.props.flyTo}
                     onMouseOut={this.props.zoomOut}
+                    data-lat={this.props.item.lat}
+                    data-lng={this.props.item.lng}
 				>
 					<div className={Styles.overlay}>
 						 <div className={Styles.date}>
