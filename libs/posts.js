@@ -10,18 +10,17 @@ export function getSortedPostsData(postsDirectory) {
   // console.log("parsing Markdown post from", postsDirectory)
   
   // Get file names under /posts
-  const dirNames = fs.readdirSync(postsDirectory)
+  const dirNames = fs.readdirSync(postsDirectory).filter(checkType)
   
-  // console.log(
-  //   "Files in our directory ",
-  //   postsDirectory, 
-  //   "are: \n", 
-  //   dirNames
-  // )
+  function checkType(dirName){
+      return dirName != ".DS_Store"
+  }
 
   const allPostsData = dirNames.map(dirName => {
     // Remove ".md" from file name to get id
     const id = dirName.replace(/\.md$/, '')
+
+    
 
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, id, `index.md`)
