@@ -34,7 +34,11 @@ export default class Main extends Component {
   async flyTo(event){
     const lng = event.target.dataset.lng
     const lat = event.target.dataset.lat
-    console.log("Flying to", lng, lat)
+
+    const trigger = document.getElementById("trigger")
+    trigger.setAttribute("data-lat", lat)
+    trigger.setAttribute("data-lng", lng)
+    trigger.click()
   }
 
   async zoomOut(){

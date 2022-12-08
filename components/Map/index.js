@@ -14,13 +14,16 @@ export default class Map extends Component {
       		lng: props.lng,
       		zoom: props.zoom,
       		myMap: null
-		}
+		};
+
+		this.loadMap = this.loadMap.bind(this)
+		this.flyTo = this.flyTo.bind(this)
 
 		this.mapContainer = React.createRef();
 	}
 
 
-	loadMap(){
+	async loadMap(){
 		const { lng, lat, zoom } = this.state;
 		
 		const  mobileOrNot = window.matchMedia("(max-width: 800px)");
@@ -64,9 +67,24 @@ export default class Map extends Component {
         	    .addTo(map)
 	    }
 
-
+	    this.setState({
+	    	myMap: map
+	    })
 	}
 
+	async flyTo(event){
+		const lng = event.target.dataset.lng
+   		const lat = event.target.dataset.lat
+		
+		console.log(
+			"Triggered", lng, lat, this.state.zoom
+		)
+		const map = this.state.myMap
+        map.flyTo({
+        	center: [lng, lat],
+        	zoom: 4,
+        })
+	}
 
 	componentDidMount(){
 		this.loadMap()
@@ -74,14 +92,20 @@ export default class Map extends Component {
 
 	render(){
 		return (
-			<div 
-				style={{
-					width: `${this.props.width}`,
-					height: `${this.props.height}`
-				}}
-
-				className={Styles.map} 
-				ref={this.mapContainer}>
+			<div>
+				<span id="trigger" onClick={this.flyTo}>
+				</span>
+				<div 
+					style={{
+						width: `${this.props.width}`,
+						height: `${this.props.height}`
+					}}
+					className={Styles.map} 
+					ref={this.mapContainer}
+					
+				>
+					
+				</div>
 			</div>
 		)
 	}
