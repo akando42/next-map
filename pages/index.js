@@ -40,7 +40,10 @@ export default class Main extends Component {
 
         <main className={styles.main}>
           <Logo />
+          
           <Map 
+            width="100vw"
+            height="65vh"
             data={this.props.postsData}
             zoom="2" 
             lng="90.09105767050022"
@@ -50,7 +53,7 @@ export default class Main extends Component {
           <div className={styles.timeline}>
             { 
                 this.props.postsData.map(
-                  (item, index) => <StoryCard key={index}  item={item} />
+                  (item, index) => <StoryCard key={index} item={item} />
                 )
             }   
           </div>

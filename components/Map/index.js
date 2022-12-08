@@ -22,36 +22,54 @@ export default class Map extends Component {
 
 	loadMap(){
 		const { lng, lat, zoom } = this.state;
+		
+		const  mobileOrNot = window.matchMedia("(max-width: 800px)");
+		const attractions = this.props.data;
+
+    	console.log("MOBILE ?",mobileOrNot.matches);
+
+    	const optimalZoom = mobileOrNot.matches && attractions.length >1 ? 1.2 : zoom ;
+
 	    const map = new mapboxgl.Map({
 	        container: this.mapContainer.current,
 	        style: 'mapbox://styles/hillodesign/clb95v8zd000v15nudmodao0i',
 	        center: [lng, lat],
-	        zoom: zoom
+	        zoom: optimalZoom
 	    });
 
-	    const attractions = this.props.data;
-	    console.log(attractions);
 
+	    
+	    
 	    if (attractions.length > 1){
 	    	attractions.map(attraction => {
 	    		const long = attraction.lng
 	        	const lat = attraction.lat
 
 	        	const marker = new mapboxgl
-	        	    .Marker()
+	        	    .Marker({
+	        	    	color: `black`,
+	        	    	occludedOpacity: 0.1
+	        	    })
 	        	    .setLngLat([long,lat])
 	        	    .addTo(map)
 		    	})
+
 	    } else {
 	    	const long = attractions.lng
         	const lat = attractions.lat
 
         	const marker = new mapboxgl
-        	    .Marker()
+        	    .Marker({
+	        	    color: `black`,
+	        	    occludedOpacity: 0.1
+	        	})
         	    .setLngLat([long, lat])
         	    .addTo(map)
 	    }
+
+
 	}
+
 
 	componentDidMount(){
 		this.loadMap()

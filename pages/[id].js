@@ -70,7 +70,7 @@ export default class Post extends Component {
 
 				        <div className={Styles.tagLine}>
 							{this.props.postsData.tags.map(
-								(item, index) => <div className={Styles.tag}>{item}</div>
+								(item, index) => <div key={index} className={Styles.tag}>{item}</div>
 							)}
 						</div>
 				       

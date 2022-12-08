@@ -122,5 +122,7 @@ KMT and the Empire of Japan had a shared ideology but after the rape of Nam Kinh
 
 Both the Empire of Japan and KMT failed to reach the CCP strong base of highly elevated delta of Xian during the Chinese modern Three Kingdom period of the 1940s. 
 
+While KMT and Empire of Japan were erosing each other strength, the Red Army was being restocked with supplies, weapons and ammunition to full strength through the narrow of passes of Xian mountain range. 
+
 After WW2, the RED army being supplied directly from So Viet Tran-Siberian railway in the north quickly overran the KMT Canton-based UK-backed army. 
 

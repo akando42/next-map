@@ -69,3 +69,29 @@
 	padding: 10px;
 	border-radius: 8px;
 }
+
+.content img {
+	width: 60vw;
+	height: auto;
+}
+
+@media (max-width:  800px){
+	.contentCard {
+	   width: 96vw;
+	   margin-top: -10vh;
+	}
+	.title { 
+		width: 90vw;
+	}
+	.content {
+		width: 90vw;
+	}
+
+	.content img {
+		width: 80vw;
+	}
+
+	.tagLine {
+		width: 80vw;
+	}
+}

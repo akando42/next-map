@@ -9,9 +9,8 @@ title: "One Korea And The Awakening Of Third Asian Tigers"
 tags: ['OK', 'One Korea', 'North Korea','South Korea','Korean Armistice Agrement','Wang Geon','Kaesong','Keasong Industrial Complex','United Korea','Spykman World','Nicholas Spykman']
 published: true
 ---
-### One Korea And The Awakening Of Third Asian Tigers
+## One Korea And The Awakening Of Third Asian Tigers
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F455018861717332%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 ### The Founding of United Korea
