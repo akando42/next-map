@@ -25,7 +25,7 @@
   height: 35vh;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
   padding: 1vh 1vw;
   overflow-x: scroll;
@@ -33,14 +33,7 @@
 }
 
 @media (max-width: 800px){
-  .mapContainer {
-    height: 60vh;
-  }
 
-  .timeline {
-    height: 40vh;
-    padding: 2vh 1vw;
-  }
 }
 
 

@@ -52,7 +52,7 @@ export function getSortedPostsData(postsDirectory) {
     } else {
       return 0
     }
-  }).reverse()
+  })
 }
 
 export function getAllPostIds(postsDirectory) {
