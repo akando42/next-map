@@ -76,5 +76,8 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 ### The Amphibious-First Navy of Russian and European Unions
 
+![Battle Fronts](content/posts/12-06/battle_fronts.png)
+
+
 
 
