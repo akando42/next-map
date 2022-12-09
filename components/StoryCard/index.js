@@ -17,7 +17,11 @@ export default class StoryCard extends Component {
 					       backgroundImage: `url(${this.props.item.cover})`
 					}}
 					onMouseEnter={this.props.flyTo}
+					onTouchStart={this.props.flyTo}
+					
                     onMouseOut={this.props.zoomOut}
+                    onTouchEnd={this.props.zoomOut}
+
                     data-lat={this.props.item.lat}
                     data-lng={this.props.item.lng}
 				>
