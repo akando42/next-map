@@ -42,14 +42,17 @@ export function getSortedPostsData(postsDirectory) {
 
   // Sort posts by date
   return allPostsData.sort(({ date: a }, { date: b }) => {
+
     if (a > b) {
-      return -1
-    } else if (a > b) {
+      // console.log(a, ">", b)
       return 1
+    } else if (a < b) {
+      // console.log(a, "<", b)
+      return -1
     } else {
       return 0
     }
-  })
+  }).reverse()
 }
 
 export function getAllPostIds(postsDirectory) {
@@ -73,7 +76,6 @@ export async function getPostData(postsDirectory, id) {
 
   // console.log("POST FULL PATH", fullPath)
   // console.log("FILE CONTENT",fileContents)
-
 
   // Use gray-matter to parse the post metadata section
   const matterResult = matter(fileContents)

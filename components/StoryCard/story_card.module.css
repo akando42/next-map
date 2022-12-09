@@ -13,7 +13,7 @@
 	color: white;
 }
 
-.container:hover {
+.container:hover, .container:active, .container:focus {
 	transform: scale(1.04);
 	transition-duration: .5s;
 	border: 4px solid white;
@@ -45,4 +45,12 @@
 
 .title, .date, .overlay {
 	pointer-events: none;
+}
+
+@media (max-width: 800px){
+	.container:active {
+		transform: scale(1.04);
+		transition-duration: .5s;
+		border: 4px solid white;
+	}
 }
