@@ -78,6 +78,30 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 ![Battle Fronts](content/posts/12-06/battle_fronts.png)
 
+The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
+
+In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. 
+
+Without the fundamental science investment of the defense industry, no other nation can really keep up with the United States or be able to create the Silicon Valleys and its mega tech giants. 
+
+The Internet was invented for military communication during a nuclear attack and The GPS global position system was invented for missile guidance and tank navigation. 
+
+These breakthrough technologies will later on serve as the enabling infrastructures for companies like Apple, Google, Yahoo, Amazon, Facebook, Uber, Tesla and many more new Unicorns in upcoming decades. 
+
+The trickle down technology is very real while the trickle down economy is a dream.  
+
+Countries in the 21st century are increasingly finding out that American mega tech giants know much more about their citizens than themselves. They can also no longer really negotiate fairly on the trading table while the US Navy and CIA drone is watching over every move of their oil tankers and consumer products vessels. 
+
+With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table.  
+
+India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold fixed  
+currency exchange rate and avoid using the US dollar as the energy currency. 
+
+The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
+
+The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer not stop Google, Apple and even TikTok serving customers in all available languages. 
+
+This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority.  
 
 
 
