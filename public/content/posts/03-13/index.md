@@ -1,7 +1,7 @@
 ---
 zoom: 5
-lat: 24.240650109193652
-lng: 101.70448723002593
+lat: 25.716826786063223
+lng: 100.161444087617
 path: "/range_the_evolution_of_gunpoweder_and_artilery"
 cover: "content/posts/03-13/spykman-world-going-forward-to-keep-balance.jpg"
 date: "03-13"
