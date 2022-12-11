@@ -11,6 +11,8 @@ published: true
 ---
 ### Egyptian and the Way Out from Slavery With Moses
 
+![Giza to Sinai](content/posts/12-26/Giza_to_Sinai.png)
+
 Moses was the leader of the Israaelites, an enslaved minority working under the Egyptian Pharaoh building his pyramids and other megastructure projects. 
 
 The Pharaoh need more smart slaves like the Hebrew to be able to finish his megastructure projects faster but when there are too many of them then their numbers might result in disobedience and even a revolution. The guards build nothing and consumer more resources than the slaves so it does not make sense to have too many guards either. 
@@ -35,6 +37,8 @@ One thing for sure is that no one can not build a nation from Mount Sinai and th
 
 
 ### Hannibal and the Impossible March Toward Rome
+
+![Cathrage](content/posts/12-26/Hannibal_to_Rome.png)
 
 After millions of years of random tectonic plates movement, somehow the Western civilization was awarded the largest bay on earth: the Mediterranean with the Baltic sea came in second. 
 
@@ -99,6 +103,8 @@ So in the end after destroying so many Roman legions, the army of Hannibal was s
 
 
 ### Mao Zedong and The Long March to North West China
+
+![Long March](content/posts/12-26/Long_March.png)
 
 The Long March or Trường Chinh was the famous military maneuver that propelled Mao Zedong into becoming the leader of the Chinese Communist Party and their Red Army.  The Long March saved the party from total annihilation by the KMT and put their peasant army beyond the reach of the KMT logistic supply line. 
 
