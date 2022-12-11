@@ -126,6 +126,8 @@ After 3 invasions of Washington DC, Houston and Colorado, the images and videos 
 
 ![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
 
+Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado 
+
 The US major logistic suppliers of FedEx, UPS, Walmart and Amazon servers was also hacked and shut down by Russian and German hackers directly from the US Military computer system in NORAD and Washington DC. All US Search Engines and Mapping Apps were also quickly targeted and shutdown. 
 
 The US just lost 3 Carrier battle groups and 5 major cities without any other State Capitol being alerted. The only thing they knew through the news was a Turkey-Israel war in the Middle East and the Korean attack on Okinawa and they no longer have access to the Internet, Walmart and Amazon. 
