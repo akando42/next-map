@@ -134,7 +134,7 @@ After 3 invasions of Washington DC, Houston and Colorado, the images and videos 
 
 The US major logistics supplier of FedEx, UPS, Walmart and Amazon servers was also hacked and shut down by Russian and German hackers directly from the US Military computer system in Norad and Washington DC. US Internet Service Providers were also quickly targeted. 
 
-The US just lost 3 Carrier battle groups and 5 major cities without any other State Capitol being alert. The only thing they knew through the news was a Turkey-Israel war in the Middle East and the Korean attack on Okinawa and they no longer have access to the Internet, Walmart and Amazon. 
+The US just lost 3 Carrier battle groups and 5 major cities without any other State Capitol being alerted. The only thing they knew through the news was a Turkey-Israel war in the Middle East and the Korean attack on Okinawa and they no longer have access to the Internet, Walmart and Amazon. 
 
 After landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force would severely decline. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast prevent states to be able to coordinate and launch any major resistances.  
 
