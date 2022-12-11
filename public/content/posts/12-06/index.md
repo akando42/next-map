@@ -102,7 +102,21 @@ This new form of global communication that was built on top of American infrastr
 
 If the US Pacifics fleet lost a major navy battle in South China Sea and the US Atlantic fleet lost a major naval engagement in the Mediterranean sea, that would leave US mainland vulnerable to land invasion.    
 
-![Battle Fronts](content/posts/12-06/battle_fronts.png)
+![Euroasia Fronts](content/posts/12-06/ERU_vs_USE.png)
+
+A war in the Middle East could break out between 2 US major allies: Israel and Turkey over a drone accident that accidentally deployed Israel’s covert nuclear weapon to detonate over the city of Ankara. 
+
+Turkey with its massive land force and modern air forces equipped with TB2 quickly overran Israel capital Tel Aviv in retaliation for Israel's use of nuclear weapons on its major city. 
+
+US Atlantics and Pacific fleets from the East Coast and US Air Force in Ramstein are quickly deployed to the region to assist Israel in their war with Turkey. Russian with Turkey permission deployed their Black Sea fleets to the region to assist Turkey. 
+
+While the US carriers and destroyers were transiting through Sicily to the Middle East, the Carrier Battle Group was ambushed and destroyed by German-Italian submarine type 212 sneaking through an underground tunnel connecting Munich and Venice. A carrier battle group was sinked without knowing what caused the catastrophe. 
+
+Two more carrier battle groups were deployed from the US Pacific Fleet via the Strait of Malacca to Qatar but sinked in transit by the Indian Brahmos Hypersonic Cruise Missile and China DF31 Balistic Missile. 
+
+While the US is busy with the Middle East front. The German-French force infiltrates the US Ramstein Air Base and overrun it with their tanks and infantry to prevent any Aerial support from Germany to the Middle East. 
+
+![US Mainland Fronts](content/posts/12-06/battle_fronts.png)
 
 Will US nuke their mainland to prevent a land army marching into the South West and East Coast major cities from the Pacifics. Yes but only in the empty desert areas, not their own major population centers. 
 
