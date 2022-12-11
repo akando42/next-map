@@ -104,7 +104,7 @@ If the US Pacifics fleet lost a major navy battle in South China Sea and the US 
 
 ![Battle Fronts](content/posts/12-06/battle_fronts.png)
 
-Will US nuke their mainland to prevent a land army marching into the South East and East Coast regions from the Pacifics. Yes but only in the empty desert areas, not their own major population centers. 
+Will US nuke their mainland to prevent a land army marching into the South West and East Coast major cities from the Pacifics. Yes but only in the empty desert areas, not their own major population centers. 
 
 ![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
 
