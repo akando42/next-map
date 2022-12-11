@@ -76,8 +76,6 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 ### The Amphibious-First Navy of Russian and European Unions
 
-![Battle Fronts](content/posts/12-06/battle_fronts.png)
-
 The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
 
 In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. 
@@ -100,7 +98,19 @@ The US will then have to resort to black mailing, high deniability CIA black ops
 
 The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer not stop Google, Apple and even TikTok serving customers in all available languages. 
 
-This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority.  
+This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority. 
+
+If the US Pacifics fleet lost a major navy battle in South China Sea and the US Atlantic fleet lost a major naval engagement in the Mediterranean sea, that would leave US mainland vulnerable to land invasion.    
+
+![Battle Fronts](content/posts/12-06/battle_fronts.png)
+
+Will US nuke their mainland to prevent a land army marching into the South East and East Coast regions from the Pacifics. Yes but only in the empty desert areas, not their own major population centers. 
+
+![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
+
+By landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force would severely decline. Surrounding and cut logistical supplies among other major cities West, South West and East Coast will prevent states to be able to coordinate and launch any major resistances.  
+
+![Surround Major Cities](content/posts/12-06/US_Populous_Cities.png)
 
 
 
