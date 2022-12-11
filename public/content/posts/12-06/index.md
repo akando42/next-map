@@ -124,10 +124,6 @@ Will US nuke their mainland to prevent a land army marching into the South West 
 
 ![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
 
-By landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force would severely decline. Surrounding and cut logistical supplies among other major cities West, South West and East Coast will prevent states to be able to coordinate and launch any major resistances.  
-
-By landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force would severely decline. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast will prevent states to be able to coordinate and launch any major resistances.
-
 While the US is busy with the Middle East and East Asian front, The German-French forces infiltrate the US Ramstein Air Base and overrun it with their tanks and infantry to prevent any Aerial support from Germany to the Middle East. At the same time, French and German special forces traveling to Quebec under tourist visas use their stockpile of weapons in Canada to launch a major land invasion of Washington DC from Canada. 
 
 The Chinese People Liberation Army also had been stationed in Mexico and Guatemala with the cover of construction workers working on the Guatemala canal connecting the Caribbean and the Pacifics. With modular fast moving armor vehicles and portable anti-tank and anti-air weapons hidden in shipping containers docking for the port of Houston, the PLA and their South American allies quickly overrun Houston, Austin and Dallas.  
@@ -139,6 +135,8 @@ After 3 invasions of Washington DC, Houston and Colorado, the images and videos 
 The US major logistics supplier of FedEx, UPS, Walmart and Amazon servers was also hacked and shut down by Russian and German hackers directly from the US Military computer system in Norad and Washington DC. US Internet Service Providers were also quickly targeted. 
 
 The US just lost 3 Carrier battle groups and 5 major cities without any other State Capitol being alert. The only thing they knew through the news was a Turkey-Israel war in the Middle East and the Korean attack on Okinawa and they no longer have access to the Internet, Walmart and Amazon. 
+
+After landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force would severely decline. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast prevent states to be able to coordinate and launch any major resistances.  
 
 ![Surround Major Cities](content/posts/12-06/US_Populous_Cities.png)
 
