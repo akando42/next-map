@@ -134,9 +134,9 @@ The US just lost 3 Carrier battle groups and 5 major cities without any other St
 
 After landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force had severely declined. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast prevent states to be able to coordinate and launch any major resistances.  
 
-During this chaos, hundred of anti-satelite missiles carried by the fleet of more than 500 Mig 31 Mach 3 Aircraft was launched and take out all US and NATO communication and GPS satelites in orbits. All US major cities lights are still on but they are back to the pre-WW2 era, in the dark with no cellphone, internet or televisions. 
-
 ![Surround Major Cities](content/posts/12-06/US_Populous_Cities.png)
+
+During this chaos, hundreds of anti-satelite missiles carried by the fleet of more than 500 Mig 31 Mach 3 Aircraft was launched and take out all US and NATO communication and GPS satelites in orbits. All US major cities lights are still on but they are back to the pre-WW2 era, in the dark with no cellphone, internet or televisions. 
 
 
 
