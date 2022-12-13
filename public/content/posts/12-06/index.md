@@ -96,7 +96,7 @@ India, China and Germany will have to build their domestic defense industries an
 
 The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
 
-The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer not stop Google, Apple and even TikTok serving customers in all available languages. 
+The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer stop Google, Apple and even TikTok serving customers in all available languages. 
 
 This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority. 
 
@@ -120,7 +120,7 @@ While the US is busy with the Middle East and East Asian front, The German-Frenc
 
 The Chinese People Liberation Army also had been stationed in Mexico and Guatemala with the cover of construction workers working on the Guatemala canal connecting the Caribbean and the Pacifics. With modular fast moving armor vehicles and portable anti-tank and anti-air weapons hidden in shipping containers docking for the port of Houston, the PLA and their South American allies quickly overrun Houston, Austin and Dallas.  
 
-The Russian population in Canada has been built up for decades to prepare for this push into the US homeland. They infiltrated the US Norad in Colorado and disable all US early warning radars and allowed the Russian Air Force and Transport aircrafts in make the 10 hours flight from Vladivostok to Colorado via North Pole and Canada with no major resistance.  
+The Russian population in Canada has been built up for decades to prepare for this push into the US homeland. They infiltrated the US Norad in Colorado and disable all US early warning radars and allowed the Russian Air Force and Transport aircrafts to make the 10 hours flight from Vladivostok to Colorado via North Pole and Canada with no major resistance.  
 
 After 3 invasions of Washington DC, Houston and Colorado, the images and videos of the invasion were uploaded to social media platforms of Facebook, Snapchat and Instagram but were quickly removed by Russian and German hackers the next day. 
 
