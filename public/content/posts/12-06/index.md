@@ -74,7 +74,7 @@ Fossil fuels or solar powers or wind power will still all affect the overall ene
 
 The Roman Republics is among the first human civilizations to figure out an economic theory to create sustainable continuous economic expansion. Great generals win battles while a superior economic model wins the war. The Roman discovered the time-tested method to organize human energy and resources behind common visions.
 
-### The Distributed Coalition of Euro Asia
+### The Golden Armada of Euro Asia
 
 The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
 
