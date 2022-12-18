@@ -147,7 +147,17 @@ These remote control zombies will then be tasked with taking over more supply so
 
 ![Nanometer Chips](content/posts/12-06/nanochips.jpeg)
 
-So when the Russian, Chinese and French-German armies got to NORAD, Houston and Washington DC, there were minimum coordinated resistances. And after each major strategic target, all local policies, military personnels and government officers were easily controlled via wireless nanobots. 
+After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were delivered among French-German, Chinese-Korean, and Russian occupied forces. 
+
+All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
+
+![North America New Administrations](content/posts/12-06/RUEXICO.png)
+
+Chinese-Korean has the administrative right of Australia and Hawaii. 
+
+![Australia New Administrations](content/posts/12-06/chinatralia.png)
+
+
 
 
 
