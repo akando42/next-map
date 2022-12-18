@@ -138,5 +138,17 @@ After landing forces in Denver, Houston, New York and Washington, the US ability
 
 During this chaos, hundreds of anti-satelite missiles carried by the fleet of more than 500 Mig 31 Mach 3 Aircraft was launched and take out all US and NATO communication and GPS satelites in orbits. All US major cities lights are still on but they are back to the pre-WW2 era, in the dark with no cellphone, internet or televisions. 
 
+The North and South Korean Airforce secret collaboration on a wireless brain control project via nanobots inside the human brain had yielded a breakthrough just a few years earlier. The nanobot could be delivered to the recipient's brain via liquid intake like bottle water, soda, or milk and navigate up the bloodstream toward the brain. 
+The nanobot receivers will then attach to the brain neurons to receive signals via wireless mobile network, modulate the wireless mobile signal into neuron electrical signals and send it directly to individual neurons to deliver wireless thoughts to the receiving brains. 
+
+Right before the amphibious force take over a major city, all bottling factories for water, soda and milks as well as water factories around police stations and military installations would be infiltrated by special forces and the nanobots packages would be mixed with drinking sources to turn the local policies and military personnels into remote control zombies. 
+
+These remote control zombies will then be tasked with taking over more supply sources like restaurants, coffee shops and supermarkets to add more nanobots into all available drinking suppliers within the city. 
+
+![Nanometer Chips](content/posts/12-06/nanochips.jpeg)
+
+So when the Russian, Chinese and French-German armies got to NORAD, Houston and Washington DC, there were minimum coordinated resistances. And after each major strategic target, all local policies, military personnels and government officers were easily controlled via wireless nanobots. 
+
+
 
 
