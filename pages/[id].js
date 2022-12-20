@@ -6,6 +6,7 @@ const postsTopic = "public/content/posts"
 const postsDirectory = path.join(process.cwd(), postsTopic)
 import Map from "../components/Map"
 import Logo from "../components/Logo"
+import Head from 'next/head'
 
 export async function getStaticProps({ params }) {
   const postsData = await getPostData(postsDirectory, params.id)
@@ -36,6 +37,15 @@ export default class Post extends Component {
 	render(){
 		return (
 			<div>
+				<Head>
+			        <title>{this.props.postsData.title}</title>
+			        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+			        <meta name="twitter:card" content="summary_large_image" />
+					<meta name="twitter:creator" content="@mikedoconsulter" />
+					<meta name="twitter:title" content={this.props.postsData.title} />
+					<meta name="twitter:image" content={this.props.postsData.cover} />
+			    </Head>
+
 				<Logo />
 			    <Map 
 			    	width="100vw" 

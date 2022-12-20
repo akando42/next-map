@@ -18,6 +18,5 @@ yarn dev
 
 
 ## References
-
 - [Documentations](https://nextjs.org/docs)
 - [Flexbox](https://flexbox.malven.co/)
