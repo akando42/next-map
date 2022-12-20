@@ -43,7 +43,8 @@ export default class Post extends Component {
 			        <meta name="twitter:card" content="summary_large_image" />
 					<meta name="twitter:creator" content="@mikedoconsulter" />
 					<meta name="twitter:title" content={this.props.postsData.title} />
-					<meta name="twitter:image" content={this.props.postsData.cover} />
+					<meta name="twitter:domain" content="geogenetics.netlify.app" />
+					<meta name="twitter:image" content={`geogenetics.netlify.app/${this.props.postsData.cover}`} />
 			    </Head>
 
 				<Logo />
