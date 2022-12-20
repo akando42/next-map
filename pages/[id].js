@@ -46,11 +46,8 @@ export default class Post extends Component {
 			        <meta name="twitter:card" content="summary_large_image" />
 			        <meta name="twitter:site" content="@mikedoconsulter" />
 					<meta name="twitter:creator" content="@mikedoconsulter" />
-
 					<meta name="twitter:title" content={this.props.postsData.title} />
-					<meta name="twitter:description" content={this.props.postsData.title} />
 					<meta name="twitter:domain" content="geogenetics.mikedoconsulting.com" />
-
 					<meta name="twitter:image" content={this.props.coverImage} />
 			    </Head>
 
