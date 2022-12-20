@@ -10,7 +10,7 @@ import Head from 'next/head'
 
 export async function getStaticProps({ params }) {
   const postsData = await getPostData(postsDirectory, params.id)
-  const coverImage = "https://geogenetics.netlify.app/"+postsData.cover
+  const coverImage = "https://geogenetics.mikedoconsulting.com/"+postsData.cover
   return {
     props: {
       postsData, 
