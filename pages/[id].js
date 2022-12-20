@@ -41,7 +41,6 @@ export default class Post extends Component {
 			<div>
 				<Head>
 			        <title>{this.props.postsData.title}</title>
-
 			        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
 			        <meta name="twitter:card" content="summary_large_image" />
@@ -50,7 +49,7 @@ export default class Post extends Component {
 
 					<meta name="twitter:title" content={this.props.postsData.title} />
 					<meta name="twitter:description" content={this.props.postsData.title} />
-					<meta name="twitter:domain" content="geogenetics.netlify.app" />
+					<meta name="twitter:domain" content="geogenetics.mikedoconsulting.com" />
 
 					<meta name="twitter:image" content={this.props.coverImage} />
 			    </Head>
