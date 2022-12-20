@@ -10,6 +10,11 @@ summary: "Geography gave the Western civilizations unfair naval advantages early
 tags: ['Spain','Germany','Russia','Latin','Roman','Mediterranean','Spykman World','Nicholas Spykman']  
 published: true
 ---
+Geography gave the Western civilizations unfair naval advantages early on in human history. 
+
+From the Roman Empire of 1st century to the European Colonial Empires of 17 century to the modern day United States of 21 century, these naval advantages kept compounding and leading to the total domination of Western thoughts, cultures and way of lives in every corner of the earth. 
+
+Is the space age going to be another Western domination? If so we are no longer can blame Geography and the Game of Chances.
 
 ### The Inherited Empire Building Formula
 

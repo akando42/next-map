@@ -10,6 +10,9 @@ title: "A Full Cup is Bout To Spill, From Moses to Hannibal to Maozedong"
 tags: ['Israel','Italy','China','Egypt','Rome','China','Moses','Hannibal','Mao Zedong',Spykman World','Nicholas Spykman']  
 published: true
 ---
+Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. 
+
+Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak destruction beyond imagination.
 ### Egyptian and the Way Out from Slavery With Moses
 
 ![Giza to Sinai](content/posts/12-26/Giza_to_Sinai.png)
