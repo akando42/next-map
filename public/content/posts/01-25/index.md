@@ -6,6 +6,7 @@ path: "/thailand-a-forever-puppet-or-independence-at-last"
 cover: "/content/posts/01-25/spykman-world-artOfEightLimbs.jpg"
 date: "01-25"
 title: "Thailand - A Forever Puppet Or Independence At Last"
+summary: "Jan 25, 1942: Thailand declares war on the United States and United Kingdom"
 tags: ['Thailand', 'China', 'Japan', 'India', 'United States', 'United Kingdom', 'Buddhism','Golden Pagoda','Spykman World','Nicholas Spykman']  
 published: true
 ---
