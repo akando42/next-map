@@ -23,7 +23,7 @@ The Pharaohs need more smart slaves like the Hebrews to be able to finish his me
 
 To limit the strength of the slaves within the Egyptian empire, the Pharaoh ordered all new born Hebrew boys to be killed in order to assimilate the Hebrew into the Egyptian identity, to make the Hebrew looking more like the Egyptian. 
 
-People have the tendency to comply and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. 
+People have the tendency to comply  and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. 
 
 By reducing the number of Hebrew baby boys and more inter-marriages between the Egyptian and the Hebrew, the Pharaoh would make few Hebrew leaders looking more like them and be able to use them as middle managers to direct the Hebrew slave population. 
 
@@ -37,7 +37,7 @@ People would join them along the way, weaker elders and childrens would die and 
 
 That is kind of what happened in the Egyptian myth where Moses marched to Mount Sinai and came back with God 10 commandments, rained hells down to Giza, and liberated the Egyptian slaves. Moses drafted his army by walking from one small community of free Israelites in the desert to the others with the escaped Israelite slaves. The group kept getting larger and stronger and by the time they get back to Giza, they would be a stronger fighting force than the Egyptian army. 
 
-One thing for sure is that no one can not build a nation from Mount Sinai and they need to come back to the Nile. 
+One thing for sure is that no one can build a nation from Mount Sinai and they need to come back to the Nile. 
 
 
 ### Hannibal and the Impossible March Toward Rome
