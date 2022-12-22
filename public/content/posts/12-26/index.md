@@ -17,7 +17,7 @@ Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pul
 
 ![Giza to Sinai](content/posts/12-26/Giza_to_Sinai.png)
 
-Moses was the leader of the Israaelites, an enslaved minority working under the Egyptian Pharaoh building his pyramids and other megastructure projects. 
+Moses was the leader of the Israelites, an enslaved minority working under the Egyptian Pharaoh building his pyramids and other megastructure projects. 
 
 The Pharaoh need more smart slaves like the Hebrew to be able to finish his megastructure projects faster but when there are too many of them then their numbers might result in disobedience and even a revolution. The guards build nothing and consumer more resources than the slaves so it does not make sense to have too many guards either. 
 
