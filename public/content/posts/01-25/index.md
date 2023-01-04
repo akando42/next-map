@@ -15,7 +15,7 @@ published: true
 
 ### The Creation of the Universe, the Sun, Earth, Water and Life Form
 
-At the beginning of the Universe, there is the Big Bang, a massive explosion that scratter energies in all 360 degree directions. Where the energy releases were too strong, it punched holes through the fabric of known space and created the voids, black holes of energy leakage. Energies that do not leak out of known space,  combined randomly during the first few milliseconds of chaotic expansion formed chemical elements. 
+At the beginning of the Universe, there is the Big Bang, a massive explosion that scatters energies in all 360 degree directions. Where the energy releases were too strong, it punched holes through the fabric of known space and created the voids, black holes of energy leakage. Energies that do not leak out of known space,  combined randomly during the first few milliseconds of chaotic expansion formed chemical elements. 
 
 ![The Universe Model](/content/posts/01-25/the_universe.png)
 
