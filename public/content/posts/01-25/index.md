@@ -47,7 +47,7 @@ In order to gain trust and learn the local languages, they will need to develop 
 
 ![Iraq Buddha Mark](/content/posts/01-25/iraq_buddha_mark.png)
 
-So nowadays, we could find the Buddha mark from Iraq to Japan. The Tibetan monks or the Soviet Union Kazah builders got to Iraq by traversing the Indus river then following the coast of Afghanistan to Iraq. They then build the Buddha statues by carving out a mountain to mark their voyage as well as a way to store the knowledges about the locals for the next explorers. 
+So nowadays, we could find the Buddha mark from Iraq to Japan. The Tibetan monks or the Soviet Union Kazah builders got to Iraq by traversing the Indus river then following the coast of Iran to Iraq. They then build the Buddha statues by carving out a mountain to mark their voyage as well as a way to store the knowledges about the locals for the next explorers. 
 
 ![Iraq Buddha Mark](/content/posts/01-25/iraq_buddha_from_a_far.png)
 
@@ -55,19 +55,19 @@ The Tibetan monks or the So Viet explorers also traversed the Brahmaputra River 
 
 ![Sri Lanka Buddha Tooth](/content/posts/01-25/Sri_Lanka_Buddha_Tooth.png)
 
-Modern day Thai, Lao and Cambodian buddhism seems to all developed out of the original Khmer Buddism with similar Hat-like roof architecture. 
+The Tibetan monks probably traveled downt the Mekong river through Laos, North East Thailand, Cambodia and Vietnam Mekong delta region and built temples along their travel paths as a way to get resupplied by the local workshippers. Modern day Thai, Lao and Cambodian buddhism seems to all developed out of the original Khmer Buddism with similar Hat-like roof architecture. 
 
 ![Khmer Buddism](/content/posts/01-25/khmer_buddism.png)
 
-While the Vietnamese and Yunnan Chinese Buddism temples have the Pole-like shape. 
+While the Vietnamese and Yunnan Chinese Buddism temples have the Pole-like shape. These Pole-like shape and the female-only Buddism workshiping custom shows the completing influences of Buddism and Confucism in South West China and Vietnam and the genetics mixing of Confucism and Buddism workshippers as well as architectures.  
 
 ![Yunnam Vietnam Buddism](/content/posts/01-25/pole_buddism_temple.png)
 
-And the Chinese-Japanese Buddism temples look totally Confucism with little resemble to Tibetan architecture. 
+And the Chinese-Japanese Buddism temples look totally Confucism with little resemble to Tibetan architecture. The extremely long trip down the Yangzte river toward Japan probably could not be done by a large party of Buddism monks and only few make it all the way to Japan to spread their teaching. However, the local kings and warlords of China, Korea, Japan and Taiwan still seem to be big admirers of Buddism and built their large temples with the local architecture for them.
 
 ![Confucius Buddism](/content/posts/01-25/japan_korean_taiwan_china.png)
 
-The buddhist monks did not seem to be long sea voyagers so we do not find their mark outside of major river systems in the islands of Indonesia, Australia or the American continents. 
+There could be the Salt-trade between Tibetan regions and the lower stream to sustain the religious trips of monks and their workshippers up and down the major rivers. The buddhist monks did not seem to be long sea voyagers so we do not find their mark outside of major river systems in the islands of Indonesia, Australia or the American continents but only in coastal islands like Sri Lanka, Singapore, Taiwan and Japan. 
 
 ## Muay Thai and The Mixing of East and West
 
