@@ -35,6 +35,8 @@ So during the day, we have the wind blowing from colder ocean to hotter land and
 
 All rivers in Pakistan, India, South East Asia and China were formed through the massive dump of water from tropical clouds at the top of the Him-Ala-Ya. Right above Him-Ala-Ya is the Tibetan plateau, a flat highland of thousand calm lakes. Waters and the people here do not experience the constant changes of lower lands and coaster regions but rather absolutely still like the Meditation experience. 
 
+![Tibetan Highland Map](/content/posts/01-25/monsoon_02.png)
+
 Tibetan was the birthplace of Buddhism which later on evolved into Indian version of Hinduism, Khmer Buddhism and Japanese-Chinese Buddhism.  
 
 ![Lhasa, Tibet](/content/posts/01-25/lhasa_tibet.png)
