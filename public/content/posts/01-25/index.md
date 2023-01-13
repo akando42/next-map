@@ -23,9 +23,9 @@ Random chemical elements continue to expand rapidly at near speed of light to fo
 
 ![Central of a Galaxy](/content/posts/01-25/galaxy.png)
 
-Among millions of solar systems, there is our solar system with a random planet that cools down to the right temperature and has the right un-pured combination of Hydrogen, Oxygen and Carbon to form waters and complex life forms. Water is essential for all biological forms on earth. It is the catalyst for all biochemical processes that create complex Carbon-based compounds that form cells, tissues and muscles. The abundance of water is the deciding factor behind the abundances of life. Where there is plenty of water then there is a massive number of  humans, animals and plants while where there is water scarcity then life is difficult and it is always a struggle for all biological life forms. 
+Among millions of solar systems, there is our solar system with a random planet that cools down to the right temperature and has the right un-pured combination of  Hydrogen, Oxygen, Nitrogen and Carbon to form air, water, and complex life forms.  Water is essential for all biological forms on earth. It is the catalyst for all biochemical processes that create complex Carbon-based compounds that form cells, tissues and muscles. The abundance of water is the deciding factor behind the abundances of life. Where there is plenty of water then there is a massive number of  humans, animals and plants while where there is water scarcity then life is difficult and it is always a struggle for all biological life forms. 
 
-### Rivers, the natural channels for religions and genetic influences ?
+### Rivers, the natural channels for religions and genetic influences
 
 Earth at first was a calm water ball with little wind or weather system. After the initial cooling down of earth surfaces, the earth core is still a hot ball of constant  nuclear fission explosions. These constant expansion and contraction of the earth core causes the earth's surface plates to move around, collide against each other forming mountains, continents and deep ocean. The different elevation in earth surfaces cause the uneven heat distribution among earth's surface. Air starts to move from high pressure colder regions of the earth to low pressure hotter regions of the earth. 
 
@@ -57,19 +57,32 @@ The Tibetan monks or the So Viet explorers also traversed the Brahmaputra River 
 
 ![Sri Lanka Buddha Tooth](/content/posts/01-25/Sri_Lanka_Buddha_Tooth.png)
 
-The Tibetan monks probably traveled downt the Mekong river through Laos, North East Thailand, Cambodia and Vietnam Mekong delta region and built temples along their travel paths as a way to get resupplied by the local workshippers. Modern day Thai, Lao and Cambodian buddhism seems to all developed out of the original Khmer Buddism with similar Hat-like roof architecture. 
+The Tibetan monks probably traveled down the Mekong river through Laos, North East Thailand, Cambodia and Vietnam Mekong delta region and built temples along their travel paths as a way to get resupplied by the local workshippers. Modern day Thai, Lao and Cambodian buddhism seems to all developed out of the original Khmer Buddism with similar Hat-like roof architecture. 
 
 ![Khmer Buddism](/content/posts/01-25/khmer_buddism.png)
 
-While the Vietnamese and Yunnan Chinese Buddism temples have the Pole-like shape. These Pole-like shape and the female-only Buddism workshiping custom shows the completing influences of Buddism and Confucism in South West China and Vietnam and the genetics mixing of Confucism and Buddism workshippers as well as architectures.  
+While the Vietnamese and Yunnan Chinese Buddhist temples have the Pole-like shape. These Pole-like shapes and the female-only Buddhist worshiping custom shows the competing influences of Buddhism and Taoism in South West China and Vietnam and the genetic mixing of  Taoism and Buddhism worshippers as well as architecture.  
 
 ![Yunnam Vietnam Buddism](/content/posts/01-25/pole_buddism_temple.png)
 
-And the Chinese-Japanese Buddism temples look totally Confucism with little resemble to Tibetan architecture. The extremely long trip down the Yangzte river toward Japan probably could not be done by a large party of Buddism monks and only few make it all the way to Japan to spread their teaching. However, the local kings and warlords of China, Korea, Japan and Taiwan still seem to be big admirers of Buddism and built their large temples with the local architecture for them.
+And the Chinese - Japanese Buddhist temples look totally Taoism with little resemblance to Tibetan architecture. The extremely long trip down the Yangtze river toward Japan probably could not be done by a large party of Buddhist monks and only few make it all the way to Japan to spread their teaching. However, the local kings and warlords of China, Korea, Japan and Taiwan still seem to be big admirers of Buddhism and built their large temples with the local architecture for them.
 
 ![Confucius Buddism](/content/posts/01-25/japan_korean_taiwan_china.png)
 
 There could be the Salt-trade between Tibetan regions and the lower stream to sustain the religious trips of monks and their workshippers up and down the major rivers. The buddhist monks did not seem to be long sea voyagers so we do not find their mark outside of major river systems in the islands of Indonesia, Australia or the American continents but only in coastal islands like Sri Lanka, Singapore, Taiwan and Japan. 
+
+### The making of Thai water reservoirs and its own branch of Buddhism
+![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
+
+![Thai Water Reservoirs](/content/posts/01-25/thai_water_reservors.png)
+
+![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
+
+![Rice Export Statistics](/content/posts/01-25/rice_export.png)
+
+
+
+
 
 ## Muay Thai and The Mixing of East and West
 

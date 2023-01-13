@@ -42,7 +42,8 @@
 }
 
 .content img {
-	max-width: 60vw;
+	width: 60vw;
+	height: auto;
 	margin: 0 auto !important;
 }
 
