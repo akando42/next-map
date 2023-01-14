@@ -74,14 +74,39 @@ There could be the Salt-trade between Tibetan regions and the lower stream to su
 ### The making of Thai water reservoirs and its own branch of Buddhism
 ![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
 
-![Thai Water Reservoirs](/content/posts/01-25/thai_water_reservors.png)
+In 1930, at the beginning of the American Great Depression, the Hoover Dam, the largest Lake of Lights in the world was built in the Colorado river of the United States. The Hoover Dam, the world largest Hydroelectric Dam and Water Reservoir, turns the natural downstream gravitational force of the Colorado river into aggregation channels and electricity that feed and power millions of homes in California, Nevada, Arizona and New Mexico states. 
+
+![The Hoover Dam](/content/posts/01-25/hoover_dam.png)
+
+The Hoover Dam also serves as the population regulation device for the surrounding area and the last resort military defensive device. 
+
+After the rise of Japan in the East and its victorious Naval war against Russia in Siberia during WW1, the need to regulate the population growth of East Asian descendants in the US West Coast is increasingly more urgent. 
+
+After the construction of the Hoover Dam, the agriculture production of the US West Coast as well as its population could be limited. At the same time, the agriculture production of Mexico in the South slowly declined and more Mexicans started to migrate to California and Texas, renounced their Mexican citizenship, became American citizens and swore to protect the American constitution and the American father land. 
+
+California cities of Lights and Television stars draw increasingly more Mexicans away from their dark desert homeland to Los Angeles Movie Capital and San Francisco High Tech Capital. 
+
+While the Mexican could be easily programmed by Christianity, the Japanese intelligence and Chinese massive population and their attachment to Taoism is a big threat to the American growth in power and wealth. 
+
+If there is ever a naval amphibious landing in California and invasions of the US mainland in the West, the Hoover Dam could be used as a water bomb to stop the advances of the invading Asian armies. 
+
+The hedging of Asian powerhouses’ military and economic growth turns out to be not necessary after WW2. The Qing dynasty totally collapsed, the Chinese suffered the largest casualty in World WW2 and Japan was bombarded with two atomic bombs and their emperor had to offer unconditional surrender to the American and Russian forces.  
+
+After the great calamities of World War 2 of death and darkness, the gods of SouthEast Asia were sent home from the West to bring light to their people. 
+
+In Vietnam, Ho Chi Minh, whose name means the Lake of Light, returned from Russia and became the president of Vietnam. And In Thailand, King of Rama X, born in Boston, US and educated in Switzerland,  became the King of Thailand. 
+
+Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. 
+
+![Chu Quoc Ngu](/content/posts/01-25/chu_quoc_ngu.png)
+
+Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. 
+
+![Thai Water Reservoirs](/content/posts/01-25/thailand_dams.png)
+
+The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
 ![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
-
-![Rice Export Statistics](/content/posts/01-25/rice_export.png)
-
-
-
 
 
 ## Muay Thai and The Mixing of East and West
