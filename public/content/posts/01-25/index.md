@@ -74,7 +74,7 @@ There could be the Salt-trade between Tibetan regions and the lower stream to su
 ### The making of Thai water reservoirs and its own branch of Buddhism
 ![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
 
-In 1930, at the beginning of the American Great Depression, the Hoover Dam, the largest Lake of Lights in the world was built in the Colorado river of the United States. The Hoover Dam, the world largest Hydroelectric Dam and Water Reservoir, turns the natural downstream gravitational force of the Colorado river into aggregation channels and electricity that feed and power millions of homes in California, Nevada, Arizona and New Mexico states. 
+In 1930, at the beginning of the American Great Depression, the Hoover Dam, the largest Lake of Lights in the world was built in the Colorado river of the United States. The Hoover Dam, the world largest Hydroelectric Dam and Water Reservoir, turns the natural downstream gravitational force of the Colorado river into irrigation channels and electricity that feed and power millions of homes in California, Nevada, Arizona and New Mexico states. 
 
 ![The Hoover Dam](/content/posts/01-25/hoover_dam.png)
 
