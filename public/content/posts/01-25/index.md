@@ -108,6 +108,8 @@ The Bhumibol water reservoirs and six other water reservoirs in the North and So
 
 ![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
+While Thailand can still rely on the North East region near Laos and Cambodia for rice cultivation to feed its population, rice export is not the main income of Thai people. Even if the worse case scenerio that the Mekong river went dry like the Mexican river, the desert will serve as the buffer zone between Thailand and Vietnam. Cambodia and Laos population will migrate to Thailand, lead to a stronger population core around Bangkok.
+
 
 ## Muay Thai and The Mixing of East and West
 
