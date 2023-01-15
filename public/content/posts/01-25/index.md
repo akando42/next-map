@@ -115,13 +115,15 @@ The Bhumibol water reservoirs and six other water reservoirs in the North and So
 
 ![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
-Downstream from the first and biggest Dam, the Bhumibol, is the Chao Phrayha river and its tributary rivers and canals. Entire irrigation system and water supplies of Bangkok and its surrounding population centers are well within the Thai border and look like a heavily engineered river system.
+Downstream from the first and biggest Dam, the Bhumibol, is the Chao Phrayha river and its tributary rivers and canals. Entire irrigation system and water supplies of Bangkok and its surrounding population centers are well within the Thai border and look like a heavily engineered river system. Hundred of bright towns and cities appeared along the bank of the Chao Phrayha river and its tributaries. 
 
 ![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
 
-
-
 While Thailand can still rely on the North East region near Laos and Cambodia for rice cultivation to feed its population, rice export is not the main income of Thai people. Even if the worse case scenerio that the Mekong river went dry like the Mexican river, the desert will serve as the buffer zone between Thailand and Vietnam. Cambodia and Laos population will migrate to Thailand, lead to a stronger population core around Bangkok.
+
+![Vietnam vs Thailand](/content/posts/01-25/vietnam_vs_thailand.png)
+
+However, since 1988 Thai population growth has been slowed and not a lot of new hydrogelectric dams being built after the Bhumibol. At the same time, Vietnam population started to grow rapidly after Doi Moi and the openning up. So maybe Thai immigrated secretly to Vietnam since 1988 leading to the slowing of Thai population growth and the rapid Vietnam population growth.
 
 
 
