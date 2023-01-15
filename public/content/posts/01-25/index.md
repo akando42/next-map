@@ -71,7 +71,7 @@ And the Chinese - Japanese Buddhist temples look totally Taoism with little rese
 
 There could be the Salt-trade between Tibetan regions and the lower stream to sustain the religious trips of monks and their workshippers up and down the major rivers. The buddhist monks did not seem to be long sea voyagers so we do not find their mark outside of major river systems in the islands of Indonesia, Australia or the American continents but only in coastal islands like Sri Lanka, Singapore, Taiwan and Japan. 
 
-### The making of Thai water reservoirs and its own branch of Buddhism
+### The making of Thai alphabet and its Hydroelectric Dam
 ![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
 
 In 1930, at the beginning of the American Great Depression, the Hoover Dam, the largest Lake of Lights in the world was built in the Colorado river of the United States. The Hoover Dam, the world largest Hydroelectric Dam and Water Reservoir, turns the natural downstream gravitational force of the Colorado river into irrigation channels and electricity that feed and power millions of homes in California, Nevada, Arizona and New Mexico states. 
@@ -96,19 +96,32 @@ After the great calamities of World War 2 of death and darkness, the gods of Sou
 
 In Vietnam, Ho Chi Minh, whose name means the Lake of Light, returned from Russia and became the president of Vietnam. And In Thailand, King of Rama X, born in Boston, US and educated in Switzerland,  became the King of Thailand. 
 
+![Rama IX vs HCM](/content/posts/01-25/ramaix_vs_hcm.png)
+
+
 Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. 
 
 ![Chu Quoc Ngu](/content/posts/01-25/chu_quoc_ngu.png)
 
-Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. 
+Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. While the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. 
+
+![Bua Sang](/content/posts/01-25/breakfast.png)
+
+A phoenetic alphabet based on sound could be adapted to use in a different spoken languages while the
+logogram alphabet based on visual diagram could only be used for that invenetor of the logogram alphabet. 
+So either Sanskrit alphabet inventors and the Latin alphabet inventors have the same mindset or Sanskrit and Latin were invented by the same group of people for diffierent purposes. Both India and South East Asian countries were totally colonized while China and Japan were not. So maybe Latin or Sankrit were all invented by the European planners. 
 
 ![Thai Water Reservoirs](/content/posts/01-25/thailand_dams.png)
 
 The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
+Downstream from the first and biggest Dam, the Bhumibol, is the Chao Phrayha river and its tributary rivers and canals. Entire irrigation system and water supplies of Bangkok and its surrounding population centers are well within the Thai border and look like a heavily engineered river system.
+
 ![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
 While Thailand can still rely on the North East region near Laos and Cambodia for rice cultivation to feed its population, rice export is not the main income of Thai people. Even if the worse case scenerio that the Mekong river went dry like the Mexican river, the desert will serve as the buffer zone between Thailand and Vietnam. Cambodia and Laos population will migrate to Thailand, lead to a stronger population core around Bangkok.
+
+
 
 
 ## Muay Thai and The Mixing of East and West
