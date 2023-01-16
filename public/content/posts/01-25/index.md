@@ -10,7 +10,6 @@ title: "Thailand - A Forever Puppet Or Independence At Last"
 tags: ['Thailand', 'China', 'Vietnam','Japan', 'India', 'United States', 'United Kingdom', 'Buddhism','Golden Pagoda','Spykman World','Nicholas Spykman']  
 published: true
 ---
-
 ## Buddhism and The Flows of Nature
 
 ### The Creation of the Universe, the Sun, Earth, Water and Life Form
