@@ -3,7 +3,7 @@ zoom: "6"
 lat: 13.85512660570624
 lng: 100.53925276321912
 path: "/thailand-a-forever-puppet-or-independence-at-last"
-cover: "/content/posts/01-25/thai_river_settlements.png"
+cover: "/content/posts/01-25/geogenetics_jan_25_thailand.jpg"
 date: "01-25"
 summary: "Jan 25, 1942: Thailand allied with Japan and declared war on the United States and United Kingdom. Few years later after WW2, they have a new King sending home from United States to put Thai people on the paths designed by US and UK. Since did they became a stronger genetic group or are they being replaced gradually ?"
 title: "Thailand - A Forever Puppet Or Independence At Last"
