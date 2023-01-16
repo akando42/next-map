@@ -1,13 +1,13 @@
 ---
-zoom: 6
+zoom: "6"
 lat: 13.85512660570624
 lng: 100.53925276321912
 path: "/thailand-a-forever-puppet-or-independence-at-last"
 cover: "/content/posts/01-25/spykman-world-artOfEightLimbs.jpg"
 date: "01-25"
+summary: "Jan 25, 1942: Thailand allied with Japan and declared war on the United States and United Kingdom. Few years later after WW2, they have a new King sending home from United States to put Thai people on the paths designed by US and UK. Since did they became a stronger genetic group or are they being replaced gradually ?"
 title: "Thailand - A Forever Puppet Or Independence At Last"
-summary: "Jan 25, 1942: Thailand declares war on the United States and United Kingdom"
-tags: ['Thailand', 'China', 'Japan', 'India', 'United States', 'United Kingdom', 'Buddhism','Golden Pagoda','Spykman World','Nicholas Spykman']  
+tags: ['Thailand', 'China', 'Vietnam','Japan', 'India', 'United States', 'United Kingdom', 'Buddhism','Golden Pagoda','Spykman World','Nicholas Spykman']  
 published: true
 ---
 
@@ -124,9 +124,6 @@ While Thailand can still rely on the North East region near Laos and Cambodia fo
 ![Vietnam vs Thailand](/content/posts/01-25/vietnam_vs_thailand.png)
 
 However, since 1988 Thai population growth has been slowed and not a lot of new hydrogelectric dams being built after the Bhumibol. At the same time, Vietnam population started to grow rapidly after Doi Moi and the openning up. So maybe Thai immigrated secretly to Vietnam since 1988 leading to the slowing of Thai population growth and the rapid Vietnam population growth.
-
-
-
 
 ## Muay Thai and The Mixing of East and West
 
