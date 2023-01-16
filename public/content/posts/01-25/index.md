@@ -3,7 +3,7 @@ zoom: "6"
 lat: 13.85512660570624
 lng: 100.53925276321912
 path: "/thailand-a-forever-puppet-or-independence-at-last"
-cover: "/content/posts/01-25/spykman-world-artOfEightLimbs.jpg"
+cover: "/content/posts/01-25/thai_river_settlements.png"
 date: "01-25"
 summary: "Jan 25, 1942: Thailand allied with Japan and declared war on the United States and United Kingdom. Few years later after WW2, they have a new King sending home from United States to put Thai people on the paths designed by US and UK. Since did they became a stronger genetic group or are they being replaced gradually ?"
 title: "Thailand - A Forever Puppet Or Independence At Last"
@@ -96,12 +96,7 @@ In Vietnam, Ho Chi Minh, whose name means the Lake of Light, returned from Russi
 
 ![Rama IX vs HCM](/content/posts/01-25/ramaix_vs_hcm.png)
 
-
-Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. 
-
-![Chu Quoc Ngu](/content/posts/01-25/chu_quoc_ngu.png)
-
-Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. While the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. 
+Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. While the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. 
 
 ![Bua Sang](/content/posts/01-25/breakfast.png)
 
