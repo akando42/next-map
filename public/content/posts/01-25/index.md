@@ -122,8 +122,26 @@ However, since 1988 Thai population growth has been slowed and not a lot of new 
 ![5000](/content/posts/01-25/5000.png)
 
 ## Muay Thai and The Mixing of East and West
-### The Mixing and Adaption of Thai to Outside Influences 
+### The Mixing and Adaption of Thai to Outside Influences
+The boxing rebellion under the Qing dynasty marked the height of tension between China and the West. The capital Beijing or The Northern Capital was overrun by the coalition of England, France, Russia, Germany, United States, France, Italy, Austria-Hungary and Japan. The largest and most powerful nation in the East was just chewed through by 7 small nations of the West and the tiny island of Japan. 
+
+
+Powered by the Iron-age naval ships, canons, guns, ammunition and a full time standing army that was highly trained, the numerical superior Qing army of the Wooden-age was no match. To make the matter worse, all the Chinese Qing army was softened up thoroughly with Opium imported from India. 
+
+At the beginning of 1900s, Qing collapsed, China fell into a fragmented warring state, all China ports and women are now open to Western influences. A much smaller nation in SouthEast Asia, Thailand had a choice to keep fighting or negotiate and adapt to the new alpha in the region. 
+
+The king of Thailand and their leadership made a choice to negotiate with the West. Thai people, Thai king and Thai security forces will be mixed with Westerners according to the Christian God mission of creating man after his own images. 
+
 ![Thailand Faces of Securities](/content/posts/01-25/thailand_faces_of_security.png)
+
+Thai martial arts, society and the military quickly evolved into a Western version. Muay Thai is the mixing of traditional Thai royal guards defense techniques and Western boxing. Royal Thai massage evolved into a Western-consumer version of Baht and Massage. And the Thai military was fully trained and equipped with American techniques and supplies. 
+
+The Thai King and their leadership made a choice that it is ok to share Thai women with the Westerners, ok to fight for spectators and fun with the Westerners and it is ok to buy weapons from the Westerners and trained by the Westerners. 
+
+The result of their negotiation is a rapidly evolved Thai society with more actors, actresses, and defense ministers looking half-western, a currency named after Royal Thai baht and regular coups as means of leadership changes and global promotion. 
+
+The end result of Thai negotiation is a highest GDP per capita in Indochina of 8000 USD per year, the brightest capital in South East Asia and almost triple their population from 26 million in 1960 before the Bhumibol dam to 71 million nowaday. However, did Thai people evolve or be replaced ? Did the grandfather of Thailand in 1945 have any biological grandkids and great grandkids? Only an old Thai doctor or the just passed way Rama IX would know. 
+
 
 ### Fighting for Money, Fame and Access to Western Girls.
 ![Muay Thai For Westerners](/content/posts/01-25/muay_thai_for_westerners.png)
