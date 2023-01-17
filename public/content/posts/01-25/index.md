@@ -122,5 +122,13 @@ However, since 1988 Thai population growth has been slowed and not a lot of new 
 ![5000](/content/posts/01-25/5000.png)
 
 ## Muay Thai and The Mixing of East and West
+### The Mixing and Adaption of Thai to Outside Influences 
+![Thailand Faces of Securities](/content/posts/01-25/thailand_faces_of_security.png)
+
+### Fighting for Money, Fame and Access to Western Girls.
+![Muay Thai For Westerners](/content/posts/01-25/muay_thai_for_westerners.png)
+
+### The High Testerone Testing Ground for the Genetics Lab of the West
+![Siam Fighting Fishes of the Lab](/content/posts/01-25/mua_y_thai.png)
 
 ## The Dragons of Mekong Delta or A Dry River Bed
