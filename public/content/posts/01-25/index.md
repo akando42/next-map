@@ -144,7 +144,35 @@ The end result of Thai negotiation is a highest GDP per capita in Indochina of 8
 
 
 ### Fighting for Money, Fame and Access to Western Girls.
+Men were born to aim. 
+
+From the moment of being just a sperm among millions of other sperms in the great humanly made flood, the micrometer biological creature with only a long tail somehow were able to find its way in absolute darkness to the ultimate target, the female egg. 
+
+If we compare the long-range swim that a sperm has to make relative to its size, a long range cruise missile designer will probably have to be impressed.
+
+When the male human grew to the age of 3-6, he started to aim everyday with his act of water releasing and never stopped to aim until he died. 
+
+When men became an adult, aiming once again proved to be a very useful skill in hunting for food and fighting for mates. 
+
+Aiming and making action toward a specific target is a highly complex neural process requiring full body coordination. 
+
+From the moment a target entered his field of vision, his brain started to calculate the trajectory and speed of the target and made millisecond predictions about the future position of a target. 
+
+After the predicted position of a target were calculated, the brain sent a coordinated signal to hand, feet and the core muscles for a perfectly synced action in real time of all muscles to throw a bunch, a muay thai teep,  a bow release, a javelin throw or a gun trigger pull. 
+
+For top muay thai fighters, boxers, soccer players, basketball players, anchors and hunters, the perfect synchronization of eyes and muscles in the Aim and Fire sequences had become an instinct that is faster than logic. 
+
+However, in modern society, we do not get to experience this highly satisfying and adrenaline induced activities of Aim and Fire that often anymore. 
+
+While the modern ladies in the Asian wet market get to practice with their knives on animal farms, modern men do not hunt for food anymore but only get to aim via the act of using their smartphones and taking pictures. 
+
 ![Muay Thai For Westerners](/content/posts/01-25/muay_thai_for_westerners.png)
+
+Then there is a savior, the Muay Thai gym, the real-life consumer version of Fight Club, men once again get to experience their ancestor manhood. 
+
+Kickboxing and Muay Thai becomes a global phenomenon, a great promoter of Thai cultures and a church for the male office workers of the Western worlds to experience the absolute happiness of a perfectly synced sequence of eyes and muscle coordination.  
+
+Time seems to slow down in a Muay Thai spar. You are in 100% focus and absolutely alert, the lung expands at full capacity, you have 110% vision and all the environment noises seem to disappear. In a Muay Thai match, there is only you and your target. 
 
 ### The High Testerone Testing Ground for the Genetics Lab of the West
 ![Siam Fighting Fishes of the Lab](/content/posts/01-25/mua_y_thai.png)
