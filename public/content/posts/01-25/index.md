@@ -119,7 +119,7 @@ While Thailand can still rely on the North East region near Laos and Cambodia fo
 
 However, since 1988 Thai population growth has been slowed and not a lot of new Hydro-Electric dams being built after the Bhumibol. At the same time, Vietnam population started to grow rapidly after Doi Moi and the openning up in 1990. Vietnam also built too major Hydro-Electric Dams, the Tri An hydroelectric dam and Hoa Binh hydroelectric dam with combined capacity of 2400 MW in 1991 and 1994. So maybe Thai immigrated secretly to Vietnam since 1988 leading to the slowing of Thai population growth and the rapid Vietnam population expansion. 
 
-![5000](/content/posts/01-25/5000.png)
+![5000](/content/posts/01-25/tri_an_hydro_electric_dam.png)
 
 ## Muay Thai and The Mixing of East and West
 ### The Mixing and Adaption of Thai to Outside Influences
