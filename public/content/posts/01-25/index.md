@@ -176,6 +176,17 @@ Muay Thai is also a tourism magnet that attracts thousands of foreigners to move
 
 
 ### The High Testerone Testing Ground for the Genetics Lab of the West
+The Siamese fighting fish (Betta fish) is a popular aquarium freshwater fish in South East Asia. On paper, Siamese fighting fish were domesticated 1000 years ago, originating from the Central Plane of the Chao Phraya river.  Siamese betta fish were known to the West through King Rama III after the King gave the fighting fishes to a Danish doctor as a gift.
+
+In reality, it could be the other way around where the Danish lab grew the Betta fishes and gave it to the Aquarium shops of Bangkok and Hanoi. 
+
+Betta fish is a highly territorial fish.  In one fish tank, you can only have one betta fish. If there are two, they will fight each other to death kinda like the underground Boxing, UFC or Muay Thai ring. After each death match, you can keep breeding stronger fishes based on their survivability like the racing horses of the West. 
+
+The Thai Betta fishes and the Kentucky Derby racing horses are just like the Muay Thai fighters or Vietnamese, Chinese,  Korean and Japanese veterans who are subjects of betting matches by the Alphas of the West. 
+
 ![Siam Fighting Fishes of the Lab](/content/posts/01-25/mua_y_thai.png)
+
+
+
 
 ## The Dragons of Mekong Delta or A Dry River Bed
