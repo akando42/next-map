@@ -188,9 +188,12 @@ The Thai Betta fishes and the Kentucky Derby racing horses are just like the Mua
 
 ![Chiang Mai](/content/posts/01-25/chiang_mai.png)
 
+Chiang Mai means the New City in Thai, Commerce city in Han Chinese or the Trafficking City in underground Vietnamese.  Chiang Mai is the only bright spot on the mountain, right next to the Bhumibol hydroelectric dam. 
 
+Thailand is like the Wild West of Asia where you can pretty much do whatever you like as long as you have money. Illegal medical experiments and operations could be done in Thailand. And Chiang Mai looks like a perfect tugged away spot for off the book activities. 
 
+He Jiankui, the Chinese researchers who created the world's first genome-edited babies, Lulu and Nana, was planning to move to Thailand to continue with his experiments after the Chinese government scrutinized his research. 
 
-
+It is very likely that Western and American doctors have done a lot off the book medical experiments on humans in Thailand. 
 
 ## The Dragons of Mekong Delta or A Dry River Bed
