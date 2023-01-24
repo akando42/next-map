@@ -203,4 +203,5 @@ However, wars and politics are temporary while Geography and Genetics are perman
 What is a better way to measure the performance of genetically selected and modified soccer players' DNA lineage than annual soccer tournaments ? What is a better way to measure the performance of a genetically selected and modified soldier lineage than constant proxy wars? The Korean wars, the Vietnam wars and the Afghanistan wars are the Refineries of Moscow and Washington guard dogs and Bangkok and Changmai are the ports for the introductions of new experiment lineages and the elimination of old fail lineages. 
 
 ## The Dragons of Mekong Delta or A Dry River Bed
+![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
 
