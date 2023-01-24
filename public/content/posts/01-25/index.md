@@ -194,6 +194,13 @@ Thailand is like the Wild West of Asia where you can pretty much do whatever you
 
 He Jiankui, the Chinese researchers who created the world's first genome-edited babies, Lulu and Nana, was planning to move to Thailand to continue with his experiments after the Chinese government scrutinized his research. 
 
-It is very likely that Western and American doctors have done a lot off the book medical experiments on humans in Thailand. 
+It is very likely that Western and American doctors have done a lot medical experiments on humans in Thailand off the book.
+
+After 1945, M_oscow and W_ashington were the two big winners of the War and became the two Alphas, the North Pole and the South Pole of the entire world. At the end of the Chinese civil war, China has submitted to Russia and Japan has surrendered and submitted to the United States. 
+
+However, wars and politics are temporary while Geography and Genetics are permanent. In order to guard against any future resurgences of East Asia, borders need to be drawn and the genetic makeup of Central Asia, India, South East Asia and Korea need to be shaped so the mountain and the people would become an impassable barriers to any future expansion of any East Asian power. 
+
+What is a better way to measure the performance of genetically selected and modified soccer players' DNA lineage than annual soccer tournaments ? What is a better way to measure the performance of a genetically selected and modified soldier lineage than constant proxy wars? The Korean wars, the Vietnam wars and the Afghanistan wars are the Refineries of Moscow and Washington guard dogs and Bangkok and Changmai are the ports for the introductions of new experiment lineages and the elimination of old fail lineages. 
 
 ## The Dragons of Mekong Delta or A Dry River Bed
+
