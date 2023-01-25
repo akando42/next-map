@@ -107,8 +107,6 @@ A phoenetic alphabet based on sound could be adapted to use in a different spoke
 
 The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
-![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
-
 Downstream from the first and biggest Dam, the Bhumibol, is the Chao Phrayha river and its tributary rivers and canals. Entire irrigation system and water supplies of Bangkok and its surrounding population centers are well within the Thai border and look like a heavily engineered river system. Hundred of bright towns and cities appeared along the bank of the Chao Phrayha river and its tributaries. 
 
 ![Thai Rivers and Settlements](/content/posts/01-25/thai_river_settlements.png)
@@ -203,7 +201,8 @@ However, wars and politics are temporary while Geography and Genetics are perman
 What is a better way to measure the performance of genetically selected and modified soccer players' DNA lineage than annual soccer tournaments ? What is a better way to measure the performance of a genetically selected and modified soldier lineage than constant proxy wars? The Korean wars, the Vietnam wars and the Afghanistan wars are the Refineries of Moscow and Washington guard dogs and Bangkok and Changmai are the ports for the introductions of new experiment lineages and the elimination of old fail lineages. 
 
 ## The Dragons of Mekong Delta or A Dry River Bed
-![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
+### Mekong River, The Perpetual Supply Lines
+![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
 Wet rice of the monsoon area has the highest calories per square meter of cultivation. With no long and easily to be detected supply convoys, the Chinese soldiers were able to stay hidden near the Yalu River of the North Korean border and with just a few bowls of rice were able to ambush and push the American and UN forces back to the modern day DMZ. 
 
@@ -211,13 +210,39 @@ The floodplains of the Mekong delta would be too much water for most plants but 
 
 While high Nitrogen food sources like beef or salmon would help you to grow muscles and rebuild cells faster, high Hydrogen food sources like wet rice would provide direct energy to the brain and muscles for human activities. 
 
-The early humans did not know how to raise animal farms, so they would probably only need rice to be able to stay awake and active for hunting other animals in their surrounding environments as well as traveling on foot to neighboring tribes for trading and mates. 
+The early humans did not know how to raise animals of farm, so they would probably only need rice to be able to stay awake and active for hunting other animals in their surrounding environments as well as traveling on foot to neighboring tribes for trading and mates. 
 
 The high Hydrogen low Nitrogen diet of the Wet rice cultures in India, Southeast Asia, China, Korea and Japan results in human tribes with smaller builds but much larger numbers. Did the high Hydrogen diet result in higher APM - actions per minute for Korean starcraft gamers? 
 
 After each harvest season, the crops of the delta use up minerals and waters from the soil but here comes the monsoon season. The Monsoon season brings the month-long heavy rain that washes the mountain soil rich in minerals downstream to the Delta region through the river system. 
 
-After each flood season, the delta plains are soaked with water and rich minerals again for next crop seasons. Rice and other staple crops like Corns, Soil Beans, Potatoes would grow quickly in the nature-prepared field full of water and minerals. These staple crops then could be used to feed human and animal farms.
+After each flood season, the delta plains are soaked with water and rich minerals again for next crop seasons. Rice and other staple crops like Corns, Soil Beans, Potatoes would grow quickly in the nature-prepared field full of water and minerals. These staple crops then could be used to feed human and animals of farm.
 
-The Mekong river is one of the longest rivers in Asia, only behind the Yangtze and Yellow rivers of China.  Mekong’s 4350 kilometer long and its watershed serves as the nature-made supply lines of waters and minerals to hydrate and feed the megacities of hundred million humans in the delta of Thailand, Laos, Cambodia and Vietnam. Without the Mekong rivers, the megacities of Southeast Asia would quickly die from lack of water and food.
+The Mekong river is one of the longest rivers in Asia, only behind the Yangtze and Yellow rivers of China. Mekong in underground Vietnamese means the Offensive Obesssion river. Mekong’s 4350 kilometer long and its watershed serves as the nature-made supply lines of waters and minerals to hydrate and feed the cities of ten millions of human in the Laos and the delta of Cambodia and Vietnam. Without the Mekong rivers, Bangkok would face severe food shortage and Ho Chi Minh city and its millions of people would quickly die from lack of water and food. 
+
+### Yunnan, The Land of Southern Clouds
+![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
+
+Upstream of the Mekong rivers and its tributaries is the Yunnan mountainous area of China. The Land of Southern Clouds, Yunnan, is the sources of all three largest rivers in Asia: Mekong, Yangzte and Yellow rivers. The high mountains of more than 2000 meters stopped the tropical clouds full of water from advancing further inland with the Monsoon winds and pouring all its water downstream through Yangzte, Yellow and Mekong. 
+
+The capital city of Yunnan is Kun Minh, meaning the Bright Dog in underground Vietnamese. To power the city of Kun Minh of 8.4 million people, same size as Ho Chi Minh city, is 33 hydroelectric dams with 11 being built directly on the Mekong river. Kunming and the mega tech cites of of Guangdong and Chengdu is being powered at the cost of lower agriculture production and higher food, electricity and water cost of Hanoi, Ho Chi Minh, Phnompeng and Bangkok. 
+
+Beijing is giving Hanoi and Bangkok a dilemma. Beijing 33 hydroelectric dams in the Yunnan are stopping minerals and waters from flowing down the Red river and Mekong river of Vietnam, Thailand. 
+
+They will either have to build up their militaries and take the extremely difficult terrain mountains of Yunnan by force to secure their upstream rivers and maybe even control the Yangzte, Yellow rivers and entire China. 
+
+Or they have to build up their scientific capabilities to artificially trigger the Southern clouds full of milk to start raining early before reaching the Yunnan mountains as well as clearing the forrests of their mountainous regions to trigger more land falls to increase mineral in their rivers. 
+
+### Bangkok, the Buddhist Hedgefund Managers
+Hanoi plans and decisions were always made in secret with great deliberations because the capital proximity to China borders. Bangkok is already hedging their Mekong river risk since the Rama IX era by building a seperate water supplies system for Bangkok and central Thailand via the Chao Prayha river. 
+
+In the worse case scenerio that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
+
+Bangkok is able to lobby the United governments to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
+
+The easiest way to win the war without fighting is to cut the enemy supplylines. And the seem to be perpetual supplylines of Mekong nations is being cut. Bangkok and Hanoi will have to have to find a way to shortern their supplylines via weather and forrest modification or have to make the huge military gamble by taking the Land of Southern Clouds, Yunnan. Either ways, doing nothing and lets Bangkok and Ho Chi Minh city to die slowly is not a hedgefund manager approach. 
+
+
+
+
 
