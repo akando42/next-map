@@ -233,12 +233,16 @@ They will either have to build up their militaries and take the extremely diffic
 
 Or they have to build up their scientific capabilities to artificially trigger the Southern clouds full of milk to start raining early before reaching the Yunnan mountains as well as clearing the forrests of their mountainous regions to trigger more land falls to increase mineral in their rivers. 
 
+![Rain Triggers](/content/posts/01-25/rain_triggers.png)
+
 ### Bangkok, the Buddhist Hedgefund Managers
 Hanoi plans and decisions were always made in secret with great deliberations because the capital proximity to China borders. Bangkok is already hedging their Mekong river risk since the Rama IX era by building a seperate water supplies system for Bangkok and central Thailand via the Chao Prayha river. 
 
 In the worse case scenerio that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
 
 Bangkok is able to lobby the United States to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
+
+![Micro Reactors](/content/posts/01-25/micro_reactors.png)
 
 The easiest way to win the war without fighting is to cut the enemy supplylines. And the seem to be perpetual supplylines of Mekong nations is being cut. Bangkok and Hanoi will have to have to find a way to shortern their supplylines via weather and forrest modification or have to make the huge military gamble by taking the Land of Southern Clouds, Yunnan. Either ways, doing nothing and lets Bangkok and Ho Chi Minh city to die slowly is not a hedgefund manager approach. 
 
