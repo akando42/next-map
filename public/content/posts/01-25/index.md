@@ -238,7 +238,7 @@ Hanoi plans and decisions were always made in secret with great deliberations be
 
 In the worse case scenerio that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
 
-Bangkok is able to lobby the United governments to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
+Bangkok is able to lobby the United States to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
 
 The easiest way to win the war without fighting is to cut the enemy supplylines. And the seem to be perpetual supplylines of Mekong nations is being cut. Bangkok and Hanoi will have to have to find a way to shortern their supplylines via weather and forrest modification or have to make the huge military gamble by taking the Land of Southern Clouds, Yunnan. Either ways, doing nothing and lets Bangkok and Ho Chi Minh city to die slowly is not a hedgefund manager approach. 
 
