@@ -12,7 +12,10 @@ published: true
 ---
 
 ### The Art of Healing and Its Brief History
+![Prince of Egypt Snake](/content/posts/02-02/prince_of_egypt_snake.jpeg)
 
 ### Combat Medic - The Secret to Winning War
+![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
 
 ### War - The Stressors for Medical Advancement
+![Hanoi Military Hospitals](/content/posts/02-02/hanoi_military_hospitals.png)
