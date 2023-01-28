@@ -3,7 +3,7 @@ zoom: 6
 lat: 47.374862955822856
 lng: 8.542570363758998
 path: "/military-medicine-and-the-innovator-of-medical-industry"
-cover: "content/posts/02-02/spykman-world-benh_vien_108_zing_9.jpg"
+cover: "content/posts/02-02/swiss.png"
 date: "02-02"
 summary: ""
 title: "Military Medicine - The Innovator of the Medical Industry"
@@ -13,6 +13,8 @@ published: true
 
 ### The Art of Healing and Its Brief History
 ![Prince of Egypt Snake](/content/posts/02-02/prince_of_egypt_snake.jpeg)
+
+![The Pharmacist Symbol](/content/posts/02-02/the_pharmacist_snake_symbol.png)
 
 ### Combat Medic - The Secret to Winning War
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
