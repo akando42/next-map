@@ -27,9 +27,9 @@ Even with a larger settlement of 1000 families, the risk of injuries from large 
 
 The ancient Egyptian empire could be the apex development of this numerical superiority era. The Egyptian pharaoh was able to build a massive settlement around Cairo and the Nile rivers. The large settlement always allowed the Egyptian armies to have numerical superiority in any battles against smaller competing tribes around the Nile. 
 
-Large city states like Cairo always have at least a 10 to 1 ratio in local battles along the Niles and was able to capture prisoners of war as slaves from smaller tribes. This numerical superiority also greatly reduces the risk of death and injuries for the Egyptian guards and its citizens as well as reducing the workload for the healers.
+Large city states like Cairo always had at least a 10 to 1 ratio in local battles along the Niles and were able to capture prisoners of war as slaves from smaller tribes. This numerical superiority also greatly reduces the risk of death and injuries for the Egyptian guards and its citizens as well as reducing the workload for the healers.
 
-The healers within the Egytian empire is probably not just healing the sicks and injureds but also develop offensive tools like snake poision arrows as well as developing plans to manage the population growth of pharaohs, guards and slaves. So since the Egyptian era, we started to see snakes as the symbol of healers. 
+The healers within the Egyptian empire is probably not just healing the sicks and injureds but also develop offensive tools like snake poison arrows as well as developing plans to manage the population growth of pharaohs, guards and slaves. So since the Egyptian era, we started to see snakes as the symbol of healers. 
 
 ![The Pharmacist Symbol](/content/posts/02-02/the_pharmacist_snake_symbol.png)
 
