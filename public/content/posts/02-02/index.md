@@ -12,7 +12,22 @@ published: true
 ---
 
 ### The Art of Healing and Its Brief History
+
+Humans like other animals still follow the same patterns of genetic evolution through competition and creation. However, humans are the only animals who deeply understand ourselves. 
+
+From the first time a human looks into his reflection in the water and becomes self aware, human knowledge about the human body and mind have grown exponentially. We started to build tools and processes to extend our biological limits. 
+
+From the small human tribes with 10 or so families with basic tools and clothings, human tribes with superior organizational skills started to absorb other human tribes and develop larger settlements and form city states along major rivers.
+
+With a large human settlement of thousands of families, we start to see the numerical superior effects. Large enough settlements will simply scare other predatory animals away as well as smaller competing tribes. 
+
+Even with a larger settlement of 1000 families, the risk of injuries from large animals have greatly declined, human tribe members’ sickness and injuries are still still part of the harsh reality of existence. So within a large settlement, we start to have healers who specialize in curing the sick and injured. And while big animals are no longer a threat, wars with other competing tribes are still the main causes of death and injuries to the tribe members. 
+
 ![Prince of Egypt Snake](/content/posts/02-02/prince_of_egypt_snake.jpeg)
+
+The ancient Egyptian empire could be the apex development of this numerical superiority era. The Egyptian pharaoh was able to build a massive settlement around Cairo and the Nile rivers. The large settlement always allowed the Egyptian armies to have numerical superiority in any battles against smaller competing tribes around the Nile. 
+
+Large city states like Cairo will always have at least a 10 to 1 ratio in local battles along the Niles and Cairo was able to capture prisoners of war as slaves from smaller tribes. This numerial superirity also greatly reduces the risk of death and injuries for the Egyptian guards and reduce the workload for the healers. 
 
 ![The Pharmacist Symbol](/content/posts/02-02/the_pharmacist_snake_symbol.png)
 
