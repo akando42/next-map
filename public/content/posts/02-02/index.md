@@ -60,11 +60,6 @@ Maybe Moses was not just an Egyptian prince but also a healer felt sorry for the
 
 The scale of this water dam, river course change and pyramids would require millions of workers. This project was too advanced for its time so maybe the Ancient Egyptian pyramids was actually built by the Swiss and other European planners to mark the feature of local North African women and built a common identity and culture for the North Africa and Middle East tribes. 
 
-The Egyptian doctors were among the first to be able to study and record in detail human anatomy and human physiology, developed Casting a technique to help Egyptian guards to recover after injuries when they fell off their fast charging chariot. They later on also developed the mummnification techniques to preserve the Royal bodies after death. 
-
-They also developed a writing system and wrote them on the Rosetta Stone to record their Observation and Measurements. 
-
-
 There is another pyramid in the east, the Qin Shi Huang pyramid in Xian but it was much flatter than the Egyptian pyramids just like East Asian women vs Western women.
 
 ![Giza vs Qin pyramid](/content/posts/02-02/giza_vs_qin.png)
