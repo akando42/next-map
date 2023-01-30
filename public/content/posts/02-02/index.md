@@ -16,7 +16,7 @@ Humans like other animals still follow the same patterns of genetic evolution th
 
 From the first time a human looks into his reflection in the water and becomes self aware, human knowledge about the human body and mind have grown exponentially. We started to build tools and processes to extend our biological limits. Within a tribe, there will be at least one healer with focus on reducing the chance of death and injuries for other tribe members. 
 
-#### 10 vs 1 Soldiers, The Numerical Superiority Era
+#### 10 vs 1, The Numerical Superiority Era
 
 From the small human tribes with 10 or so families with basic tools and clothings, human tribes with superior organizational skills started to absorb other human tribes and develop larger settlements and form city states along major rivers.
 
