@@ -29,7 +29,7 @@ The ancient Egyptian empire could be the apex development of this numerical supe
 
 Large city states like Cairo always had at least a 10 to 1 ratio in local battles along the Niles and were able to capture prisoners of war as slaves from smaller tribes. This numerical superiority also greatly reduces the risk of death and injuries for the Egyptian guards and its citizens as well as reducing the workload for the healers.
 
-The healers within the Egyptian empire is probably not just healing the sicks and injureds but also develop offensive tools like snake poison arrows as well as developing plans to manage the population growth of pharaohs, guards and slaves. So since the Egyptian era, we started to see snakes as the symbol of healers. 
+In order to reduce the risk of death and injuries to the Egyptian guards, the Egyptian healers were also developing snake poision arrows as offensive tools to quickly take out the enemies of Egypt. So since the Egyptian era, we started to see snakes as the symbol of healers and the healers have been developing their abilities to both cure and kill with biological and chemical means. 
 
 ![The Pharmacist Symbol](/content/posts/02-02/the_pharmacist_snake_symbol.png)
 
