@@ -40,6 +40,35 @@ Even with the healers, the recovery process of sick and injured men of the ancie
 
 ![The Egytian Worker Home](/content/posts/02-02/egyptian_homes.png)
 
+Human is only capable of memorizing in detail around 50 faces of their regular acquaintance. And it is also kinda of the limit of how many people one single organizer can manage directly. Organizing human tribes of more than 100 people are super challenging and require advanced human organization skills. 
+
+The Egyptian contruction workers probably built a big ARC dam on the Niles to turn the area around Cairo into a large lake. The hydralic lift forces of the water inside the lake will then could be used to move large stone blocks with ease and build up the 150 meters tall pyramid, an equivelant of a 50 floor modern apartment building.
+
+The course of the Nile river was probably changed during the Pyramid construction to create the Sahara desert as a natural barrier between Central African population and the European population. After the Pyramid construction was finished, the dam was destroyed hence the story about a massive flood in the Jewish and Christian bible. 
+
+![The Swiss DAM of Niles and Africa](/content/posts/02-02/the_swiss_dam_of_africa.png)
+
+If you can supply million men with with food and sex then you can command a million men. To build the three great pyramids of Giza would require the coordination of million workers, guards and other support units. 
+
+The Egyptian healers and the Pharaoh probably figure this out and start developing mass XO population to be used as middle managers to manage their empires. Maybe the Jewish baby boys were not killed but got turned into XO instead.
+
+Men are still biological animals driven by two main needs: more energy via food for activities and sex for endorphine and procreation. With the XO serving as endorphine sources and middle managers, The Egyptian pharaohs would have highly motivated workers whose population would only grow according to plans and too happy for any chances of rebellions. 
+
+![Baby boys turned into Ca Sau](/content/posts/02-02/jewish_baby_boys.png)
+
+Maybe Moses was not just an Egyptian prince but also a healer felt sorry for the Jew slaves, liberated them from the Pharaohs after pyramids and desert construction was finished and wrote Myths about Moses, Jesus and others. 
+
+The scale of this water dam, river course change and pyramids would require millions of workers. This project was too advanced for its time so maybe the Ancient Egyptian pyramids was actually built by the Swiss and other European planners to mark the feature of local North African women and built a common identity and culture for the North Africa and Middle East tribes. 
+
+The Egyptian doctors were among the first to be able to study and record in detail human anatomy and human physiology, developed Casting a technique to help Egyptian guards to recover after injuries when they fell off their fast charging chariot. They later on also developed the mummnification techniques to preserve the Royal bodies after death. 
+
+They also developed a writing system and wrote them on the Rosetta Stone to record their Observation and Measurements. 
+
+
+There is another pyramid in the east, the Qin Shi Huang pyramid in Xian but it was much flatter than the Egyptian pyramids just like East Asian women vs Western women.
+
+![Giza vs Qin pyramid](/content/posts/02-02/giza_vs_qin.png)
+
 #### 10 vs 30 - The Personal Armor Era
 ![The Armored Tough One](/content/posts/02-02/armor_roman_japanese_qin.png)
 
