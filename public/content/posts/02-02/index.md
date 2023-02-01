@@ -16,8 +16,6 @@ Humans like other animals still follow the same patterns of genetic evolution th
 
 From the first time a human looks into his reflection in the water and becomes self aware, human knowledge about the human body and mind have grown exponentially. We started to build tools and processes to extend our biological limits. Within a tribe, there will be at least one healer with focus on reducing the chance of death and injuries for other tribe members. 
 
-#### 10 vs 1, The Numerical Superiority Era
-
 From the small human tribes with 10 or so families with basic tools and clothings, human tribes with superior organizational skills started to absorb other human tribes and develop larger settlements and form city states along major rivers.
 
 With a large human settlement of thousands of families, we start to see the numerical superior effects. Large enough settlements will simply scare other predatory animals away as well as smaller competing tribes. 
@@ -64,16 +62,40 @@ There is another pyramid in the east, the Qin Shi Huang pyramid in Xian but it w
 
 ![Giza vs Qin pyramid](/content/posts/02-02/giza_vs_qin.png)
 
-#### 10 vs 30 - The Personal Armor Era
+During this early human history, city states along major rivers like the Niles and the Yangzte rivers with better agrrigation lands were able to provide better nutrition via mass farming for the average human within the empire and as the result better health and faster population growth. 
+
+With better nutrition, hunger is no longer a concern for the citizens of ancient Egypt and ancient China, the minds of human societies in these early empires can focus on something else besides hunting and food. Human started to develop a writing system to record history and knowlege. 
+
+With a same writing system used by hundred thousands of healers, ancient Egyptian and ancient Chinese healers were probably be able to develop a medical wikipedia and achieve exponential growth in medical knowledge via network effects. 
+
+While we are much more advanced than all other animals in our planet, the human societies are just like animals whose every daily objectives is to take actions to:
+
+- maximize genetic footprints via competition. 
+- minimize risk of death. 
+- optimize healing for occasional sick and injuries. 
+
+Human civilizations started to develop Armors to give the male adults advantanges in the genetic competitions to cover major arteries during the inevitable battles for the female eggs and resources to raise his family. Civilizations with better war tools and healing techniques started to outperform civilizations that relying only on farming and numerical superiority. 
+
 ![The Armored Tough One](/content/posts/02-02/armor_roman_japanese_qin.png)
 
-#### 10 vs 100 - The Personal Mobility Era
+The Roman soldiers with better armors started to outperform the Egyptian empire, and the Roman healers with better alphabets and better road networks started to outperform the North African city states. In the East, the Japanesse sumurais were able to unite the island of Japan via full body armors and superior swords and archoring training and The Qin dynasty were able to unite China with the crossbow invention and better individual soldier armors. 
+
+![The Qin Crossbow](/content/posts/02-02/qin_cross_bow.png)
+
+The Mongol combined range and mobility via their mounted archors to outperform other more static armor formation in China and Europe in 13 centuries. A fast moving mobile target is very difficult to hit so the risk of death and injuries for the horsemans is much lower. A mounted anchor also can target and fire at multiple enemy combatants from a distance then maneuver without letting the enemies to close the distance. 
+
+A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  
+
 ![The Mobile Archor One](/content/posts/02-02/mobility_and_range.png)
 
-#### 10 vs 1000  - The Killing Machine Era
+However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
+
+With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able to major leap forward in Western medicine. While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
+
+![The Periodic Table](/content/posts/02-02/the_periodic_table.png)
+
 ![The Machine Gun](/content/posts/02-02/rapid_saturating_rate_of_fire.png)
 
-#### 10 vs 1000000 - The Nano Kill Chain Era
 ![The Nano Kill Chain](/content/posts/02-02/nano_kill_chain.png)
 
 ### Combat Medic - The Secret to Winning War
