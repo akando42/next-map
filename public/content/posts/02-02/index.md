@@ -90,7 +90,11 @@ A horse for everyman, a meal everyday via practicing archory enabled every male 
 
 However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
 
-With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able to major leap forward in Western medicine. While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
+With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. 
+
+![The Medical Tools](/content/posts/02-02/19_century_medical_tools.png)
+
+While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
 
 ![The Periodic Table](/content/posts/02-02/the_periodic_table.png)
 
