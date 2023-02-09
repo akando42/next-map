@@ -7,7 +7,7 @@ cover: "content/posts/02-15/spykman-world-island-nation.jpg"
 date: "02-15"
 title: "An Island Nation And The Geographical Constraint That Trigger Evolution"
 summary: ""
-tags: ['Singapore', 'China', 'Japan', 'England', 'Dutch', 'Japan', 'Island Nation', 'Stroke Point', 'Spykman World','Nicholas Spykman']  
+tags: ['Singapore', 'China', 'Japan', 'England', 'Dutch', 'Malaysia', 'Indonesia', 'Brunei', 'Island Nation', 'Stroke Point', 'Spykman World','Nicholas Spykman']  
 published: true
 ---
 ### The Heart of East Asia Sea Faring People
