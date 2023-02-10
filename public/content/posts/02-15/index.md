@@ -42,6 +42,35 @@ Singapore is the modern day capital of the Malay sea faring people and Hong Kong
 
 ![Singapore and Hong Kong](/content/posts/02-15/payment_gateways.png)
 
+A daily routine of a modern human living in a city state like Singapore, Ho Chi Minh city or Shenzhen is like this. 
+
+In the morning, he made his first purchases of breakfast and coffee using Credit or Debit cards. He might then buy some gas to fill up his personal vehicle to commute to work. Later that morning, he will have some conference calls with clients and coworkers. In the evening after work, he might have a phone call or send some messages to his friends and family members. 
+
+It does not matter if he is a criminal, a foreign agent or a regular office worker, his routine still contains the act of credit card payments, energy purchase, and sending communication messages to his networks. 
+
+And Singapore was somehow built to be able to monitor all of those three essential channels: communication, energy and banking transactions.
+
+With Singapore being a major communication node connecting East Asia with the outside world, all communication between East Asia and India, Middle East and Europe could be listened in from Singapore.
+
+![Communication Map](/content/posts/02-15/communication_map.png)
+
+With 90% of the search volume of SouthEast Asia is on Google, every South East Asian individual's Intents and Ideas could be monitored from Singapore. 
+
+Everyone is using Google Maps so every person’s travel patterns could also be monitored.
+
+Facebook being the largest social network and messaging app in South East Asia so everyone's social connections could also be monitored, every message and phone call between these connections via the messaging apps could be logged and monitored.
+
+Facebook also has the largest database of people's biometric data: faces, height and fingerprints via smartphone authentication. Even an individual without a local Government ID will probably have a Facebook account.
+
+The tech companies of Silicon Valley could be the most extensive surveillance tools that any government could dream of to monitor every thought, every connection, every words, every actions of their citizens. And these tech giants all base their Asia operations in Singapore. 
+
+Singapore's strategic stroke point position also allows it to monitor all oil tankers crossing the strait of Malacca from the Middle East oil fields to China, Vietnam, Korea and Japan. The economy of these East Asian countries will crash if Singapore and Australia decide to blockade their energy arteries. 
+
+![Oil Tankers Map](/content/posts/02-15/oil_tankers_and_others.png)
+
+And Singapore is also a financial capital of East Asia. All modern banking transactions are using the same internet infractures like messaging and video conference apps of Facebook and Google so all banking transactions could also be monitored from Singapore. 
+
+
 ### The Gateway between East Asia and English speaking world
 ![Container Ship Map](/content/posts/02-15/ships_through_singapore.png)
 
