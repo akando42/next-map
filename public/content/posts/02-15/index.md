@@ -68,7 +68,13 @@ Singapore's strategic stroke point position also allows it to monitor all oil ta
 
 ![Oil Tankers Map](/content/posts/02-15/oil_tankers_and_others.png)
 
-And Singapore is also a financial capital of East Asia. All modern banking transactions are using the same internet infractures like messaging and video conference apps of Facebook and Google so all banking transactions could also be monitored from Singapore. 
+And Singapore is also a financial capital of East Asia. All modern banking transactions are using the same internet infra-structures like messaging and video conference apps of Facebook and Google so all banking transactions could also be monitored from Singapore. 
+
+Singapore is very multi-cultural with 4 official languages: English, Mandarin, Malay and Tamil Indian with immigrants from China, Japan, Korea, Vietnam, Malaysia, Indonesia, India, United States and others. The mix of cultures and languages make Singaporian citizens an effective secret police population with familiarity with local languages, histories and cultures of the Wet Rice circle in Asia. It does not matter what languages or encryption methods being used between 2 individuals in the Wet Rice circle, the Singaporian can intercept and decode the message. 
+
+![Wet Rice Circle](/content/posts/02-15/Wet_Rice_Circle.png)
+
+This explains why the TSA of Asia, Singapore has the highest Income per Capital in the Wet Rice circle of $72,000 USD per year, 2 times the average income of a Japanese citizen, 6 times the average income of a Chinese citizen and 30 times the average income of an Indian citizen. Singapore, SING_APO_RE, stands for SING and Asian Public Order and Rabbit Egg managment.  
 
 
 ### The Gateway between East Asia and English speaking world
