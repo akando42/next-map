@@ -78,7 +78,7 @@ This explains why the TSA of Asia, Singapore has the highest Income per Capital 
 
 
 ### The Gateway between East Asia and English speaking world
-![The Bar of Wet Rice Circle](/content/posts/02-15/bar.png)
+![Wet Rice Circle](/content/posts/02-15/highincome_smallhouse_nokid.png)
 All money flowing from Europe, the Middle East and the United States to investments in South East Asia and China will probably stop at Singapore first for due diligence. 
 
 Money invested in this region needs to serve one of three purposes:
@@ -100,6 +100,8 @@ Inspect all financial data of Vinhomes properties across Vietnam.
 Access to the databases of all Vinhomes residents and all Vinhomes employees, all driver licenses, VIN vehicle identification numbers and license plates of all residents living in Vinhomes properties.  
 
 Without the Singaporian knowledge about the Vietnamese leadership inner circle, it is probably not possible for the American governments and militaries to fully control Vietnam long after their withdrawal from Saigon in 1975. 
+
+![The Bar of Wet Rice Circle](/content/posts/02-15/bar.png)
 
 ![Container Ship Map](/content/posts/02-15/ships_through_singapore.png)
 
