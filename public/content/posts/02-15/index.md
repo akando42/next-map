@@ -76,7 +76,6 @@ Singapore is very multi-cultural with 4 official languages: English, Mandarin, M
 
 This explains why the TSA of Asia, Singapore has the highest Income per Capital in the Wet Rice circle of $72,000 USD per year, 2 times the average income of a Japanese citizen, 6 times the average income of a Chinese citizen and 30 times the average income of an Indian citizen. Singapore, SING_APO_RE, stands for SING and Asian Public Order and Rabbit Egg managment.  
 
-
 ### The Gateway between East Asia and English speaking world
 ![Wet Rice Circle](/content/posts/02-15/highincome_smallhouse_nokid.png)
 All money flowing from Europe, the Middle East and the United States to investments in South East Asia and China will probably stop at Singapore first for due diligence. 
@@ -103,9 +102,21 @@ Without the Singaporian knowledge about the Vietnamese leadership inner circle, 
 
 ![The Bar of Wet Rice Circle](/content/posts/02-15/bar.png)
 
-Singaporian Navy and Airforce
+All containers ship passing through the Strait of Malacca and Singapore will need to make radio contacts with the Singaporian authority or being inspected by the Singaporean coastal guards. The narrow Strait of Singapore with some point being only 3 kilometers makes the policing of these highly valuable water way relatively easy. 
+
+As a secret police city state, the Singaporian arm force is relatively small and serving as the support forces for the US and European Navy. All Singaporian submarines and torpedoes are made in Europe with Sweden and Germany being the two main vendors. Singaporean surfaces ships and its radar system are either made in France or in collaboration with French defense contractors.
+
+Swedish and German submarines for Singapore are all AIP air-independent-propulsant that allows a diesel submarine to stay underwater for up to 1 month without surfacing. These highly efficient and quiet AIP submarine design would allow a Diesel-powered submarine to perform as good a nuclear-powered submarines in regional ocean. 
+
+A fleet of 4-6 Singaporian AIP submarines would be enough to patrol the narrow strait of Malacca and surrounding area without letting the Chinese submarines to sneak through to Indian ocean without detection or be able to attack US carriers when it is parking in Singapore. 
+
+Singaporean airforces compromises of mainly American-made aircrafts with Singapore being among the few in East Asia who are part of the F35 programs along side with Korea and Japan. 
 
 ![Container Ship Map](/content/posts/02-15/ships_through_singapore.png)
+
+
+
+
 
 
 
