@@ -21,9 +21,7 @@ While humans are biologically evolved to live on land, we were also able to buil
 - The Malay sea-faring people of Malaysia, Singapore and Indonesia. 
 - The Southern Chinese sea-faring people of the Yangtze and Pearl River Delta. 
 
-
 ![The South Sea](/content/posts/02-15/the_south_sea.png)
-
 
 Boneo is the third largest island in the world, two times the size of Japan and three times the size of England. Boneo is located 1000 kilometers from the Mouth of the Mekong river near Ho Chi Minh city. Yangtze river delta people made it to Japan to spread their alphabets so it is very likely that the Mekong delta people also made it to Boneo island. 
 
@@ -70,9 +68,11 @@ Singapore's strategic stroke point position also allows it to monitor all oil ta
 
 And Singapore is also a financial capital of East Asia. All modern banking transactions are using the same internet infra-structures like messaging and video conference apps of Facebook and Google so all banking transactions could also be monitored from Singapore. 
 
+![Wet Rice Circle](/content/posts/02-15/Wet_Rice_Circle.png)
+
 Singapore is very multi-cultural with 4 official languages: English, Mandarin, Malay and Tamil Indian with immigrants from China, Japan, Korea, Vietnam, Malaysia, Indonesia, India, United States and others. The mix of cultures and languages make Singaporian citizens an effective secret police population with familiarity with local languages, histories and cultures of the Wet Rice circle in Asia. It does not matter what languages or encryption methods being used between 2 individuals in the Wet Rice circle, the Singaporian can intercept and decode the message. 
 
-![Wet Rice Circle](/content/posts/02-15/Wet_Rice_Circle.png)
+![Multi-cultures faces of Singapore](/content/posts/02-15/faces_of_singapore.png)
 
 This explains why the TSA of Asia, Singapore has the highest Income per Capital in the Wet Rice circle of $72,000 USD per year, 2 times the average income of a Japanese citizen, 6 times the average income of a Chinese citizen and 30 times the average income of an Indian citizen. Singapore, SING_APO_RE, stands for SING and Asian Public Order and Rabbit Egg managment.  
 
@@ -102,6 +102,8 @@ Access to the databases of all Vinhomes residents and all Vinhomes employees, al
 Without the Singaporian knowledge about the Vietnamese leadership inner circle, it is probably not possible for the American governments and militaries to fully control Vietnam long after their withdrawal from Saigon in 1975. 
 
 ![The Bar of Wet Rice Circle](/content/posts/02-15/bar.png)
+
+Singaporian Navy and Airforce
 
 ![Container Ship Map](/content/posts/02-15/ships_through_singapore.png)
 
