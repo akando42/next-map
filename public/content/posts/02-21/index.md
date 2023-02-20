@@ -45,6 +45,45 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 ### Richard Nixon and The US-China Alliance
 ![Symbolic Great Walls of China](content/posts/02-21/symbolic_great_walls_of_china.png)
 
+1969 ⇒ Richard Nixon became president
+
+1971 ⇒ American ping pong team visited China
+
+1972 ⇒ Richard Nixon visited China and normalized relations.
+
+1973 ⇒ USD is now the official world currency, no longer needing to be backed by GOLD.
+
+1975 ⇒ Americans withdraw from Vietnam and  left some gifts in the South
+
+1979 ⇒ First border war with China and Vietnam war with Cambodia. 
+
+1986 ⇒ Irregular warfare using criminal gangs and US Dollars against the Vietnamese urban centers
+
+1988 ⇒ Second border war with China and the building of Ho Chi Minh Museum afterward. 
+
+1989 ⇒ Vietnam withdrawn from Cambodia completely and open door to foreign trades
+
+1990 ⇒ CHXHCNVN ⇒ The criminal gangs of American Republicans murdered the Vietnamese. 
+
+2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.
+
+2003 ⇒ first SAR-COVID variant pandemic in Yunnan and Hong Kong region.  
+
+2013 ⇒ Xi-Jinping became China's premier. 
+
+2015 ⇒ Nguyen Phu Trong visited the United States and got the miracle technology of nanobots or he was chipped on the visit. 
+
 ### Donald Trump and The US-Russia Alliance
 ![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
+2016 
+⇒ Donald Trump became US President on a harsh anti-China agenda
+⇒ Donald Trump DT is a loud mouth to distract the world's attention from the real actions of American DT dark-templar CIA agents and their criminal gangs in China and Vietnam.
+
+2021 
+⇒ second SAR-COVID variant and a global pandemic originated from Wuhan, China
+⇒ Joe Biden BJ became US president on a diplomatic strategy against defeated China 
+
+2022 
+⇒ Russian War in Ukraine to finish the cleaning of Red elements in Russia by sending them to the front to die.
+
 
