@@ -30,6 +30,10 @@ Before WW1 and WW2, most of the earth surfaces were still empty with no major ro
 
 ![Great Walls of China](content/posts/02-21/great_walls_of_china.png)
 
+Why it is very difficult to find the Great Walls of China from satelite images, we can easily spot the mountain ranges of Western China near Chengdu and Xian. 
+
+![Symbolic Great Walls of China](content/posts/02-21/symbolic_great_walls_of_china.png)
+
 Why Japan was the first country in East Asia to modernize their military and society ? Probably because they were open-minded people who were willing to listen to the strange ideas of the Portugese sailors and tried out the strange modern guns of the British navy. Or maybe because the Western colonial powers have picked Japan because of their resemblance to England - the Engineering island of the West. By arming Japan and mechanizing Japanese industries and militaries, Japan will serve as the prison guards of mainland China. 
 
 ![Puji vs Meiji](content/posts/02-21/puji_vs_meiji.png)
@@ -43,8 +47,6 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 ![China and Vietnam Flag](content/posts/02-21/truong_du.png)
 
 ### Richard Nixon and The US-China Alliance
-![Symbolic Great Walls of China](content/posts/02-21/symbolic_great_walls_of_china.png)
-
 1969 ⇒ Richard Nixon became president
 
 1971 ⇒ American ping pong team visited China
