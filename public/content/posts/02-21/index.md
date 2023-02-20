@@ -22,9 +22,9 @@ However with planes and the iron ships, the European power can keep a distance, 
 
 Probably after finishing the drawing of the World Map and collecting terrains and population data of the earth civilization with combustion engine powered planes,ocean vessels and cars, the West realized how outnumbered but more advanced they are to the other civilizations around the globe. 
 
-By moving core leadership components behind nature barriers like mountains and ocean, the more advanced civilizations of the West can rely on their air powers and sea powers to deal with the hordes of land-based East Asian and Indian civilization ambitions. 
+![The Castle of North America](content/posts/02-21/us_castle.png)
 
-And after completing the colonization of North America and migrating VIP European lineages to the uncrossable via land castle of North America by 1900, the Western civilization can start to switch from defensive plans to offensive plans by transforming the genetic makeup of Euro Asia. 
+By moving core leadership components behind nature barriers like mountains and ocean, the more advanced civilizations of the West can rely on their air powers and sea powers to deal with the hordes of land-based East Asian and Indian civilization ambitions. And after completing the colonization of North America and migrating VIP European lineages to the uncrossable via land castle of North America by 1900, the Western civilization can start to switch from defensive plans to offensive plans by transforming the genetic makeup of Euro Asia. 
 
 Before WW1 and WW2, most of the earth surfaces were still empty with no major road networks or borders. By deporting and reshuffling tribes and kingdoms of people from the Caucasus to Central Asia as well as from China and Korea to Vietnam, European colonial powers can redraw the chessboard of earth surfaces to put enemy tribes into conflicts and friendly tribes behind major geographical anchors like in the case of Kazahstan and Japan.
 
@@ -38,12 +38,13 @@ Did Pearl Harbor ever happen for real or just a movie set like in the case of th
 
 ![Pearl Harbor](content/posts/02-21/pearl_harbor.png)
 
-After China was fully submitted to Joseph Stalin and the Soviet Union and Japan surrendered to the United States, all citizens of the most populous empire in the world, the Qing dynasty, had been boxed in from all 3 directions North by Russia, West by Kazahstan and East by Japan and South Korea. The only way out is to go South to South East Asia. By moving Chinese lineages South every 10 years via staged military campagins and inserting new genetics lineages via from Chengdu, the West can make the modern Chinese looking increasing more like them just like the Christian god mission of creating men after his own image. Hence there are major military operations every 10 year since 1950 after China Civil War concluded with 1st Gen in 1968, 2nd in Gen 1978, 3 in Gen 1988, 4th Gen in 1998, 5th in Gen 2008, 6th Gen in 2018. We will probably see major wars or pandemics again in 2028-2030.
+After China was fully submitted to Joseph Stalin and the Soviet Union and Japan surrendered to the United States, all citizens of the most populous empire in the world, the Qing dynasty, had been boxed in from all 3 directions North by Russia, West by Kazahstan and East by Japan and South Korea. The only way out is to go South to South East Asia. By moving Chinese lineages South every 10 years via staged military campagins and inserting new genetics lineages from Chengdu, the West can make the modern Chinese looking increasing more like them just like the Christian god mission of creating men after his own image. Hence there are major military operations every 10 year since 1950 after China Civil War concluded with 1st Gen in 1968, 2nd in Gen 1978, 3 in Gen 1988, 4th Gen in 1998, 5th in Gen 2008, 6th Gen in 2018. We will probably see major wars or pandemics again in 2028-2030.
 
 ![China and Vietnam Flag](content/posts/02-21/truong_du.png)
 
-### China and US Fucked Over Russia and Collapsed the Soviet
+### Richard Nixon and The US-China Alliance
 ![Symbolic Great Walls of China](content/posts/02-21/symbolic_great_walls_of_china.png)
 
-### US and Russia is Fucking Over China Now
+### Donald Trump and The US-Russia Alliance
+![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
 
