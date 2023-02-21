@@ -79,11 +79,16 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 
 2003 ⇒ first SAR-COVID variant pandemic in Yunnan and Hong Kong region.  
 
+
+### Donald Trump and The US-Russia Alliance
+![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
+
+2008 ⇒ World Financial Crisis 
+
 2013 ⇒ Xi-Jinping became China's premier. 
 
 2015 ⇒ Nguyen Phu Trong visited the United States and got the miracle technology of nanobots or he was chipped on the visit. 
 
-### Donald Trump and The US-Russia Alliance
 ![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
 2016 
 ⇒ Donald Trump became US President on a harsh anti-China agenda
