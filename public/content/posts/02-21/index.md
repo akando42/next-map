@@ -47,6 +47,14 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 ![China and Vietnam Flag](content/posts/02-21/truong_du.png)
 
 ### Richard Nixon and The US-China Alliance
+1944 ⇒ US Dollar became the de-facto world currency backed by US Gold Reserves
+
+1950 ⇒ The End of Chinese Civil War with Chinese Communist Party emerged as the victor. 
+
+1954 ⇒ Vietnam is divided into Northern Vietnam and Southern Vietnam
+
+1968 ⇒ Tet Offensive with large Vietcong casualties persuaded American voters to end the war in Vietnam
+
 1969 ⇒ Richard Nixon became president
 
 1971 ⇒ American ping pong team visited China
@@ -81,8 +89,10 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 ⇒ Donald Trump became US President on a harsh anti-China agenda
 ⇒ Donald Trump DT is a loud mouth to distract the world's attention from the real actions of American DT dark-templar CIA agents and their criminal gangs in China and Vietnam.
 
-2021 
+2020
 ⇒ second SAR-COVID variant and a global pandemic originated from Wuhan, China
+
+2021
 ⇒ Joe Biden BJ became US president on a diplomatic strategy against defeated China 
 
 2022 
