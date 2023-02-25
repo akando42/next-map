@@ -10,7 +10,58 @@ tags: ['Japan', 'Russia', 'England', 'Germany', 'Hitler', 'Churchill', 'Spykman 
 published: true
 ---
 ### The Norman Dynasty - When Heartland France Shaked Hand With Seapower Norway
+![NORMAN genetic footprints](content/posts/02-29/NORMAN_Homeland.png)
+
+The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boating buildings and sea faring. Sailing from Norway to Holland and England should also be much less efforts with the flow of the Northern winds.  
+
+The Norman with no wheels or horses but only their sailboats and aggression somehow dominated England, France and even worked as for-hire Royal guards for the Roman and Byzantine emperors. 
+
+![Viking sailboats](content/posts/02-29/viking_sail_boats.png)
+
 
 ### Hitler and The Fail Attempt At an British - Germany Coalition
+![Dunkik-Normandy Tricks](content/posts/02-29/Normandy-Dunkirk.png)
+
+The Dunkuk evacuation could be an attempt by the Norman within Britain to bring more Norman men into England in one single evacuation. That’s why Hitler stalled the attempt of the German panzer division to march on to Dunkirk. 
+
+After the evacuated Norman soldiers entered England, they took over the key positions within England in Ireland and Northern England while London and Southern England were bombarded by the German air force.
+
+With DDay, even more American soldiers, who could also be Norman descendants, piled into England to fill in the blanks left by fallen southern Saxon English men. 
+
+Southern England was also part of the Roman empire so Southern England could also be much more ROMAN genetically while Northern England is much more NORMAN and Scandinavian genetically. 
+
+European history is all about the competing influences of the bigger built Northern men of Scandinavia, the engineering men of the wheels and the arc structure of the Roman Empire and the Muslim horsemen of Turkey and North Africa. 
+
+Central Asian horsemen made their marks in the Balkan and Russia but they were mostly erased after the WW1, WW2 and the Soviet Union with the collapse of Hungary-Austrian empire in the Balkan after WW1, destruction in Russia in WW2 and the lengthy purges and starvations during the Communist time in Russia. 
+After WW2, many Germans migrated to Argentina to create Liona Meci and other German-native American sons and evacuated to America for their Scientific and Engineering skills.
+Many Lockheed Martin engineers in Texas have their German heritage and could be sons and daughters of Nazi Germany scientists and engineers. 
+
+Even though Germany lost WW2, they still made German popular around the world and their dating game became much easier via the grandfather reputation.  
+
+Modern German and Austrian men are quite conservative and mild, not aggressive like the Hilter era while the American-German in the Southern US are much more aggressive and confrontational just like the Nazi Germany in history. The surviving Nazi-German lineages could have been moved to the United States and Argentina after WW2 and did well in their new homeland. 
 
 ### Russia - The Sea Power if Japan Lets The Dog Out
+
+The Sea of Japan between Korea and Japan also enabled early development of Seafaring ships but at much higher risk and probability of failure. 
+
+![Sea of Japan](content/posts/02-29/sea_of_japan.png)
+
+Russia had to build their Pacifics fleets in Vladivostok or transported men and materials via the Siberian railways or sail the Ships from the Northern fleet or the Black sea fleet over. 
+
+With the development of Long range missiles and long-range bombers and interceptors, the need to build a strong naval fleet in the Pacifics is not urgent for the Russian military. 
+
+Unless Moscow is seriously threatened by NATO then they would need to collaborate with Japan or China to deter the US expansion in Europe by applying some pressure on the US West Coast and US NORAD.
+
+At the end of the day, you do not need to have bigger boats than your wife if she already owned some and Moscow stands for Man and Washington stands for Women. Everyone else are dogs or chickens. 
+
+![Chip Making Machine](content/posts/02-29/ASML_Deep_Ultraviolet_Lithography.png)
+
+The Japanese are falling behind in the Applied Physics and hardware development especially in chip making equipment with ASML of Holland having a monopoly position. 
+
+Without ASML lithography machine in the Netherlands, neither Taiwan nor Samsung can produce their chips or their smartphones. And ASML are still pusing the boundary of known physics everyday with their top physicists and engineers in US and Europe to retain their monopoly position. 
+
+Taiwan is a small chip in the end, to draw in China for a poker game that could quickly escalate to All-in game and All-out war between China and US.
+
+However, if the US and the West have controlled Chengdu and Xian since after WW2 and the founding of Chinese communist party then why the US needs to go to war with China at all.
+
+
