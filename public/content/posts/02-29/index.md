@@ -12,7 +12,7 @@ published: true
 ### The Norman Dynasty - When Heartland France Shaked Hand With Seapower Norway
 ![NORMAN genetic footprints](content/posts/02-29/NORMAN_Homeland.png)
 
-The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boating buildings and sea faring. Sailing from Norway to Holland and England should also be much less efforts with the flow of the Northern winds.  
+The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boating buildings and sea faring. Sailing from Norway to Holland and England should also be much less effort with the flow of the Northern winds.  
 
 ![Viking sailboats](content/posts/02-29/viking_sail_boats.png)
 
@@ -20,7 +20,7 @@ The Norman with no wheels or horses but only their sailboats and aggression some
 
 ![Baltics vs Medditerian](content/posts/02-29/Baltic_vs_Mediterrian.png)
 
-Maybe its more than just the harsh enviroments of the Northern Europe create tougher human but also the lighter color hairs draw more attention and command more followers.
+Maybe it's more than just the harsh environments of Northern Europe that create tougher humans but also the lighter color hairs draw more attention and command more followers.
 
 ### Hitler and The Fail Attempt At an British - Germany Coalition
 ![Dunkik-Normandy Tricks](content/posts/02-29/Normandy-Dunkirk.png)
@@ -33,10 +33,12 @@ With DDay, even more American soldiers, who could also be Norman descendants, pi
 
 Southern England was also part of the Roman empire so Southern England could also be much more ROMAN genetically while Northern England is much more NORMAN and Scandinavian genetically. 
 
-European history is all about the competing influences of the bigger built Northern men of Scandinavia, the engineering men of the wheels and the arc structure of the Roman Empire and the Muslim horsemen of Turkey and North Africa. 
+European history is all about the competing influences of the bigger built and lighter hair Northern men of Scandinavia, the engineering men of the wheels and the arc structure of the Roman Empire and the Muslim horsemen of Turkey and North Africa. 
 
 Central Asian horsemen made their marks in the Balkan and Russia but they were mostly erased after the WW1, WW2 and the Soviet Union with the collapse of Hungary-Austrian empire in the Balkan after WW1, destruction in Russia in WW2 and the lengthy purges and starvations during the Communist time in Russia. 
-After WW2, many Germans migrated to Argentina to create Liona Meci and other German-native American sons and evacuated to America for their Scientific and Engineering skills.
+
+After WW2, many Germans migrated to Argentina to create Liona Meci and otherGerman-native American sons and evacuated to America for their Scientific and Engineering skills.
+
 Many Lockheed Martin engineers in Texas have their German heritage and could be sons and daughters of Nazi Germany scientists and engineers. 
 
 Even though Germany lost WW2, they still made German popular around the world and their dating game became much easier via the grandfather reputation.  
@@ -61,10 +63,8 @@ At the end of the day, you do not need to have bigger boats than your wife if sh
 
 The Japanese are falling behind in the Applied Physics and hardware development especially in chip making equipment with ASML of Holland having a monopoly position. 
 
-Without ASML lithography machine in the Netherlands, neither Taiwan nor Samsung can produce their chips or their smartphones. And ASML are still pusing the boundary of known physics everyday with their top physicists and engineers in US and Europe to retain their monopoly position. 
+Without an ASML lithography machine in the Netherlands, neither Taiwan nor Samsung can produce their chips or their smartphones. And ASML is still pushing the boundary of known physics everyday with their top physicists and engineers in US and Europe to retain their monopoly position. 
 
 Taiwan is a small chip in the end, to draw in China for a poker game that could quickly escalate to All-in game and All-out war between China and US.
 
-However, if the US and the West have controlled Chengdu and Xian since after WW2 and the founding of Chinese communist party then why the US needs to go to war with China at all.
-
-
+However, if the US and the West have controlled Chengdu and Xian since after WW2 and the founding of the Chinese communist party then why does the US need to go to war with China at all.
