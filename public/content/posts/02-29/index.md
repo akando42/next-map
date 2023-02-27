@@ -22,6 +22,10 @@ The Norman with no wheels or horses but only their sailboats and aggression some
 
 Maybe it's more than just the harsh environments of Northern Europe that create tougher humans but also the lighter color hairs draw more attention and command more followers.
 
+![The High Table](content/posts/02-29/the_high_table.png)
+
+The High Table northpole position and the secret handshakes between Moscow and Washington allows the Norman decendants to always stay in the offensive positions without worrying of being outflanked or surrounded by any other genetic groups. The earth shape is even a better geographical anchors than any oceans or mountains. The Eskimo and the Inuit are the only other genetic groups that could threaten the Norman dominance but these subfreezing East Asian extreme adapters do not even have a nation state and at their extinction level population counts. 
+
 ### Hitler and The Fail Attempt At an British - Germany Coalition
 ![Dunkik-Normandy Tricks](content/posts/02-29/Normandy-Dunkirk.png)
 
@@ -50,7 +54,6 @@ Lockheed Martin products are generally very expensive and not being used in comb
 ![Raytheon Cross-Platform Cruise Missles](content/posts/02-29/lockheed_tomahawk.png)
 
 ### Russia - The Sea Power if Japan Lets The Dog Out
-
 The Sea of Japan between Korea and Japan also enabled early development of Seafaring ships but at much higher risk and probability of failure. 
 
 ![Sea of Japan](content/posts/02-29/sea_of_japan.png)

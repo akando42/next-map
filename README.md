@@ -16,7 +16,6 @@ yarn dev
 [X] Sorting by Date the Blog.  
 [X] Blog Selection on Mobile Device.   
 
-
 ## References
 - [Documentations](https://nextjs.org/docs)
 - [Flexbox](https://flexbox.malven.co/)
