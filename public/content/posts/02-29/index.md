@@ -55,19 +55,15 @@ The Sea of Japan between Korea and Japan also enabled early development of Seafa
 
 ![Sea of Japan](content/posts/02-29/sea_of_japan.png)
 
-Russia had to build their Pacifics fleets in Vladivostok or transported men and materials via the Siberian railways or sail the Ships from the Northern fleet or the Black sea fleet over. 
+Russia had to build their Pacifics fleets in Vladivostok or transported men and materials via the Siberian railways or sail the Ships from the Northern fleet or the Black sea fleet over. With the development of Long range missiles and long-range bombers and interceptors, the need to build a strong naval fleet in the Pacifics is not urgent for the Russian military. Unless Moscow is seriously threatened by NATO then they would need to collaborate with Japan or China to deter the US expansion in Europe by applying some pressure on the US West Coast and US NORAD.
 
-With the development of Long range missiles and long-range bombers and interceptors, the need to build a strong naval fleet in the Pacifics is not urgent for the Russian military. 
-
-Unless Moscow is seriously threatened by NATO then they would need to collaborate with Japan or China to deter the US expansion in Europe by applying some pressure on the US West Coast and US NORAD.
+![West Asia and East Asia](content/posts/02-29/west_asia_and_east_asia.png)
 
 At the end of the day, you do not need to have bigger boats than your wife if she already owned some and Moscow stands for Man and Washington stands for Women. Everyone else are dogs or chickens. 
 
+The Japanese are falling behind in the Applied Physics and hardware development especially in chip making equipment with ASML of Holland having a monopoly position. Without an ASML lithography machine in the Netherlands, neither Taiwan nor Samsung can produce their chips or their smartphones. And ASML is still pushing the boundary of known physics everyday with their top physicists and engineers in US and Europe to retain their monopoly position. 
+
 ![Chip Making Machine](content/posts/02-29/ASML_Deep_Ultraviolet_Lithography.png)
-
-The Japanese are falling behind in the Applied Physics and hardware development especially in chip making equipment with ASML of Holland having a monopoly position. 
-
-Without an ASML lithography machine in the Netherlands, neither Taiwan nor Samsung can produce their chips or their smartphones. And ASML is still pushing the boundary of known physics everyday with their top physicists and engineers in US and Europe to retain their monopoly position. 
 
 Taiwan is a small chip in the end, to draw in China for a poker game that could quickly escalate to All-in game and All-out war between China and US.
 
