@@ -14,10 +14,13 @@ published: true
 
 The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boating buildings and sea faring. Sailing from Norway to Holland and England should also be much less efforts with the flow of the Northern winds.  
 
-The Norman with no wheels or horses but only their sailboats and aggression somehow dominated England, France and even worked as for-hire Royal guards for the Roman and Byzantine emperors. 
-
 ![Viking sailboats](content/posts/02-29/viking_sail_boats.png)
 
+The Norman with no wheels or horses but only their sailboats and aggression somehow dominated England, France and even worked as for-hire Royal guards for the Roman and Byzantine emperors. 
+
+![Baltics vs Medditerian](content/posts/02-29/Baltic_vs_Mediterrian.png)
+
+Maybe its more than just the harsh enviroments of the Northern Europe create tougher human but also the lighter color hairs draw more attention and command more followers.
 
 ### Hitler and The Fail Attempt At an British - Germany Coalition
 ![Dunkik-Normandy Tricks](content/posts/02-29/Normandy-Dunkirk.png)
