@@ -37,13 +37,17 @@ European history is all about the competing influences of the bigger built and l
 
 Central Asian horsemen made their marks in the Balkan and Russia but they were mostly erased after the WW1, WW2 and the Soviet Union with the collapse of Hungary-Austrian empire in the Balkan after WW1, destruction in Russia in WW2 and the lengthy purges and starvations during the Communist time in Russia. 
 
-After WW2, many Germans migrated to Argentina to create Liona Meci and otherGerman-native American sons and evacuated to America for their Scientific and Engineering skills.
+After WW2, many Germans migrated to Argentina to create Lione Mecci and other German - Native American sons and daughters. German engineers and scientists were also evacuated to America for their advanced skills. 
 
-Many Lockheed Martin engineers in Texas have their German heritage and could be sons and daughters of Nazi Germany scientists and engineers. 
+![German V1 1st Cruise Missle](content/posts/02-29/german_v1.png)
 
-Even though Germany lost WW2, they still made German popular around the world and their dating game became much easier via the grandfather reputation.  
+Many Lockheed Martin engineers in Texas have their German heritage and could be sons and daughters of Nazi Germany scientists and engineers. Even though Germany lost WW2, they still made German popular around the world and their dating game became much easier via the grandfather reputation. Modern German and Austrian men are quite conservative and mild, not aggressive like the Hilter era while the American-German in the Southern US are much more aggressive and confrontational just like the Nazi Germany in history. The surviving Nazi-German lineages could have been moved to the United States and Argentina after WW2 and did well in their new homeland. 
 
-Modern German and Austrian men are quite conservative and mild, not aggressive like the Hilter era while the American-German in the Southern US are much more aggressive and confrontational just like the Nazi Germany in history. The surviving Nazi-German lineages could have been moved to the United States and Argentina after WW2 and did well in their new homeland. 
+![Lockheed Martin Stealth Cruise Missles](content/posts/02-29/not_verygood_cruise_missile.png)
+
+Lockheed Martin products are generally very expensive and not being used in combat very often though not like the Raytheon products in Virginia, North East United States.  
+
+![Raytheon Cross-Platform Cruise Missles](content/posts/02-29/lockheed_tomahawk.png)
 
 ### Russia - The Sea Power if Japan Lets The Dog Out
 
