@@ -12,7 +12,7 @@ published: true
 ### The Norman Dynasty - When Heartland France Shaked Hand With Seapower Norway
 ![NORMAN genetic footprints](content/posts/02-29/NORMAN_Homeland.png)
 
-The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boating buildings and sea faring. Sailing from Norway to Holland and England should also be much less effort with the flow of the Northern winds.  
+The Baltic sea is also an enclosed sea like the Mediterranean which is suitable for early human trial-and-error experiments at boat buildings and sea faring. Sailing from Norway to Holland and England should also be much less effort with the flow of the Northern winds.  
 
 ![Viking sailboats](content/posts/02-29/viking_sail_boats.png)
 
@@ -60,7 +60,7 @@ The Sea of Japan between Korea and Japan also enabled early development of Seafa
 
 Russia had to build their Pacifics fleets in Vladivostok or transported men and materials via the Siberian railways or sail the Ships from the Northern fleet or the Black sea fleet over. With the development of Long range missiles and long-range bombers and interceptors, the need to build a strong naval fleet in the Pacifics is not urgent for the Russian military. Unless Moscow is seriously threatened by NATO then they would need to collaborate with Japan or China to deter the US expansion in Europe by applying some pressure on the US West Coast and US NORAD.
 
-![West Asia and East Asia](content/posts/02-29/west_asia_and_east_asia.png)
+![West Asia and East Asia](content/posts/02-29/the_no_man_land.png)
 
 At the end of the day, you do not need to have bigger boats than your wife if she already owned some and Moscow stands for Man and Washington stands for Women. Everyone else are dogs or chickens. 
 
