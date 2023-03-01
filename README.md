@@ -14,7 +14,8 @@ yarn dev
 [X] Markdown Image and HTML Resizing.  
 [X] Fly To Location Basing on Post.  
 [X] Sorting by Date the Blog.  
-[X] Blog Selection on Mobile Device.   
+[X] Blog Selection on Mobile Device. 
+[ ] Reshuffle card to present date
 
 ## References
 - [Documentations](https://nextjs.org/docs)
