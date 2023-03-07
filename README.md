@@ -15,7 +15,7 @@ yarn dev
 [X] Fly To Location Basing on Post.  
 [X] Sorting by Date the Blog.  
 [X] Blog Selection on Mobile Device. 
-[ ] Reshuffle card to present date
+[X] Reshuffle card to present date
 
 ## References
 - [Documentations](https://nextjs.org/docs)

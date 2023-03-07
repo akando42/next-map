@@ -39,6 +39,8 @@ export default class Map extends Component {
 	        center: [lng, lat],
 	        zoom: optimalZoom
 	    });
+
+	    console.log(attractions);
 	    
 	    if (attractions.length > 1){
 	    	attractions.map(attraction => {

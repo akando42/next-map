@@ -58,11 +58,7 @@ export default class Main extends Component {
     super(props)
     this.flyTo= this.flyTo.bind(this);
     this.zoomOut = this.zoomOut.bind(this);
-
-    this.state = {
-
-    }
-
+    this.state = {}
   }
 
   async flyTo(event){
@@ -105,14 +101,14 @@ export default class Main extends Component {
           
           <div className={styles.timeline}>
             { 
-                this.props.datedSortedPosts.map(
-                  (item, index) => <StoryCard 
-                      key={index} 
-                      item={item} 
-                      flyTo={this.flyTo}
-                      zoomOut={this.zoomOut}
-                  />
-                )
+              this.props.datedSortedPosts.map(
+                (item, index) => <StoryCard 
+                    key={index} 
+                    item={item} 
+                    flyTo={this.flyTo}
+                    zoomOut={this.zoomOut}
+                />
+              )
             }   
           </div>
         </main>
