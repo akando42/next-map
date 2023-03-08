@@ -10,6 +10,17 @@ tags: ['Indochina', 'France', 'Vietnam', 'Vo Nguyen Giap', 'Nguyen Chi Thanh','S
 published: true
 ---
 ## The Physics of Flying Projectiles
+![Chimpanzee throwing rocks](content/posts/03-13/early_human.png)
+
+Human body structure allows us to be the only animal in the planet to be able throw a projectile that could reach the speed of 180 km/h. 
+
+Among all animals, only human were be able to turn other objects around us into tools and weapons instead of using our own body parts as weapon like in the case of dogs, cats, tigers or sharks. 
+
+Probably after for the first time a human were able to fench off a pack of wolfs by throwing couple rocks that he started to become obsessive at making better tools to enable him to win in the harsh genetic competition of nature and gradually become the apex predators of the planet. 
+
+By accelerating a heavy projectile using the body torques, an average human can produce a much stronger force than the simple push and pull actions using his own arms, fists or legs. 
+
+![Baseball player throwing baseball](content/posts/03-13/late_human.png)
 
 ## Artilery Roles in Past Warfare
 
