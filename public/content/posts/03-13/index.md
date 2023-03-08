@@ -18,9 +18,13 @@ Among all animals, only human were be able to turn other objects around us into 
 
 Probably after for the first time a human were able to fench off a pack of wolfs by throwing couple rocks that he started to become obsessive at making better tools to enable him to win in the harsh genetic competition of nature and gradually become the apex predators of the planet. 
 
-By accelerating a heavy projectile using the body torques, an average human can produce a much stronger force than the simple push and pull actions using his own arms, fists or legs. 
+By accelerating a heavy projectile using his momentum and the body torques, an average human can produce a much stronger force than the simple push and pull actions using his own arms, fists or legs. 
 
 ![Baseball player throwing baseball](content/posts/03-13/late_human.png)
+
+By throwing rocks and later on the javelins, early human were able to hunt big animals many time larger than his size while keeping a distance to stay out of range from the sharp teeths, claws and horns of the animals. 
+
+![Hunting Mammoth](content/posts/03-13/hunting_mamooth.png)
 
 ## Artilery Roles in Past Warfare
 
