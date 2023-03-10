@@ -50,7 +50,13 @@ So the disgruntled medics decided to make a fake longevity pill by mixing fire m
 
 ![The Gunpowder](content/posts/03-13/gunpowder_maybe_formula.png)
 
-The Chinese imperial medics who were tasked with extending lifes just discovered a powerful new weapon that would cause much more death than any previous centuries but still massively increase human population at the same time, the firework powder. Firework powder or gunpowder turn humans into such a powerful and efficient predator that if a dinosaur were to be resurrected, it would still have to accept the same fate as a wet market chicken.  
+The Chinese imperial medics who were tasked with extending lifes just discovered a powerful new weapon that would cause much more death than any previous centuries but still massively increase human population at the same time, the firework powder. Firework powder or gunpowder turn humans into such a powerful and efficient predator that ***if a dinosaur were to be resurrected, it would still have to accept the same fate as a wet market chicken.***  
+
+With enough gun powder and a massive cannon ball, a direct hit from a gun cannon can take down thick city walls much more rapidly and accurately than the trebuchet without the need to rely on gravity. A gunpowder explosion can accelerate a projectile quickly to more than ***6000 km/h*** and the cannon could be aimed directly at the castle door or walls. 
+
+With a largest gunpowder cannon every built, the Ottoman Empire were able to capture Constantinople, modern day Instabul, Turkey and end the last of the suriving Roman Empire. With the fall of Constantinople, the genetics makeup of Europe also changed forever with Central and Eastern European being much more Turk genetically.
+
+![The Ottoman Canon](content/posts/03-13/turk_canon.png)
 
 ## Artilery Roles in Past Warfare
 
