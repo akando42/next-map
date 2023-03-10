@@ -54,7 +54,7 @@ The Chinese imperial medics who were tasked with extending lifes just discovered
 
 With enough gun powder and a massive cannon ball, a direct hit from a gun cannon can take down thick city walls much more rapidly and accurately than the trebuchet without the need to rely on the free gravity acceleration of ***32.4 km/h***. A gunpowder explosion can accelerate a projectile quickly to more than ***6000 km/h*** and the cannon could be aimed directly at the castle door or walls. 
 
-With a largest gunpowder cannon every built, the Ottoman Empire were able to capture Constantinople, modern day Instabul, Turkey and end the last of the suriving Roman Empire. With the fall of Constantinople, the genetics makeup of Europe also changed forever with Central and Eastern European being much more Turk genetically.
+With a largest gunpowder cannon every built, the Ottoman Empire were able to capture Constantinople, modern day Instabul, Turkey and end the last of the surviving Roman Empire. With the fall of Constantinople, the genetics makeup of Europe also changed forever with Central and Eastern European being much more Turk genetically.
 
 ![The Ottoman Canon](content/posts/03-13/turk_canon.png)
 
