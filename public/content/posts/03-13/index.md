@@ -42,6 +42,16 @@ Taking incremental loading and heavy projectile to another level by leveraging g
 
 ![The Trebuchet](content/posts/03-13/trebuchet.svg)
 
+And then in the distant past in China, an emperor assigned a top secret task to his imperial medics of making a longevity pill that could extend life. After years of labor, the imperial medics figured out that the task was impossible but if they said no to the powerful emperor they would be executed. 
+
+By passing down power to the next princes, accepting death as the inevitable part of life, and direct national resources behind infrastructures and military projects, the emperor's DNA would live on for many hundred years with his sons and grandkids. However, if the imperial medics said no to the emperor's grandiose plan of living forever, they would be executed. 
+
+So the disgruntled medics decided to make a fake longevity pill by mixing fire match powder with charcoal and fertilizers to poison the emperor slowly. That way the powerful emperor would die before he could execute his imperial medics. The faked longevity pills did not help the powerful emperor to live forever but accidentally caused a massive explosion while in storage. 
+
+![The Gunpowder](content/posts/03-13/gunpowder_maybe_formula.png)
+
+The Chinese imperial medics who were tasked with extending lifes just discovered a powerful new weapon that would cause much more death than any previous centuries but still massively increase human population at the same time, the firework powder. Firework powder or gunpowder turn humans into such a powerful and efficient predator that if a dinosaur were to be resurrected, it would still have to accept the same fate as a wet market chicken.  
+
 ## Artilery Roles in Past Warfare
 
 #### The Archor Formation
