@@ -58,11 +58,50 @@ With a largest gunpowder cannon every built, the Ottoman Empire were able to cap
 
 ![The Ottoman Canon](content/posts/03-13/turk_canon.png)
 
+The founder of Constantinople and the first Christian emperor of Rome, Constantine realized that his superior navy and the Roman shield walls would not do well in the flat open field terrain of Germany and Ukraine against the cavalry and horse archers from the East.  
+
+So Constantine moved the capital of the Roman Empire to a naval stroke point at the mouth of the Black Sea to maximize Roman Empire naval advantages and their shield wall tactics just like modern day Singapore. 
+
+However with gunpowder and the cannon, the Eastern Roman naval boats and their shield wall are no longer effective. The Roman wooden boats and their wooden shields could easily be penetrated by the projectiles accelerated via gunpowder that the Ottoman Turk bought from China via the ancient Silk Road. Even the thick castle wall made of rock could also be breached with a large cannonball, enough gunpowder and a long gun barrel to accelerate the cannonball. 
+
+A massive explosion that took down the hundred years wall of Constantinople finally woke up the Christian kingdoms of Western Europe from their long Dark age and kick started the Gunpowder arm race in Europe and the naval trades with the Far East of India and China. 
+
+The Christian planners determined to never fall behind in war innovation again and also started to look for a better geographical location for their new capital in the West and accidentally found the American continent.
+
+![Constantinople](content/posts/03-13/constantinople.png)
+
+The founder of Constantinople and the first Christian emperor of Rome, Constantine realized that his superior navy and the Roman shield walls would not do well in the flat open field terrain of Germany and Ukraine against the cavalry and horse archers from the East. So Constantine moved the capital of the Roman Empire to a naval stroke point at the mouth of the Black Sea to maximize Roman Empire naval advantages and their shield wall tactics just like modern day Singapore. 
+
+However with gunpowder and the cannon, the Eastern Roman naval boats and their shield wall are no longer effective. The Roman wooden boats and their wooden shields could easily be penetrated by the projectiles accelerated via gunpowder that the Ottoman Turk bought from China via the ancient Silk Road. Even the thick castle wall made of rock could also be breached with a large cannonball, enough gunpowder and a long gun barrel to accelerate the cannonball. 
+
+A massive explosion that took down the hundred years wall of Constantinople finally woke up the Christian kingdoms of Western Europe from their long Dark age and kick started the Gunpowder arm race in Europe and the naval trades with the Far East of India and China. 
+
+The Christian planners determined to never fall behind in war innovation again and also started to look for a better geographical location for their new capital in the West and accidentally found the American continent.
+
 ## Artilery Roles in Past Warfare
 
 #### The Archor Formation
+Making an effective bow is an art that requires a high level of attention to details. To become an effective archer requires years of training and is not as straightforward as throwing a rock, swinging a sword or thrusting a long sharp pipe forward. 
+
+The first full time standing division of the ancient armies is probably the archer formation. While the foot infantry could be recruited from the farmer population and be armed and trained quickly for a few months before a major campaign,  the archers need to be trained from early teenagers and probably come from military or noble families. 
+
+Being able to aim and shoot an arrow while standing in one position at a stationary target accurately would require at least one year of training. 
+
+Being able to aim and shoot an arrow at a moving target accurately under the extreme stress of the battlefield would require many years of training. 
+
+And being able to aim and shoot while riding a horse at many moving targets in a few minutes would require decades of training since childhood. 
+
+East Asian cultures since ancient times have always had a higher level of attention to details  and are more diligent at practicing their skills than other Western cultures. 
+
+As a result Eastern Asian cultures produced many more effective archers than in the West. To the modern day, East Asians still excel and outperform Western counterparts at other human domains that require a high level of attention to detail and diligent practice like semiconductor manufacturing, software engineering, musical instruments or plastic surgeries.
+
+To be able to produce a large number of effective archers though was very difficult and the archers are reserved to produce the initial shock during open battle or protecting the core leadership component from the city walls. Wars in the East were still decided mainly by the foot infantry until the appearance of the Mongols. 
+
+The Mongols' culture and way of life were able to turn the art of archery into a standardized skill, turn every common man and even woman into effective archers, and as a result produced a shocking amount of horse archers and dominated both East Asia and Eastern Europe. 
 
 #### The Rapid Innovation in Fire Powder, Gun Barrel and the Reload Mechanism in the West
+
+The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
 #### The Defense Industries and World Wars
 ![Operation Castor](content/posts/03-13/DBP_operation_castor.png)
