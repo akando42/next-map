@@ -83,7 +83,7 @@ The Christian planners determined to never fall behind in war innovation again a
 #### The Archor Formation
 Making an effective bow is an art that requires a high level of attention to details. To become an effective archer requires years of training and is not as straightforward as throwing a rock, swinging a sword or thrusting a long sharp pipe forward. 
 
-The first full time standing division of the ancient armies is probably the archer formation. While the foot infantry could be recruited from the farmer population and be armed and trained quickly for a few months before a major campaign,  the archers need to be trained from early teenagers and probably come from military or noble families. 
+The first full time standing division of the ancient armies is probably the archer formation. While the foot infantry could be recruited from the farmer population and be armed and trained quickly for a few months before a major campaign, the archers need to be trained from early teenagers and probably come from military or noble families. 
 
 Being able to aim and shoot an arrow while standing in one position at a stationary target accurately would require at least one year of training. 
 
@@ -91,19 +91,25 @@ Being able to aim and shoot an arrow at a moving target accurately under the ext
 
 And being able to aim and shoot while riding a horse at many moving targets in a few minutes would require decades of training since childhood. 
 
-East Asian cultures since ancient times have always had a higher level of attention to details  and are more diligent at practicing their skills than other Western cultures. 
+![Mongol Horse Archers](content/posts/03-13/mongol_horse_archers.png)
 
-As a result Eastern Asian cultures produced many more effective archers than in the West. To the modern day, East Asians still excel and outperform Western counterparts at other human domains that require a high level of attention to detail and diligent practice like semiconductor manufacturing, software engineering, musical instruments or plastic surgeries.
+East Asian cultures since ancient times have always had a higher level of attention to details  and are more diligent at practicing their skills than other Western cultures. As a result Eastern Asian cultures produced many more effective archers than in the West. To the modern day, East Asians still excel and outperform Western counterparts at other human domains that require a high level of attention to detail and diligent practice like semiconductor manufacturing, software engineering, musical instruments or plastic surgeries.
 
-To be able to produce a large number of effective archers though was very difficult and the archers are reserved to produce the initial shock during open battle or protecting the core leadership component from the city walls. Wars in the East were still decided mainly by the foot infantry until the appearance of the Mongols. 
-
-The Mongols' culture and way of life were able to turn the art of archery into a standardized skill, turn every common man and even woman into effective archers, and as a result produced a shocking amount of horse archers and dominated both East Asia and Eastern Europe. 
+To be able to produce a large number of effective archers though was very difficult and the archers are reserved to produce the initial shock during open battle or protecting the core leadership component from the city walls. Wars in the East were still decided mainly by the foot infantry until the appearance of the Mongols. The Mongols' culture and way of life were able to turn the art of archery into a standardized skill, turn every common man and even woman into effective archers, and as a result produced a shocking amount of horse archers and dominated both East Asia and Eastern Europe. 
 
 #### The Rapid Innovation in Fire Powder, Gun Barrel and the Reload Mechanism in the West
+The Musket were first invented in 1400s to turn the large cannon into a hand-held device that could be used in the battle field as range weapon by a common soldier. Why archery would requires years of traing, shooting a musket would require much less training. 
+
+The long gun barrel serves as an aiming and stabalization device. The act of shooting a loaded musket would be just pointing the gun barrel at the target and pulling the trigger. Why early musket was not as accurate as shooting an arrow, it is much easier to use and can penetrate through wooden shields.
+
+![Early Musket Design](content/posts/03-13/early_musket.png)
+
+The Musket were first used in the battle fields by the Ottoman Turk and Europeans to take down calvary and wooden shield formation from a distance. The inaccuracy of the early musket would be mitigated via the line formation that allow 10 or more Musketeers to fire their gun at the same time. 
+
 
 The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
-![Little girl shooting well-design gun](content/posts/03-13/little_gun_shooting_gun.png)
+![Little girl shooting well-design gun](content/posts/03-13/little_girl_shooting_gun.png)
 
 #### The Defense Industries and World Wars
 ![Operation Castor](content/posts/03-13/DBP_operation_castor.png)
