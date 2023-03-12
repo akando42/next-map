@@ -106,31 +106,46 @@ The long gun barrel serves as an aiming and stabalization device. The act of sho
 
 The Musket were first used in the battle fields by the Ottoman Turk and Europeans to take down calvary and wooden shield formation from a distance. The inaccuracy of the early musket would be mitigated via the line formation that allow 10 or more Musketeers to fire their gun at the same time. 
 
-
 The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
 ![Little girl shooting well-design gun](content/posts/03-13/little_girl_shooting_gun.png)
 
 #### The Defense Industries and World Wars
+Before WW2, every major advanced economies like Britain, France, Germany, Japan, Russia and China have a war industry. After WW2, only two countries left with a defense manufactering industries: United States and Russia. UK, France, Germany and China industrial bases were all destroyed and Japan were disarmed. The world switched from a Multi-polar world into a Bi-Polar world with Russia commanding Euro Asia and US commanding the Sea and the American continents. 
+
+So after WW2, the map has been redrawn and the world have submitted to the two main alphas: Moscow and Washington. Why do we still have wars in the Korea, Vietnam, Afghanistan and the Middle East? Maybe the operation like Dien Bien Phu was to reshuffle the genetics map of the world and teach the bright dogs to use American and Russian made weapons? Also a real war is a much better way to measure the effectiveness of weapon design than a military exercise. 
+
 ![Operation Castor](content/posts/03-13/DBP_operation_castor.png)
+
+Originally, the planned Việt Minh attack was based on the Chinese “Fast Strike, Fast Victory” model, which aimed to use all available power to thrust into the command center of the base to secure victory, but this was changed to the “Steady Fight, Steady Advance” model of siege tactics
+
+Vo Nguyen Giap, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu while Nguyen Chi Thamh, Fast Strike, Fast Victory, sacrifised the delta population and left Hanoi and the Red River delta with many desperate widows. Another plan made by Nguyen Chi Thanh, the Tet Offensive, also sacrifired even more Northern troops. Maybe Nguyen Chi Thanh never died in battle but just faked his death and disappeared like a spy movie.
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
 
 ## Future of Artilery
 
-#### Rail Gun
+### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics
 
-#### Ramjet Artilery
+### Guidance Systems
 
-#### Rocket Artileries
-
-#### Long-Range Cruise Missiles
-Tomahawk with the capacity to carry nuclear warheads are well within range of Moscow and Chengdu if US submarines can have freedom of access to the Black Sea and the South China Sea
+### Hypersonic Design
 
 ![Tomahawk to Chengdu](content/posts/03-13/tomahawk_to_chengdu.png)
+Tomahawk with the capacity to carry nuclear warheads are well within range of Moscow and Chengdu if US submarines can have freedom of access to the Black Sea and the South China Sea. 
 
 ![Tomahawk to Moscow](content/posts/03-13/tomahawk_to_moscow.png)
 
-#### UAV - Unmanned Air Vehiles
+Tomahawk being used with conventional warhead is not as effective as rocket artileries though since it costs a lot of jet fuels per missile and all high tech sensors and computer processing system inside a Tomahawk could only be used once. 
+
+![The Tomahawk Close Range and Long Range Weapon](content/posts/03-13/tomahawk.png)
+
+
+
+
+
+
+
+
 
 
