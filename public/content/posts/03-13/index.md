@@ -123,13 +123,7 @@ Vo Nguyen Giap, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
 
-## Future of Artilery
-
-### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics
-
-### Guidance Systems
-
-### Hypersonic Design
+## Future of Flying Projectiles
 
 ![Tomahawk to Chengdu](content/posts/03-13/tomahawk_to_chengdu.png)
 Tomahawk with the capacity to carry nuclear warheads are well within range of Moscow and Chengdu if US submarines can have freedom of access to the Black Sea and the South China Sea. 
@@ -139,6 +133,13 @@ Tomahawk with the capacity to carry nuclear warheads are well within range of Mo
 Tomahawk being used with conventional warhead is not as effective as rocket artileries though since it costs a lot of jet fuels per missile and all high tech sensors and computer processing system inside a Tomahawk could only be used once. 
 
 ![The Tomahawk Close Range and Long Range Weapon](content/posts/03-13/tomahawk.png)
+
+### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics
+
+### Guidance Systems
+
+### HyperSonic Design
+
 
 
 
