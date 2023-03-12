@@ -103,6 +103,8 @@ The Mongols' culture and way of life were able to turn the art of archery into a
 
 The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
+![Little girl shooting well-design gun](content/posts/03-13/little_gun_shooting_gun.png)
+
 #### The Defense Industries and World Wars
 ![Operation Castor](content/posts/03-13/DBP_operation_castor.png)
 
