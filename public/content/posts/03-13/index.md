@@ -108,32 +108,33 @@ The Musket were first used in the battle fields by the Ottoman Turk and European
 
 Without a reload system, the early musket design still only worked as a single shot bucky missile with limited accuracy. Reloading these early musket designs would require packing the gunpowder first from the muzzle and then placing the metal ball in from the muzzle.  Bow and arrows working as a quick grab, pull and release sequences are still much more efficient and faster than gunpowder weapons.
 
-1500s ⇒ Improve the Musket with enclosed ignition system to work under high wind or rainy condition
+***1500s*** ⇒ Improve the Musket with enclosed ignition system to work under high wind or rainy condition
 
 ![Musket with Wheelock as ignition](content/posts/03-13/wheelock_weather_proof.png)
 
-1600s ⇒ First rifle
+***1600s*** ⇒ First rifle invented
 Improve range and accuracy via pointed nose bullet threaded gun barrel
 
-Early 1800s ⇒ Revolutionary new gun design combining earlier experiment results in a full package in the Dreyse Needle Gun
-- Pointed nose bullet shape to improve range and penetration. 
-- Gun barrel with threads to spin the bullet to improve accuracy. 
-- Loading bullets from back of the gun for quick reload. 
-- Gunpowder is packed with the bullet as a single package in metal casing. 
-- Enclosed ignition using needle spark the bullet inside metal casing.  
+***Early 1800s*** 
+⇒ Revolutionary new gun design combining earlier experiment results in a full package in the Dreyse Needle Gun
+	+ Pointed nose bullet shape to improve range and penetration.  
+	+ Gun barrel with threads to spin the bullet to improve accuracy.   
+	+ Loading bullets from back of the gun for quick reload.    
+	+ Gunpowder is packed with the bullet as a single package in metal casing.   
+	+ Enclosed ignition using needle spark the bullet inside metal casing.     
 The Prussian armies new innovative weapon helped to unite Germanic tribes and founded Modern Germany.
 
-Late 1800s
-Spencer repeating mechanism for multiple rounds before reloading
-Metallic carthage with gun powder inside each bullet for easy storage and durability. 
-⇒ Northern US Continental Armies weapon to unite US States and founded Modern United States. 
+***Late 1800s***
+⇒ Spencer repeating mechanism invention enabled multiple round shooting before reloading.    
+⇒ Metallic carthage with gun powder inside each bullet for easy storage and durability.    
+⇒ Northern US Continental Armies weapon to unite US States and founded Modern United States.     
 
-1900s
+***1900s***
 ⇒ The European colonial powers conquered Beijing, colonized Indochina and India, blocking the Ottoman Empire out of their 1400s suppliers using highly advanced firearms after 500 years of continuous research and innovation. 
 
-
-2000s
+***2000s***
 The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
+
 ![Little girl shooting well-design gun](content/posts/03-13/little_girl_shooting_gun.png)
 
 #### The Defense Industries and World Wars
