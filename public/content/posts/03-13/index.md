@@ -102,12 +102,38 @@ The Musket were first invented in 1400s to turn the large cannon into a hand-hel
 
 The long gun barrel serves as an aiming and stabalization device. The act of shooting a loaded musket would be just pointing the gun barrel at the target and pulling the trigger. Why early musket was not as accurate as shooting an arrow, it is much easier to use and can penetrate through wooden shields.
 
-![Early Musket Design](content/posts/03-13/early_musket.png)
+![Early Musket Design](content/posts/03-13/matchlock_musket.png)
 
 The Musket were first used in the battle fields by the Ottoman Turk and Europeans to take down calvary and wooden shield formation from a distance. The inaccuracy of the early musket would be mitigated via the line formation that allow 10 or more Musketeers to fire their gun at the same time. 
 
-The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
+Without a reload system, the early musket design still only worked as a single shot bucky missile with limited accuracy. Reloading these early musket designs would require packing the gunpowder first from the muzzle and then placing the metal ball in from the muzzle.  Bow and arrows working as a quick grab, pull and release sequences are still much more efficient and faster than gunpowder weapons.
 
+1500s ⇒ Improve the Musket with enclosed ignition system to work under high wind or rainy condition
+
+![Musket with Wheelock as ignition](content/posts/03-13/wheelock_weather_proof.png)
+
+1600s ⇒ First rifle
+Improve range and accuracy via pointed nose bullet threaded gun barrel
+
+Early 1800s ⇒ Revolutionary new gun design combining earlier experiment results in a full package in the Dreyse Needle Gun
+- Pointed nose bullet shape to improve range and penetration. 
+- Gun barrel with threads to spin the bullet to improve accuracy. 
+- Loading bullets from back of the gun for quick reload. 
+- Gunpowder is packed with the bullet as a single package in metal casing. 
+- Enclosed ignition using needle spark the bullet inside metal casing.  
+The Prussian armies new innovative weapon helped to unite Germanic tribes and founded Modern Germany.
+
+Late 1800s
+Spencer repeating mechanism for multiple rounds before reloading
+Metallic carthage with gun powder inside each bullet for easy storage and durability. 
+⇒ Northern US Continental Armies weapon to unite US States and founded Modern United States. 
+
+1900s
+⇒ The European colonial powers conquered Beijing, colonized Indochina and India, blocking the Ottoman Empire out of their 1400s suppliers using highly advanced firearms after 500 years of continuous research and innovation. 
+
+
+2000s
+The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 ![Little girl shooting well-design gun](content/posts/03-13/little_girl_shooting_gun.png)
 
 #### The Defense Industries and World Wars
