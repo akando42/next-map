@@ -16,8 +16,6 @@ export async function getStaticProps() {
   const todayString = today.toJSON()
 
   // console.log(postsData.length)
-
-
   var minDistance = 100
   var stopIndex = 0
 
@@ -44,7 +42,7 @@ export async function getStaticProps() {
   var futurePosts = postsData.slice(stopIndex)
   const datedSortedPosts = futurePosts.concat(pastPosts)
 
-  //console.log(stopIndex, datedSortedPosts.length, postsData.length)
+  console.log(today, stopIndex, datedSortedPosts[0], datedSortedPosts.length)
 
   return {
     props: {
