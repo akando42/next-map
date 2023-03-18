@@ -9,7 +9,7 @@ title: "The Power of Imagination and the Jewish Secrets"
 tags: ['Israel', 'Germany', 'Rome', 'Jewish', 'Christian','Islam','Spykman World','Nicholas Spykman'] 
 published: true
 ---
-### Israel and The Invention of Western Religions
+## Israel and The Invention of Western Religions
 ![Wind](/content/posts/03-20/israel_winds.png)
 
 Common religion is a strangely sticky material to bind people who have different appearance, believes or education. Religion is like a magnet.
@@ -19,8 +19,8 @@ Common religion is a strangely sticky material to bind people who have different
 ![Human Settlements](/content/posts/03-20/israel_city_lights.png)
 
 
-### Jewish Global Influences in Science, Technology and Finance
-Albert Einstein and Jewish have outside influences in science, technology and finance but not military or politics.
+## Jewish Global Influences in Science, Technology and Finance
+Albert Einstein and others Jews have outside influences in science, technology and finance but not military or politics.
 
 ![Jewish Science Leaders](/content/posts/03-20/jewish_science_leaders.png)
 
@@ -29,7 +29,7 @@ Albert Einstein and Jewish have outside influences in science, technology and fi
 ![Jewish Science Leaders](/content/posts/03-20/jewish_finance_leaders.png)
 
 
-### Israel and The Founding of A Forward Military City State
+## Israel and The Founding of A Forward Military City State
 ![Shipping](/content/posts/03-20/israel_shipping.png)
 
 ![Commnunication](/content/posts/03-20/israel_internet_cables.png)
