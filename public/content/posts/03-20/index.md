@@ -20,7 +20,7 @@ Common religion is a strangely sticky material to bind people who have different
 
 
 ## Jewish Global Influences in Science, Technology and Finance
-Albert Einstein and others Jews have outside influences in science, technology and finance but not military or politics.
+Albert Einstein and others Jews have outsized influences in science, technology and finance but not military or politics.
 
 ![Jewish Science Leaders](/content/posts/03-20/jewish_science_leaders.png)
 
