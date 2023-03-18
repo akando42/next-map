@@ -9,14 +9,29 @@ title: "The Power of Imagination and the Jewish Secrets"
 tags: ['Israel', 'Germany', 'Rome', 'Jewish', 'Christian','Islam','Spykman World','Nicholas Spykman'] 
 published: true
 ---
-### Jews Invented One Single Almighty God and the Christian Copied It.
-Common religion is a strangely sticky material to bind people who have different appearance, believes or education. And one single god is even more powerful.
+### Israel and The Invention of Western Religions
+Common religion is a strangely sticky material to bind people who have different appearance, believes or education. Religion is like a magnet.
 
-### Albert Einstein and the Gravitational Lensing
-Albert Einstein is probably as smart and imaginative as the authors of Jewish
+![Terrain](content/posts/03-20/israel_terrain.jpg)
+
+![Wind](content/posts/03-20/israel_winds.jpg)
+
+![Human Settlements](content/posts/03-20/israel_city_lights.jpg)
 
 
-### Israel and The Founding of A Nation
-There are no Israelian ethicity or DNA, just a believe.
+### Jewish Global Influences in Science, Technology and Finance
+Albert Einstein and Jewish have outside influences in science, technology and finance but not military or politics.
+
+![Jewish Science Leaders](content/posts/03-20/jewish_science_leaders.jpg)
+
+![Jewish Technology Leaders](content/posts/03-20/jewish_tech_leaders.jpg)
+
+![Jewish Science Leaders](content/posts/03-20/jewish_finance_leaders.jpg)
 
 
+### Israel and The Founding of A Forward Military City State
+![Shipping](content/posts/03-20/israel_shipping.jpg)
+
+![Commnunication](content/posts/03-20/israel_internet_cables.jpg)
+
+![Aviation](content/posts/03-20/israel_flights.jpg)
