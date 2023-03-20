@@ -11,12 +11,41 @@ published: true
 ---
 ## Israel and The Invention of Western Religions
 ![Wind](/content/posts/03-20/israel_winds.png)
+Western Chess is a reflection of Western thought on wars with fours driving forces: the Queen of highly attractive women lineage that could travel anywhere and approach anyone,  the Bishop religious influences via worshiping sites, the Knight of highly Mobile fighting forces of Calvary and Naval ships and the Rook of heavily fortified castles and city walls. 
 
-Common religion is a strangely sticky material to bind people who have different appearance, believes or education. Religion is like a magnet.
+A checkmate could be a treaty of alliance or a total destruction. Four steps in Western war are: first send the attractive women, then send the religious teacher, then send the army to capture the land and finally build a fortified castle on the newly acquired land. 
 
-![Terrain](/content/posts/03-20/israel_terrain.png)
+![The Bishop](content/posts/03-20/the_bishop.jpeg)
 
-![Human Settlements](/content/posts/03-20/israel_city_lights.png)
+The Bishop is a reflection of the role of Religion in War. Later on in the modern era, the Bishop role evolves beyond religion into the role of doctors, scientists and university professors.
+
+![The Bishop of Modern Time](content/posts/03-20/bishop_of_modern_time.png)
+
+Religion is a form of Public Order via Social Engineering invented by the Roman Empire to first collect intelligence in potential new targets before war and after war keeping their newly acquired frontiers like England, Scandinavia, Eastern Europe, Middle East and North Africa stable and in order.  
+
+Protestantism, Catholics, Judaism, Orthodox could all be invented in the high mountains of Switzerland. Switzerland in Vietnamese means the Killer Bishop. With the invention of a singular highly polished script with some local culture adaptation, the fragmented religious practices of different local tribes in England, Scandinavia, Eastern Europe were quickly replaced by Christianity. 
+
+![Religious Map of Europe](content/posts/03-20/approximate_western_religious_map.png)
+
+Catholicism is the Roman center of Power around the Swiss alps version of Christianity. Everything you do is right as long as it serves the main goal of procreation. Catholicism in Vietnamese means the Offensive religion and in Latin means the pursuit of Vagina aka the Trinity justifying all actions and morality. You only  need to say sorry to god after the action is done. Catholics are popular in France, Switzerland, Austria, Italy and some parts of the United States. Even some Vietnamese public security forces with French influences are undercover Catholics. 
+
+![Pope](content/posts/03-20/pope.png)
+
+Protestantism is a version of Christianity dedicated to hostile Roman colonies of Germany and England. Every action by English and German tribal men is wrong besides protesting verbally hence the Protestant bishop uniform. Protest-anti-sm in Vietnamese means the Belief in Goodness religion and in Latin meaning to oppose verbally via protest and demonstration. 
+
+![Protestant Pastor](content/posts/03-20/protestant_pastor.png)
+
+Orthodox is a version of Christianity dedicated to the hostile Roman colonies of Scandinavia and Russia. The Ordin-Thor-Dox in Latin means the Simple Scandinavian men version and in English means the Official religion or the OX version. Maybe that's why Blonde women have a higher probability of being an XO. 
+
+![Golden One](content/posts/03-20/golden_one.png)
+
+Judah and Judaism in Latin meaning JUDging AssHole Adolf Hitler version and in Vietnamese meaning the Measuring Infant Potential version and in English meaning the Trojan people. JEWS is the abbreviation of Joker East Wife Sons hence the large Jews population in Eastern part of Europe like East Germany, Ukraine, Russia and Israel. Judaism is an attempt of Western Christian planners to unite Christian kingdoms in the West by creating a BAD guy image of Adoft Hitler or the Muslim brotherhood and the un-essential Western men would be sent East to liberate and marry the local women there.  
+
+![Social Network Jewish Founders](content/posts/03-20/jews_like_asian_chicks.png)
+
+Muslim is also a highly polished script for religious practice in the Middle East and Central Asia with very similar core stories to Christianity and Judaism. Muslim is either an attempt by local nations and tribes in Central Asia and Middle East to stop the influences of the highly polished and viral religious scripts of Christianity by creating a indigenous version or maybe Muslim script is an attempt of Christian planners to shape Middle East public opinion and win without fighting. Muslim scripts do make Muslim followers to make highly risky moves and die via suicides hence the constant succide bomb attacks, knife wielding terrorists and even single-used suicide drones made by Iran in current Ukrainian war. 
+
+![Fertilizer Blast by Israel](content/posts/03-20/beirut_blast.png)
 
 
 ## Jewish Global Influences in Science, Technology and Finance
@@ -30,6 +59,11 @@ Albert Einstein and others Jews have outsized influences in science, technology 
 
 
 ## Israel and The Founding of A Forward Military City State
+![Human Settlements](/content/posts/03-20/israel_city_lights.png)
+
+![Terrain](/content/posts/03-20/israel_terrain.png)
+Israel is a forward military base for new weapon experiments and new public chaos stories test bed. Israel's geography is like a fortress staying behind a mountain range of the Jordan Height and the Jordan river. The sea behind Israel is highly friendly with the support from the Mediterranean naval powers of the United States and Europe. 
+
 ![Shipping](/content/posts/03-20/israel_shipping.png)
 
 ![Commnunication](/content/posts/03-20/israel_internet_cables.png)
