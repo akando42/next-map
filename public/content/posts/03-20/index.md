@@ -11,6 +11,7 @@ published: true
 ---
 ## Israel and The Invention of Western Religions
 ![Wind](/content/posts/03-20/israel_winds.png)
+
 Western Chess is a reflection of Western thought on wars with fours driving forces: the Queen of highly attractive women lineage that could travel anywhere and approach anyone,  the Bishop religious influences via worshiping sites, the Knight of highly Mobile fighting forces of Calvary and Naval ships and the Rook of heavily fortified castles and city walls. 
 
 A checkmate could be a treaty of alliance or a total destruction. Four steps in Western war are: first send the attractive women, then send the religious teacher, then send the army to capture the land and finally build a fortified castle on the newly acquired land. 
@@ -59,13 +60,39 @@ Albert Einstein and others Jews have outsized influences in science, technology 
 
 
 ## Israel and The Founding of A Forward Military City State
-![Human Settlements](/content/posts/03-20/israel_city_lights.png)
-
 ![Terrain](/content/posts/03-20/israel_terrain.png)
+
 Israel is a forward military base for new weapon experiments and new public chaos stories test bed. Israel's geography is like a fortress staying behind a mountain range of the Jordan Height and the Jordan river. The sea behind Israel is highly friendly with the support from the Mediterranean naval powers of the United States and Europe. 
 
 ![Shipping](/content/posts/03-20/israel_shipping.png)
 
+Israel is very likely a military city state to guard the Shipping and Communication arteries through the Suez Canal connecting Indian Ocean nations and the Western European countries from the threats from Turkey and Iran. 
+
 ![Commnunication](/content/posts/03-20/israel_internet_cables.png)
 
+From an East Asian person’s eyes, the Turkish and Iranian presidents have quite similar facial features and have close genetic groups. They look like two brothers one work inside a lot and have lighter skin and once work outside alot and have darker skin color. One will have a more aggressive and offensive mindset since he wears no glasses and one will have a more conservative and defensive mindset since he wears glasses.
+
+![Muslim Brothers](/content/posts/03-20/muslim_brothers.png)
+
+Israel, always at war status, allows regular real world testing of cutting-edge Military and Intelligence Innovation of Military Research Centers in Christian Western Countries like USA, England, Norway, France, Germany. Israel Airforce is the first one to use the F35 in real combat and F35 also has major Israeli upgrades from other export variants of F35. Western military can not fall into a state of stagnation if their tactics and equipment could be tested on the field constantly in the unstable region of the Middle East and could be improved and upgraded constantly. 
+
 ![Aviation](/content/posts/03-20/israel_flights.png)
+
+While China's military never engaged in real combat since the Korean war, the Western militaries were always at small scale war in the Middle East and Central Asia to prevent any Turk-China coalition and repeat the disastrous collapse of Constantinople in the 1400s.  Small-scale proxy wars also will not cause major infrastructure damages or drain the national economic resources. 
+
+![Human Settlements](/content/posts/03-20/israel_city_lights.png)
+
+Maybe it is not a coincidence that the Israel 6 days Wars of 1967 and the Vietnam Tet Offensive of 1968 happened only 1 year apart. The large casualty of Egyptian Armies and the Northern Vietnamese armies both created a lot of vacancies in Cairo and Hanoi and eventually turned Egypt and Vietnam into US major allies 30 years later.
+
+If we look at the world map as a chessboard then Israel and Kaliningrad are very similar chess moves with Israel being in proximity to the ancient Persian capital of Babylon, modern day Baghdad,  Iraq and Kaliningrad in proximity to the former capital of Prussia , modern day Berlin, Germany. 
+
+![Washington-Geneva-Moscow](/content/posts/03-20/g.png)
+
+
+
+
+
+
+
+
+
