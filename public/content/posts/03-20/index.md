@@ -65,7 +65,8 @@ The Nobel prize itself is a Royal Sweden award with financial contribution from 
 In modern society after WW2, the world order is maintained by information. Humans make purchasing decisions, dating decisions and war decisions because of the information that they process from their past experiences and present surrounding environments. And somehow, the Jewish were ahead at the information control games with Facebook founder, Google founder, Oracle founder, Dell founder were all Jewish. Promising startups like Waze in Crowdsourcing mapping, Wix in Website Making, Mobieyes in Autonomous Vehicle sensors and Bit.Dev in Developer Tools were all based in Israel. And the Israel President himself, Netanyahu, is an MIT graduate. 
 
 ![Jewish Energy Leaders](/content/posts/03-20/jewish_finance_leaders.png)
-The United States ultimate limitless power of printing US Dollars as well as its supercomputing hedge fund that control the global money flow were all under the management of Jewish. And even Russia's main source of income after the Cold War, energy export, is also managed by Russian Jewish. 
+
+The United States ultimate limitless power of printing US Dollars as well as its supercomputing hedge fund that control the global money flow were all under the management of Jewish. And even Russia's main source of income after the Cold War, energy export, is also managed by Russian Jewish. Were the Jews always able to measure infant potential and give them the highway direcion to success or whoever become successful would claim themselve Jewish to be able to promote GOD almight influences. 
 
 ## Israel and The Founding of A Forward Military City State
 ![Terrain](/content/posts/03-20/israel_terrain.png)
