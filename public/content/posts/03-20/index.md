@@ -50,14 +50,22 @@ Muslim is also a highly polished script for religious practice in the Middle Eas
 
 
 ## Jewish Global Influences in Science, Technology and Finance
-Albert Einstein and others Jews have outsized influences in science, technology and finance but not military or politics.
+The advances in Science are the main driving force that propel the Christian nations so far ahead after the fall of Constantinople. Maybe the story of Moses and his adoption into the Egyptian royal family is the reflection of Christian open mindset to strangeness, differences and its constant search for exotic cultures, know-hows and secrets in the far foreign lands. 
+
+Maybe the Jewish in the United States were not the first one who invented the new Secret sauces but the one who bought or stole the secrets from the faraway land and scaled the new secret sauces with financial and energy reserves of the Western nations. 
+
+That's why Jewish people are the nomadic people with only less than 15 million people or 0.2% of world population but Jewish won 20% of Nobel Prize in Chemistry, Medicine and Physics. The atomic bomb that put the world in a new order under United States and Russian hands was created by the two Jewish scientists Albert Einstein and Robert Oppenheimer and their team.
 
 ![Jewish Science Leaders](/content/posts/03-20/jewish_science_leaders.png)
 
+The Nobel prize itself is a Royal Sweden award with financial contribution from Alfred Nobel, the inventor of the dynamite, a stronger explosive compound than the Chinese black powder. Sweden in Vietnamese means setting the capital sentence example and the Japanese were made an example of during WW2 with the atomic bomb. 
+
 ![Jewish Technology Leaders](/content/posts/03-20/jewish_tech_leaders.png)
 
-![Jewish Science Leaders](/content/posts/03-20/jewish_finance_leaders.png)
+In modern society after WW2, the world order is maintained by information. Humans make purchasing decisions, dating decisions and war decisions because of the information that they process from their past experiences and present surrounding environments. And somehow, the Jewish were ahead at the information control games with Facebook founder, Google founder, Oracle founder, Dell founder were all Jewish. Promising startups like Waze in Crowdsourcing mapping, Wix in Website Making, Mobieyes in Autonomous Vehicle sensors and Bit.Dev in Developer Tools were all based in Israel. And the Israel President himself, Netanyahu, is an MIT graduate. 
 
+![Jewish Energy Leaders](/content/posts/03-20/jewish_finance_leaders.png)
+The United States ultimate limitless power of printing US Dollars as well as its supercomputing hedge fund that control the global money flow were all under the management of Jewish. And even Russia's main source of income after the Cold War, energy export, is also managed by Russian Jewish. 
 
 ## Israel and The Founding of A Forward Military City State
 ![Terrain](/content/posts/03-20/israel_terrain.png)
