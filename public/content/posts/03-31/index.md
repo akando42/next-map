@@ -5,10 +5,11 @@ lng: 107.05232388188348
 path: "/one_single_god_and_its_poweful_magnetism"
 cover: "content/posts/03-31/spykman-world-ho-chi-minh-statue.jpg"
 date: "03-31"
-title: "One Single God and Its Powerful Magnetism"
+title: "Communism and the Reinvention of God"
 tags: ['Ho Chi Minh', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel','India', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
+![Communism](content/posts/03-31/reinvention_of_god.png)
 
 ### Jesus - A Myth That Unite A Continent
 Jesus was good for the middle age until we discovered physics. We need a new god to unite all five continents, not just one.
