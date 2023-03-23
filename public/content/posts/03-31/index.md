@@ -29,9 +29,7 @@ East Asian societies trade for good with currencies, build armies for war and or
 
 ![Thang Long castles and its present](content/posts/03-31/fish_pond_and_workspace.png)
 
-### Ho Chi Minh - The Unknown God of Vietnamese People
-We do not need a god, we already have one for now. However, we might need a new one to dream bigger. 
+### Mommy-Fication and The Reshuffling of Asian Genetics
 
-### Mars and the God of War
-Will we have more wars after Mar colonialization or less wars? Does nuclear deterance matter when we have a backup planet ?
-My bet is that we will nuke the shit out of each others right after we have a backup planet unless we have a new god to unite us all. 
+
+### The 4 Billion People Circle of Power or a Concentrated Prison
