@@ -30,6 +30,36 @@ East Asian societies trade for good with currencies, build armies for war and or
 ![Thang Long castles and its present](content/posts/03-31/fish_pond_and_workspace.png)
 
 ### Mommy-Fication and The Reshuffling of Asian Genetics
+The first big challenge to Roman Empire and Christianity expansion outside of Western Europe were the North African and Middle East civilizations in Cairo and Babylon, modern day Egypt and Iraq. By using attractive European women and religious teachers to infiltrate the North Africa and Middle East elite circles, the Roman Empire was able to build a large spy network to gain initial important intelligence and finally capture and subdue Egypt and Persia. 
 
+However, maintaining a large occupying force of Roman Legions in North Africa and the Middle East far away from the European uterus homebase around the Swiss Alps is very expensive. Rome needs to turn the North Africa local elites into their middle managers to manage these new colonies. And the Bishops proved to be helpful again. 
+
+![The French Catholic Church](content/posts/03-31/french_catholic_church_in_hanoi.png)
+
+Bishops have been developing an army of XO aka the Nuns as part of their religious recruiters and protectors for the Holyfathers of Europe. XOs serve well as icebreakers to recruit women and men to the Christian faith as well as unexpected assas-sins against any hostile tribal men of Scandinavia, Germany or Russia.
+
+![The XO Wives](content/posts/03-31/hoan_kiem_lake.png) 
+
+By sending XO from Europe to marry the local elites of Egypt and Persia as well as turning millions of Egyptian baby boys into XO via the process of Mommy-Fication, Rome were able to build a highly happy North African middle manager class and create a lot of vacant North Africa uterus to insert the European genes. 
+
+![The Roman Egypt](content/posts/03-31/the_roman_egypt.png)
+
+After just one generation, Rome was able to gain a huge genetic footprints in North Africa, make the majority of the North Africa population look like their Roman rulers and forever turn the hostile North Africa regions into Roman friendly regions. Even the Egyptian flag in modern day now has a Roman eagle on it. 
+
+After North African success, the colonization and genetic conversion formula have been fully proven like a high speed winning Formula 1 racing car. The same genetic conversion process via Mommy-fication were again applied in Central America, South America and Indonesia hence many pyramids being built in these regions to serve as hundred year markers for these Roman-invented genetic conversion formula. 
+
+![The XO-XV couple](content/posts/03-31/the_xv_xo_couples.png)
+
+So after WW1 and WW2, the Tzar of Russia, the Qing Emperor of China, Nguyen Emperor of Vietnam were no longer in charge. The mass of North Asia in Siberia, East Asia in China and South East Asia in Indochina now submited to the ideology of Communism, Capitalism or Facism. The Genetic conversion process of Mommy-fication is once again being applied to these newly rebuilt societies with fully compliance from local elites and the masses. 
+
+![Conversion with Full Compliance](content/posts/03-31/conversion_of_india_thailand_vietnam.png)
+
+Tatar tribes living in Eastern European being deported from their homeland into the new strange regions of Central Asia. Many Tatar baby boys being turned into XO, Tatar fertile women would marry Eastern European men and the Tatar elites would marry Eastern European women XO. So after just one generation, the Tatar nations would look very Eastern European, live in a newly relocated home of Kazkhstan, Uzeberkistan, Turkmenistan and fully comply to the guidances from the West. 
+
+![Mommyfication of Chinese Babyboys](content/posts/03-31/mommyfication_of_chinese_babyboys.png)
+
+The North Asia genetic groups living around Mongolia, Manchuria, North Korea also were reshuffled and deported South via the railways to Southern China and Vietnam and the Southern China and Northern Vietnam genetic groups were also relocated to Southern Vietnam in the Mekong Delta regions. Million of Chinese and Vietnamese baby boys would be turned into XO, the local ruling elites would marry XO from the more North West genetic groups and the local women would marry men from the North West genetic groups. So after each generation, the East and South East Asian would look increasingly like their North Western neighboring tribes. 
+
+![The Railway Genetic Reshuffling Route](content/posts/03-31/north_korean_to_vietnam.png)
 
 ### The 4 Billion People Circle of Power or a Concentrated Prison
