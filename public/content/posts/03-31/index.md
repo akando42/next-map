@@ -42,9 +42,11 @@ Bishops have been developing an army of XO aka the Nuns as part of their religio
 
 By sending XO from Europe to marry the local elites of Egypt and Persia as well as turning millions of Egyptian baby boys into XO via the process of Mommy-Fication, Rome were able to build a highly happy North African middle manager class and create a lot of vacant North Africa uterus to insert the European genes. 
 
-![The Roman Egypt](content/posts/03-31/the_roman_egypt.png)
+![The Trinity](content/posts/03-31/women_vs_man_pelvis_internet_knowledge.png)
 
 After just one generation, Rome was able to gain a huge genetic footprints in North Africa, make the majority of the North Africa population look like their Roman rulers and forever turn the hostile North Africa regions into Roman friendly regions. Even the Egyptian flag in modern day now has a Roman eagle on it. 
+
+![The Roman Egypt](content/posts/03-31/the_roman_egypt.png)
 
 After North African success, the colonization and genetic conversion formula have been fully proven like a high speed winning Formula 1 racing car. The same genetic conversion process via Mommy-fication were again applied in Central America, South America and Indonesia hence many pyramids being built in these regions to serve as hundred year markers for these Roman-invented genetic conversion formula. 
 
