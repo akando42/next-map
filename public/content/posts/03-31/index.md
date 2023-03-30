@@ -68,7 +68,29 @@ The mausoleums of Lenin, Mao Ze Dong, Kim Jong-Il and Ho Chi Minh were also buil
 
 ![North Korean Mommy Model](content/posts/03-31/north_korean_mommy_model.png)
 
-### The 4 Billion People Circle of Power or a Genetic Encirlement
+### The Genetic Encirlement of 4 Billion People
+Indigenous genetics groups of India, China, Japan, Korea and South East Asia will have a difficult time travelling outside of their Wet Rice circle. The spreading of their DNA via marriages outside of the Wet rice circle is severely limited. Anyone from countries of the Wet Rice that allows to travel and live outside of their circle is most likely unviable so they can not create a human bond with outside DNA group.
+
+![Chris Do vs Hoang Do](content/posts/03-31/chris_do_vs_hoang_do.png)
+
+All technology transfers, foreign investments, expertise training and entertainment media will serve as the promotion of new foreign genetic groups inserted from the West. While the public leaders of the Wet Rice circle will mostly likely still look very indigenous, the genetic landscape outside of their highly secured offices and military barracks is changing every minutes that cash is being exchanged among the people. The foreign investments, educational contents and movies will have much more influences over the youth dating choices than the local officials. 
+
+![Leader Face vs Cash Face](content/posts/03-31/leaders_vs_cash.png)
+
+Housing and public security were also designed to erase the indigenious group faster while promoting the adoption of foreign introduced genetic groups. Public security forces carrying the indigenious genes will have the higher risk of casualty than the foreign-introduced public security and mostly likely being pitched against their own genetic groups. Like in the case of Vietnam, cops with darker uniform will have higher chance of casualty than cops with lighter uniform.
+
+![Cop Casualty Rate by Color](content/posts/03-31/cop_casualty_risk_by_color.png)
+
+The foreign-introduced genetic groups have control over major infrastructures like water, electricity and mobility while the indigenous genetic groups become subjects of water, electricty and mobility blackmailing when they live in the Soviet era or newly built highrise apartment buildings.
+
+![Soviet-Style or American Style Prison](content/posts/03-31/soviet_or_american_prison.png)
+
+To break out of their genetic encirlement, the Wet Rice circles will need both internal strength via energy independence and defense capability while gaining supports from the global communities via trading and diplomacy. However, at the present day, Wet rice circle only produces less than 10% of their energy need, do not have an advanced defense industry, barely possess any nuclear weapons and have strong diplomatic tie on average to only less than 15% of global community.
+
 ![The Wet Rice Circle](content/posts/03-31/Wet_Rice_Circle.png)
+
+
+
+
 
 
