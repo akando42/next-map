@@ -64,4 +64,11 @@ The North Asia genetic groups living around Mongolia, Manchuria, North Korea als
 
 ![The Railway Genetic Reshuffling Route](content/posts/03-31/north_korean_to_vietnam.png)
 
-### The 4 Billion People Circle of Power or a Concentrated Prison
+The mausoleums of Lenin, Mao Ze Dong, Kim Jong-Il and Ho Chi Minh were also built in MosCow, BeiJing, PyOngYang and HaNoi just like the pyramids of Egypt, Mexico and Indonesia to mark the Mommy-fication and Genetics conversion in these regions.
+
+![North Korean Mommy Model](content/posts/03-31/north_korean_mommy_model.png)
+
+### The 4 Billion People Circle of Power or a Genetic Encirlement
+![The Wet Rice Circle](content/posts/03-31/Wet_Rice_Circle.png)
+
+
