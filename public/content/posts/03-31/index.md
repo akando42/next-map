@@ -85,7 +85,7 @@ The foreign-introduced genetic groups have control over major infrastructures li
 
 ![Soviet-Style or American Style Prison](content/posts/03-31/soviet_or_american_prison.png)
 
-To break out of their genetic encirlement, the Wet Rice circles will need both internal strength via energy independence and defense capability while gaining supports from the global communities via trading and diplomacy. However, at the present day, Wet rice circle only produces less than 10% of their energy need, do not have an advanced defense industry, barely possess any nuclear weapons and have strong diplomatic tie on average to only less than 15% of global community.
+To break out of their genetic encirlement, the Wet Rice circles will need both internal strength via energy independence and defense capability and external supports from the global communities via trading and diplomacy. However, at the present day, Wet rice circle only produces less than 10% of their energy need, do not have an advanced defense industry, barely possess any nuclear weapons and have strong diplomatic tie on average to only less than 15% of global community.
 
 ![The Wet Rice Circle](content/posts/03-31/Wet_Rice_Circle.png)
 
