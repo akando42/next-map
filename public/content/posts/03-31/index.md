@@ -69,7 +69,7 @@ The mausoleums of Lenin, Mao Ze Dong, Kim Jong-Il and Ho Chi Minh were also buil
 ![North Korean Mommy Model](content/posts/03-31/north_korean_mommy_model.png)
 
 ### The Genetic Encirlement of 4 Billion People
-![Woodrow Wilson](content/posts/03-31/g7_african_american.png)
+![Woodrow Wilson](content/posts/03-31/woodrow_wilson.png)
 
 Indigenous genetics groups of India, China, Japan, Korea and South East Asia will have a difficult time travelling outside of their Wet Rice circle. The spreading of their DNA via marriages outside of the Wet rice circle is severely limited. Anyone from countries of the Wet Rice that allows to travel and live outside of their circle is most likely unviable so they can not create a human bond with outside DNA group.
 
