@@ -10,7 +10,7 @@ import { getSortedPostsData } from '../libs/posts'
 
 const postsDirectory = "public/content/posts"
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const postsData = await getSortedPostsData(postsDirectory)
   const today = new Date()
   const todayString = today.toJSON()
