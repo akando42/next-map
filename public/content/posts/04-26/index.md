@@ -1,7 +1,7 @@
 ---
 zoom: 10
-lat: 10.38509580601526
-lng: 107.05232388188348
+lat: 47.52166214451881
+lng: 34.56976772550164
 path: "/black_sea_the_gate_to_western_civilizations"
 cover: "content/posts/04-26/black_sea_the_gate_to_western_civilizations.png"
 date: "04-26"
