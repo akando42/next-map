@@ -9,3 +9,11 @@ title: "Black Sea - The Gate to Western Civilizations"
 tags: ['Ukraine', 'Turkey', 'Romania', 'Bulgary', 'Moldova','Russia', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
+
+### Mongol and A World of City States Without Border
+
+
+### WW2 and The Invention of the Nations and National Border
+
+
+### Modern Day Guide to Redraw The Earth Border Lines
