@@ -24,6 +24,19 @@ Maybe this is the reason why Moscow and Beijing were both built faraway from nea
 
 So without a modern early warning system, most cities and towns of Eastern Europe and China were probably not able to prepare for a Mongol invasion or mobilize their army fast enough to choose a favorable location of their battlefields. 
 
+From the largest freshwater lake on earth, Lake Baikal, the Mongolian genetics lineage first spread along the Orkhon river system then quickly accelerated with the adoption of large horse archers formation in their army and climate changes in the 13th century that expanded the grassland of Central Asia. 
+
+![Lake Baikal](content/posts/04-26/lake_baikal.png)
+
+The massive grassland of Central Asia enabled the Mongolian army and their genetics to spread along from Lake Baikal to the Black Sea and Northern China with Mongol settlements being built near the Volga and Yellow river and became modern day Stalingrad and Beijing. 
+
+![Grassland Climate](content/posts/04-26/grassland_of_euroasia.png)
+
+The spread of Central Asian horsemen genetics was only stopped by the Christian churches of Roman Empire. The Christian planners setup two traps: the fortified castles of Moscow and Constantinople to take advantages of Western European adaption to cold climate and naval strength. Moscow is too far up north and too cold for grass and horses while Constantinople is a narrow naval stroke point in a dead end. Countless horsemen of Central Asia lost their horses and lifes trying to take the two fortifed castle of Moscow and Constantinople. While Constantinople was eventually fallen, the Turkic genetic clusters lost access to the massive grassland and had to settle in a small area of Istanbul without a major river, flat highland or delta for population expansion. 
+
+![Two traps of Eastern Europe](content/posts/04-26/moscow_constantinopole.png)
+
+
 ### WW2 and The Invention of the Nations and National Border
 
 ### Modern Day Guide to Redraw The Earth Border Lines
