@@ -32,9 +32,13 @@ The massive grassland of Central Asia enabled the Mongolian army and their genet
 
 ![Grassland Climate](content/posts/04-26/grassland_of_euroasia.png)
 
-The spread of Central Asian horsemen genetics was only stopped by the Christian churches of Roman Empire. The Christian planners setup two traps: the fortified castles of Moscow and Constantinople to take advantages of Western European adaption to cold climate and naval strength. Moscow is too far up north and too cold for grass and horses while Constantinople is a narrow naval stroke point in a dead end. Countless horsemen of Central Asia lost their horses and lifes trying to take the two fortifed castle of Moscow and Constantinople. While Constantinople was eventually fallen, the Turkic genetic clusters lost access to the massive grassland and had to settle in a small area of Istanbul without a major river, flat highland or delta for population expansion. 
+The spread of Central Asian horsemen genetics was only stopped by the Christian churches of Roman Empire. The Christian planners setup two traps: the fortified castles of Moscow and Constantinople to take advantages of Western European adaption to cold climate and naval strength. Moscow is too far up north and too cold for grass and horses while Constantinople is a narrow naval stroke point in a dead end. Countless horsemen of Central Asia lost their horses and lifes trying to take the two fortifed castle of Moscow and Constantinople. 
 
 ![Two traps of Eastern Europe](content/posts/04-26/moscow_constantinople.png)
+
+While Constantinople was eventually fallen, the Turkic genetic clusters in Turkey lost access to the massive grassland and the line of communication to the Central Asian tribes. Turkic tribes of Turkey have to settle in a small area around the sea of Marmara without a major river, delta or flat land for population expansion.
+
+![Istanbul lowland](content/posts/04-26/modern_day_istanbul.png)
 
 
 ### WW2 and The Invention of the Nations and National Border
