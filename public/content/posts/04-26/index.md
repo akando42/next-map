@@ -11,8 +11,7 @@ published: true
 ---
 
 ### Mongol and A World of City States Without Border
-Before human civilizations were able to raise horses in large numbers, a common man was only able to venture a few kilometers away from his settlements and his water sources. When humans started to develop farming techniques, our civilizations became even more 
-concentrated around major water sources. 
+Before human civilizations were able to raise horses in large numbers, a common man was only able to venture a few kilometers away from his settlements and his water sources. When humans started to develop farming techniques, our civilizations became even more concentrated around major water sources. 
 
 While trees could grow their roots deep underground for water sources and bird could spot lakes and river kilometers away and fly for hundred of kilometers non stop, farming society even with the wheels only can develop settlements 100 - 200 square kilometers in size and few become wealthy enough to maintain a large army and build fortified castles and walls around its administrative body. There was not a national border line and clashes happened regularly at the middle points between two major rival settlements. 
 
@@ -40,7 +39,15 @@ While Constantinople was eventually fallen, the Turkic genetic clusters in Turke
 
 ![Istanbul lowland](content/posts/04-26/modern_day_istanbul.png)
 
+There is no long Black about the Black Sea except the hair color of the people living near the coastline of the Black Sea from the Caucusus to Bulgary. Maybe this is the genetic mark that the turkic tribe left behind during their expansion from Central Asia to the Draculas castle near Hungary.
+
+![The Faces of The Black Sea](content/posts/04-26/faces_of_the_black_sea.png) 
 
 ### WW2 and The Invention of the Nations and National Border
+
+
+
+
+
 
 ### Modern Day Guide to Redraw The Earth Border Lines
