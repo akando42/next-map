@@ -28,11 +28,11 @@ From the largest freshwater lake on earth, Lake Baikal, the Mongolian genetics l
 
 ![Lake Baikal](content/posts/04-26/lake_baikal.png)
 
-The massive grassland of Central Asia enabled the Mongolian army and their genetics to spread along from Lake Baikal to the Black Sea and Northern China with Mongol settlements being built near the Volga and Yellow river and became modern day Stalingrad and Beijing. 
+The massive grassland of Central Asia enabled the Mongolian army and their genetics to spread along from Lake Baikal to the Black Sea and Northern China with Mongol settlements being built near the Volga and Yellow river and became modern day Stalingrad and Beijing. The grassland boundary of Central Asia marked the limit of Mongolian expansion just like the oil fields of Europe marked the limit of German merchanized army expansion. 
 
 ![Grassland Climate](content/posts/04-26/grassland_of_euroasia.png)
 
-The spread of Central Asian horsemen genetics was only stopped by the Christian churches of Roman Empire. The Christian planners setup two traps: the fortified castles of Moscow and Constantinople to take advantages of Western European adaption to cold climate and naval strength. Moscow is too far up north and too cold for grass and horses while Constantinople is a narrow naval stroke point in a dead end. Countless horsemen of Central Asia lost their horses and lifes trying to take the two fortifed castle of Moscow and Constantinople. 
+The spread of Central Asian horsemen genetics was only stopped by the Christian churches of Roman Empire. The Christian planners setup two traps: the fortified castles of Moscow and Constantinople to take advantages of Western European adaption to cold climate and naval strength. Moscow is too far up north and too cold for grass and horses while Constantinople is a narrow naval stroke point in a dead end. Countless horsemen of Central Asia lost their horses and lifes trying to take the two fortifed castle of Moscow and Constantinople beyond the limit of their supplylines. Hungary and Constantinople is too far for a grass eating horse army and Stalingrad is too far from the oil fields in Ukraine.
 
 ![Two traps of Eastern Europe](content/posts/04-26/moscow_constantinople.png)
 
