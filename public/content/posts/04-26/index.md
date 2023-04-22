@@ -51,7 +51,7 @@ While it is possible to guard a walled city and its nearby surrounding area with
 
 Assuming two guards with arrows, horses and spears could be stationed 30 meters from each other, you would need a minimum 120,000 - 130,000 guards to create a very thin 4000 km line of defense that could be easily penetrated by an invading force. With the Roman Shield Walls of three layers, you would need 4,000,000 guards standing at the border 24/7 with their shields and armors. Building a 4000 kilometer physical wall is even more human resources and time intensive that is also not effective against explosive powder, ladders or trebuchets. 
 
-It is an ineffective and unrealistic task of guarding a borderline in the ancient era. So there was no borderline in the pre-WW2 era. Human tribes just guard city states or walled garrisons and send messengers to the other smaller tributary city states for help when there is an invading army or combine forces with other tributary city states to invade a rival city state. 
+It is an ineffective and unrealistic task of guarding a borderline in the ancient era. So there was no borderline in the pre-World-War era. Human tribes just guard city states or walled garrisons and send messengers to the other smaller tributary city states for help when there is an invading army or combine forces with other tributary city states to invade a rival city state. 
 
 Before the radio-com, combustion engine and machine gun was invented, a country was a cluster of loosely aligned city states with one central city state and the tributary city states. The local city mayors of the ancient era are the kings while the city mayor of a central city state is the emperor. 
 
