@@ -55,4 +55,10 @@ It is an ineffective and unrealistic task of guarding a borderline in the ancien
 
 Before the radio-com, combustion engine and machine gun was invented, a country was a cluster of loosely aligned city states with one central city state and the tributary city states. The local city mayors of the ancient era are the kings while the city mayor of a central city state is the emperor. 
 
+With the invention of machine guns, shield walls and large soldier formations become a massive attack surface that a single gunner with enough bullets can eliminate all at once. A tall city wall could be penetrated or shot over with artillery from a distance. The defensive line now needs to be pushed much further away from the city border and the army needs to dig a trench to get out from the line of fire of machine guns and artillery. 
+
+![Small Attack Surfaces](content/posts/04-26/small_attack_surface.png) 
+
+Human weapons of World Wars had such a high rate of fire and accuracy that the best strategy is to minimize attack surfaces by laying on the ground or hiding underground behind in a trench. Trench warfare of World War I and II is the beginning of a long battle line and the beginning of national borders.
+
 ### Modern Day Guide to Redraw The Earth Border Lines
