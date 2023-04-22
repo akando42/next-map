@@ -39,7 +39,7 @@ While Constantinople was eventually fallen, the Turkic genetic clusters in Turke
 
 ![Istanbul lowland](content/posts/04-26/modern_day_istanbul.png)
 
-There is no long Black about the Black Sea except the hair color of the people living near the coastline of the Black Sea from the Caucusus to Bulgary. Maybe this is the genetic mark that the turkic tribe left behind during their expansion from Central Asia to the Draculas castle near Hungary.
+There is nothing Black about the Black Sea except the hair color of the people living near the coastline of the Black Sea from the Caucusus to Bulgary. Maybe this is the genetic mark that the turkic tribes left behind during their expansion from Central Asia to the Draculas castle near Hungary.
 
 ![The Faces of The Black Sea](content/posts/04-26/faces_of_the_black_sea.png) 
 
