@@ -75,7 +75,7 @@ Russia and the Soviet Union prefer to use the secession movements either through
 
 Any attempts to redraw the earth borderline by smaller nations have always failed like in the case of Iraq wars with Kuwait and Iran and the Vietnam war with Cambodia. Israel is the only exception with small incremental gain via settlement building in the West Bank. 
 
-It seems like only nations with a domestic defense industry and being able to doge arm embargo can really alter the earth's borderline successfully. Common spoken language is also crucial in the success of any attempts to acquire new territories. Hong Kong citizens use both mainland Mandarin and southern Cantonese. Palestinians speak both Hebrew and Arabic. Georgian and Ukrainian speak both Russian and Ukrainian. 
+It seems like only nations with a domestic defense industry and being able to doge arm embargo can really alter the earth's borderline successfully. Common spoken language is also crucial in the success of any attempts to acquire new territories. Hong Kong citizens use both mainland Mandarin and southern Cantonese. Large percentages of Laos and Thailand citizens speak Mandarin. Palestinians speak both Hebrew and Arabic. Georgian and Ukrainian speak both Russian and Ukrainian. 
 
-Being able to export your languages and your domestically made weapons are two crucial steps in achieving territorial gains in modern day. 
+Being able to export your languages and your domestically made weapons are two crucial steps in achieving long lasting territorial gains in modern day. 
 
