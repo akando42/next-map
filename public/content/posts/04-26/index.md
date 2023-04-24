@@ -62,3 +62,20 @@ With the invention of machine guns, shield walls and large soldier formations be
 Human weapons of World Wars had such a high rate of fire and accuracy that the best strategy is to minimize attack surfaces by laying on the ground or hiding underground behind in a trench. Trench warfare of World War I and II is the beginning of a long battle line and the beginning of national borders.
 
 ### Modern Day Guide to Redraw The Earth Border Lines
+
+Since the fall of Saigon in 1975, national borders around the globe have remained relatively constant and unchanged. 
+
+The US and NATO prefer to maintain the earth borderline and just redraw the line between allies and enemies through regime change by replacing the people in charge of the exact same territories like in the case of Panama, Iraq, Afghanistan or Ukraine. 
+
+China prefers to use trade as a bargaining chip to achieve territorial gains like in the case of Hong Kong and South China Sea islands. The British willingly gave up Hong Kong in exchange for more trades with mainland China while US and ASEAN slowly gave up contesting the Islands in South China Sea to focus on domestic economic issues. 
+
+Russia and the Soviet Union prefer to use the secession movements either through the collapse of the Soviet Union in 1990 or independence movements in Georgia, Crimea and Donetsk to redraw earth borderlines. 
+
+![Language as Weapon of War](content/posts/04-26/speak_russian.png) 
+
+Any attempts to redraw the earth borderline by smaller nations have always failed like in the case of Iraq wars with Kuwait and Iran and the Vietnam war with Cambodia. Israel is the only exception with small incremental gain via settlement building in the West Bank. 
+
+It seems like only nations with a domestic defense industry and being able to doge arm embargo can really alter the earth's borderline successfully. Common spoken language is also crucial in the success of any attempts to acquire new territories. Hong Kong citizens use both mainland Mandarin and southern Cantonese. Palestinians speak both Hebrew and Arabic. Georgian and Ukrainian speak both Russian and Ukrainian. 
+
+Being able to export your languages and your domestically made weapons are two crucial steps in achieving territorial gains in modern day. 
+
