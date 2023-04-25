@@ -85,7 +85,7 @@ If we take the Ukranian war as an example, within the first few months of the wa
 
 ![Zaporizhzhia Power Plants](content/posts/04-26/zaporizhzhia_power_plants.png) 
 
-Russia then consolidates pre-war territorial gains by securing water sources for Crimea, connecting Crimea and Donetsk by striking Mariupol and build buffer zones around these two secession regions. Moscow once again achieve territorial gain in 2022 with the same formula but at much higher cost then before. 
+Russia then consolidated pre-war territorial gains by securing water sources for Crimea, connecting Crimea and Donetsk by striking Mariupol and build buffer zones around these two secession regions. Moscow once again achieved territorial gain in 2022 with the same formula but at much higher cost then before. 
 
 ![Mariupol Entrance](content/posts/04-26/mariupol_entrance.png) 
 
