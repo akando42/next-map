@@ -77,5 +77,18 @@ Any attempts to redraw the earth borderline by smaller nations have always faile
 
 It seems like only nations with a domestic defense industry and being able to doge arm embargo can really alter the earth's borderline successfully. Common spoken language is also crucial in the success of any attempts to acquire new territories. Hong Kong citizens use both mainland Mandarin and southern Cantonese. Large percentages of Laos and Thailand citizens speak Mandarin. Palestinians speak both Hebrew and Arabic. Georgian and Ukrainian speak both Russian and Ukrainian. 
 
-Being able to export your languages and your domestically made weapons are two crucial steps in achieving long lasting territorial gains in modern day. 
+Being able to export your languages and your domestically made weapons are two crucial steps in achieving long lasting territorial gains in modern day. Posessing nuclear weapon is also another crucial factor that allows America, Russia, China and Israel to pressure nations to concede small territorial lost to avoid decapitation strikes on command control nodes. 
+
+![Black Sea War](content/posts/04-26/ukrainian_war.png) 
+
+If we take the Ukranian war as an example, within the first few months of the war, Russia was striking two targets: Kiev, the capital city of Ukraine and Zaporizhzhia, the largest nuclear power plan of Ukraine and Europe to demonstrate its abilty to strike Kiev with nuclear weapon if it wants to. 
+
+![Zaporizhzhia Power Plants](content/posts/04-26/zaporizhzhia_power_plants.png) 
+
+Russia then consolidates pre-war territorial gains by securing water sources for Crimea, connecting Crimea and Donetsk by striking Mariupol and build buffer zones around these two secession regions. Moscow once again achieve territorial gain in 2022 with the same formula but at much higher cost then before. 
+
+![Mariupol Entrance](content/posts/04-26/mariupol_entrance.png) 
+
+
+
 
