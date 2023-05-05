@@ -5,18 +5,17 @@ lng: 96.08406164965953
 path: "/self_determination_and_the_right_to_write_your_own_destiny"
 cover: "content/posts/05-11/spykman-world-golden-dharma-wheel.jpg"
 date: "05-11"
-title: "Self Determination and The Endowned Right to Write Your Own Destiny"
-tags: ['Myanmar','Vietnam','China','North Korea','Self Determination','Spykman World','Nicholas Spykman'] 
+title: ""
+tags: ['Myanmar','Vietnam','China','North Korea','South Korea','Thailand','Laos', 'Cambodia', 'Taiwan','Zen','Spykman World','Nicholas Spykman'] 
 published: true
 ---
 
-### Buddism Monks Enable Three Kings Ly Thai To, Anawrahta and Taejo of Goryeo To Build Three Nations
+### Buddhism - The Common Identity of Nations East of The Tibetan Plateau
+![Zen Fish](content/posts/05-11/east_tibetan_plateau.png)
 
+### In Zen We Find Paths vs In God We Trust
+![In God We Trust](content/posts/05-11/in_god_we_trust.png)
 
-### Vietnam, Myanmar and Korea, Three Arrows That Can Point In or Point Out
-
-    
-### Maybe one day, we will use a currency saying in Karma We Trust
 
 
 
