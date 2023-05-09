@@ -65,9 +65,17 @@ Vietnam gene pool for example is updated occasionally with Chinese migrating Sou
 
 Switzerland and Christian nations contained China by balancing the DNA portfolio of nations around China like Thailand, Vietnam, Myanmar, Korea and Japan with their lab-grown one. These lab-grown DNA from Switzerland will compete, slow down and eliminate any Chinese DNA expansion outside of 1945 Chinese border. 
 
+![The American Trident of the Sea](content/posts/05-11/american_trident_of_sea.png)
+
 While it is possible for Chinese to get out via the Air and Sea routes, these fast but expensive and low throughput migration route will not result in the redraw of geographical borders while migration on personal vehicles could result in the redraw of borders. 
 
-Air and Sea migration travels in disconnected small pockets. Even if they end up settle in United States or Europe, they would pose no security threat and only become an obedient isolated DNA cluster. This is why the US favored Asian immigrants over Mexian immigrants. 
+Air and Sea migration travels in disconnected small pockets. Even if they end up settle in United States or Europe, they would pose no security threat and only become an obedient isolated DNA cluster. This is why the US favored Asian immigrants over Mexican immigrants. 
+
+![Asia vs European Area of Influences in USA](content/posts/05-11/asia_vs_europe_area_influences.png)
+
+Myanmar and Vietnam is afraid of a Chinese invasion so do not construct a highspeed rail network with China while Thailand and China has a direct high speed railnetwork connecting these two largest delta of East Asia. 
+
+![Rail Network](content/posts/05-11/rail_network_of_euroasia.png)
 
 ### In Zen We Find Paths vs In God We Trust
 ![In God We Trust](content/posts/05-11/in_god_we_trust.png)
