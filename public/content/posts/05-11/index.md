@@ -59,8 +59,15 @@ The Japanese sons controlled Western-imported tech. Grandfather of Japanese sons
 
 ### Emigration and Immigration Patterns of Buddhist Countries
 
+While Christian nations like the EU and America is the immigration magnet that draw people from all over the world to move there. Buddhism nations like China, Japan, Korea, Vietnam, Thailand has a highly singular gene pools with little DNA updates from immigrations. People from Buddhism countries have the tendencies to move abroad to create space for Japanese and Swiss doctor DNA. 
 
+Vietnam gene pool for example is updated occasionally with Chinese migrating South from the larger delta of Yangzte and Yellow river. Since after the French colonial period, Vietnam DNA pool is also updated regularly with sperms and eggs from Switzerland. The Vietnam gene pool itself also improved gradually through internal competition. 
 
+Switzerland and Christian nations contained China by balancing the DNA portfolio of nations around China like Thailand, Vietnam, Myanmar, Korea and Japan with their lab-grown one. These lab-grown DNA from Switzerland will compete, slow down and eliminate any Chinese DNA expansion outside of 1945 Chinese border. 
+
+While it is possible for Chinese to get out via the Air and Sea routes, these fast but expensive and low throughput migration route will not result in the redraw of geographical borders while migration on personal vehicles could result in the redraw of borders. 
+
+Air and Sea migration travels in disconnected small pockets. Even if they end up settle in United States or Europe, they would pose no security threat and only become an obedient isolated DNA cluster. This is why the US favored Asian immigrants over Mexian immigrants. 
 
 ### In Zen We Find Paths vs In God We Trust
 ![In God We Trust](content/posts/05-11/in_god_we_trust.png)
