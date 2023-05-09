@@ -63,6 +63,8 @@ While Christian nations like the EU and America is the immigration magnet that d
 
 Vietnam gene pool for example is updated occasionally with Chinese migrating South from the larger delta of Yangzte and Yellow river. Since after the French colonial period, Vietnam DNA pool is also updated regularly with sperms and eggs from Switzerland. The Vietnam gene pool itself also improved gradually through internal competition. 
 
+![The Flag of Myanmar](content/posts/05-11/flag_of_myanmar.png)
+
 Switzerland and Christian nations contained China by balancing the DNA portfolio of nations around China like Thailand, Vietnam, Myanmar, Korea and Japan with their lab-grown one. These lab-grown DNA from Switzerland will compete, slow down and eliminate any Chinese DNA expansion outside of 1945 Chinese border. 
 
 ![The American Trident of the Sea](content/posts/05-11/american_trident_of_sea.png)
