@@ -3,9 +3,9 @@ zoom: 10
 lat: 21.95690386511042
 lng: 96.08406164965953
 path: "/self_determination_and_the_right_to_write_your_own_destiny"
-cover: "content/posts/05-11/spykman-world-golden-dharma-wheel.jpg"
+cover: "content/posts/05-11/spykman-world-japanese-dharma.png"
 date: "05-11"
-title: ""
+title: "Buddhism - The Culture Magnet and Conversion Tool"
 tags: ['Myanmar','Vietnam','China','North Korea','South Korea','Thailand','Laos', 'Cambodia', 'Taiwan','Zen','Spykman World','Nicholas Spykman'] 
 published: true
 ---
@@ -47,17 +47,20 @@ And then taught them all the advanced technologies of the 19 centuries and enabl
 
 ![Zen Fish](content/posts/05-11/east_tibetan_plateau.png)
 
-Maybe The Japanese were funding and creating Buddhism temples, arts and monks in SouthEast Asia. There were no large-scale naval wars in the Pacifics just footage of Pearl Harbor. Japan was created by collecting Islanders South East Asian by Swiss doctors then hand picking to seed the Island of Japan. 
+Maybe The Japanese were funding and creating Buddhism temples, arts and monks in SouthEast Asia. There were no large-scale naval wars in the Pacifics just footage of Pearl Harbor. Japan was created by collecting Islanders East of Tibetan Plateau by Swiss doctors then handpicking high potential one to seed the Island of Japan. 
 
-Japan first copied Chinese architecture then improved upon it with their own styles. Swiss doctors then sent them weapons and close to the newest weapon and industrial knowledge but 10 years behind the cutting edge in Europe to enable them to take over East Asia.
+Japanese first copied Chinese architecture then improved upon it with their own styles. Swiss doctors then sent them weapons and close to the newest weapon and industrial knowledge but 10 years behind the cutting edge in Europe to enable them to take over East Asia.
 
-Wherever there are the Buddhist temples, there are Japanese sons living with the locals in Myanmar, Thailand, Vietnam, China, Cambodia, Taiwan, Korea as Burmese, Thai, Vietnamese, Chinese, Taiwanese, Koreans and Burmeses. 
+Wherever there are the Buddhist temples, there are Japanese sons living with the locals in Myanmar, Thailand, Vietnam, China, Cambodia, Taiwan, Korea, Mongol as Burmese, Thai, Vietnamese, Chinese, Taiwanese, Koreans and Mongolians. 
 
-The Japanese sons controlled Western-imported tech. Grandfather of Japanese sons is the Swiss Doctor and Father of Japanese son is the Japanese soldiers seeded in the Island of Japan like Jurassic Park. 
+![Dharma Wheel on Japanese Flag](content/posts/05-11/spykman-world-japanese-dharma.png)
 
-Most Japanese DNA seeding happened during the chaos  and confusion of World War 2 and maybe now during and after COVID-19.
+The Japanese sons controlled Western-imported tech. Grandfather of Japanese sons is the Swiss Doctor and Father of Japanese son is the Japanese soldiers seeded in the Island of Japan just like the Jurassic Park. Most Japanese DNA seeding happened during the chaos  and confusion of World War 2 and maybe now during and after COVID-19. Maybe the Japanese built the Buddhist temples in Afghanistan to mark the deepest inland that the gasoline planes and cars of WW2 were able to reach from China's East Coast. 
 
-Maybe the Japanese built the Buddhist  temples in Afghanistan marking the deepest inland that the gasoline planes and cars of WW2 were able to reach from China's East Coast. 
+### Emigration and Immigration Patterns of Buddhist Countries
+
+
+
 
 ### In Zen We Find Paths vs In God We Trust
 ![In God We Trust](content/posts/05-11/in_god_we_trust.png)
