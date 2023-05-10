@@ -101,7 +101,11 @@ United States of American is still the safest country on earth with the lowest c
 
 Unrival security of the American nation allows the American government to issue unlimited US Dollar and lift the US government debt ceiling to whatever it fell necessary. 
 
-The only potential limit to US Dollar printing spree is a second safe haven that could rival the United States. Is there any other safer place on earth for a human female to settle down, store her egg basket without worrying that her house could be bombed, her saving could evaporated, her children could be kidnnaped? Chengdu, Switzerland, Australia, the Moon? After COVID-19, no where looks very safe and the United States of America still seems to be the best place to raise a family. 
+The only potential limit to US Dollar printing spree is a second safe haven that could rival the United States. Is there any other safer place on earth for a human female to settle down, store her egg basket without worrying that her house could be bombed, her saving could evaporated, her children could be kidnnaped? Chengdu, Switzerland, Australia, the Moon? 
+
+![Chengdu highland heaven](content/posts/05-11/chengdu_monks.png)
+
+After COVID-19, no where looks very safe and the United States of America still seems to be the best place to raise a family. 
 
 
 
