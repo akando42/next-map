@@ -80,7 +80,35 @@ Myanmar and Vietnam is afraid of a Chinese invasion so do not construct a highsp
 ![Rail Network](content/posts/05-11/rail_network_of_euroasia.png)
 
 ### In Zen We Find Paths vs In God We Trust
+
+The American and the World currency US Dollas was built on the Invicibility God-like characteristics of the US Government and United States. United States is the nation with the best geographical and genetics characteristicss of any nation on earth. 
+
 ![In God We Trust](content/posts/05-11/in_god_we_trust.png)
+
+US geography is an unfair advantage for the American planners with the largest irrigable landmass on the planet, on par with China and India. While Russia and Canada has a larger landmass, most of their land is too cold for human settlement building and agriculture. 
+
+The Island of United States is also a natural fortress that is shielded from all 4 directions with large geographical barriers: North by the North Pole, East by the Pacifics Ocean, West by the Atlantic Oceans and South by the Carribean and the naval stroke point of Mexico and Panama. 
+
+US geography was initially not this perfect but with only 13 colonies on the East Coast of modern United States. Their unmatched geophgraphical advantages was only shaped gradually through Wars and Infrastructure development from 17 century to 19 century. 
+
+The American gene pool is always upgraded regularly via immigrations. Most of the US population growth comes from importing the best and brightest from all around world via foreign students and researchers, foreign warriors, foreign entrepreneurs filtered through a highly selective immigration pathways. United State itself also develop their world leading genetics and DNA research program. The advantages in gene pool results in huge advantages in technological and art with American products, services and entertainment media dominates every corner of the earth.
+
+The unrival security via geographical and technologial barrier makes the United States of America is the safest place to raise a family and hold your assets. Any presidents and dictators who are friends of the United States always have the options to move his families and assets oversea to United States as the last resort move. While Bitcoin is a much better cross border mean of exchange and Gold is a much better storage of value, US Dollar could be both easily moved via the SWIFT banking network or stored in reserve without losing significant amount of values. 
+
+While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan DNA clusters survive and prosper longer than the Nguyen Van Thieu DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
+
+United States of American is still the safest country on earth with the lowest chances of a civil war or external invasion leading to the collapse of the country and its currency. Americans have a credible reason to believe that they are god favored and god chosen. And this national belief has become part of American identity, reiterated in every presidential speeches and printed on every US dollar bill. 
+
+Unrival security of the American nation allows the American government to issue unlimited US Dollar and lift the US government debt ceiling to whatever it fell necessary. 
+
+The only potential limit to US Dollar printing spree is a second safe haven that could rival the United States. Is there any other safer place on earth for a human female to settle down, store her egg basket without worrying that her house could be bombed, her saving could evaporated, her children could be kidnnaped? Chengdu, Switzerland, Australia, the Moon? After COVID-19, no where looks very safe and the United States of America still seems to be the best place to raise a family. 
+
+
+
+
+
+
+
 
 
 
