@@ -5,7 +5,7 @@ lng: 96.08406164965953
 path: "/self_determination_and_the_right_to_write_your_own_destiny"
 cover: "content/posts/05-11/spykman-world-japanese-dharma.png"
 date: "05-11"
-title: "Buddhism - The Culture Magnet and Conversion Tool"
+title: "Buddhism - The Peace of Mind for Viable Uterus"
 tags: ['Myanmar','Vietnam','China','North Korea','South Korea','Thailand','Laos', 'Cambodia', 'Taiwan','Zen','Spykman World','Nicholas Spykman'] 
 published: true
 ---
@@ -79,7 +79,7 @@ Myanmar and Vietnam is afraid of a Chinese invasion so do not construct a highsp
 
 ![Rail Network](content/posts/05-11/rail_network_of_euroasia.png)
 
-### In Zen We Find Paths vs In God We Trust
+### In Zen We Find Peace vs In God We Trust
 
 The American and the World currency US Dollas was built on the Invicibility God-like characteristics of the US Government and United States. United States is the nation with the best geographical and genetics characteristicss of any nation on earth. 
 
