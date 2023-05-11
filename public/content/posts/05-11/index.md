@@ -95,7 +95,11 @@ The American gene pool is always upgraded regularly via immigrations. Most of th
 
 The unrival security via geographical and technologial barrier makes the United States of America is the safest place to raise a family and hold your assets. Any presidents and dictators who are friends of the United States always have the options to move his families and assets oversea to United States as the last resort move. While Bitcoin is a much better cross border mean of exchange and Gold is a much better storage of value, US Dollar could be both easily moved via the SWIFT banking network or stored in reserve without losing significant amount of values. 
 
+![Soviet Le Duan](content/posts/05-11/soviet_leduan.png)
+
 While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan DNA clusters survive and prosper longer than the Nguyen Van Thieu DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
+
+![Nato Nguyen Van Thieu](content/posts/05-11/nato_nguyenvanthieu.png)
 
 United States of American is still the safest country on earth with the lowest chances of a civil war or external invasion leading to the collapse of the country and its currency. Americans have a credible reason to believe that they are god favored and god chosen. And this national belief has become part of American identity, reiterated in every presidential speeches and printed on every US dollar bill. 
 
