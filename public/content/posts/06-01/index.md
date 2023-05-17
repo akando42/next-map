@@ -12,6 +12,8 @@ published: true
 ### Qin Dynasty and The Founding of United China
 The valley of Xian was the birthplace of modern china. 
 
+![Qin Shi Huang Upstart Delta](content/posts/06-01/qin_shi_huang_startup_delta.png)
+
 The valley does look like the mother womb with one way in and plenty of water supply from the Weihe River, the largest tributary of the Yellow River but without the high speed current and flooding from the Yellow River. (maybe)
 
 The geographical position of the Qin dynasty allowed it to have a small advantage at the beginning of the Warring period in consolidating resources and manpowers while only having to fight a single front war. 
@@ -27,6 +29,8 @@ With existing infrastructures of information and transportation built under Qin 
 ### US Dollar and The Founding of United States of America
 
 With the leading edge advances in shipbuilding, mapping and ocean navigation, the British and Portugal navies were dominating the ocean around the globe at the beginning of the 17th century, defeating the coalition of major land power France and Spain in naval wars along the North Atlantic sea lanes as well as the British home island. 
+
+![British 13 Colonies and the West](content/posts/06-01/us_thirteen_colonies_and_the_west.png)
 
 After the Anglo-Spanish war of 1762, The British and Portugal victory enabled them to have a larger share of the American continent and established the modern day United States in North America and Brazil in South America. 
 
@@ -64,6 +68,8 @@ The war economy production of nazi germany for the first time create a large sca
 With the European Coal and Steel Community founded in 1951 and the European Atomic Energy Community in 1957, French and German leaders were trying to recreate the scale of a War Economy during peacetime in Europe. 
 
 Both Napoleon and Hitler were failed at uniting Europe into a single union using brute force like the way things have always been done over previous centuries. Will the paper and pen contractual approach be able to glue the European Union of multi-ethnics, mult-linguals countries together. 
+
+![Roman Way of Governing Expansion](content/posts/06-01/1st_2nd_3rd_Roman_Empire.png)
 
 European countries can not erase their thousand year history of conflicts, cultures, languages and traditions like the way Qin Shi Huang did and Hitler tried to do via their book burning campaigns. All European countries can not have a common history and a common identity like the way Han Chinese and Americans have even though a few generations ago they were very distinct ethnics groups. Things were always impossible until it got done the first time.
 
