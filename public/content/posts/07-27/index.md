@@ -11,8 +11,6 @@ published: true
 ---
 ## One Korea And The Awakening Of Third Asian Tigers
 
-
-
 ### The Founding of United Korea
 
 918 AD, The Korean Peninsula was fully united the first time as the Kingdom of Goryeo. 

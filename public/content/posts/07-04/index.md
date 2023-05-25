@@ -6,7 +6,7 @@ path: "/stealth_the_all_eggs_in_one_basket_approach"
 cover: "content/posts/07-04/spykman-world-devil_eggs_in_one_basket.jpg"
 date: "07-04"
 title: "Stealth and The All Eggs In One Basket Approach"
-tags: ['United States','United Kingdom','Turkey','Spykman World','Nicholas Spykman'] 
+tags: ['United States','United Kingdom','Turkey','China', 'Russia', Spykman World','Nicholas Spykman'] 
 published: true
 ---
 ### Investing in Arrows is better than investing in Shields
