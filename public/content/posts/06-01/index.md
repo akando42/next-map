@@ -55,6 +55,8 @@ The United State of America with a quiet North Atlantic coastline now can also u
 
 The expansion of American territorial from 1st first 13 East Coast colonies toward the entire modern United States spanning from the North Atlantic to the North Pacifics go hand in hand with large influx of European migrants, the massive increase in number of Mustang horse population, a single common US currency for all colonies and the construction of the first transcontinental railroad connecting US Eastcoast to San Francisco, California.
 
+![US Rail Network](content/posts/06-01/us_rail_network.png)
+
 Within 150 years or 3 generations of migrants, the US economy would grow from a tributary colony to the largest economy in the world prior to World War 1. During WW1 and WW2, even more talented scientists, doctors and wealthy families fleeing the destruction of wars in Europe, migrating to the United States like Albert Einstein or Nicholas Tesla. 
 
 And after the defeat of Japan in the battle for the Pacifics, the US currency became the foundation of global modern finance. Every move from the FED chairman would set the rhythm for the entire global economy. 
@@ -93,6 +95,8 @@ By the 1980, Germany and Japan once again became top economies in the world with
 
 European Union citizens also have access to much more energy per capita than in other areas in the world thanks to their proximity to the Middle East oil fields, and the multi-nations research and development of Nuclear Energy. By 1986, the majority of France's energy production came from Nuclear power plants. 
 
+![EU Bright City States](content/posts/06-01/city_states_of_europe.png)
+
 After defeating a common enemy, the SoViet Union in 1990s, European Union become an even stronger Union with the creation of the EURO, a common currency for all EU members in 1992 and the creation of a no-border check Schengen Area. 
 
 Now EU member citizens can spend their common currency anywhere within the Schengen Area, use the same driver license to travel to other EU member countries, work, buy houses and retire anywhere within the Schengen Area. 
@@ -104,6 +108,8 @@ Now  university researchers, doctors, engineers and businessmen can use the inte
 The European Union also has their Qin Shi Huang megastructure project type with the construction of The Large Hadron Collider, the largest machine built by humans on earth. 
 
 The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
+
+![Large Hadron Collider](content/posts/06-01/geneva_ia.png)
 
 However, is the EU a perfect union like the US or China? European councils did not have the same level of control over local economies as the US Fed or China Central Bank so will the EU Bonds will ever be as reliable as the US Treasury Bond or China Real Estate. 
 
