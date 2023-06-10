@@ -20,8 +20,6 @@ export function getSortedPostsData(postsDirectory) {
     // Remove ".md" from file name to get id
     const id = dirName.replace(/\.md$/, '')
 
-    
-
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, id, `index.md`)
 

@@ -15,13 +15,10 @@ From the Qin crossbow that puts firepower in the hands of normal, not well train
 In the battle for Ukraine, this once again prove to be true with the successful of the Javelin, a portable anti-tank missiles that enable a small country like Ukraine to take out one third of all Russian tanks available for combat.
 
 ![Texas Smart Missiles RD](content/posts/07-04/texas_smart_missiles_RD.png)
-
 ### Stealth Technology - An Over-Valued Weapon or an Investment Trap
 Stealth technlogy over-valuation is leading to over-investing and over-estimating the technology effectiveness. Limited numbers of stealth planes available for combat and the loss of one plane is leading to the loss of a huge part of offensive powers. 
 
 ![Lockheed Martin Skunk Work](content/posts/07-04/lockheed_skunk_works.png)
-
-
 ### Near Future Technology Can Lead To The House Of Card's Total Collapse
 Machine learning will help to filter out the noise in radar return in L-Band radar which eventually enable the detection of F35s, F22s and other stealth planes and ships.
 
