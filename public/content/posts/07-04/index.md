@@ -10,9 +10,21 @@ tags: ['United States','United Kingdom','Turkey','China','Lockheed Martin','Texa
 published: true
 ---
 ### Investing in Arrows is better than investing in Shields
-From the Qin crossbow that puts firepower in the hands of normal, not well trained farmers to the AK47 in Vietnam war to the Manpad Stingray in the Afghan war, history rewards leaders who can empower their common people with the ability to defend themselves and their interests. 
+Attack surface is always huge for a person, a home or a country. Security of a person, a home or a country relies solely on defensive measures is resource intensive and ineffective. The attackers will always eventually find the chink in the armor and break through the defensive lines. 
 
-In the battle for Ukraine, this once again prove to be true with the successful of the Javelin, a portable anti-tank missiles that enable a small country like Ukraine to take out one third of all Russian tanks available for combat.
+Pre-emptive attack to take out key enemy offensive capability or counter attack after successful defense to disarm or disable the enemy is necessary to have true security for a person, a home or a country.
+
+By distributing the offensive power into many soldiers instead of putting it all in a single miracle machine, military planners can maximize enemy attack surfaces while limiting their own exposure. 
+
+From the Qin crossbow that puts firepower in the hands of normal, not well trained farmers to the AK47 in Vietnam war to the Manpad Stingray in the Afghan war, history rewards leaders who can empower their common people with the ability to defend themselves and their interests.
+
+In the battle for Ukraine, this once again proved to be true with the success of the Javelin, a portable anti-tank missile that enabled a small country like Ukraine to take out one third of all Russian tanks available for combat. 
+
+![Anti Tank Javelin](content/posts/07-04/the_antitank_javelin.png)
+
+Without enough tanks, Russia could always continue to bombard Ukraine cities from the Air with cruise missiles and bombs but will not be able to secure the ground and capture more Ukrainian cities. 
+
+The Javelin, a Texas-made product via the combined efforts of Lockheed Martin missile division and Texas-Instruments sensors and semiconductor research department, is the Qin crossbow of the 21st century. The Javelin is also not GPS dependent like other NATO missiles so even if Russia could take out all American GPS satellites with their Mig 31 and anti-satellite missiles, the Javelin could still be operational. 
 
 ![Texas Smart Missiles RD](content/posts/07-04/texas_smart_missiles_RD.png)
 ### Stealth Technology - An Over-Valued Weapon or an Investment Trap
