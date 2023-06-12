@@ -27,6 +27,11 @@ Without enough tanks, Russia could always continue to bombard Ukraine cities fro
 The Javelin, a Texas-made product via the combined efforts of Lockheed Martin missile division and Texas-Instruments sensors and semiconductor research department, is the Qin crossbow of the 21st century. The Javelin is also not GPS dependent like other NATO missiles so even if Russia could take out all American GPS satellites with their Mig 31 and anti-satellite missiles, the Javelin could still be operational. 
 
 ![Texas Smart Missiles RD](content/posts/07-04/texas_smart_missiles_RD.png)
+
+With so many miracle war machines like the Poseidon nuclear-powered torpedo, Avangard hypersonic glider, Kinzhal hypersonic missile, Russia was deprioritizing investment in individual soldiers and their supporting tanks and planes in exchanging for more media exposures and defend stunts.
+
+![Texas Smart Missiles RD](content/posts/07-04/defense_poster_russian_poisedon.png)
+
 ### Stealth Technology - An Over-Valued Weapon or an Investment Trap
 Stealth technlogy over-valuation is leading to over-investing and over-estimating the technology effectiveness. Limited numbers of stealth planes available for combat and the loss of one plane is leading to the loss of a huge part of offensive powers. 
 
