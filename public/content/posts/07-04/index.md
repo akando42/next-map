@@ -56,7 +56,7 @@ The only Stealth fighters used offensively was the F-117 Nighthawk to evade enem
 
 After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
 
-![Stealth Airframe Research Center](content/posts/07-04/lockheed_skunk_work.png)
+![Stealth Airframe Research Center](content/posts/07-04/lockheed_skunk_works.png)
 
 Stealth aircrafts are very expensive weapons platforms that the loss of one result in public embarrassment to the government, the air force and a big hole in the annual defense budget. 
 
