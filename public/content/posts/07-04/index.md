@@ -52,7 +52,7 @@ Turkey is making the prototype of their first Unmanned Stealth Fighter.
 
 All Stealth fighters are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version. 
 
-The only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack.
+The only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
 
 After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
 
