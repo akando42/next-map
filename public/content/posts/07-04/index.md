@@ -32,13 +32,13 @@ With so many miracle war machines like the Poseidon nuclear-powered torpedo, Ava
 
 ![Texas Smart Missiles RD](content/posts/07-04/defense_poster_russian_poisedon.png)
 
-### Stealth Technology - An Over-Valued Weapon or an Investment Trap or a Expense Shielding Scheme
+### Stealth Technology - An Over-Valued Weapon or an Investment Trap or an Expense Shielding Scheme
 
 From the 1st research paper on The Increase in Radio Wave Diffraction via Edge Configuration by a Soviet scientist in 1964, the US will deliver their 1000 F35 Stealth fighters to US and their allies in 2024. Was that 60 years of misdirection or brilliance? 
 
 ![Stealth Technology from Research to Mass Production](content/posts/07-04/stealth_research_to_mass_production.png)
 
-The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: the Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time and the the Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
+The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: the Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time and the Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
 
 Fifth Generation stealth fighters are rarely used in Combat. Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 
 
