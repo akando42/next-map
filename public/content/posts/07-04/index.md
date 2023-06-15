@@ -32,7 +32,7 @@ With so many miracle war machines like the Poseidon nuclear-powered torpedo, Ava
 
 ![Texas Smart Missiles RD](content/posts/07-04/defense_poster_russian_poisedon.png)
 
-### Stealth Technology - An Over-Valued Weapon or an Investment Trap or an Expense Shielding Scheme
+### Stealth Technology - An Over-Valued Weapon or a Foreign Spy Trap or an Expense Shielding Scheme
 
 From the 1st research paper on The Increase in Radio Wave Diffraction via Edge Configuration by a Soviet scientist in 1964, the US will deliver their 1000 F35 Stealth fighters to US and their allies in 2024. Was that 60 years of misdirection or brilliance? 
 
