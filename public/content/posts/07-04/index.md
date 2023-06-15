@@ -32,7 +32,7 @@ With so many miracle war machines like the Poseidon nuclear-powered torpedo, Ava
 
 ![Texas Smart Missiles RD](content/posts/07-04/defense_poster_russian_poisedon.png)
 
-### Stealth Technology - An Over-Valued Weapon or a Foreign Spy Trap or an Expense Shielding Scheme
+### Stealth Technology - An Over-Valued Weapon or a Network of Foreign Spy Traps or an Expense Shielding Scheme
 
 From the 1st research paper on The Increase in Radio Wave Diffraction via Edge Configuration by a Soviet scientist in 1964, the US will deliver their 1000 F35 Stealth fighters to US and their allies in 2024. Was that 60 years of misdirection or brilliance? 
 
@@ -42,13 +42,18 @@ The study of Radar wave refraction and diffraction resulted in two breakthrough 
 
 Fifth Generation stealth fighters are rarely used in Combat. Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 
 
-There are 900s plus F35 available for combat though which could be dangerous but the loss of one plane should not result in huge loss of offensive power. 900 F35 is enough to achieve Air Superiority over the skies of most countries. 
+US mass production capability and its massive defend budget allows the F35 to reach their critical mass of 1000 F35 by the year 2024.
+1000 plus F35 is enough to achieve Air Superiority over the skies of most countries and allows US bombers to drop its payload in an uncontested sky.
 
-There are 20 B2 Bomber avail for combat, not enough conventional weapon payload to replace B52. Only good for the delivery of nuclear weapons at 100% success rate.
+![F35 Assembly Line](content/posts/07-04/fort_worth_f35_assembly_line.png)
+
+There are 20 B2 Bomber available for combat, not enough conventional weapon payload to replace B52. Only good for the delivery of nuclear weapons at 100% success rate.
 
 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. 
 
 Turkey is making the prototype of their first Unmanned Stealth Fighter. 
+
+![Turkey Unmanned Stealth Fighter](content/posts/07-04/turkey_unmanned_stealth_fighter.png)
 
 All Stealth fighters are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version. 
 
