@@ -61,29 +61,44 @@ Enemy naval Radars and AEWACs needs to be able to detect and track US West Coast
 
 ![AEWAC - Airborne Early Warning and Control](content/posts/07-04/Airborne_Early_Warning_And_Control.png)
 
-However, the only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
-
-After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
+Most of the F35 program Research and Development was initially done in California and Massachusetts near the US top Engineering program and its Tech ecosystem. While most of the F35 program manufacturing,  assembly and testing is being done in Texas, California and Florida near major US military bases. 
 
 ![Stealth Airframe Research Center](content/posts/07-04/lockheed_skunk_works.png)
 
-Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. 
+The entire F35 program spreads out across the United States among 2000 plus vendors in almost every state and employs more than 500,000 American and foreign contractors in allied countries like UK, Turkey and Singapore. 
+
+However, the only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
+
+![F117 Night Hawk](content/posts/07-04/f117_night_hawk.png)
+
+After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
+
+Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. The J20 program is part of the Aerospace and High Tech Industrial Zone of Chengdu. 
 
 All Stealth fighters from US, China, Russia are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version.  
 
 ![Top Stealth Fighters](content/posts/07-04/top_stealth_fighters.png)
 
-Turkey is making prototype of their first Unmanned Stealth Fighter. Will Autonomous Stealth Fighter a game changer or another money sunk?
+Turkey is making prototype of their first Unmanned Stealth Fighter. Turkey Unmanned Stealth Fighter is a product of Bayraktar, the same indigenous company that created the famous TB2 Drone that destroyed many Soviet era tanks in Armenia and Ukraine. Will Autonomous Stealth Fighter a game changer or another money sunk?
 
 ![Turkey Unmanned Stealth Fighter](content/posts/07-04/turkey_unmanned_stealth_fighter.png)
 
-Modern destroyers with Long-range Guided Missiles and saturing ground and sea converage from Synthetic Aperture Radar satelites as well as high-resolution Optical satelites could potentially sink an aircraft carrier before any aircrafts stealth or not stealth could be launched. 
+Modern destroyers with Long-range Guided Missiles and saturing surface converage from Synthetic Aperture Radar satelites as well as high-resolution Optical satelites could potentially sink an aircraft carrier before any aircrafts stealth or not stealth could be launched. 
 
 ![SAR Imaging](content/posts/07-04/SAR_Imaging.png)
 
-### Near Future Technology Can Lead To The House Of Card's Total Collapse
-Machine learning will help to filter out the noise in radar return in L-Band radar which eventually enable the detection of F35s, F22s and other stealth planes and ships.
+### The Paradigm Shifts in Defense Industry
+America and the West have major advantages in technology through early industrialization in the 17th century. Heavy industry has a slow innovation iteration cycle because of its high cost of material and machinery. It is also very difficult to keep secret any kind of heavy industry invention or innovation. 
 
-Quantum radar will exponentially change the game and enable detecting, locating, tracking and targeting at great distance hyper accurately.
+This is why it is difficult to close the gap in heavy industry with the West and the UK is still holding major advantages accumulated since 1945 in Engine design and manufacturing over even the US, Russia or Asia. 
 
-Improvement in machine vision technology and autonomous driving will enable missle homing using visual signature instead of heat or radio-based signature. While stealth airframe is optimized to reduce infrared and radar signature, it is still a huge aircraft that is visible to the naked eyes.
+The most advanced Engine is still being built first in the UK or UK-influenced American East Coast with the highest thrust-to-weight ratio engines being built by Pratt and Whitney of Connecticut, US for F22 and built by Eurojet for the European Typhoon aircraft. 
+
+![F22 Engine](content/posts/07-04/f22_engine.png)
+
+Other post-WW2 brand new technology areas with faster innovation iteration cycle like Biotechnology, Semiconductor and Artificial Intelligence shows a much smaller gap with Asia has slight or large advantages over the West. 
+
+![Nano Chip](content/posts/07-04/nano-meter-chip.png)
+
+Practical knowledge is power and the defense industry is not an exception. Weaponization of Biotech, Semiconductor and Artificial Intelligence has been done and will continue to accelerate in this 21 century. Viruses, Nanobot and Information could all become a stealthy invisible form of weapons for homeland defense and territorial expansion for any nations or corporations who hold the leading edge in these brand new paradigms. 
+
