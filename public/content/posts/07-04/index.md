@@ -42,12 +42,15 @@ The study of Radar wave refraction and diffraction resulted in two breakthrough 
 
 Fifth Generation stealth fighters are rarely used in Combat. Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 
 
-US mass production capability and its massive defend budget allows the F35 to reach their critical mass of 1000 F35 by the year 2024.
-1000 plus F35 is enough to achieve Air Superiority over the skies of most countries and allows US bombers to drop its payload in an uncontested sky.
+US mass production capability and its massive annual GDP of 25000 billion dollar allows the F35 to reach their critical mass of 1000 F35 by the year 2024. 
 
 ![F35 Assembly Line](content/posts/07-04/fort_worth_f35_assembly_line.png)
 
-There are 20 B2 Bomber available for combat, not enough conventional weapon payload to replace B52. Only good for the delivery of nuclear weapons at 100% success rate.
+Offensively, 1000 plus F35 is enough to achieve Air Superiority over the skies of most countries and allows US bombers to drop its payload in an uncontested sky. There are 20 B2 Stealth Bomber available for combat, not enough conventional weapon payload to replace B52 but useful for the delivery of nuclear weapons at 100% success rate.
+
+Defensively, if somehow all US Carriers and Destroyers were sinked or disabled, it will still be an extremely difficult task for enemy Naval Radar and EWACs to be able to achieve Air Superiority over the sky US West Coast against land-based F35A and F22 stationning along American West Coast. 
+
+![US Homeland Defense](content/posts/07-04/US_Homeland_Defense.png)
 
 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. 
 
