@@ -38,9 +38,12 @@ From the 1st research paper on The Increase in Radio Wave Diffraction via Edge C
 
 ![Stealth Technology from Research to Mass Production](content/posts/07-04/stealth_research_to_mass_production.png)
 
-The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: the Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time and the Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
+The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: 
+- The Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time 
 
-Fifth Generation stealth fighters are rarely used in Combat. Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 
+![Active Electrically Scanned Array Radar](content/posts/07-04/active_electronically_scanned_array_radar.png)
+
+- The Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
 
 US mass production capability and its massive annual GDP of 25000 billion dollar allows the F35 to reach their critical mass of 1000 F35 by the year 2024. 
 
@@ -48,25 +51,35 @@ US mass production capability and its massive annual GDP of 25000 billion dollar
 
 Offensively, 1000 plus F35 is enough to achieve Air Superiority over the skies of most countries and allows US bombers to drop its payload in an uncontested sky. There are 20 B2 Stealth Bomber available for combat, not enough conventional weapon payload to replace B52 but useful for the delivery of nuclear weapons at 100% success rate.
 
-Defensively, if somehow all US Carriers and Destroyers were sinked or disabled, it will still be an extremely difficult task for enemy Naval Radar and EWACs to be able to achieve Air Superiority over the sky US West Coast against land-based F35A and F22 stationning along American West Coast. 
-
 ![US Homeland Defense](content/posts/07-04/US_Homeland_Defense.png)
 
-200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. 
+Defensively, if somehow all US Carriers and Destroyers were sinked or disabled, it will still be an extremely difficult task for enemy naval and airforce to achieve Air Superiority of American West Coast.
 
-Turkey is making the prototype of their first Unmanned Stealth Fighter. 
+![LCS and Carrier at Seattle Naval Base](content/posts/07-04/LCS_and_Carrier_at_Seattle_Naval_Base.png)
 
-![Turkey Unmanned Stealth Fighter](content/posts/07-04/turkey_unmanned_stealth_fighter.png)
+Enemy naval Radars and AEWACs needs to be able to detect and track US West Coast land-based F35A and F22 stationning along American West Coast without the normal saturating home ground radar coverage of fixed land-based Radar stations. 
 
-All Stealth fighters are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version. 
+![AEWAC - Airborne Early Warning and Control](content/posts/07-04/Airborne_Early_Warning_And_Control.png)
 
-The only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
+However, the only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
 
 After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
 
 ![Stealth Airframe Research Center](content/posts/07-04/lockheed_skunk_works.png)
 
-Stealth aircrafts are very expensive weapons platforms that the loss of one result in public embarrassment to the government, the air force and a big hole in the annual defense budget. 
+Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. 
+
+All Stealth fighters from US, China, Russia are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version.  
+
+![Top Stealth Fighters](content/posts/07-04/top_stealth_fighters.png)
+
+Turkey is making prototype of their first Unmanned Stealth Fighter. Will Autonomous Stealth Fighter a game changer or another money sunk?
+
+![Turkey Unmanned Stealth Fighter](content/posts/07-04/turkey_unmanned_stealth_fighter.png)
+
+Modern destroyers with Long-range Guided Missiles and saturing ground and sea converage from Synthetic Aperture Radar satelites as well as high-resolution Optical satelites could potentially sink an aircraft carrier before any aircrafts stealth or not stealth could be launched. 
+
+![SAR Imaging](content/posts/07-04/SAR_Imaging.png)
 
 ### Near Future Technology Can Lead To The House Of Card's Total Collapse
 Machine learning will help to filter out the noise in radar return in L-Band radar which eventually enable the detection of F35s, F22s and other stealth planes and ships.
