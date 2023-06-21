@@ -41,7 +41,7 @@ From the 1st research paper on The Increase in Radio Wave Diffraction via Edge C
 The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: 
 - The Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time 
 
-![Active Electrically Scanned Array Radar](content/posts/07-04/active_electronically_scanned_array_radar.png)
+![Active Electrically Scanned Array Radar](content/posts/07-04/scanned_array_radar.png)
 
 - The Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
 
