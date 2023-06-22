@@ -92,7 +92,7 @@ America and the West have major advantages in technology through early industria
 
 This is why it is difficult to close the gap in heavy industry with the West and the UK is still holding major advantages accumulated since 1945 in Engine design and manufacturing over even the US, Russia or Asia. 
 
-The most advanced Engine is still being built first in the UK or UK-influenced American East Coast with the highest thrust-to-weight ratio engines being built by Pratt and Whitney of Connecticut, US for F22 and built by Eurojet for the European Typhoon aircraft. 
+The most advanced Engine is still being built first in the UK or UK-influenced American North East with the highest thrust-to-weight ratio engines being built by Pratt and Whitney of Connecticut, US for F22 and by Eurojet for the European Typhoon aircraft. 
 
 ![F22 Engine](content/posts/07-04/f22_engine.png)
 
