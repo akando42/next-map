@@ -16,13 +16,14 @@ export async function getServerSideProps() {
   const todayString = today.toJSON()
 
   // console.log(postsData.length)
-  var minDistance = 100
+  var minDistance = 200
   var stopIndex = 0
 
   function find_start_date(index, item, todayString){
     const postDate = item.id
     const todayDate = todayString
     // console.log(postDate, todayDate)
+    
     const postDateNum = postDate.substring(0,2) + postDate.substring(3,5)
     const todayDateNum = todayDate.substring(5,7) + todayDate.substring(8,10)
     const time_distance = parseInt(todayDateNum) - parseInt(postDateNum)
@@ -31,7 +32,7 @@ export async function getServerSideProps() {
         minDistance = time_distance
         stopIndex = index
     }
-    // console.log(postDateNum, todayDateNum, time_distance)
+    console.log(postDateNum, todayDateNum, time_distance)
   }
 
   postsData.map(
