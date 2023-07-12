@@ -11,12 +11,24 @@ published: true
 ---
 
 ### From An Apple of Knowledge To A Mexican Standoff
+Why do these European countries call Eng-LAND, Switzer-LAND, Fin-LAND and Po-LAND ? And some other Central Asian countries call Turkmeni-STAN, Afghani-STAN, Uzbeki-STAN, Kyrgyz-STAN, Paki-STAN and Kazah-STAN with STAN meaning LAND in Persian. 
+
+It is like a group of Caucasian men sitting down together in the mountain valley of Georgia in the Caucasus region after finishing the discovery of the known world and starting to re-arrange people tribes like Chess pieces into specialized regions of the World.  
+
+![The Caucasus Secret Conference](content/posts/07-13/the_secret_caucasian_conference.png)
+
+There is no absolute evidence that Eng-Land means the Land of Engineer but the best Engine in the World for the F22 was made in collaboration between North East American engineers and British engineers, the Nuclear Bomb was invented by British and American scientists as well as the Digital Computers.
+
+The most leading edge and up to date Technical Knowledge from Computer, Electrical, Material, Chemical and Nuclear Engineering are in English. The French and the Korean Engineers who design and build Nuclear Reactors nowaday all speak English with their colleagues.
+
+By recruiting and moving best Scientists and Engineers first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
+
+After 200 years of continuous Engineering innovation, at the beginning of 1900, two English speaking countries: US and UK, were the number one and number two economies in the world with only 160 million people total but produced 6 times the output of 900 million Indian and Chinese. The process of converting Coal and Oil into output in the Combustion Engine, West of the Caucasus was outpacing the process of converting Food and Water into output in the Human Digest System, East of the Caucasus. 
 
 #### The Trinity Test and The Dawn of Nuclear Energy
 From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. 
 
-A scientific discovery that has the potential turn 
-thin air into unlimited energy has becoming the potential for a human extinction event. 
+A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
 
 Nuclear weapon is a device that can create explosive energy from the nuclear chain reactions either through fission process - the breaking up of nuclear material or both the combination of fusion and fission process (the combining and breaking up for nuclear materials) in a thermal nuclear bomb.
 
