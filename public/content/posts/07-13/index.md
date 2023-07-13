@@ -59,6 +59,8 @@ Maybe the Fukushima nuclear accident was American-made to throttle the growth of
 
 #### Operation Crossroads at The Bikini Atoll - First Nuclear Test On Water
 
+![Japan Major Human Settlements](content/posts/07-13/hiroshima_vs_tokyo.png)
+
 After WWII, Amercica have a dominant position in the world affair as the number one economy, naval power and nuclear power. 
 
 They conducted the first nuclear test during the Operation Crossroads at the Bikini Atoll that demonstrated the destruction of nuclear weapon on naval fleets. While land nuclear contamination is a major problem, ocean nuclear contamination is not so much. 
@@ -69,9 +71,15 @@ Russia has recenlty developed the Poseidon a nuclear autonomous torpedo that can
 
 #### Nuclear Deterrence, Mutual Assure Destruction Doctrine and the Cold War
 
+![US ICBM Triangle](content/posts/07-13/dangerous_ICBM_triangles.png)
+
 Nuclear detterence comes from the assumption that the defending force would be able to deter the attacking force from aggression via potential of severe nuclear destruction. It is totally irrational or MAD to initate a war between two major nuclear powers since both can achieve little rewards from such wars. It is mutually assured destruction for the USSR and US to go to war. 
 
+![Malmstrom_ICBM_Missile_Silos](content/posts/07-13/Malmstrom_ICBM_Missile_Silos.png)
+
 Some nuclear powers like India or China with less nuclear stockpiles and the inablity to actually win in an all out nuclear exchanges with major nuclear powers like Russia and United States uses A Second Strike only policy. While Russia, US, France and England reserves their ability to Strike First in case of an imminent nuclear attacks from an adversary. 
+
+![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
 
 Maybe the AK47 like the Atomic Bomb is designed by American since the US Independence Day is July 4 or 4/7 in Euro Asia. The AK47 and The Atomic Bomb are tools to ensure the strategic balance and perpetual dominant position of United States. The US and the USSR wil play Good Cop, Bad Cop in order to maintain the Dollar Hegemony as well as Western Culture and Idea Dominance. In the end both Capitalism and Communism comes from the West. US is the Good Cop and Russia is the Bad Cop.
 
@@ -81,15 +89,25 @@ Maybe the AK47 like the Atomic Bomb is designed by American since the US Indepen
 
 After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an Uni Polar with the United States becomes the dominating power. After the failed arm race, So Viet union is being pushed into a defensive position, holding on to its collaping coalitions. 
 
+![RUSSIA Berlarus ICBM Warning](content/posts/07-13/RUSSIA_Berlarus_ICBM_Warning_Radar.png)
 
+![RUSSIA Ural ICBM Warning](content/posts/07-13/RUSSIA_Ural_ICBM_Warning_Radar.png)
+
+![RUSSIA Dombarovsky ICBM Warning Radar](content/posts/07-13/Russian_Dombarovsky_ICBM_Base.png)
+
+![Ulan Ude Spacecom](content/posts/07-13/Ulan_Ude_Space_Com.png)
 #### Missile Defense System and Its Destabilization
 
+![Sea-Based X-Band Radar](content/posts/07-13/Sea_Based_X_Band_Radar.png)
+
+![Flyingdale UK Radar](content/posts/07-13/Fylingdale_UK_Radar.png)
+
+![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
 
 #### Nash Equilibrium In An 8 or More Players Game
-
+![Nuclear Power Nations](content/posts/07-13/nuclear_weapon_controllers.png)
 
 ### Particle Physics and The Obsolescence of Nuclear Deterrence
-
 
 #### Antimatter Energy and Its New Way To Make Bigger and Cleaner Explosion
 What is the most efficient way to convert mass to energy. Current most efficient way we are using is Nuclear Fission process. However, by annihilating matter with antimatter, it is exponentially more efficient. Converting mass to energy is the equation behind every weapon as well as engine ever created by human kind.  
