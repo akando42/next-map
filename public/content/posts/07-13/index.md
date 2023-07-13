@@ -41,13 +41,13 @@ Nuclear weapon is a device that can create explosive energy from the nuclear cha
 
 Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb. Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on the world geopolitical pictures after WWII. 
 
+![The Atomic Bomb Dome](content/posts/07-13/atomic_bomb_dome.png)
+
 The Trinity site in New Mexico,  a very strategic location, was picked by Oppenhimer as the location for the testing of the first Atomic Bomb built under the Manhattan project. The Trinity test site is located at the intersection of the Mexican Rio Grande river and the only major flat land area connecting US Hispanic West Coast and US Caucasian East Coast through the Rocky mountain range. 
 
 ![The Trinity Test Site](content/posts/07-13/Trinity_Nuclear_Testsite.png)
 
 From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though because it was done by British and American. Thats why Uranium-based nuclear weapon research was prioritzied over Thorium-based nuclear energy research. The low fertility rate of Caucasian women makes Caucasian men religiously chose to expand their genetic footprints by eliminating males and capturing females from other cultures. Other cultures in Africa, India and Asia only need to expand their genetic footprints by keeping their women well fed and their home well lit. 
-
-
 
 Any attempts by Non-NATO countries to conduct nuclear energy research and expand nuclear energy generation would be severely disrupted or limited by NATO countries. Nuclear power generators are very geographical independent and difficult to throttle. One can put a nuclear power generator on submarine, aircraft carrier and even plane and it would run for years. Oil and gas is concerntrated in the Middle East, Gulf of Mexico and Siberia which could be controlled and throttled by NATO or Russia. 
 
