@@ -31,21 +31,21 @@ And then in 1930, 10 years before World War 2, The Institute of Advanced Studies
 
 ![Fathers of ICBM](content/posts/07-13/fathers_of_ICBM.png)
 
+#### The Trinity Test and The First Attempt At Manipulating Nature at Sub Atomic Level
 
-#### The Trinity Test and The Dawn of Nuclear Energy
-From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. 
+The detonation of the first Atom Bomb at the Trinity Test site is a major upgrade of the US Caucasian North Atlantics weapon arsenals in their expansion West toward East Asia and South toward Latin America. 
 
-A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
+From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
 
 Nuclear weapon is a device that can create explosive energy from the nuclear chain reactions either through fission process - the breaking up of nuclear material or both the combination of fusion and fission process (the combining and breaking up for nuclear materials) in a thermal nuclear bomb.
 
-Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb.
+Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb. Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on the world geopolitical pictures after WWII. 
 
-Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on the world geopolitical pictures after WWII. 
+The Trinity site in New Mexico,  a very strategic location, was picked by Oppenhimer as the location for the testing of the first Atomic Bomb built under the Manhattan project. The Trinity test site is located at the intersection of the Mexican Rio Grande river and the only major flat land area connecting US Hispanic West Coast and US Caucasian East Coast through the Rocky mountain range. 
 
-From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though cause it was done by British and American. Thats why Uranium-based nuclear research was prioritzied over Thorium-based nuclear research. American and British naturally chose to prioritize "Individualism" over "Collectivism" cause you know why.
+![The Trinity Test Site](content/posts/07-13/Trinity_Nuclear_Testsite.png)
 
-Nowaway, we only see Canada, India and China invest heavily in Thorium-based nuclear research. 
+From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though cause it was done by British and American. Thats why Uranium-based nuclear weapon research was prioritzied over Thorium-based nuclear energy research. American and British religiously chose to expand their genetic footprints at all costs while other cultures in Africa and Asia only choose to maintain their existing genetic footprints at their natural rate. 
 
 #### Operation Crossroads at The Bikini Atoll - First Nuclear Test On Water
 
