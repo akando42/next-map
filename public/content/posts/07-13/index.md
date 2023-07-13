@@ -104,7 +104,7 @@ After the collapse of Soviet Union in 1990s, the world balance of power is movin
 
 ![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
 
-#### Nash Equilibrium In An 8 or More Players Game
+#### Nash Equilibrium In An 9 or More Players Game
 ![Nuclear Power Nations](content/posts/07-13/nuclear_weapon_controllers.png)
 
 ### Particle Physics and The Obsolescence of Nuclear Deterrence
