@@ -17,7 +17,7 @@ It is like a group of Caucasian men sitting down together in the mountain valley
 
 ![The Caucasus Secret Conference](content/posts/07-13/the_secret_caucasian_conference.png)
 
-There is no absolute evidence that Eng-Land means the Land of Engineer but the best Engine in the World for the F22 was made in collaboration between North East American engineers and British engineers, the Nuclear Bomb was invented by British and American scientists as well as the Digital Computers. Fin-LAND has the largest ocean container fleet in the world, Po-LAND hosts the secret services of Eastern Europe and Switzer-LAND makes baby formula milk and Glock handgun. 
+There is no absolute evidence that Eng-Land means the Land of Engineer but the best Engine in the World for the F22 was made in collaboration between North East American engineers and British engineers, the Nuclear Bomb was invented by British and American scientists as well as the Digital Computers. Fin-LAND has the largest ocean container fleet in the world, Po-LAND hosts the secret services of Eastern Europe and Switzer-LAND makes baby formula milk, cheese and Glock handgun. 
 
 The most leading edge and up to date Technical Knowledge from Computer, Electrical, Material, Chemical and Nuclear Engineering are in English. The French and the Korean Engineers who design and build Nuclear Reactors nowaday all speak English with their colleagues.
 
