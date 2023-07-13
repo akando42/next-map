@@ -47,11 +47,15 @@ The Trinity site in New Mexico,  a very strategic location, was picked by Oppenh
 
 From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though because it was done by British and American. Thats why Uranium-based nuclear weapon research was prioritzied over Thorium-based nuclear energy research. The low fertility rate of Caucasian women makes Caucasian men religiously chose to expand their genetic footprints by eliminating males and capturing females from other cultures. Other cultures in Africa, India and Asia only need to expand their genetic footprints by keeping their women well fed and their home well lit. 
 
+
+
 Any attempts by Non-NATO countries to conduct nuclear energy research and expand nuclear energy generation would be severely disrupted or limited by NATO countries. Nuclear power generators are very geographical independent and difficult to throttle. One can put a nuclear power generator on submarine, aircraft carrier and even plane and it would run for years. Oil and gas is concerntrated in the Middle East, Gulf of Mexico and Siberia which could be controlled and throttled by NATO or Russia. 
 
 ![Fukushima Nuclear Accident](content/posts/07-13/Fukushima_Nuclear_Accidents.png)
 
-Maybe the Fukushima nuclear accident was American-made to throttle the growth of Japanese economy and population.  
+Maybe the Fukushima nuclear accident was American-made to throttle the growth of Japanese economy and population and the North Korean secret services blow up the port of Beirut, Lebanon with fertilizers as a Joke to the NATO attempts at stopping North Korean nuclear program and containing China because of Chinese women high fertility rate. 
+
+![Beirut Explosion](content/posts/07-13/beirut_fertilizer_mushroom.png)
 
 #### Operation Crossroads at The Bikini Atoll - First Nuclear Test On Water
 
