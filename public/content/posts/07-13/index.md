@@ -87,7 +87,7 @@ The Cold War and the constant nuclear threats altered the genetic makeup of US m
 ![The Nuclear Decoys of United States](content/posts/07-13/faces_of_us_major_cities.png)
 
 ### An Unstable Nash Equilibrium In A Multi-Polars World
-#### The Collapse of Soviet Union and The Non Proliferation Treaty
+#### The Collapse of Soviet Union and Its Nuclear Capability
 
 After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an Uni Polar with the United States becomes the dominating power. After the failed arm race, So Viet union is being pushed into a defensive position, holding on to its collaping coalitions. 
 
@@ -98,16 +98,16 @@ After the collapse of Soviet Union in 1990s, the world balance of power is movin
 ![RUSSIA Dombarovsky ICBM Warning Radar](content/posts/07-13/Russian_Dombarovsky_ICBM_Base.png)
 
 ![Ulan Ude Spacecom](content/posts/07-13/Ulan_Ude_Space_Com.png)
-#### Missile Defense System and Its Destabilization
 
+#### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
+![Nuclear Power Nations](content/posts/07-13/nuclear_weapon_controllers.png)
+
+#### The Development of Missile Defense System
 ![Sea-Based X-Band Radar](content/posts/07-13/Sea_Based_X_Band_Radar.png)
 
 ![Flyingdale UK Radar](content/posts/07-13/Fylingdale_UK_Radar.png)
 
 ![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
-
-#### Nash Equilibrium In An 9 or More Players Game
-![Nuclear Power Nations](content/posts/07-13/nuclear_weapon_controllers.png)
 
 ### Particle Physics and The Obsolescence of Nuclear Deterrence
 
@@ -124,13 +124,11 @@ Procuding anti-matter is astronomically expensive and only possible using massiv
 
 In 2015, the discovery of neutrino oscillation by Takaaki Kajita and Arther B. McDonald has shredded light for a new path to be able to measure nuclear fission emission from far distance. 
 
+![Neutrino Detector in Japan](content/posts/07-13/neutrino_detector_in_japan.png)
+
 Nuclear submarines has been a most difficult leg of the nuclear triads to eliminate to neutralize the advantage of nuclear nations. Be able to detect nuclear signature from far distance would turn the advantages of nuclear nations on its head. The nuclear engine would become a homing signal for missiles, torpedos and other weapon. 
 
 A neutrino-based detector would be able to achieve what all modern radar and sonar can not achieve. 
 
+#### Nanobots and the Remote Control Manchurian Candidate
 
-#### A Multi-Planet Specie with Its Backup Plan
-
-The "Enterprise Warp Drive" could become reality in 21 century and now it is OK to blow up earth, cause we have a backup home. 
-
-The backup home is not for the 99.9% though, only the 0.1%.
