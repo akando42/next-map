@@ -39,6 +39,8 @@ From Trinity test, the first nuclear explosion to the meeting of supreme leader 
 
 Nuclear weapon is a device that can create explosive energy from the nuclear chain reactions either through fission process (the breaking up of nuclear material) or both the combination of fusion and fission process (the combining and breaking up for nuclear materials) in a thermal nuclear bomb.
 
+![The Nuclear Chain Reaction](content/posts/07-13/the_chain_reaction.png)
+
 Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb. Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on the world geopolitical pictures after WWII. 
 
 ![The Atomic Bomb Dome](content/posts/07-13/atomic_bomb_dome.png)
@@ -53,7 +55,7 @@ Any attempts by Non-NATO countries to conduct nuclear energy research and expand
 
 ![Fukushima Nuclear Accident](content/posts/07-13/Fukushima_Nuclear_Accidents.png)
 
-Maybe the Fukushima nuclear accident was American-made to throttle the growth of Japanese economy and population and the North Korean secret services blow up the port of Beirut, Lebanon with fertilizers as a Joke to the NATO attempts at stopping North Korean nuclear program and containing China because of Chinese women high fertility rate. 
+Maybe the Fukushima nuclear accident was American-made to throttle the growth of Japanese economy and population. And the North Korean secret services blow up the port of Beirut, Lebanon with fertilizers as a Joke to the NATO attempts at stopping North Korean nuclear program and containing China because of Chinese women high fertility rate. 
 
 ![Beirut Explosion](content/posts/07-13/beirut_fertilizer_mushroom.png)
 
