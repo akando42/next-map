@@ -102,7 +102,7 @@ Militaries started to put nuclear detonators everywhere they could. The US and t
 
 ![Nuclear grenade launcher](content/posts/07-13/nuclear_grenade_launcher.png)
 
-During these Nuclear Arm Races, military thinkers from the United States and USSR started to develop the Mutual Assured Destruction doctrine. If you can hold enough enemy cities and arm forces at risk and guarantee your ability to counter strike in the case of a nuclear first strike from enemies.
+During these Nuclear Arm Races, military thinkers from the United States and USSR started to develop the Mutual Assured Destruction doctrine. If you can hold enough enemy cities and arm forces at risk and guarantee your ability to counter strike in the case of a nuclear first strike from enemies then you can deter any nuclear strike from enemy.
 
 ![US ICBM Triangle](content/posts/07-13/dangerous_ICBM_triangles.png) 
 
