@@ -37,15 +37,27 @@ The detonation of the first Atom Bomb at the Trinity Test site is a major upgrad
 
 From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
 
-Nuclear weapon is a device that can create explosive energy from the nuclear chain reactions either through fission process (the breaking up of nuclear material) or both the combination of fusion and fission process (the combining and breaking up for nuclear materials) in a thermal nuclear bomb.
-
 ![The Nuclear Chain Reaction](content/posts/07-13/the_chain_reaction.png)
 
-Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb. Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on the world geopolitical pictures after WWII. 
+Nuclear weapon is a device that can create explosive energy from the nuclear chain reactions either through fission process (the breaking up of nuclear material) or both the combination of fusion and fission process (the combining and breaking up for nuclear materials) in a thermal nuclear bomb.
 
 ![The Atomic Bomb Dome](content/posts/07-13/atomic_bomb_dome.png)
 
-The Trinity site in New Mexico,  a very strategic location, was picked by Oppenhimer as the location for the testing of the first Atomic Bomb built under the Manhattan project. The Trinity test site is located at the intersection of the Mexican Rio Grande river and the only major flat land area connecting US Hispanic West Coast and US Caucasian East Coast through the Rocky mountain range. 
+Tsar Bomba is the most powerful nuclear weapon ever created and it is an example of a thermal nuclear bomb. Nuclear weapons have only been used twice by US on Japan and had little effect on the outcome of World War II but had a massive effect on United States geographical and genetics advantages. 
+
+![WW2 Japan Nuker](content/posts/07-13/ww2_japan_nuker.png)
+
+By dropping two atomic bombs, the Little Boy and Fat Man nuclear bombs, on two non-essential targets: Hiroshima and Nagasaki from the Enola Gay bomber, the US was able turn Japan from a hostile enemy into an obedient ally. Hiroshima and Nagasaki, like Hanoi and Nanning, are trading ports for Sex Slaves with the West. Most of the Sex Slaves are XOs which are sacrificable. 
+
+![Japan Major Human Settlements](content/posts/07-13/hiroshima_vs_tokyo.png)
+
+By NUKING non-essential targets to demonstrate America's ability to cause much larger damage to the Empire of Japan more important targets, America was able to turn Japan from a hostile enemy into an obedient ally. 
+
+The event altered United States geographical advatanges by eliminating any Pacific Ocean threats and stationing Forward Military Bases directly on East Asian doorsteps at South Korea, Okinawa, Taiwan, Guam and the Philipine. The US mainland became the safest place on earth to store your assets and raise your family. As the result, The US can expand their Genetics options by drawing a massive amount of immigrations from Europe and Asia to US Mainland.
+
+![US East Asia Forward Basses](content/posts/07-13/us_east_asia_forward_bases.png)
+
+The Trinity site in New Mexico, a very strategic location, was picked by Oppenhimer as the location for the testing of the first Atomic Bomb built under the Manhattan project. The Trinity test site is located at the intersection of the Mexican Rio Grande river and the only major flat land area connecting US Hispanic West Coast and US Caucasian East Coast through the Rocky mountain range. 
 
 ![The Trinity Test Site](content/posts/07-13/Trinity_Nuclear_Testsite.png)
 
@@ -59,32 +71,20 @@ Maybe the Fukushima nuclear accident was American-made to throttle the growth of
 
 ![Beirut Explosion](content/posts/07-13/beirut_fertilizer_mushroom.png)
 
-#### Operation Crossroads at The Bikini Atoll - First Nuclear Test On Water
+#### The Development of Nuclear Ballistic Missiles
 
-![Japan Major Human Settlements](content/posts/07-13/hiroshima_vs_tokyo.png)
 
-After WWII, Amercica have a dominant position in the world affair as the number one economy, naval power and nuclear power. 
-
-They conducted the first nuclear test during the Operation Crossroads at the Bikini Atoll that demonstrated the destruction of nuclear weapon on naval fleets. While land nuclear contamination is a major problem, ocean nuclear contamination is not so much. 
-
-If a nuclear explosion happens in South China Sea or "East Sea" in Vietnamese way to call it, it is a major South East Asia and China problem but America would care less if it delivers the geo-politcal effect that they want to achieve.  So we are better off detonating a nuclear bomb in Indian Ocean if we can choose to do it. 
-
-Russia has recenlty developed the Poseidon a nuclear autonomous torpedo that can create a radioative Tsunami. We are sure to see more naval nuclear weapon with the ability to wipe out naval fleet in near future. Any nations or pirates with access to these weapons can wipe out a carrier battle group with ease.
-
-#### Nuclear Deterrence, Mutual Assure Destruction Doctrine and the Cold War
+#### Mutual Assure Destruction Doctrine
 
 ![US ICBM Triangle](content/posts/07-13/dangerous_ICBM_triangles.png)
 
-Nuclear detterence comes from the assumption that the defending force would be able to deter the attacking force from aggression via potential of severe nuclear destruction. It is totally irrational or MAD to initate a war between two major nuclear powers since both can achieve little rewards from such wars. It is mutually assured destruction for the USSR and US to go to war. 
-
 ![Malmstrom_ICBM_Missile_Silos](content/posts/07-13/Malmstrom_ICBM_Missile_Silos.png)
-
-Some nuclear powers like India or China with less nuclear stockpiles and the inablity to actually win in an all out nuclear exchanges with major nuclear powers like Russia and United States uses A Second Strike only policy. While Russia, US, France and England reserves their ability to Strike First in case of an imminent nuclear attacks from an adversary. 
 
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
 
-Maybe the AK47 like the Atomic Bomb is designed by American since the US Independence Day is July 4 or 4/7 in Euro Asia. The AK47 and The Atomic Bomb are tools to ensure the strategic balance and perpetual dominant position of United States. The US and the USSR wil play Good Cop, Bad Cop in order to maintain the Dollar Hegemony as well as Western Culture and Idea Dominance. In the end both Capitalism and Communism comes from the West. US is the Good Cop and Russia is the Bad Cop.
+The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
 
+![The Nuclear Decoys of United States](content/posts/07-13/faces_of_us_major_cities.png)
 
 ### An Unstable Nash Equilibrium In A Multi-Polars World
 #### The Collapse of Soviet Union and The Non Proliferation Treaty
