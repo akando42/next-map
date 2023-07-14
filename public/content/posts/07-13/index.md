@@ -91,13 +91,28 @@ The combination of explosive power, range and speed in an ICBM outperforms any w
 
 ![Phoenix Urban Area](content/posts/07-13/phoenix_urban_area.png)
 
-#### Mutual Assure Destruction Doctrine
+#### The Cold War and Mutual Assured Destruction Doctrine
+Oppenhimer, the father of the Atomic bomb, is a Communist sympathizer according to the FBI agents of the American government. Maybe he realized that Nuclear power and Nuclear weapons are too powerful a leverage that not a single man or a small group of people should have monopoly control of these powers. So Oppenhimer and other researchers in the Manhattan projects once again played the Prometheus role and gave the Nuclear secrets to the Soviet Union first and then France, UK, China and India. 
 
-![US ICBM Triangle](content/posts/07-13/dangerous_ICBM_triangles.png)
+![Nuclear Tests Map](content/posts/07-13/nuclear_tests_map.png)
+
+The dangerous nuclear arms race between the United States and the Soviet Union actually prevents the unrestrained usages of Nuclear Weapons by United States Armed Forces and Governments and only resulted in Nuclear Tests and Nuclear Stockpiles. 
+
+Militaries started to put nuclear detonators everywhere they could. The US and the Soviet Union developed Nuclear Bombs, Nuclear-Tipped Ballistic missiles, Nuclear Cruise Missiles, Nuclear Torpedoes, Nuclear artillery cells and even Nuclear grenade launchers.
+
+![Nuclear grenade launcher](content/posts/07-13/nuclear_grenade_launcher.png)
+
+During these Nuclear Arm Races, military thinkers from the United States and USSR started to develop the Mutual Assured Destruction doctrine. If you can hold enough enemy cities and arm forces at risk and guarantee your ability to counter strike in the case of a nuclear first strike from enemies.
+
+![US ICBM Triangle](content/posts/07-13/dangerous_ICBM_triangles.png) 
+
+The MAD doctrine justified the mass production of nuclear weapons and its delivery mechanism as well as the increasingly more advanced command control network of the Nuclear force.
 
 ![Malmstrom_ICBM_Missile_Silos](content/posts/07-13/Malmstrom_ICBM_Missile_Silos.png)
 
-![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
+By 1990, the United States and Russia possessed enough nuclear weapons to flatten all major cities or 50% of each other's land surfaces within one hour. So it is insane for the US or Russia to have a total nuclear war against each other since that would be a double succide. 
+
+![US Great Lake](content/posts/07-13/great_lake_icbm_target.png)
 
 
 ### An Unstable Nash Equilibrium In A Multi-Polars World
@@ -114,7 +129,9 @@ After the collapse of Soviet Union in 1990s, the world balance of power is movin
 ![Ulan Ude Spacecom](content/posts/07-13/Ulan_Ude_Space_Com.png)
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
-![Nuclear Power Nations](content/posts/07-13/nuclear_weapon_controllers.png)
+![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
+
+![Nuclear Power Controllers](content/posts/07-13/nuclear_weapon_controllers.png)
 
 #### The Development of Missile Defense System
 ![Sea-Based X-Band Radar](content/posts/07-13/Sea_Based_X_Band_Radar.png)
