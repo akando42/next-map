@@ -73,6 +73,23 @@ Maybe the Fukushima nuclear accident was American-made to throttle the growth of
 
 #### The Development of Nuclear Ballistic Missiles
 
+The V1 of Nazi Germany was the first attempt at building the Intercontinental Ballistic Missile of Caucasian scientists during World War 2. While the  V1 missile is much more expensive to build and can not carry the same amount of payload that Russian artillery and American long range bombers can deliver on German troop formations, manufacturing facilities and major cities. 
+
+![German V2 Campaign on London](content/posts/07-13/german_v2_campaign_on_london.png)
+
+After the conclusion of World War 2, many Nazi scientists who surrendered were moved to the United States, continuing to work on American weapon development programs and raising their family there. 
+
+The combination of British engineers’ nuclear weapon research and German engineers’ ballistic missile research led to the development and mass production of the Nuclear Intercontinental Ballistic Missile or nuclear ICBM. 
+
+A nuclear warhead has a much higher explosive power to weight ratio than a conventional warhead and an ICBM has much higher speed and range than conventional ballistic projectiles of artillery and ariel bombers. 
+
+![Minuteman 3 ICBM](content/posts/07-13/minuteman_3_icbm.png)
+
+An American Minuteman III ICBM can deliver the explosive power equivalent to 350 000 TON of TNT in a 360 Kilogram warhead, can travel up to 15000 KM at the speed of up to 28000 kilometer an hour and close the distance between Hanoi and New York in 30 minutes. 
+
+The combination of explosive power, range and speed in an ICBM outperforms any weapon of war that humans ever invented. Any major city with an area less than 350 square kilometers like  Kiev, Phoenix or Seoul could be wiped out with a one single Minuteman III ICBM.
+
+![Phoenix Urban Area](content/posts/07-13/phoenix_urban_area.png)
 
 #### Mutual Assure Destruction Doctrine
 
