@@ -109,7 +109,7 @@ After the collapse of Soviet Union in 1990s, the world balance of power is movin
 ### The Obsolescence of Nuclear Deterrence
 
 #### Nanobots and the Remote Control Manchurian Candidate
-![Super Kamiokande Neutrino Iris](content/posts/07-13/super_kamiokande_neutrino_iris.png)
+![Super Kamiokande Neutrino Iris Model](content/posts/07-13/super_kamiokande_neutrino_iris.png)
 
 ![Remote Control Human](content/posts/07-13/neutrino_receptor_inside_an_iris.png)
 
