@@ -131,4 +131,5 @@ Nuclear submarines has been a most difficult leg of the nuclear triads to elimin
 A neutrino-based detector would be able to achieve what all modern radar and sonar can not achieve. 
 
 #### Nanobots and the Remote Control Manchurian Candidate
+![Remote Control Human](content/posts/07-13/nano_bot_in_the_IRIS.png)
 
