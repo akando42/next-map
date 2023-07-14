@@ -82,9 +82,6 @@ Maybe the Fukushima nuclear accident was American-made to throttle the growth of
 
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
 
-The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
-
-![The Nuclear Decoys of United States](content/posts/07-13/faces_of_us_major_cities.png)
 
 ### An Unstable Nash Equilibrium In A Multi-Polars World
 #### The Collapse of Soviet Union and Its Nuclear Capability
@@ -109,27 +106,20 @@ After the collapse of Soviet Union in 1990s, the world balance of power is movin
 
 ![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
 
-### Particle Physics and The Obsolescence of Nuclear Deterrence
-
-#### Antimatter Energy and Its New Way To Make Bigger and Cleaner Explosion
-What is the most efficient way to convert mass to energy. Current most efficient way we are using is Nuclear Fission process. However, by annihilating matter with antimatter, it is exponentially more efficient. Converting mass to energy is the equation behind every weapon as well as engine ever created by human kind.  
-
-As a result, antimatter explosion is much larger, more efficient and do not result in nuclear fallout. 
-A 10kg antimatter bomb would cause a gigantic 230 megaton explosion which is more than 4 time larger than the largest nuclear bomb Tsar that yielding 50 Megaton explosion and 1000 times larger that the Fat Man dropped on Nagasaki in 1945.
-
-Procuding anti-matter is astronomically expensive and only possible using massive particle acclerators. However, harvesting anti-matter using Penning Trap Satelites in the Van Allen radiation belt is much more feasible.
-
-
-#### The Discovery of Neutrino Oscillation and Its Ability to Wipe out Nuclear Submarines Fleet
-
-In 2015, the discovery of neutrino oscillation by Takaaki Kajita and Arther B. McDonald has shredded light for a new path to be able to measure nuclear fission emission from far distance. 
-
-![Neutrino Detector in Japan](content/posts/07-13/neutrino_detector_in_japan.png)
-
-Nuclear submarines has been a most difficult leg of the nuclear triads to eliminate to neutralize the advantage of nuclear nations. Be able to detect nuclear signature from far distance would turn the advantages of nuclear nations on its head. The nuclear engine would become a homing signal for missiles, torpedos and other weapon. 
-
-A neutrino-based detector would be able to achieve what all modern radar and sonar can not achieve. 
+### The Obsolescence of Nuclear Deterrence
 
 #### Nanobots and the Remote Control Manchurian Candidate
 ![Remote Control Human](content/posts/07-13/nano_bot_in_the_IRIS.png)
+
+#### The Nuclear Winter Unproven Theory
+
+#### 21 Century Human Capability to Adapt and Rebuild
+The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
+
+![The Nuclear Decoys of United States](content/posts/07-13/faces_of_us_major_cities.png)
+
+
+
+
+
 
