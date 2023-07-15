@@ -149,11 +149,11 @@ So both the USA and USSR only do nuclear tests near their potential security thr
 
 The Nuclear Nash Equilibrium state changes when the nuclear capability of players either improves or declines or new players are introduced into the game. With the collapse of the Soviet and the decline in capability of Russian nuclear forces, the Nuclear Nash Equilibrium becomes unstable. 
 
-Now the United States and NATO have the incentive to use nuclear weapons on RUSSIA or totally disable Russian Nuclear Capability to permanently remove the nuclear threats from the roof of Western and American homes. The birthrate in Western Europe and North America will probably increase without the daily nuclear threat from Russia. 
+![American roof on the Beach](content/posts/07-13/american_roof_on_the_beach.png)
+
+Now the United States and NATO have the incentive to use nuclear weapons on RUSSIA or totally disable Russian Nuclear Capability to permanently remove the nuclear threats from the roof of Western and American homes. The birthrate in Western Europe and North America will probably increase without the daily nuclear threat from Russia. After the Soviet Union collapse, we also see the massive increase in Nuclear Capability of Non-Caucasian countries with China, India, Pakistan currently possessing more than 100 nuclear bombs and nuclear-tipped ICBM.
 
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
-
-After the Soviet Union collapse, we also see the massive increase in Nuclear Capability of Non-Caucasian countries with China, India, Pakistan currently possessing more than 100 nuclear bombs and nuclear-tipped ICBM.
 
 Without the long history of family bonds and genetic fusion between Pakistan, Indian and Chinese culture with Russian and American culture, the chance of an All Out Nuclear War between Caucasian and Non-Caucasian culture is much higher.
 
