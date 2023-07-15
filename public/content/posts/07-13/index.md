@@ -136,6 +136,8 @@ The top Eastern European nuclear scientists and aerospace engineers from Ukraine
 
 ![ANTONOV Broken Plane](content/posts/07-13/ANTONOV_Broken_plane.png)
 
+Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
+
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
 
