@@ -51,8 +51,6 @@ By dropping two atomic bombs, the Little Boy and Fat Man nuclear bombs, on two n
 
 ![Japan Major Human Settlements](content/posts/07-13/hiroshima_vs_tokyo.png)
 
-By NUKING non-essential targets to demonstrate America's ability to cause much larger damage to the Empire of Japan more important targets, America was able to turn Japan from a hostile enemy into an obedient ally. 
-
 The event altered United States geographical advatanges by eliminating any Pacific Ocean threats and stationing Forward Military Bases directly on East Asian doorsteps at South Korea, Okinawa, Taiwan, Guam and the Philipine. The US mainland became the safest place on earth to store your assets and raise your family. As the result, The US can expand their Genetics options by drawing a massive amount of immigrations from Europe and Asia to US Mainland.
 
 ![US East Asia Forward Basses](content/posts/07-13/us_east_asia_forward_bases.png)
@@ -73,7 +71,7 @@ Maybe the Fukushima nuclear accident was American-made to throttle the growth of
 
 #### The Development of Nuclear Ballistic Missiles
 
-The V1 of Nazi Germany was the first attempt at building the Intercontinental Ballistic Missile of Caucasian scientists during World War 2. While the  V1 missile is much more expensive to build and can not carry the same amount of payload that Russian artillery and American long range bombers can deliver on German troop formations, manufacturing facilities and major cities. 
+The V2 of Nazi Germany was the first attempt at building the Intercontinental Ballistic Missile of Caucasian scientists during World War 2. However, the  V2 missile is much more expensive to build and can not carry the same amount of payload that Russian artillery and American long range bombers can deliver on German troop formations, manufacturing facilities and major cities. 
 
 ![German V2 Campaign on London](content/posts/07-13/german_v2_campaign_on_london.png)
 
@@ -118,15 +116,23 @@ By 1990, the United States and Russia possessed enough nuclear weapons to flatte
 ### An Unstable Nash Equilibrium In A Multi-Polars World
 #### The Collapse of Soviet Union and Its Nuclear Capability
 
-After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an Uni Polar with the United States becomes the dominating power. After the failed arm race, So Viet union is being pushed into a defensive position, holding on to its collaping coalitions. 
+During the Soviet Union time, the Red Army would be able to pull resources and talents from its East European, Central Asia and East Asia satellites states as well as utilizing Western European and Latin American communist sympathizers as spies to steal leading edge technological secrets. Soviet nuclear weapons as well as its delivery and command control network would be on par or surpassing their American counterpart. 
+
+![RUSSIA Dombarovsky ICBM Base](content/posts/07-13/Russian_Dombarovsky_ICBM_Base.png)
+
+After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an UniPolar with the United States becomes the dominating power. After the failed arm race, the Soviet Union is being pushed into a defensive position, holding on to its collaping coalitions.
 
 ![RUSSIA Berlarus ICBM Warning](content/posts/07-13/RUSSIA_Berlarus_ICBM_Warning_Radar.png)
 
+The modern Russian state Post-Soviet no longer has access to their global coalition resources, talents and spies. We no longer see the Russian naval ships making port calls in South East Asian countries like in the Soviet era or Russian nuclear submarines making forward deployments in American backyard like in the Cuban Missile crisis. 
+
 ![RUSSIA Ural ICBM Warning](content/posts/07-13/RUSSIA_Ural_ICBM_Warning_Radar.png)
 
-![RUSSIA Dombarovsky ICBM Warning Radar](content/posts/07-13/Russian_Dombarovsky_ICBM_Base.png)
+Russian nuclear capability severely declined with much of the Soviet Era equipment no longer being upgraded to keep up with the West or even maintained. The Soviet nuclear early warning radars in Belarus and Ural mountain are looking damaged and abandoned today. 
 
 ![Ulan Ude Spacecom](content/posts/07-13/Ulan_Ude_Space_Com.png)
+
+The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. 
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
