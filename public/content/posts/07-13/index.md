@@ -116,23 +116,25 @@ By 1990, the United States and Russia possessed enough nuclear weapons to flatte
 ### An Unstable Nash Equilibrium In A Multi-Polars World
 #### The Collapse of Soviet Union and Its Nuclear Capability
 
-During the Soviet Union time, the Red Army would be able to pull resources and talents from its East European, Central Asia and East Asia satellites states as well as utilizing Western European and Latin American communist sympathizers as spies to steal leading edge technological secrets. Soviet nuclear weapons as well as its delivery and command control network would be on par or surpassing their American counterpart. 
+During the Soviet Union time, the Red Army would be able to pull resources and talents from its East European, Central Asia and East Asia satellites states as well as utilizing Western European and Latin American communist sympathizers as spies to steal leading edge technological secrets. Soviet nuclear weapons as well as its delivery and command control network would be on par or surpassing their American counterpart. After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an UniPolar with the United States becomes the dominating power. After the failed arm race, the Soviet Union is being pushed into a defensive position, holding on to its collaping coalitions.
 
 ![RUSSIA Dombarovsky ICBM Base](content/posts/07-13/Russian_Dombarovsky_ICBM_Base.png)
 
-After the collapse of Soviet Union in 1990s, the world balance of power is moving from a Bi-Polars into an UniPolar with the United States becomes the dominating power. After the failed arm race, the Soviet Union is being pushed into a defensive position, holding on to its collaping coalitions.
+The modern Russian state Post-Soviet no longer has access to their global coalition resources, talents and spies. We no longer see the Russian naval ships making port calls in South East Asian countries like in the Soviet era or Russian nuclear submarines making forward deployments in American backyard like in the Cuban Missile crisis. Modern Russian military with its limited resources and mam power's main objective is just to protect Moscow and its surrouding population centers West of the Ural mountain. 
 
 ![RUSSIA Berlarus ICBM Warning](content/posts/07-13/RUSSIA_Berlarus_ICBM_Warning_Radar.png)
 
-The modern Russian state Post-Soviet no longer has access to their global coalition resources, talents and spies. We no longer see the Russian naval ships making port calls in South East Asian countries like in the Soviet era or Russian nuclear submarines making forward deployments in American backyard like in the Cuban Missile crisis. 
+Russian nuclear capability severely declined with much of the Soviet Era equipment no longer being upgraded to keep up with the West or even maintained. The Soviet nuclear early warning radars in Belarus and Ural mountain are looking damaged and abandoned today. 
 
 ![RUSSIA Ural ICBM Warning](content/posts/07-13/RUSSIA_Ural_ICBM_Warning_Radar.png)
 
-Russian nuclear capability severely declined with much of the Soviet Era equipment no longer being upgraded to keep up with the West or even maintained. The Soviet nuclear early warning radars in Belarus and Ural mountain are looking damaged and abandoned today. 
+The Russian & Central Asian aerospace research centers near Lake Baika are no-longer operational with the MIG Design Center and other space research programs being moved to Moscow. 
 
 ![Ulan Ude Spacecom](content/posts/07-13/Ulan_Ude_Space_Com.png)
 
-The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. 
+The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued.
+
+![ANTONOV Broken Plane](content/posts/07-13/ANTONOV_Broken_plane.png)
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
