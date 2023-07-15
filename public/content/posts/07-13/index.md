@@ -139,7 +139,23 @@ The top Eastern European nuclear scientists and aerospace engineers from Ukraine
 Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
+
+Value of an action is the total expected gain of an action based on all available possible actions that other parties in the game could take. NASH EQUILIBRIUM is achieved when all players pick their optimal actions and reach EQUILIBRIUM state when no players can gain more by changing their actions. 
+
+Military planners use NASH EQUILIBRIUM game theory in nuclear war simulation to explore enemy thinking as well as develop their own defensive and offensive plans. During the COLD WAR, the United States and Soviet Union achieved NASH EQUILIBRIUM in their nuclear strategy. 
+
+While dropping atomic bombs on Japan allowed the US to gain forward military bases in Asian Pacifics as well as total control of the Pacifics Ocean, nuking the Russian Armed Forces and its territories will only result in Nuclear Retaliation and no significant gains for the United States. 
+So both the USA and USSR only do nuclear tests near their potential security threats in Central Asia, Asian Pacifics and American West Coasts to deter migrations or enemy military mobilization in these areas of the globe. Demonstration of nuclear capability also allowed the United States and Soviet Union to build their coalition with other non-nuclear nations. 
+
+The Nuclear Nash Equilibrium state changes when the nuclear capability of players either improves or declines or new players are introduced into the game. With the collapse of the Soviet and the decline in capability of Russian nuclear forces, the Nuclear Nash Equilibrium becomes unstable. 
+
+Now the United States and NATO have the incentive to use nuclear weapons on RUSSIA or totally disable Russian Nuclear Capability to permanently remove the nuclear threats from the roof of Western and American homes. The birthrate in Western Europe and North America will probably increase without the daily nuclear threat from Russia. 
+
 ![Nuclear Warheads by Countries](content/posts/07-13/israel_vs_major_cities.png)
+
+After the Soviet Union collapse, we also see the massive increase in Nuclear Capability of Non-Caucasian countries with China, India, Pakistan currently possessing more than 100 nuclear bombs and nuclear-tipped ICBM.
+
+Without the long history of family bonds and genetic fusion between Pakistan, Indian and Chinese culture with Russian and American culture, the chance of an All Out Nuclear War between Caucasian and Non-Caucasian culture is much higher.
 
 ![Nuclear Power Controllers](content/posts/07-13/nuclear_weapon_controllers.png)
 
