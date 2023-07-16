@@ -205,11 +205,14 @@ So while the Missile Defense System of both United States and Russia is at its f
 
 At the current pace of advances of American space company like Space X, their military Missile Defense System will probably get much more precise and American military will probably can build 1000s of ICBM interceptors. 1000 plus of ICMB interceptors with 90% of more success rate will make the US military become confident enough to launch nuclear ICBM at even Moscow without worrying about American military and civilian casualty.
 
-
 ### The Obsolescence of Nuclear Deterrence
 
 #### Nanobots and the Remote Control Manchurian Candidate
+The nature of the high speed ICBM war lead to the concertration of decision making power within few leaders of states. ICBM war does not allow military commanders to plan and negotiate with their generals but just execute existing plans or make decision on the flight within the 15-30 minutes window of an enemy ICBM launch. So a first strike Nuclear nation actually have more time than a second strike Nuclear nation. 
+
 ![Super Kamiokande Neutrino Iris Model](content/posts/07-13/super_kamiokande_neutrino_iris.png)
+
+Whether its first strike or second strike, a concerntration of decision making left little room for check and balance. If an adversary can chip a nuclear decision maker with nanobots, then the nuclear decision maker could become indecisive in their retaliation strike or will not act in the best interest of himself and his nation or even launch nuclear weapons against their own military forces and their own cities. 
 
 ![Remote Control Human](content/posts/07-13/neutrino_receptor_inside_an_iris.png)
 
