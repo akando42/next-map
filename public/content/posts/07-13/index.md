@@ -160,11 +160,51 @@ Without the long history of family bonds and genetic fusion between Pakistan, In
 ![Nuclear Power Controllers](content/posts/07-13/nuclear_weapon_controllers.png)
 
 #### The Development of Missile Defense System
+
+The natural outcome of the fact that multiple parties possessing lethal ballistic missiles is that some parties will start to develop shields and evading mechanisms to stay alive in a ballistic missile shoot out. 
+
+The US with the technical edges in precision missile guidance and precision radar technology started the Star War program under the Regan administration in the 1980s. The Star War program is the American attempt at intercepting an enemy Ballistic missile with their own ballistic missile. 
+
+While a Ballistic Missile can travel very fast up to 12000 kilometers an hour, its trajectory follows the laws of physics and its path is highly predictable. With large numbers of missile launch satellite detectors orbiting the earth, the North America Aerospace Air Defense (NORAD) could detect the launch location within the first few minutes of a missile launch anywhere on earth. 
+
+![Missile Launch Satelite Detector](content/posts/07-13/missile_launch_satelite_detector.png)
+
+If the satellites missed the Missile launch, the Long Range Early Warning Radar in Alaska, California, Boston and United Kingdom can detect the approximate location of the incoming ICBM with the UHF radar and then relay the location to a nearby orbiting satellite for precision tracking of the ICBM hot exhaust. 
+
+![Boston Long Range Early Warning Radar](content/posts/07-13/Capcode_MA_LRDR.png)
+
+The satellites will then send the ICBM location to the nearest high precision ground fire control radars or an AEGIS radar system on destroyers in South Korea, Okinawa, Guam or Hawaii.
+
 ![Sea-Based X-Band Radar](content/posts/07-13/Sea_Based_X_Band_Radar.png)
+
+These high precision X-Band radars and the Airforce supercomputers in California will then start to track and calculate the expected trajectory of the incoming ICBM. A launch command will be sent from the Supercomputer with human approval and an ICBM interceptor will be launched and collide with the ICBM warhead. 
+
+As long as the ICBM could be intercepted before it reaches the 5 KM altitude in its terminal phase then the Nuclear Warhead will not detonate and 300 kilograms of nuclear material will just scatter in the atmosphere. 
+
+The most battle hardened, highest probability of success Missile Defense System in the world is the IRON DOME of Israel. While Israel IRON DOME was not designed to intercept Nuclear ICBM but short-range missiles from their neighboring countries, it uses the same principle of early detection, precision tracking of a missile flying on a conventional ballistic trajectory. The Israel’s Missile Defense System achieved a 90% success rate and intercepted more than 3000 rockets shooting at Israelian’s cities.  
+
+Russia also developed and deployed their Missile Defense System around Moscow. The Moscow Missile Defense System includes 360 degree Long Range Early Warning Radar and a battery of Nuclear ICBM interceptors. 
+
+![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
+
+Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators.
+
+While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles  using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet.
+
+Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
 
 ![Flyingdale UK Radar](content/posts/07-13/Fylingdale_UK_Radar.png)
 
-![Moscow MISSILE DEFENSE](content/posts/07-13/moscow_Missile_Defense.png)
+The American Missile Defense System like American Military Bases are forward deployed and could be used to intercept a small number of ICBMs used in accidental launches, preemptive surprise attacks or nuclear launches from small nuclear states like North Korea. America will then choose to retaliate using conventional or nuclear methods.
+
+All Russia Missile Defense Systems are stationed only around Moscow so if an ICBM would be flying toward Moscow, their likely response would be to launch both Nuclear Interceptors and Nuclear ICBM at their adversary.
+
+Besides Russia and the United States, no other nuclear nations possess the ability to detect, track and intercept an Inter Continental Ballistic Missile.  While China, India and Pakistan have many ICBMs, they would not be able to intercept incoming ICBM and will be very likely to take high casualties before they can retaliate. 
+
+So while the Missile Defense System of both United States and Russia is at its freshly deployed, simulation tested only stage, at some point in the future, if their Missile Defense System would become as good as a SWAT bullet proof jacket then United States and Russia will have incentives to use their Nuclear Weapons on foreign cities of even a nuclear power like China, India or Pakistan. 
+
+At the current pace of advances of American space company like Space X, their military Missile Defense System will probably get much more precise and American military will probably can build 1000s of ICBM interceptors. 1000 plus of ICMB interceptors with 90% of more success rate will make the US military become confident enough to launch nuclear ICBM at even Moscow without worrying about American military and civilian casualty.
+
 
 ### The Obsolescence of Nuclear Deterrence
 
