@@ -217,11 +217,40 @@ Whether its first strike or second strike, a concerntration of decision making l
 ![Remote Control Human](content/posts/07-13/neutrino_receptor_inside_an_iris.png)
 
 #### The Nuclear Winter Unproven Theory
+The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. 
+
+Without sunlights, the earth climate will become like North Pole. Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. 
+Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
+
+![Nuclear Winter Housing](content/posts/07-13/nuclear_winter_housing.png)
+
+Only polar bears, penguins and the Ekimos will likely to survive the Nuclear Winter. Our civilizations will likely be set back 1000 years of progress. All of our technological development will be lost and the Eskimos will have to start up fresh and rebuild our civilization.
+
+However, the blocking out the sun theory of American scientists is more of a propaganda to threaten the Japanese economy and population  and their sun-like flag than a well grounded scientific theory. In order to recreate the Dinosour extinction event, we will need to produce the explosive power of 72 trillion TON of TNT or 205 million Minute III ICBM. That is hundred thound times larger than the entire nuclear stockpile of human kinds. 
+
+![Dinasour Astroid Explosion](content/posts/07-13/dinasour_astroid_72trilllion.png)
 
 #### 21 Century Human Capability to Adapt and Rebuild
 The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
 
 ![The Nuclear Decoys of United States](content/posts/07-13/faces_of_us_major_cities.png)
+
+So in the case of a major nuclear war with 100s of ICBM landed on top of American major cities, large part of American population will likely to survive the blasts. American highway networks, high car ownerships and its 90 kilometer speed limit allows Americans to get out the major city centers 60 kilometer radius within 40 minutes. 
+
+If the ICBMs was launched at night after 6 PM Pacifics Time, most of the educated and high income families will be away in their suburban home and will not be effected lethally by the nuclear blasts and could evacuate further to the outskirts and countrysides.
+
+![Moscow Nuke Resistant Design](content/posts/07-13/moscow_nuke_resistant_design.png) 
+
+Most American, European and Russian cities was also not built next to a major Hydroeletric dam or Water resorvor so the chance of a Nuclear tsunami on land was not very high for American, Russian and European cities.
+
+![Beijing Nuke Vulnerable Design](content/posts/07-13/beijng_nuke_vulnerable_design.png)
+
+Even if a city was flatten by a nuclear weapon, it could be clean up, rebuilt and resettled within 5-10 years basing on the severity of the nuclear contamination. Hiroshima was rebuilt and resettled within the first 5 year and modern day Hiroshimo is within the top 100 largest cities in the world.
+
+![Modern day Hiroshima](content/posts/07-13/modern_Hiroshima.png) 
+
+
+
 
 
 
