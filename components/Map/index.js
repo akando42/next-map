@@ -47,14 +47,32 @@ export default class Map extends Component {
 	    		const long = attraction.lng
 	        	const lat = attraction.lat
 
+	        	const popup = new mapboxgl
+	        		.Popup({ 
+	        			anchor: 'bottom-left', 
+	        			offset: 25, 
+	        			closeOnClick: true
+	        		})
+	        		.setMaxWidth('360px')
+	        		.setHTML(`
+	        			<a href=${attraction.id}>
+	        				<h3> ${attraction.title} </h3>
+	        			</a>
+	        		`)
+
 	        	const marker = new mapboxgl
 	        	    .Marker({
 	        	    	color: `black`,
 	        	    	occludedOpacity: 0.1
 	        	    })
 	        	    .setLngLat([long,lat])
+	        	    .setPopup(popup)
 	        	    .addTo(map)
 		    	})
+
+
+
+	    		
 
 	    } else {
 	    	const long = attractions.lng
@@ -104,9 +122,7 @@ export default class Map extends Component {
 					}}
 					className={Styles.map} 
 					ref={this.mapContainer}
-					
 				>
-					
 				</div>
 			</div>
 		)
