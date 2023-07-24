@@ -51,9 +51,9 @@ All American carriers are nuclear-powered while only France has one nuclear-powe
 So is American still dominating the sea, well it is if sea power projection is based on Aircraft Carrier count. 
 
 
+### Aircraft Carrier Strike Group Composition
 
-
-
+![Ticonderoga](content/posts/07-29/Ticonderoga_cruiser.png)
 
 
 
