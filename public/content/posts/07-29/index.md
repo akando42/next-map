@@ -11,8 +11,6 @@ published: true
 ---
 ### Supercarrier Like USS Forrestal Is Unsinkable ?
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F395097364454118%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 Aircraft carriers were a break-through during WWII and first used effectively and extensively by the Japanese Emperial Navy. It was a giant leap of innovation from the traditional large gun warships of German and British Navy. 
 
 Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships.
@@ -35,9 +33,11 @@ USS Forrestal supercarrier named after the first US Secretery of Defense - James
 
 It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system.
 
+![Nimitz Class](content/posts/07-29/Nimitz_class_Carrier01.png)
+
 USS Forrestal were among the last few US aircraft carriers with conventional engine. US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers.
 
-![Nimitz Class](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/USS_Nimitz_in_Victoria_Canada_036.jpg/1024px-USS_Nimitz_in_Victoria_Canada_036.jpg)
+![Nimitz Class](content/posts/07-29/Nimitz_class_Carrier02.png)
 
 The new aircraft carrier USS Gerald R. Ford was the 1st of its new class.
 Its construction begins on Nov 13, 2009 and finally commisioned by President Donald Trump July 22, 2017.
@@ -46,14 +46,17 @@ Its construction begins on Nov 13, 2009 and finally commisioned by President Don
 
 So America currently have 11 aircraft carriers in service, a larger fleet than the rest of 7 less advanced carriers from all other countries combined. 
 
-All American carriers are nuclear-powered while only France has one nuclear-powered Aircraft Carrier.
-
-So is American still dominating the sea, well it is if sea power projection is based on Aircraft Carrier count. 
+All American carriers are nuclear-powered while only France has one nuclear-powered Aircraft Carrier. So is American still dominating the sea, well it is if sea power projection is based on Aircraft Carrier count. 
 
 
 ### Aircraft Carrier Strike Group Composition
 
+![Carrier Strike Group](content/posts/07-29/US_Carrier_Strike_Group.png)
+
+
 ![Ticonderoga](content/posts/07-29/Ticonderoga_cruiser.png)
+
+![Burke](content/posts/07-29/Burke_destroyer.png)
 
 
 
