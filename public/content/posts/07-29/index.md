@@ -27,9 +27,9 @@ Last 70 years, America dominates the sea with its blue ocean navy and its superi
 
 ![Lexington Class Aircraft Carrier](content/posts/07-29/lexington_class_carrier.png)
 
-![Yorktown Class Aircraft carrier](content/posts/07-29/yorktown_class_carrier.png)
+![Yorktown Class Aircraft Carrier](content/posts/07-29/yorktown_class_carrier.png)
 
-![Midway Class Aircraft carrier](content/posts/07-29/midway_class_carrier.png)
+![Midway Class Aircraft Carrier](content/posts/07-29/midway_class_carrier.png)
 
 USS Forrestal supercarrier named after the first US Secretery of Defense - James Forrestal. It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system. USS Forrestal were among the last few US aircraft carriers with conventional engine. 
 
