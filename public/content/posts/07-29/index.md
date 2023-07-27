@@ -39,8 +39,7 @@ US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers
 
 ![Nimitz Class Aircraft carrier](content/posts/07-29/nimitz_class_carrier.png)
 
-The new aircraft carrier USS Gerald R. Ford was the 1st of its new class.
-Its construction begins on Nov 13, 2009 and finally commisioned by President Donald Trump July 22, 2017.
+The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by President Donald Trump July 22, 2017.
 
 ![Ford Class Aircraft carrier](content/posts/07-29/ford_class_carrier.png)
 
