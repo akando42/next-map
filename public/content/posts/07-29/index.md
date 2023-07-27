@@ -12,6 +12,8 @@ published: true
 ### The Urbanization Process of Coastal Cities
 ![10 Major East Asia Coast Cities](content/posts/07-29/10_major_coastal_cities_of_east_asia.png)
 
+Urbanization process of East Asian countries started with Japan before WW2 and continued to accelerate into the 21 century. Most of East Asian population are moving from their remote countrysides to urban cities along the coastlines. Transportation infrastructure is much easier to build around the flat land delta and transportation of export good from sea ports via container ships is much cheaper than via land routes. 
+
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
 Aircraft carriers were a break-through during WWII and first used effectively and extensively by the Japanese Emperial Navy. It was a giant leap of innovation from the traditional large gun warships of German and British Navy. Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships.
 
