@@ -30,19 +30,19 @@ Not just providing protection, the United States also seeded East Asian YORK cit
 
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
-Aircraft carriers were a break-through during WWII and first used effectively and extensively by the British and Japanese Emperial Navy. It was a giant leap of innovation from the traditional large gun battleships. British aircraft carrier HMS Ark Royal was able to sink the German largest battleship Bismark during the German battleship first offensive operation in World War 2. 
+Aircraft carriers were a break-through during WWII and first used effectively and extensively by the British and Japanese Imperial Navy. It was a giant leap of innovation from the traditional large gun battleships. British aircraft carrier HMS Ark Royal was able to sink the German largest battleship Bismark during the German battleship's first offensive operation in World War 2.  
 
 ![Bismark Battleships](https://storage.googleapis.com/spykman-world/Bismarck_Battleship.png)
 
-And the Japanese Imperial Navy was able to deal a heavy blow to the American battleships parking in Pearl Harbor with its 6 aircraft carriers. Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships. The aircraft carriers with its torpedo and dive bombers are countless small attackers with striking range up to 300 kilometers while the battleships are slow and large targets with ability to strike only as far as the horizon of 30 kilometers or less.   
+And the Japanese Imperial Navy was able to deal a heavy blow to the American battleships parked in Pearl Harbor with its 6 aircraft carriers. Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships. The aircraft carriers with its torpedo and dive bombers are countless small attackers with striking range up to 300 kilometers while the battleships are slow and large targets with ability to strike only as far as the horizon of 30 kilometers or less.    
 
 ![Japanese ZERO view during Pearl Harbor](https://storage.googleapis.com/spykman-world/american_battleships_in_pearl_harbor.png)
 
-The first aircraft carrier was built in the Engineering island of England also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control North Atlantics Sea or severely disrupted the British supplyline. With a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
+The first aircraft carrier was built in the Engineering island of England, also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control the North Atlantic Sea or severely disrupted the British supplyline. With a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
 
 ![Langley Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/langley_class_carrier.png)
 
-Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley has no Control Tower above the deck and can carry up to 36 aircrafts. The USS Langley served both the first experimental mobile long range recon and attack platform for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunitions as well as a medieval catapult like device to launch aircrafts off the deck.
+Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley has no Control Tower above the deck and can carry up to 36 aircrafts. The USS Langley served as both the first experimental mobile long range recon and attack platform for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunition as well as a medieval catapult-like device to launch aircrafts off the deck.
 
 ![Lexington Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/lexington_class_carrier.png)
 
@@ -50,13 +50,13 @@ Langley was the first American aircraft carrier built by the American Military i
 
 ![Midway Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/midway_class_carrier.png)
 
+![Forrestal Class Aircraft carrier](https://storage.googleapis.com/spykman-world/forrestal_class_carrier.png)
+
 American with its vast economic resources and industrial output as well as ability to break the Japanese naval communication code eventually defeated the pioneer of aircraft carrier battle group - Japanese Imperial Navy.
 
 America also took it to another level by adding fleet of latest jet-engine aircrafts and nuclear engines to the Aircraft Carrier battle group. Nuclear engine essentially gives aircraft carriers unlimited range. Last 70 years, America dominates the sea with its blue ocean navy and its superior technological as well as numerical aircraft carriers. Will aircraft carriers become obsolate like big gun battleships during WWII with the sunk of the Bismarck and Yamato. 
 
 USS Forrestal supercarrier named after the first US Secretery of Defense - James Forrestal. It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system. USS Forrestal were among the last few US aircraft carriers with conventional engine. 
-
-![Forrestal Class Aircraft carrier](https://storage.googleapis.com/spykman-world/forrestal_class_carrier.png)
 
 US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers.
 
