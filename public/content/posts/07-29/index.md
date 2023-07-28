@@ -6,7 +6,7 @@ path: "/supercarrier-like-uss-forrestal-is-unsinkable"
 cover: "content/posts/07-29/spykman-world-supercarrier-like-uss-forrestal-is-unsinkable.png"
 date: "07-29"
 title: "Supercarrier Like USS Forrestal Is Unsinkable ?"
-tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US Navy','Blue Ocean Navy','Submarine','Longrange Missle','Spykman World','Nicholas Spykman']    
+tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US Navy','Blue Ocean Navy','Submarines','Longrange Missle','Missile Destroyer','Spykman World','Nicholas Spykman']    
 published: true
 ---
 ### The Urbanization Process of Coastal Cities
@@ -36,7 +36,7 @@ Aircraft carriers were a break-through during WWII and first used effectively an
 
 And the Japanese Imperial Navy was able to deal a heavy blow to the American battleships parked in Pearl Harbor with its 6 aircraft carriers. Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships. The aircraft carriers with its torpedo and dive bombers are countless small attackers with striking range up to 300 kilometers while the battleships are slow and large targets with ability to strike only as far as the horizon of 30 kilometers or less.    
 
-![Japanese ZERO view during Pearl Harbor](https://storage.googleapis.com/spykman-world/american_battleships_in_pearl_harbor.png)
+![Japanese ZERO view during Pearl Harbor](https://storage.googleapis.com/spykman-world/american_battle_ships_in_pearl_harbor.png)
 
 The first aircraft carrier was built in the Engineering island of England, also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control the North Atlantic Sea or severely disrupted the British supplyline. With a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
 
