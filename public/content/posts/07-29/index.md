@@ -62,7 +62,7 @@ All American carriers are nuclear-powered while only France has one nuclear-powe
 
 ![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
 
-![Los Angeles Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
+![Los Angeles Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/Los_Angeles_attack_submarines.png)
 
 ![Sea Wolf Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/Seawolf_Attack_Submarines.png)
 
