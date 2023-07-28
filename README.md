@@ -17,6 +17,7 @@ yarn dev
 [X] Blog Selection on Mobile Device.    
 [X] Reshuffle card to present date.      
 [X] Click on Map Marker to Open Post.
+[ ] Compress Images or Store Images in GCloud Storage
 
 ## References
 - [Documentations](https://nextjs.org/docs)
