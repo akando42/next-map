@@ -16,8 +16,8 @@ yarn dev
 [X] Sorting by Date the Blog.  
 [X] Blog Selection on Mobile Device.    
 [X] Reshuffle card to present date.      
-[X] Click on Map Marker to Open Post.
-[ ] Compress Images or Store Images in GCloud Storage
+[X] Click on Map Marker to Open Post.  
+[X] Store Images in GCloud Storage in ASIA servers.
 
 ## References
 - [Documentations](https://nextjs.org/docs)

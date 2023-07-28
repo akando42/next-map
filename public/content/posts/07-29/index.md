@@ -10,9 +10,22 @@ tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US
 published: true
 ---
 ### The Urbanization Process of Coastal Cities
+Urbanization process of East Asian countries started with Japan before WW2 and continues to accelerate into the 21 century. Most of the East Asian population started moving from their farming life in remote countryside to the new city life in urban cities along the coastlines.
+
+Transportation infrastructure like highways, electrical power lines, water supply is much easier and cheaper to build around the flatland delta. Moving of export goods from sea ports via container ships to foreign markets and other local cities is also much cheaper than via land routes. 
+
+The television images of city life draw millions of young adults from their spacy countryside homes to the crowded city apartment buildings. The farmers of East Asia gave up their ability to build homes, raise cattles and plant prices in exchange for new skills in manufacturing assembly, consumer services and office information processing.
+
 ![10 Major East Asia Coast Cities](https://storage.cloud.google.com/spykman-world/11_major_coastal_cities_of_east_asia.png)
 
-Urbanization process of East Asian countries started with Japan before WW2 and continued to accelerate into the 21 century. Most of East Asian population are moving from their remote countrysides to urban cities along the coastlines. Transportation infrastructure is much easier to build around the flat land delta and transportation of export good from sea ports via container ships is much cheaper than via land routes. 
+The cities of light along East Asia Coastlines extended human productivity duration from 10 hours of daylight to 16 hours or more. Direct interaction with hundreds of coworkers and acquaintances resulted in exponential improvement in large group productivity growth. 
+
+After the failed attempts of Japan and the Qing dynasty to dominate the United States and European Power during the Opium Wars, World War 1 and World War to achieve their Alpha status, Japan and other East Asia has accepted their Beta status. East Asia will be the manufacturer and producer of goods with limited defense capability while United States and NATO allies will be the Capital Investors with dominating defense capability. 
+
+The comfortable city life with hundreds of options for everything from clothing to food, drink and entertainment within a walking distance also became a magnet that attracted East Asian females first from the mountain cities and deep inland towns to the coastal cities and then from the East Asian coastal cities to foreign lands of the United States and European nations.
+
+The ability of United States Naval forces to both provide Air cover as well as threaten the East Asian coastal cities is essential for their ability to maintain their Alpha status over other East Asian powers. As a result, US Naval planners built exactly 01 Modern Nuclear Aircraft Carrier per major East Asian coastal cities. 
+
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
 Aircraft carriers were a break-through during WWII and first used effectively and extensively by the Japanese Emperial Navy. It was a giant leap of innovation from the traditional large gun warships of German and British Navy. Aircraft carriers gave naval force superior range as well as much more firepower and strike frequency than large gun battleships.
