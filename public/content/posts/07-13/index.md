@@ -134,7 +134,7 @@ The Russian & Central Asian aerospace research centers near Lake Baika are no-lo
 
 The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued.
 
-![ANTONOV Broken Plane](https://storage.googleapis.com/spykman-world/ANTONOV_Broken_plane.png)
+![ANTONOV Broken Plane](https://storage.googleapis.com/spykman-world/ANTONOV_broken_plane.png)
 
 Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
