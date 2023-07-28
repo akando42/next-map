@@ -16,7 +16,7 @@ Transportation infrastructure like highways, electrical power lines, water suppl
 
 The television images of city life draw millions of young adults from their spacy countryside homes to the crowded city apartment buildings. The farmers of East Asia gave up their ability to build homes, raise cattles and plant prices in exchange for new skills in manufacturing assembly, consumer services and office information processing.
 
-![10 Major East Asia Coast Cities](https://storage.cloud.google.com/spykman-world/11_major_coastal_cities_of_east_asia.png)
+![11 Major East Asia Coast Cities](https://storage.googleapis.com/spykman-world/11_major_coastal_cities_of_east_asia.png)
 
 The cities of light along East Asia Coastlines extended human productivity duration from 10 hours of daylight to 16 hours or more. Direct interaction with hundreds of coworkers and acquaintances resulted in exponential improvement in large group productivity growth. 
 
@@ -34,7 +34,7 @@ American with its vast economic resources and industrial output as well as abili
 
 America also took it to another level by adding fleet of latest jet-engine aircrafts and nuclear engines to the Aircraft Carrier battle group. Nuclear engine essentially gives aircraft carriers unlimited range.
 
-![Yamoto](https://storage.cloud.google.com/spykman-world/yamoto_battleship.png)
+![Yamoto](https://storage.googleapis.com/spykman-world/yamoto_battleship.png)
 
 Last 70 years, America dominates the sea with its blue ocean navy and its superior technological as well as numerical aircraft carriers. Will aircraft carriers become obsolate like big gun battleships during WWII with the sunk of the Bismarck and Yamato. 
 
@@ -44,7 +44,7 @@ Last 70 years, America dominates the sea with its blue ocean navy and its superi
 
 ![Yorktown Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/yorktown_class_carrier.png)
 
-![Midway Class Aircraft Carrier](https://storage.cloud.google.com/spykman-world/midway_class_carrier.png)
+![Midway Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/midway_class_carrier.png)
 
 USS Forrestal supercarrier named after the first US Secretery of Defense - James Forrestal. It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system. USS Forrestal were among the last few US aircraft carriers with conventional engine. 
 
