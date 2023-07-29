@@ -26,7 +26,7 @@ The comfortable city life with hundreds of options for everything from clothing 
 
 The ability of United States Naval forces to both provide Air cover as well as threaten the East Asian coastal cities is essential for their ability to maintain their Alpha status over other East Asian powers. As a result, US Naval planners built exactly 01 Modern Nuclear Aircraft Carrier per major East Asian coastal cities. 
 
-Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the King sperms and finally select the best son from these satelite cites for the emperor position. 
+Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the King sperms and finally select the best son from these satellite cities for the emperor position. 
 
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
@@ -88,7 +88,6 @@ So America currently have 11 aircraft carriers in service with 2 more Ford-class
 ![Carrier Strike Group](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
 
 The only vulnerability to US nuclear-powered is her Fossil-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic missiles and hypersonic cruise missiles while the protective parameter was compromised by out-of-fuel Destroyers or Cruisers.
-
 
 ![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier02.png)
 
