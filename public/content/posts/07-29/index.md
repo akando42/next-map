@@ -65,13 +65,17 @@ The first Nimitz Class carriers was finished right after the Vietnam War. Nimitz
 
 ![Nimitz Class Aircraft carrier](https://storage.googleapis.com/spykman-world/nimitz_class_carrier.png)
 
-Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network and additional Air-borne radar aircrafts, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. The unlimited range US Nuclear-powered carrier can use her aircrafts to threaten any coastal cities along the Mediterian, Indian Ocean and the Pacific Ocean and could be escorted by other unlimited-range nuclear-powered attack submarines like the Virginia or Los Angles class attack Submarines.
+Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network as well as additional Air-borne radar aircrafts, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. 
+
+![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier01.png)
+
+The unlimited range US Nuclear-powered carrier can use her aircrafts to threaten any coastal cities along the Mediterranean, the Indian Ocean, the Pacific Ocean and could be escorted by other unlimited-range nuclear-powered attack submarines like the Virginia or Los Angles class attack Submarines.
 
 ![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
 
 US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers. The Nimitz class carriers saw most actions during the Gulf War against Iraq military. While Nimitz aircrafts came under fire from Iraq airforces, the carrier itself was never in the firing range of any Iraqi aircrafts or naval ships.
 
-The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by Donald Trump, the 45th President of United States July 22, 2017. FORD Aircraft Class Carrier comes with latest Surface and Air search radar, fully automated Close-In weapon defense system, electronic catapult launching system as well as a larger parking space at the tail to allow more Aircrafts load.
+The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by Donald Trump, the 45th President of United States July 22, 2017. FORD Aircraft Class Carrier comes with latest Surface and Air search radar, fully automated Close-In weapon defense system, electro-magnetic atapult launching system as well as a larger parking space at the tail to allow more Aircrafts load.
 
 ![Ford Class Aircraft carrier](https://storage.googleapis.com/spykman-world/ford_class_carrier.png)
 
@@ -85,7 +89,6 @@ So America currently have 11 aircraft carriers in service with 2 more Ford-class
 
 The only vulnerability to US nuclear-powered is her Fossil-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic missiles and hypersonic cruise missiles while the protective parameter was compromised by out-of-fuel Destroyers or Cruisers.
 
-![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier01.png)
 
 ![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier02.png)
 
