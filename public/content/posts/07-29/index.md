@@ -71,19 +71,19 @@ Nimitz class is a strategic transition of US Carrier role from a Sea control pla
 
 US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers. The Nimitz class carriers saw most actions during the Gulf War against Iraq military. While Nimitz aircrafts came under fire from Iraq airforces, the carrier itself was never in the firing range of any Iraqi aircrafts or naval ships.
 
-![Ford Class Aircraft carrier](https://storage.googleapis.com/spykman-world/ford_class_carrier.png)
-
 The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by Donald Trump, the 45th President of United States July 22, 2017. FORD Aircraft Class Carrier comes with latest Surface and Air search radar, fully automated Close-In weapon defense system, electronic catapult launching system as well as a larger parking space at the tail to allow more Aircrafts load.
 
-![Ford Class Under Construction](https://storage.googleapis.com/spykman-world/ford_in_construction.png)
+![Ford Class Aircraft carrier](https://storage.googleapis.com/spykman-world/ford_class_carrier.png)
 
-So America currently have 11 aircraft carriers in service with 2 more under construction, a larger fleet than the rest of 7 less advanced carriers from all other countries combined. All American carriers are nuclear-powered while only France has one nuclear-powered Aircraft Carrier. US Navy is not only still dominating the sea but be able to threaten most coastal cities while still staying out of range for any form of counter attacks.
+So America currently have 11 aircraft carriers in service with 2 more Ford-class Carriers under construction, a larger fleet than the rest of 7 less advanced carriers from all other countries combined. All American carriers are nuclear-powered while only France has one nuclear-powered Aircraft Carrier. US Navy is not only still dominating the sea but be able to threaten most coastal cities while still staying out of range for any form of counter attacks.
+
+![Ford Class Under Construction](https://storage.googleapis.com/spykman-world/ford-in-construction.png)
 
 ### Aircraft Carrier Strike Group Composition
 
-The only vulnerability to US nuclear-powered is her Fossiel-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic and hypersonic cruise missile while the protective parameter was compromised by out-of-fuel Destroyers or Crussiers.
-
 ![Carrier Strike Group](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
+
+The only vulnerability to US nuclear-powered is her Fossil-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic missiles and hypersonic cruise missiles while the protective parameter was compromised by out-of-fuel Destroyers or Crussiers.
 
 ![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier01.png)
 
@@ -92,8 +92,6 @@ The only vulnerability to US nuclear-powered is her Fossiel-fuel escort Destroye
 ![Ticonderoga](https://storage.googleapis.com/spykman-world/Ticonderoga_cruiser.png)
 
 ![Burke](https://storage.googleapis.com/spykman-world/Burke_destroyer.png)
-
-
 
 ![Los Angeles Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/Los_Angeles_attack_submarines.png)
 
