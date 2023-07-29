@@ -26,7 +26,7 @@ The comfortable city life with hundreds of options for everything from clothing 
 
 The ability of United States Naval forces to both provide Air cover as well as threaten the East Asian coastal cities is essential for their ability to maintain their Alpha status over other East Asian powers. As a result, US Naval planners built exactly 01 Modern Nuclear Aircraft Carrier per major East Asian coastal cities. 
 
-Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the King sperms and finally select the best son from these satellite cities for the emperor position. 
+Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the Emperor sperms and finally select the best son from these satellite cities for the emperor position. 
 
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
