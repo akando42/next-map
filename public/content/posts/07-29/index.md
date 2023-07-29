@@ -83,7 +83,7 @@ So America currently have 11 aircraft carriers in service with 2 more Ford-class
 
 ![Carrier Strike Group](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
 
-The only vulnerability to US nuclear-powered is her Fossil-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic missiles and hypersonic cruise missiles while the protective parameter was compromised by out-of-fuel Destroyers or Crussiers.
+The only vulnerability to US nuclear-powered is her Fossil-fuel escort Destroyers and Cruisers. US nuclear-power Carrier with her unlimited range could be targeted by enemy long-range ballistic missiles and hypersonic cruise missiles while the protective parameter was compromised by out-of-fuel Destroyers or Cruisers.
 
 ![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier01.png)
 
