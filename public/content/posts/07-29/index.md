@@ -3,9 +3,9 @@ zoom: 6
 lat: 16.665290685666694
 lng: 112.71882657408325
 path: "/supercarrier-like-uss-forrestal-is-unsinkable"
-cover: "content/posts/07-29/spykman-world-supercarrier-like-uss-forrestal-is-unsinkable.png"
+cover: "content/posts/07-29/spykman-world-aircraft-carrier-strike-group.png"
 date: "07-29"
-title: "Supercarrier Like USS Forrestal Is Unsinkable ?"
+title: "Aircraft Carrier Strike Group and Its Evolution"
 tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US Navy','Blue Ocean Navy','Submarines','Longrange Missle','Missile Destroyer','Spykman World','Nicholas Spykman']    
 published: true
 ---
@@ -14,7 +14,7 @@ Urbanization process of East Asian countries started with Japan before WW2 and c
 
 Transportation infrastructure like highways, electrical power lines, water supply is much easier and cheaper to build around the flatland delta. Moving of export goods from sea ports via container ships to foreign markets and other local cities is also much cheaper than via land routes. 
 
-The television images of city life draw millions of young adults from their spacy countryside homes to the crowded city apartment buildings. The farmers of East Asia gave up their ability to build homes, raise cattles and plant prices in exchange for new skills in manufacturing assembly, consumer services and office information processing.
+The television images of city life draw millions of young adults from their spacy countryside homes to the crowded city apartment buildings. The farmers of East Asia gave up their ability to build homes, raise cattles and plant rices in exchange for new skills in manufacturing assembly, consumer services and office information processing.
 
 ![11 Major East Asia Coast Cities](https://storage.googleapis.com/spykman-world/11_major_coastal_cities_of_east_asia.png)
 
@@ -42,27 +42,30 @@ The first aircraft carrier was built in the Engineering island of England, also 
 
 ![Langley Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/langley_class_carrier.png)
 
-Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley has no Control Tower above the deck and can carry up to 36 aircrafts. The USS Langley served as both the first experimental mobile long range recon and attack platform for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunition as well as a medieval catapult-like device to launch aircrafts off the deck.
+Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley ***has no Control Tower above the deck*** and can carry up to 36 aircrafts. The USS Langley served as both the ***first experimental mobile long range recon and attack platform*** for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunition as well as a medieval catapult-like device to launch aircrafts off the deck.
 
 ![Lexington Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/lexington_class_carrier.png)
 
+After learning from the first experimental Langley Class Aircraft Carrier, the US navy built ***2 battle-grade aircraft carriers*** of the Lexington Class in early 1930s. The Lexington class carrier ***has an elevated Control Tower above the flight deck*** for easy monitoring of the battle space as well as managing the launching and recovery of aircrafts. Lexington class carrier can carry up to 78 aircrafts and ***still have two large battleship guns***  next to the control tower. The Lexington Class carrier was the first US Carrier be able to sink another Aircraft Carrier during the battle of Coral Sea against the Japanese Imperial Navy.
+
 ![Yorktown Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/yorktown_class_carrier.png)
+
+Yorktown Class Aircraft Carrier was the final aircraft carriers the United States Navy was able to finish before World War 2 and Pearl Harbor.
+Three Aircraft Carriers of the Yorktown class saw the most actions during World WW2 against the Japanese Imperial Navy during the battle of Coral Sea, the Battle of Midway and the Guadalcanal campaign. Yorktown class carriers have ***no large battleship guns*** to reduce weight and increase speed of the carrier. Yorktown Class Carrier class was also the first Aircraft Carrier with ***ship-borne search radar*** installed on  the Control Tower. The Yorktown class also comes with ***armor bell around the Waterline and Control Tower*** to limit damage from Japanese torpedos and bombers. These US armor Carriers were able to sustain heavy attacks from Japanese aircrafts and still come back to the frontline shortly after a repairing and refitting periods.
 
 ![Midway Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/midway_class_carrier.png)
 
+The Midway Class was the Aircraft Carriers builts right after the finish of World War 2 in 1945. These aircraft carriers come with full flight deck armor and waterline bell armors. The Midway class continues the innovation in Yorktown class with no large battleship guns, many anti-aircraft guns, upgraded search radar and upgraded aircrafts. The Midway Class carriers saw action during the Korean war and Vietnam and had never been attacked or damaged by enemy aircrafts.
+
 ![Forrestal Class Aircraft carrier](https://storage.googleapis.com/spykman-world/forrestal_class_carrier.png)
 
-American with its vast economic resources and industrial output as well as ability to break the Japanese naval communication code eventually defeated the pioneer of aircraft carrier battle group - Japanese Imperial Navy.
-
-America also took it to another level by adding fleet of latest jet-engine aircrafts and nuclear engines to the Aircraft Carrier battle group. Nuclear engine essentially gives aircraft carriers unlimited range. Last 70 years, America dominates the sea with its blue ocean navy and its superior technological as well as numerical aircraft carriers. Will aircraft carriers become obsolate like big gun battleships during WWII with the sunk of the Bismarck and Yamato. 
-
-USS Forrestal supercarrier named after the first US Secretery of Defense - James Forrestal. It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system. USS Forrestal were among the last few US aircraft carriers with conventional engine. 
+The Forrestal Super Carrier class named after the first US Secretery of Defense - James Forrestal. It is the largest US Aircraft Carrier ever built and was the first to constructed with an angle flight deck, steam catapult and an optical landing system. USS Forrestal were among the last few US aircraft carriers with conventional engine. 
 
 US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers.
 
 ![Nimitz Class Aircraft carrier](https://storage.googleapis.com/spykman-world/nimitz_class_carrier.png)
 
-The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by President Donald Trump July 22, 2017.
+The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by Donald Trump, the 45th President of United States July 22, 2017.
 
 ![Ford Class Aircraft carrier](https://storage.googleapis.com/spykman-world/ford_class_carrier.png)
 

@@ -5,7 +5,7 @@ lng: 44.498443094926095
 path: "/georgia-stalin-and-the-future-of-euroasia"
 cover: "content/posts/07-31/spykman-world-georgia-stalin-and-the-future-of-euroasia.png"
 date: "07-31"
-title: "Georgia, Stalin and The Future of Euroasia ?"
+title: "Georgia, Stalin and The Caucasian Relentless Expansion"
 tags: ['Georgia', 'Orthodox Christian', 'Caucasus','Black Sea','Caspian Sea','Turkey','Russia','Caucasus Mountain','Homo Sapiens','Neanderthal','Denisovan', Spykman World','Nicholas Spykman']    
 published: true
 ---
