@@ -65,7 +65,7 @@ The first Nimitz Class carriers was finished right after the Vietnam War. Nimitz
 
 ![Nimitz Class Aircraft carrier](https://storage.googleapis.com/spykman-world/nimitz_class_carrier.png)
 
-Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. The unlimited range US Nuclear-powered carrier can use her aircrafts to threaten any coastal cities along the Mediterian, Indian Ocean and the Pacific Ocean and could be escorted by other unlimited-range nuclear-powered attack submarines like the Virginia or Los Angles class attack Submarines.
+Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network and additional Air-borne radar aircrafts, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. The unlimited range US Nuclear-powered carrier can use her aircrafts to threaten any coastal cities along the Mediterian, Indian Ocean and the Pacific Ocean and could be escorted by other unlimited-range nuclear-powered attack submarines like the Virginia or Los Angles class attack Submarines.
 
 ![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
 
