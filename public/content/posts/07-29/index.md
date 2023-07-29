@@ -128,7 +128,7 @@ A carrier strike group formation is normally lead by submarines with the aircraf
 
 ![Brahmos Antiship Cruise Missile](https://storage.googleapis.com/spykman-world/brahmos-antiship-cruise-missile.png)
 
-If the trajectory of an Aircraft Carrier could be calculated accurately, one single Nuclear Ballistic missile launched
+If the trajectory of an Aircraft Carrier could be calculated accurately, one single Submarine-Launch Ballistic Missile could penertrate the flight deck or capsize the carrier.
 
 ![JIN Class Submarines](https://storage.googleapis.com/spykman-world/jin-class-ballistic-submarine.png)
 
