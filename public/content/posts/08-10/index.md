@@ -13,7 +13,7 @@ published: true
 
 ## Paddy Field and the Unfair Advantage in Population Growth 
 
-###### Paddy Field -- A Semiaquatic crop is the first stable food source for Aqua Sapien.
+### Paddy Field -- A Semiaquatic crop is the first stable food source for Aqua Sapien.
 In a semiaquatic life-style, the female aquatic ape looks for different food sources beside the fish and wild pig hunting activities of the male aquatic ape. 
 
 Pig is another mammal with no hair, a proof of their past semi-aquatic lifestyle and their regular mud bathing habits.
@@ -34,23 +34,26 @@ Do not get more wrong. High living standard and good wealth distribution will st
 
 And low living standard will result in weak infrastructure and become victims of economic and military imperialism. If you do not build empire then you are the slaves.
 
-###### Human Capital is The True Power of a Nation Economy
-
+### Human Capital is The True Power of a Nation Economy
 Not more land, not more money, just more skilled people and more trade will ensure perpetual economic growth.
 Asia and Its Paddy Field ensure superior food production per square meter… which enables massive population growth.
-When the living standard (housing, education and infrastructure) of the majority of these population centers increases to parity to the west… we will see economic dominance. 
+When the living standard (housing, education and infrastructure) of the majority of these population centers increases to parity to the West we will see economic dominance. 
 
-Currently Japan + China is already dwarfing the US Economy while the majority of the South East Asia and South Asia economy is still under-developed. India with its heavily federated government structure does not have the necessary infrastructure to achieve growth and improvement in living standard that we are seeing China and elsewhere.
+Currently Japan + China is already dwarfing the US Economy while the majority of the South East Asia and South Asia economy is still under-developed. India with its heavily federated government structure does not have the necessary infrastructure to achieve growth and improvement in living standard that we are seeing China and elsewhere yet.
 
 
-###### Kra River and The Future of Kra Canal
+### Kra River and The Future of Kra Canal
 The Kra Canal that enabled the prosperity of the MeKong Delta and took the knife off China's throat and placing it on Alaska.
 
 
 ## The Vote that Tips the IMF Currency Basket
-USD + GBP < EUR + CNY + JPY because 41.73 + 8.09 < 30.93 + 10.92 + 8.33
+All advanced economies are able to produce highly complex product that is very difficult to copy but everyone wants their products. American loves Japanese and German cars while Japanese and German needs American recon and attack weapons to defend their territorials. American needs Chinese consumer electronics while Chinese needs the American ocean freeway to transport oil and gas from the Middle East. 
 
-USD + GBP + JPY > EUR + CNY because 41.73 + 8.09 + 8.33 > 30.93 + 10.92
+![IMF Currency Basket](https://storage.googleapis.com/spykman-world/IMF_Currency_Basket.png)
+
+Most of human-made products though is subject to depreciation of value and since COVID-19, somehow China and US is gaining larger share in the IMF curreny basket while Japan, Europe and United Kingdom is not doing as well as before. English vs non-English speaking world is still at fragile balance while Atlantics vs Pacifics is a total domination of the narrower trade routes between the Atlantic nations.  
+
+Japan could have tipped the scale with their superior products but Moscow tipped the scale in favor of the English speaking world with chaos, viruses and wars.
 
 
 ## Nobel Prize, Deep Science and The Culture that Supports Strange Ideas 
