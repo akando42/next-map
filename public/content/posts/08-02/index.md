@@ -9,12 +9,7 @@ title: "Gulf of Tonkin and The Southeast Asia Destiny"
 tags: ['Gulf of Tonkin', 'South China Sea', 'Vietnam','South East Asia','Denisovan','The Aquatic Ape Theory','Blue Water Navy','Competition','Spykman World','Nicholas Spykman']    
 published: true
 ---
-
-### Gulf of Tonkin and The Southeast Asia Destiny
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2389810741237318%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<br>
+## Gulf of Tonkin and The Southeast Asia Destiny
 
 ### Aquatic Ape Theory and The Sea Nomads
 
@@ -30,7 +25,7 @@ However, in order to develop a new bone frame structure to support this new post
 
 We also gradually adapted our diets from a vegetation-only to meat and start hunting other animals. The hunting activities cause us to take off the fur coat to release heat while running and tracing our preys. However why today fastest and most fearsome mammal predator like Tiger, Lion, Leopard still have their fur coat on?
 
-![Lion](https://cbs.umn.edu/sites/cbs.umn.edu/files/public/african_lion_king-wide_1.jpg)
+![Tiger](https://storage.googleapis.com/spykman-world/tiger_apex_lone_hunter_in_forrest_for_less_noises.png)
 
 Researchers like Elaine Morgan, Alistair Hardy, Max Westenhöfer,  Glenn Isaac,  Phillip Tobias,  Michael Crawford gives us a unique insight via their research into the Aquatic Ape Theory to provide an alternative explanation. 
 
@@ -41,7 +36,7 @@ The pre-human primates were forced to look for food sources from the waterways a
 
 We also start to walk upright in this semi-aquatic phase to get deeper into the water. This is very similar to the aquatic therapy stroke patients received to regain their mobility. 
 
-![Aquatic Therapy](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fteam-rehab.com%2Fwp-content%2Fuploads%2F2016%2F10%2FDSC_4515_Livonia-min.jpg&f=1)
+![Aquatic Therapy](https://storage.googleapis.com/spykman-world/patient_recovery_in_the_pool.png)
 
 This daily, continuous upright posture with water floating support provides a perfect environment for pre-human primates to gradually adapt their spine structure to stand up on their two legs.
 The modern evidence of this is the Probosci's monkey of Southeast Asia who lives near water and often walks upright on two legs. 
@@ -64,10 +59,10 @@ Whether our ancestors have an aquatic origin or not, the ascent and descent of c
 
 Our oldest known civilization, Ancient Egypt, around 3000BC with its famous Pyramids located next to the Nile River. 
 
-The Yellow River is the cradle of Chinese civilization.  Two million years ago, prehistoric (Peking) man is known to live near the Yellow River. The Yellow River or Huang Ha in Chinese is also the birthplace of Xia (2100 BC - 1600 BC), Shang (1600-1046 BC), Zhou Dynasty (1045-256 BC)
-, the most enduring dynasty in Chinese history. 
+The Yellow River is the cradle of Chinese civilization.  Two million years ago, prehistoric (Peking) man is known to live near the Yellow River. The Yellow River or Huang Ha in Chinese is also the birthplace of Xia (2100 BC - 1600 BC), Shang (1600-1046 BC), Zhou Dynasty (1045-256 BC) - the most enduring dynasty in Chinese history. 
 
 ![Inca Civilization](https://www.crystalinks.com/machu.gif)
+
 The Inca Civilization (1200 AD - 1542 AD) of Peru built the most sophisticated and extensive transportation in pre-Columbian South America. Cusco, the capital of the Inca Empire, located around the Huatanay river valley. 
 
 Athen, the birthplace of democracy as well as cornerstone of Western civilization, locates right next to port Pireas with direct access to the Medditerian. The Athen is famous for its superior Navy in the Ancient Greek. Athen navy and its allies ultimately crushed the Persian Empire invasion at the Battle of Salamis [^fn7] and forever stop any future invasions from Persia to the Ancient Greek
@@ -94,7 +89,7 @@ Rising sea level is causing the shrinking of islands and coastal areas. Extreme 
 
 ASEAN has mostly countries with coastal and islands so it is probably the area to feel the largest economic impact of climate change around the world. If sea level rises high enough, most of South East Asia would disappear from the map. 
 
-![Southeast Asia Climate Change Vulnerability Map](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FYoonhee_Kim4%2Fpublication%2F270221053%2Ffigure%2Ffig1%2FAS%3A284535850848271%401444850041643%2FMap-of-vulnerability-to-climate-change-in-Southeast-Asia-taking-into-account-exposure-to.png&f=1)
+![Southeast Asia Climate Change Vulnerability Map](https://storage.googleapis.com/spykman-world/climate_change.png)
 
 If Donald Trump loses the 2020 election, maybe America will change its stand on climate change. The US will renew the Paris Climate agreement and every country will be united again to combat this global existential threat. Or maybe it is already too little and too late anyway and we are no match for nature rising tide.
 
@@ -105,13 +100,15 @@ Increasing naval assertiveness from China is already causing a Naval built up in
 
 Shrinking farmland and lower agriculture production from climate change could result in countries to re-allocate its food sources and economies from inland products to the oceans. Aquaculture is currently the fastest-growing food system in the world. 
 
-![Aquapod Deep Sea Farming](https://www.innovasea.com/wp-content/uploads/2015/10/Aquapod-A3600-in-Puerto-Rico-1.jpg)
+![Aquapod Deep Sea Farming](https://storage.googleapis.com/spykman-world/aquaculture.png)
 
 Deep-sea fish farming in the open ocean could be the future for Southeast Asia. In Baja California, Mexico, Steve Page of Ocean Farm Technologies is developing the Aquapod [^fn9], a free-floating, untethered deep ocean fish habitat. Imagine if we can turn 70% and increasing area of the earth surface, the open ocean, into our new permanent food source via fish farming. 
 
+![Sushi everyday](https://storage.googleapis.com/spykman-world/aquaman_food.png)
+
 Stronger tropical storm could mean the potential to generate limitless energy via ocean wave energy generator like Wave Star [^fn10]. One Wave Star energy generator can turn the free unlimited kinetic energy from ocean waves into 6 Megawatts of energy, enough to power 4000 homes. 
 
-![Wave Star Energy Generator](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.resenwaves.com%2Fwp-content%2Fuploads%2F2016%2F03%2F17254_wavestar-1.jpg&f=1)
+![Wave Star Energy Generator](https://storage.googleapis.com/spykman-world/ocean_wave_energy_generator.png)
 
 A seafaring nomad civilization with an extensive network of commercial shipping vessels, sea-based food sources and energy generators as well as naval forces without the need for a long supply line could be dominating the ocean in 21 century. 
 
