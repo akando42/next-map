@@ -19,6 +19,8 @@ However, eventually France gave it to the United States to celebrate the passing
 
 As of 2023, people around the globe are still spending more than 8 hours a day looking toward the television and smartphone lights and consume the American-made content from movies to video clips, images and other social media contents transfering over via the American-made fiber-optics sea cables.  
 
+![American Fiber Optics Cable](https://storage.googleapis.com/spykman-world/fiber_optic_cable.png)
+
 ### America - A British Special Economic Zone Turn Independence.
 ![French Eggs Colonization](https://storage.googleapis.com/spykman-world/spanish_french_english_SEZ.png)
 
@@ -26,10 +28,10 @@ America is not really a colony like the Colonies of India or Indochina. Majority
 
 The government structure of Native American tribes at the arrival of Columbus was very fragmented and not centralized like the Civilizations of China, India or Indochina. As a result, the Natives were quickly overrun and dominated by the newcomers from Europe. 
 
-### America - The Rome of 21 Century
+### America - The Roman Empire of 21 Century
 
 
-### Every Empire Decline and America is Not the Exception.
+### The Dark Age or a New Sun for The Post American World
 
 
 
