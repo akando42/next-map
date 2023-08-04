@@ -9,8 +9,6 @@ title: "Japan - Nation That Tips The Scale of Future World Order"
 tags: ['Japan', 'Sunrise', 'Rising Wave','World Bank','IMF','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2369393896663012%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ## Paddy Field and the Unfair Advantage in Population Growth 
 
 ### Paddy Field -- A Semiaquatic crop is the first stable food source for Aqua Sapien.
@@ -35,12 +33,14 @@ Do not get more wrong. High living standard and good wealth distribution will st
 And low living standard will result in weak infrastructure and become victims of economic and military imperialism. If you do not build empire then you are the slaves.
 
 ### Human Capital is The True Power of a Nation Economy
+![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
+
 Not more land, not more money, just more skilled people and more trade will ensure perpetual economic growth.
-Asia and Its Paddy Field ensure superior food production per square meter… which enables massive population growth.
+
+Asia and Its Paddy Field ensure superior food production per square meter which enables massive population growth.
 When the living standard (housing, education and infrastructure) of the majority of these population centers increases to parity to the West we will see economic dominance. 
 
 Currently Japan + China is already dwarfing the US Economy while the majority of the South East Asia and South Asia economy is still under-developed. India with its heavily federated government structure does not have the necessary infrastructure to achieve growth and improvement in living standard that we are seeing China and elsewhere yet.
-
 
 ### Kra River and The Future of Kra Canal
 The Kra Canal that enabled the prosperity of the MeKong Delta and took the knife off China's throat and placing it on Alaska.
@@ -51,7 +51,7 @@ All advanced economies are able to produce highly complex product that is very d
 
 ![IMF Currency Basket](https://storage.googleapis.com/spykman-world/IMF_Currency_Basket.png)
 
-Most of human-made products though is subject to depreciation of value and since COVID-19, somehow China and US is gaining larger share in the IMF curreny basket while Japan, Europe and United Kingdom is not doing as well as before. English vs non-English speaking world is still at fragile balance while Atlantics vs Pacifics is a total domination of the narrower trade routes between the Atlantic nations.  
+Most of human-made products though is subject to depreciation of value and since COVID-19, somehow China and US is gaining larger share in the IMF currency basket while Japan, Europe and United Kingdom is not doing as well as before. English vs non-English speaking world is still at a fragile balance while Atlantics vs Pacifics is a total domination of the narrower trade routes between the Atlantic nations.  
 
 Japan could have tipped the scale with their superior products but Moscow tipped the scale in favor of the English speaking world with chaos, viruses and wars.
 
