@@ -13,9 +13,9 @@ Libertas was a Roman goddess of Freedom. Her beautiful picture appeared on the g
 
 ![Gold Coin of Ceasar](https://storage.googleapis.com/spykman-world/libertas_coin_of_ceasar.png)
 
-However, eventually France gave it to the United States to celebrate the passing of Thirteen amendment to abolish slavery. Since late 1800s, the French Statue of Liberty is still standing at the dark harbor of New York with her bright light to welcome immigrants from Europe to the promise land of United States.
+However, eventually France gave it to the United States to celebrate the passing of Thirteen amendment to abolish slavery. Since late 1800s, the French Statue of Liberty is still standing at the dark harbor of New York with her bright light facing East to welcome immigrants from Europe to the promise land of United States.
 
-![Statue of Liberty West Facing](https://storage.googleapis.com/spykman-world/statue_of_liberty.png)
+![Statue of Liberty East Facing](https://storage.googleapis.com/spykman-world/east_facing_statue_of_liberty.png)
 
 As of 2023, people around the globe are still spending more than 8 hours a day looking toward the television and smartphone lights and consume the American-made content from movies to video clips, images and other social media contents transfering over via the American-made fiber-optics sea cables.  
 
