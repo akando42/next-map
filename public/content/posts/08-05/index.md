@@ -30,7 +30,6 @@ The government structure of Native American tribes at the arrival of Columbus wa
 
 ### America - The Roman Empire of 21 Century
 
-
 ### The Dark Age or a New Sun for The Post American World
 
 
