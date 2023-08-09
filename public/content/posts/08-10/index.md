@@ -28,7 +28,7 @@ With the same high carbonhydrate food sources to boost human activities and clos
 
 ![Japanese Kanji](https://storage.googleapis.com/spykman-world/japanese_kanji.png)
 
-The East Asia civilizations stayed Yellow Yangzte Han Chinese centrics with Han Chinese ruling dynasties as the central of gravity or the Sun for East Asia civilizations. Newest ideas, technologies, food, fashion and architecture trends started in Yellow Yangzte delta and then spreaded to other out regions of China in South East, Korea and Japan. However, the high speed current of the Tsushima Strait and Japanese high Western mountain ranges enabled Japan isolation and prevented Japanese clans from fully fallen into the Han Chinese orbit and became a province of Chinese dynasties like Taiwan.
+The East Asia civilizations stayed Yellow Yangzte Han Chinese centrics with Han Chinese ruling dynasties as the central of gravity or the Sun for East Asia civilizations. Newest ideas, technologies, food, fashion and architecture trends started in Yellow Yangzte delta and then spreaded to outer rim regions of China in South East, Korea and Japan. However, the high speed current of the Tsushima Strait and Japanese high Western mountain ranges enabled Japan isolation and prevented Japanese clans from fully fallen into the Han Chinese orbit and became a province of Chinese dynasties like Taiwan.
 
 ![Tsushima Strait and Western Mountain Range](https://storage.googleapis.com/spykman-world/tsushima_strait_and_western_mountain_range.png)
 
