@@ -24,7 +24,7 @@ The delta flatland gains most from the Monsoon weather system and produce the hi
 
 ![Japanese Rice Farmer](https://storage.googleapis.com/spykman-world/japanese_rice_farmer.png)
 
-With the same high carbonhydrate food sources to boost human activities and closely similiar gene pools, different cultures in East Asia, the largest river delta of Yellow-Yangzte river come to dominate early East Asian civilizations with cultures in Vietnam, Southern China, Northern China, Manchuria, Korea, Japan all adopt the same Han Chinese writing system, Han Chinese wet rice farming techniques and Han Chinese Confucius governing and architecture. 
+With the same high carbonhydrate food sources to boost human activities and closely similiar gene pools, the largest river delta of Yellow-Yangzte river come to dominate early East Asian civilizations with cultures in Vietnam, Southern China, Northern China, Manchuria, Korea, Japan all adopt the same Han Chinese writing system, Han Chinese wet rice farming techniques and Han Chinese Confucius governing and architecture. 
 
 ![Japanese Kanji](https://storage.googleapis.com/spykman-world/japanese_kanji.png)
 
