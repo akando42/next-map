@@ -9,16 +9,41 @@ title: "Japan - Nation That Tips The Scale of Future World Order"
 tags: ['Japan', 'Sunrise', 'Rising Wave','World Bank','IMF','Spykman World','Nicholas Spykman']    
 published: true
 ---
-### Paddy Field -- A Semiaquatic crop is the first stable food source for Aqua Sapien.
+### Aqua Sapien, Han Kanji Alphabet and the Wet Rice Culture
 In a semiaquatic life-style, the female aquatic ape looks for water-submersive plant-based sources while the male aquatic ape would go fishing and hunting wild animal while they were drinking water. The wild wet-rice naturally became the stable food sources that the aquatic female ape would be able to cultivate reliably everyday.
 
-![Wet Wide Rice](https://storage.googleapis.com/spykman-world/wild-wet-rice.png)
+![Wide Wet Rice](https://storage.googleapis.com/spykman-world/wild-wet-rice.png)
 
 After thoundsand years of harvesting wild wet rice, the divine peasant and agriculture god, Shannong, the forefather of every rice-paddy culture like Japan, China, Vietnam, Bangladesh starts to grow rice in his neighborhood lands instead of just relying on his wife wild-rice harvesting activities.
 
-There are a direct correlation between population growth and the abundance of food. If the Western world switch their diet to a more energy efficient source, we will definitely see more population growth in the West. 
+The Monsoon weather system in East India and East Asia contributes to the adoption of wet rice as main stable food source for the Aquasapien civilizations in this region of the world. Food security from wet rice farming technique results in surplus of time for the rice farmers and allow him to build better settlements as well as raising more kids and keep his family healthy. More free times from food security also results in more complex society with different social classes who choose to spend their new gain freetime differently after each full meals. 
 
-A clear example is a higher birth rate in the United States than in Europe because Chinese, Korean and Japanese food are popular in US while they are not very popular and do not become a daily food source in Europe.
+![Monsoon Boost Wet Rice Region](https://storage.googleapis.com/spykman-world/monsoon_wet_rice_region.png)
+
+The delta flatland gains most from the Monsoon weather system and produce the highest output of wet rice per square kilometer of farmland. The HAN Chinese number and writing system was developed probably to record trading and major historical events among food surplus settlements around the Mekong River Delta and Red River Delta of Vietnam, Pearl River Delta, Yangzte River Delta and Yellow River Deltas of China, Taedong River Delta and Han River Delta of Korea and Tone River Delta of Japan.
+
+![Japanese Rice Farmer](https://storage.googleapis.com/spykman-world/japanese_rice_farmer.png)
+
+With the same high carbonhydrate food sources to boost human activities and closely similiar gene pools, different cultures in East Asia, the largest river delta of Yellow-Yangzte river come to dominate early East Asian civilizations with cultures in Vietnam, Southern China, Northern China, Manchuria, Korea, Japan all adopt the same Han Chinese writing system, Han Chinese wet rice farming techniques and Han Chinese Confucius governing and architecture. 
+
+![Japanese Kanji](https://storage.googleapis.com/spykman-world/japanese_kanji.png)
+
+The East Asia civilizations stayed Yellow Yangzte Han Chinese centrics with Han Chinese ruling dynasties as the central of gravity or the Sun for East Asia civilizations. Newest ideas, technologies, food, fashion and architecture trends started in Yellow Yangzte delta and then spreaded to other out regions of China in South East, Korea and Japan. However, the high speed current of the Tsushima Strait and Japanese high Western mountain ranges enabled Japan isolation and prevented Japanese clans from fully fallen into the Han Chinese orbit and became a province of Chinese dynasties like Taiwan.
+
+![Tsushima Strait and Western Mountain Range](https://storage.googleapis.com/spykman-world/tsushima_strait_and_western_mountain_range.png)
+
+And then , everything changed in early 1600 EDO period with the introduction of new DNA lineages, the females type D and Type O in the city of EDO, the formal name of Tokyo. Just like how the foreign African lineages helped the Western colonial powers to alter ecosystem balance and subdue Native American tribes, the new Egg D and O babies introduced in the Edo or Tokyo port city growing up and being armed with Fire-powder guns quickly centralized fragmented Japanese clans and turn Japan from an Isolationist to an Expansionist society that will rival Han Chinese influences in the next 500 years. 
+
+![Type D or O Unifier of Japan during Edo Period](https://storage.googleapis.com/spykman-world/toyotomi_hideyoshi.png)
+
+These type D and O babies of the EDO periods built many castles around Japan like the Western European castles, launched their first expansion into Korea peninsula and started to replace the Han Chinese Ming dynasty culture, military and political influences with their own.  
+
+![Osaka Castle](https://storage.googleapis.com/spykman-world/japanese_and_austrian_castles.png)
+
+### Human Capital is The True Power of a Nation Economy
+![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
+
+If the Western world switch their diet to a more energy efficient source, we will definitely see more population growth in the West. A clear example is a higher birth rate in the United States than in Europe because Chinese, Korean and Japanese food are popular in US while they are not very popular and do not become a daily food source in Europe.
 
 Being able to raise a child in any countries is the Relative Living Standard equation not a Absolute Income equation. When everyone around you are richer than you then you are not going to be able to raise a child since it cost more to trade for what you need.
 
@@ -27,9 +52,6 @@ When everyone else around you are just poor like you, we are all sucker who are 
 Do not get more wrong. High living standard and good wealth distribution will still result in good economic growth and good population growth which translate into expanding genetics footprint. And low living standard will result in weak infrastructure and become victims of economic and military imperialism.
 
 If you do not build empire then you are the slaves.
-
-### Human Capital is The True Power of a Nation Economy
-![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
 
 Not more land, not more money, just more skilled people and more trade will ensure perpetual economic growth.
 
