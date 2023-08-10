@@ -69,7 +69,7 @@ Following the victory of Japan against Russian navy, the Japanese ability to pur
 
 ![MIT and MITSUBISHI](https://storage.googleapis.com/spykman-world/mit_and_mitsubishi.png)
 
-MIT and other IVY-league American research universities were founded in New England, USA as a single repository of truth that Western scientists and engineers can deposit their research and experiment results to. And Mitsubishi was founded as a single exclusive Japan importer of Western technology for the ease of Japanese import control.
+MIT and other IVY-league American research universities were founded in New England, USA as a single repository of truth that Western scientists and engineers can deposit their research and experiment results to. And Mitsubishi was founded by the EDO lineage as a single exclusive Japan importer of Western technology for the ease of Japanese import control. 
 
 ![MITSUBISHI ZERO FIGHTER](https://storage.googleapis.com/spykman-world/japanese_mitsubishi_fighter_with_no_fueltank_armor.png)
 
@@ -77,41 +77,38 @@ At the beginning of World War 2, even scrapped metals imported from the United S
 
 ![WW2 Imperial Navy Aircraft Carrier](https://storage.googleapis.com/spykman-world/japanese_imperial_navy_aircraft_carrier_without_radar.png)
 
-### Modern Japanese Development Under NATO Watchful Eyes
+### Modern Japanese Development Under North Atlantics Alliance Watchful Eyes
 ![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
 
-If the Western world switch their diet to a more energy efficient source, we will definitely see more population growth in the West. A clear example is a higher birth rate in the United States than in Europe because Chinese, Korean and Japanese food are popular in US while they are not very popular and do not become a daily food source in Europe.
+During World War 2, many of the old Japanese lineages from the Southern Islands of Kyushu and Shikoku was eliminated during the ground battles in China, South East Asia and Siberia. The EDO lineages of 16 century had an even larger share of the Japanese population after World War 2 and even started to leave their genetics footprint outside of Japan. 
 
-Being able to raise a child in any countries is the Relative Living Standard equation not a Absolute Income equation. When everyone around you are richer than you then you are not going to be able to raise a child since it cost more to trade for what you need.
+![Japanese four main island](https://storage.googleapis.com/spykman-world/four_japanese_main_island.png)
 
-When everyone else around you are just poor like you, we are all sucker who are willing to trade for less so child care would be cheaper, food would be cheaper and medicine would be cheaper. So it is good to live in a rich neighborhood yeah if you are richer than the average.
+Japanese cities quickly recovered from the bombing of American airforces. Just like Germany, the tank and fighter aircraft factories got turned into car manufacturing plants. Both Germany and Japan can no longer mass produce aircrafts domestically though. BMW and Mitsubushi, two aircraft manufacturers of World War 2 are only allowed to make Cars this day. Thirty years after WW2, Japan would become the largest car marker in the world with United States and Germany taking number 2 and number 3 position.
 
-Do not get more wrong. High living standard and good wealth distribution will still result in good economic growth and good population growth which translate into expanding genetics footprint. And low living standard will result in weak infrastructure and become victims of economic and military imperialism.
+![Top Car Marker](https://storage.googleapis.com/spykman-world/top-cars-maker-in-the-world-in-1970s.png)
 
-If you do not build empire then you are the slaves.
+And the North Alantic Coalition is once again activated in 1980 to put a stop to Japanese economic expansion. With American military bases in Okinawa, Nagaski, Hiroshima, outside Tokyo and near Sapporo, the Japanese half-indepedent government has no options but concede to the American trade demand by appreciating the YEN agaist USD to cause Japanese cars to become more expensive against American and German cars. Following the trade concession of the 1980s, Japanese economy felt into a Stagnation period with near zero percent economic growth from 1990s to 2010s.
 
-Not more land, not more money, just more skilled people and more trade will ensure perpetual economic growth.
+![Japan Major Metropolitans and American Military Bases](https://storage.googleapis.com/spykman-world/japanese_major_metropolitan_and_american_bases.png)
 
-Asia and Its Paddy Field ensure superior food production per square meter which enables massive population growth.
-When the living standard (housing, education and infrastructure) of the majority of these population centers increases to parity to the West we will see economic dominance. 
+After the 1st trade restriction of WW2 on war production and the 2nd trade restriction of 1980 on car production, Japanese makers learn not to put the country of orgin into their products and use third party manufacturing countries to produce their goods. With the Abenomics, Japanese goverment and corporations start to invest oversea in South East Asia and Southern China to built up infrastructure and manufacturing factories to produce Japanese products under Japanese brands or Chinese brands or American brands. Japanese economic and population growth outside of Japan is less scrutinized by the American and Western observers. Japan also invested more into intangable products like softwares and entertainment media whose geographical production location is highly flexible and easily concealable.  
 
-Currently Japan + China is already dwarfing the US Economy while the majority of the South East Asia and South Asia economy is still under-developed. India with its heavily federated government structure does not have the necessary infrastructure to achieve growth and improvement in living standard that we are seeing China and elsewhere yet.
+![Japanese major players in US West Coast Tech Scene](https://storage.googleapis.com/spykman-world/japanese_major_players_in_US_West_coast_tech_scene.png)
 
-### Kra River and The Future of Kra Canal
-The Kra Canal that enabled the prosperity of the MeKong Delta and took the knife off China's throat and placing it on Alaska.
+While on paper, the fiber optics cable connecting the world is built with American dollars, Japanese goverment purchases of US Government Debt and Japanese largest investment bank like Nomura and Softbank investments in United States with Abenomics ultraloose monetary policy, maybe Japan actually controls the information following between two side of the Pacifics ocean.
 
+![Fiber Optics cable between Japan and United States](https://storage.googleapis.com/spykman-world/japan-california-fiber-optics-sea-cable.png)
 
-## The Vote that Tips the IMF Currency Basket
-All advanced economies are able to produce highly complex product that is very difficult to copy but everyone wants their products. American loves Japanese and German cars while Japanese and German needs American recon and attack weapons to defend their territorials. American needs Chinese consumer electronics while Chinese needs the American ocean freeway to transport oil and gas from the Middle East. 
+With only 125 million people with 30 million people concentrated in the Tokyo formally EDO delta, the superior infrastructure of Japanese rail network and highway allowed billion of human interactions online and offline per year between Japanese students, entrepreneurs, engineers and researchers online and offline.
+
+![Japanese Rail Network](https://storage.googleapis.com/spykman-world/japan_rail_network.png)
+
+And just like the ancient time, the transportation of goods via sea route is much cheaper which enabled Roman Empire to prosper, the European sea powers to surpass East Asia, the numerous Sea Ports of Japan allowed Japanese companies to produce good at much cheaper price at the same quality as top manufacturer of China or American or Europe.
+
+![Japanese sea ports](https://storage.googleapis.com/spykman-world/main_trading_ports_of_japan.png)
+
+As of 2023, The Russian ballistic missile threat via North Korea missile program, the American carrier battle group in the Pacifics and Japanese energy dependent on Middle Eastern oil are still major obstacles stopping the YEN and Japanese people from gaining larger share in IMF currency basket and larger influences in world affairs.
 
 ![IMF Currency Basket](https://storage.googleapis.com/spykman-world/IMF_Currency_Basket.png)
-
-Most of human-made products though is subject to depreciation of value and since COVID-19, somehow China and US is gaining larger share in the IMF currency basket while Japan, Europe and United Kingdom is not doing as well as before. English vs non-English speaking world is still at a fragile balance while Atlantics vs Pacifics is a total domination of the narrower trade routes between the Atlantic nations.  
-
-Japan could have tipped the scale with their superior products but Moscow tipped the scale in favor of the English speaking world with chaos, viruses and wars.
-
-## Nobel Prize, Deep Science and The Culture that Supports Strange Ideas 
-So Deep Science means Superior Weapon because Physics could be scary.
-
-
 
