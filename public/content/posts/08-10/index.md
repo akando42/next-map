@@ -65,6 +65,10 @@ The Japanese traders and agents with extensive knowledge of Western Europe marke
 
 ![Battle of Tsushima](https://storage.googleapis.com/spykman-world/defeat_of_russian_navy_1905.png)
 
+Following the victory of Japan against Russian navy, the Japanese ability to purchase any kind of lethal weapons from the West is severely restricted. The newest Western technologies now would be kept secret from Japanese traders and agents. These new trade regulation and technology transfer control measure of Western powers furtherly forces Japan to make everything domestically and only can import raw material and scrapped metals from abroad. At the beginning of World War 2, even scrapped metals imported from the United States was embargo and the radar technology invented in Britain was kept secret from Germany and Japan. Radar technology ended up to be the deciding factor stopping the Germany Airforce from achieving air superiority over the sky of Britain and led to the defeat of Japanese Imperial navy in the battle of Midway.
+
+![WW2 Imperial Navy Aircraft Carrier](https://storage.googleapis.com/spykman-world/japanese_imperial_navy_aircraft_carrier.png)
+
 ### Human Capital is The True Power of a Nation Economy
 ![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
 
