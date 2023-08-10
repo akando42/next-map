@@ -40,6 +40,19 @@ These type D and O babies of the EDO periods built many castles around Japan lik
 
 ![Osaka Castle](https://storage.googleapis.com/spykman-world/japanese_and_austrian_castles.png)
 
+In the next 200 years after the first Type D and Type O babies and the first invasion of Korean peninsula, these new Japanese lineages turned a small port city of EDO into one of the world largest metropolitan that would rival the size of Beijng on the other side of the Yellow sea. They turned most of the EDO delta into farmland and rapidly expand the type D and type O genetics footprint in this most fertile area of Japan.
+
+![The EDO expansion in Honshu Island](https://storage.googleapis.com/spykman-world/the_edo_expansion_in_honshu.png)
+
+These EDO warlords would become so rich being the middlemen trading Chinese and Japanese goods and captured slaves with the West at the period when Chinese ports were fully closed to foreign Westerners. With their new-found richest, they can travel to most famous Western cities and sent agents to buy the newest Western weapons and technologies. American and Portugese traders also brought the lightest but rarest items they could find in the West to trade with Japan so they can make a profitable trip home in their fully packed ocean vessels.
+
+![EDO period firearms](https://storage.googleapis.com/spykman-world/edo_period_firearms.png)
+
+These EDO delta warlords would become so powerful that they would dominate other more Han-Chinese warlords of Japan in Nagoya and Osaka delta and even be able to move the emperor and the capital of Japan from KYOTO to EDO and renamed the city of EDO to TOKYO.
+### Meiji Era Rapid Industralization and the first Western Lend-Lease program
+
+
+
 ### Human Capital is The True Power of a Nation Economy
 ![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
 
