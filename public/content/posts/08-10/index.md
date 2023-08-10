@@ -67,9 +67,9 @@ The Japanese traders and agents with extensive knowledge of Western Europe marke
 
 Following the victory of Japan against Russian navy, the Japanese ability to purchase any kind of lethal weapons from the West is severely restricted. The newest Western technologies now would be kept secret from Japanese traders and agents. These new trade regulation and technology transfer control measure of Western powers furtherly forces Japan to make everything domestically and only can import raw material and scrapped metals from abroad. At the beginning of World War 2, even scrapped metals imported from the United States was embargo and the radar technology invented in Britain was kept secret from Germany and Japan. Radar technology ended up to be the deciding factor stopping the Germany Airforce from achieving air superiority over the sky of Britain and led to the defeat of Japanese Imperial navy in the battle of Midway.
 
-![WW2 Imperial Navy Aircraft Carrier](https://storage.googleapis.com/spykman-world/japanese_imperial_navy_aircraft_carrier.png)
+![WW2 Imperial Navy Aircraft Carrier](https://storage.googleapis.com/spykman-world/japanese_imperial_navy_aircraft_carrier_without_radar.png)
 
-### Human Capital is The True Power of a Nation Economy
+### Modern Japanese Development Under NATO Watchful Eyes
 ![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
 
 If the Western world switch their diet to a more energy efficient source, we will definitely see more population growth in the West. A clear example is a higher birth rate in the United States than in Europe because Chinese, Korean and Japanese food are popular in US while they are not very popular and do not become a daily food source in Europe.
