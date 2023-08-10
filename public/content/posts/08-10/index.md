@@ -49,9 +49,17 @@ These EDO warlords would become so rich being the middlemen trading Chinese and 
 ![EDO period firearms](https://storage.googleapis.com/spykman-world/edo_period_firearms.png)
 
 These EDO delta warlords would become so powerful that they would dominate other more Han-Chinese warlords of Japan in Nagoya and Osaka delta and even be able to move the emperor and the capital of Japan from KYOTO to EDO and renamed the city of EDO to TOKYO.
+
 ### Meiji Era Rapid Industralization and the first Western Lend-Lease program
+After the second Opium war early 1800s between European colonial powers and the Qing dynasty of China, all Chinese ports are now open to Western trades. British, Gerrman, French, Dutch, Portugese now can trade directly with the Chinese merchants using their highly addictive substance of Opium. Japanese traders at the beginning of Meiji era and post Opium war can no longer trade Chinese and Japanese goods for the newest weapons and technologies from the West. 
 
+The rich Japanese warlords of Tokyo have to start to reverse engineers Western products and weapons and build factories to build those items directly in Japan for Japanese. The Tokyo Delta farmland area quickly urbanized with Japanese farmers from Tokyo delta as well as other deltas moving to the port city of Tokyo to work inside industralized factories.
 
+![Japanese Textile Factory](https://storage.googleapis.com/spykman-world/meiji-era-textile-machine.png)
+
+These newly built factories were mass manufacturing clothing, printing books, making riffles for the Japanese Imperial ArmY. For the first time, every young male within the fighting age in Japan is equipped with an uniform, trained in Western military tactics and was capable of eliminating multiple males of all sizes and ages with riffles made in Japan.
+
+![Meiji Era Japanese Imperial Army](https://storage.googleapis.com/spykman-world/meiji-era-imperial-army.png) 
 
 ### Human Capital is The True Power of a Nation Economy
 ![Faces of Famous Japanese](https://storage.googleapis.com/spykman-world/faces_of_japan.png)
