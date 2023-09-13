@@ -31,6 +31,8 @@ published: true
 
 ![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
 
+![NATO Wave of Fear and New Memberships](https://storage.googleapis.com/spykman-world/wave_of_fear_and_NATO_new_memberships.png)
+
 ### Friday the Thirteen and Its Origin
 
 So since when and why Friday the Thirteen generate so much fear and superstition. 
