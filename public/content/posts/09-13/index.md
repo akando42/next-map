@@ -5,11 +5,31 @@ lng: 10.756933945021663
 path: "/friday-the-thirteen-and-the-politics-of-fear-mongering"
 cover: "content/posts/09-13/spykman-world-friday-the-thirteen-and-the-politics-of-fear-mongering.jpg"
 date: "09-13"
-title: "Friday The Thirteen And The Fear Monger"
-tags: ['Friday The Thirteen', 'Fear', 'Human Instinct','Fear Monger','Spykman World','Nicholas Spykman']    
+title: "Friday The Thirteen, Fear and the Benefactors of Chaos"
+tags: ['Friday The Thirteen', 'Fear', 'Human Instinct','Fear Monger', 'Spykman World', 'Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F1052861658438705%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+![NOR Viking Expansion](https://storage.googleapis.com/spykman-world/NOR_Viking_Expansion.png)
+
+![NOR vs KAZ](https://storage.googleapis.com/spykman-world/NOR_vs_KAZ.png)
+ 
+![The NATO Royals](https://storage.googleapis.com/spykman-world/nato-royals.png)
+
+![NOR Global Control](https://storage.googleapis.com/spykman-world/NOR_Global_Control.png)
+
+![Right-hand man countries vs Left-hand man countries](https://storage.googleapis.com/spykman-world/left-hand-countries_vs_right-hand-countries.png)
+
+![Scandinavian Air Traffics](https://storage.googleapis.com/spykman-world/Scandinavian_Air_Traffics.png)
+
+![Daily Oil Output](https://storage.googleapis.com/spykman-world/daily_oil_output_norway_vs_opec.png)
+
+![NORWAY INCOME Stream](https://storage.googleapis.com/spykman-world/norway_oil_income.png)
+
+![NORTH Atlantics Oil Tankers](https://storage.googleapis.com/spykman-world/north-atlantics-oil-tankers.png)
+
+![Brent Crude Oil Prices](https://storage.googleapis.com/spykman-world/crude-oil-brent-historical-prices.png)
+
+![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
 
 ### Friday the Thirteen and Its Origin
 
@@ -28,8 +48,7 @@ Ancient Egypt consider number of 13 as symbol of death. However, Egyptian believ
 
 An anchor shooting out 3 arrows at the same time are definitely a bad luck for his opponents. 
 
-Maybe simply in a fight, one against 3 is a pretty bad situation for an average person.However one guy with 3 girls is a pretty exciting situation but the next morning the guy will be very tired and exhausted. 
+Maybe simply in a fight, one against 3 is a pretty bad situation for an average person. However one guy with 3 girls is a pretty exciting situation but the next morning the guy will be very tired and exhausted. 
 
-Interesting enough, 4 US presidents were part of the Thirteen Club ( Chester A. Arthur, Grover Cleveland, Benjamin Harrison and Theodore Roosevelt.  The Thirteen Club is an exclusive society that dines a 13-course dinner on the 13th day of the month in room 13 at the Knickerbocker Cottage. 
-
- 
+Interesting enough, 4 US presidents were part of the Thirteen Club ( Chester A. Arthur, Grover Cleveland, Benjamin Harrison and Theodore Roosevelt.  The Thirteen Club is an exclusive society that dines a 13-course dinner on the 13th day of the month in room 13 
+at the Knickerbocker Cottage. 
