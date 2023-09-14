@@ -37,6 +37,15 @@ With the harsh and cold winter of Scandinavia, the Scandinavian tribes probably 
 
 The Nordic genetics expansion only slowed down by the Nomadic Kazak tribes in Eastern Europe and Central Asia in 13 centuries but eventually these Kazak tribes fail to stop the Nordic blonde tribes of Russia to expand all the way to the Siberia and the Pacifics ocean. While blonde tribes are not numerous in number, being blonde is associated with royalty and the ruling classes of Europe. Even to the modern day, both Israel and United States first lady is Blonde and the President of European Union is also blonde.
 
+Probably these European ruling elites first realized the psychological effects of their hair color and started to use an useless but shiny material, GOLD, to associate all local transactions with their power and influence. The King of Europes started to issue golden coins with their symbol as the mean of exchange for all European commerces and build golden symbolic structures in government and religous sites. 
+
+All complex organism from plant, bacterial to human seeks more energy via light or other intermediate energy source comming from light like vegetable or other smaller organisms. Light gives direction to all complex organism with all organism has the tendency to move toward light sources and staying around the light sources. However, some human can create light sources, light reflecting materials or light emiting objects and position them to give directions to other humans, animals and plants. With modern human, for the first time, an organism can give itselves directions and no longer relying on nature to define meaning of its existence. 
+
+The Elite rulling classes of Europe has turn a shiny, light reflecting material of gold into a direction giving object that extending the influences of the Nordic blonde tribes to places where they are not even present.
+
+![Fire, Gold, Blonde Traffic Light](https://storage.googleapis.com/spykman-world/fire_gold_blonde.png)
+
+
 ### Fossil Fuel, The Conbustion Engine and the Nordic Global Control
 ![NOR Global Control](https://storage.googleapis.com/spykman-world/NOR_Global_Control.png)
 
@@ -54,11 +63,9 @@ The Nordic genetics expansion only slowed down by the Nomadic Kazak tribes in Ea
 
 ![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
 
-All complex organism from plant, bacterial to human seeks more energy via light or other intermediate energy source comming from light like vegetable or other smaller organisms. Light gives direction to all complex organism with all organism has the tendency to move toward light sources and staying around the light sources. 
 
-However, some human can create light sources, light reflecting materials or light emiting objects and position them to give directions to other humans, animals and plants. With modern human, for the first time, an organism can give itselves directions and no longer relying on nature to define meaning of its existence. 
 
-![Fire, Gold, Blonde Traffic Light](https://storage.googleapis.com/spykman-world/fire_gold_blonde.png)
+
 
 ### NATO, OTAN and the Blood Type A and C Relentless Genetics Expansion
 
