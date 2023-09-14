@@ -17,7 +17,7 @@ With so much effort to exhaust control over our enviroment by building human sys
 
 Many other times though, it is the human genetics group that built systems that other DNA lineages living in, who has too much power and control, take away the foundational needs of other human because that was as easy as taking a breath. 
 
-### Fire, Gold, Blonde and the Nordic Domination of Europe
+### Fire, Blonde, Gold and the Nordic Domination of Europe
 ![Bon Fire Evolution Boost](https://storage.googleapis.com/spykman-world/bon_fire.png)
 
 The human condition has a major improvement with our newly acquired ability to create and control fire. No other species in the animal kingdom has the ability to control fire. With fire, it becomes much easier turn other animals and plants into easily digestible food sources, scare other predatory animal aways and staying warm and safe at night. 
