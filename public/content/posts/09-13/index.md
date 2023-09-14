@@ -18,10 +18,11 @@ With so much effort to exhaust control over our enviroment by building human sys
 Many other times though, it is the human genetics group that built systems that other DNA lineages living in, who has too much power and control, take away the foundational needs of other human because that was as easy as taking a breath. 
 
 ### Fire, Blonde, Gold and the Nordic Domination of Europe
-
 ![NOR Viking Expansion](https://storage.googleapis.com/spykman-world/NOR_Viking_Expansion.png)
 
 ![NOR vs KAZ](https://storage.googleapis.com/spykman-world/NOR_vs_KAZ.png)
+
+![Fire, Gold, Blonde Traffic Light](https://storage.googleapis.com/spykman-world/fire_gold_blonde.png)
  
 
 ### Fossil Fuel, The Conbustion Engine and the Nordic Global Control
