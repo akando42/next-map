@@ -67,10 +67,7 @@ The Elite rulling classes of Europe has turn a shiny, light reflecting material 
 ![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
 
 
-
-
-
-### NATO, OTAN and the Blood Type A and C Relentless Genetics Expansion
+### NATO, OTAN and the Blood Type A and O Relentless Genetics Expansion
 
 ![The NATO Royals](https://storage.googleapis.com/spykman-world/nato-royals.png)
 
