@@ -20,22 +20,25 @@ Many other times though, it is the human genetics group that built systems that 
 ### Fire, Blonde, Gold and the Nordic Domination of Europe
 ![Bon Fire Evolution Boost](https://storage.googleapis.com/spykman-world/bon_fire.png)
 
-The human condition has a major improvement with our newly acquired ability to create and control fire. No other species in the animal kingdom has the ability to control fire. With fire, it becomes much easier turn other animals and plants into easily digestible food sources, scare other predatory animal aways and staying warm and safe at night. 
+The human condition has a major improvement with our newly acquired ability to create and control fire. No other species in the animal kingdom has the ability to control fire. With fire, it becomes much easier to turn other animals and plants into easily digestible food sources, scare other predatory animal aways and staying warm and safe at night. 
 
-Fire probably turns human from a fruit and vegetable picking primates into a meat eating predator.  Human is not the strongest, fastest animal nor has sharp teeth and claw. However, we can create fire and use it to scare even the largest and most dangerous land predator away like Tigers, Lions, Wolfs, Snakes, etcs. 
+Fire probably turns human from a fruit and vegetable picking primates into a meat eating predator.  Human is not the strongest, fastest animal nor has sharp teeth and claw. However, we can create fire and use it to scare even the largest and most dangerous land predator like Tigers, Lions, Wolfs, Snakes, etcs. 
 
-With only 12 hours or less of Sunlight, human without night vision of tigers, wolfs, snakes or owls becomes very vulnerable at night.
+With only 12 hours or less of Sunlight, human without the night vision of tigers, wolfs, snakes or owls becomes very vulnerable at night. 
+
 We can not easily see or keep ourselves warm at night. Before the invention of fire, human population growth is probably extremely slow with most of infants or young children dying off to the cold, lack of food and other dangerous predators. 
 
-Fire and its yellow golden color probably becomes a crucial elements in every culture and religous rituals around the globe. So probably when for the first time, a human tribe in England saw a blonde human for the first time, they would immediately and subconciously assosiate these blonde men and women to something supernatural or god-like. When you can instill so much fear and respect on a foreign tribe without taking any actions, half of the battle is won. 
+Fire and its yellow golden color probably becomes a crucial elements in every culture and religous rituals around the globe. So probably when for the first time, a human tribe in England saw a blonde human, they would immediately and subconsciously assosiate these blonde men and women to something supernatural or god-like. When you can instill so much fear and respect on a foreign tribe without taking any actions, half of the battle is won. 
 
 ![NOR Viking Expansion](https://storage.googleapis.com/spykman-world/NOR_Viking_Expansion.png)
 
-With the harsh and cold winter of Scandinavia, the Scandinavian tribes probably have bigger built and much higher stamina than the Central and Southern European tribes. Plus the golden hair, the Scandinavian tribes already won the psychologial war before even throwing an axes or shooting an arrows. The most difficult tasks was probably designing an ocean fairing Viking boats. After the Viking boats, all the battles in Europe was easily won with Viking stamina and the obedience of local population was easily acquired with the blonde hair. The Nordic Viking genetics lineage was quickly multipled through the Central European Germanic tribes all the way to Southern Europe with the final collapse of the Western Roman Empire.
+With the harsh and cold winter of Scandinavia, the Scandinavian tribes probably have bigger built and much higher stamina than the Central and Southern European tribes. Plus the golden hair, the Scandinavian tribes already won the psychologial war before even throwing an axe or shooting an arrow. The most difficult tasks was probably designing an ocean fairing Viking boats. After the Viking boats, all the battles in Europe was easily won with Viking stamina and the obedience of local population was easily acquired with the blonde hair. The Nordic Viking genetics lineage was quickly multiplied through the Central European Germanic tribes all the way to Southern Europe with the final collapse of the Western Roman Empire.
 
 ![NOR vs KAZ](https://storage.googleapis.com/spykman-world/NOR_vs_KAZ.png)
 
-The Nordic genetics expansion only slowed down by the Nomadic Kazak tribes in Eastern Europe and Central Asia in 13 centuries but eventually these Kazak tribes fail to stop the Nordic blonde tribes of Russia to expand all the way to the Siberia and the Pacifics ocean. While blonde tribes are not numerous in number, being blonde is associated with royalty and the ruling classes of Europe. Even to the modern day, both Israel and United States first lady is Blonde and the President of European Union is also blonde.
+The Nordic genetics expansion only slowed down by the Nomadic Kazak tribes of Eastern Europe and Central Asia in 13 centuries but eventually these Kazak tribes fail to stop the Nordic blonde tribes of Russia to expand all the way to the Siberia and the Pacifics ocean. While blonde tribes are not numerous in number, being blonde is associated with royalty and the ruling classes of Europe. Even to the modern day, both Israel and United States first lady is Blonde and the President of European Union is also blonde.
+
+![Israel, US and EU](https://storage.googleapis.com/spykman-world/blonde_women_of_europe.png)
 
 Probably these European ruling elites first realized the psychological effects of their hair color and started to use an useless but shiny material, GOLD, to associate all local transactions with their power and influence. The King of Europes started to issue golden coins with their symbol as the mean of exchange for all European commerces and build golden symbolic structures in government and religous sites. 
 
