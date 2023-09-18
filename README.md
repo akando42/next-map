@@ -18,6 +18,8 @@ yarn dev
 [X] Reshuffle card to present date.      
 [X] Click on Map Marker to Open Post.  
 [X] Store Images in GCloud Storage in ASIA servers.
+[ ] Trigger Lambda Functions Locally.
+[ ] Tweet programmatically.
 [ ] Automatic Twitter Posting on the right date. 
 
 ## References
