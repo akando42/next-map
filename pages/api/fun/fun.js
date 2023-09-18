@@ -4,7 +4,8 @@ const { schedule } = require('@netlify/functions')
 // see: https://ntl.fyi/sched-func
 module.exports.handler = schedule('* * * * *', async (event) => {
   const eventBody = JSON.parse(event.body)
-  console.log(`Next function run at ${eventBody.next_run}.`)
+  const next_run = new Date(eventBody.next_run)
+  console.log(`Next function run at ${next_run}.`)
 
   return {
     statusCode: 200,
