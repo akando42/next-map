@@ -21,8 +21,8 @@ yarn dev
 [X] Trigger Lambda Functions Locally.
 [X] Trigger Lambda functions on schedule in live deployment.  
 [X] Tweet programmatically.  
-[ ] Automatic Twitter Posting daily.  
-[ ] Automatic checking Post for 
+[X] Automatic Twitter Posting daily.  
+[ ] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link.  
 
 
 ## References
