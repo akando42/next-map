@@ -8823,6 +8823,11 @@
   dependencies:
     "tslib" "^1.8.1"
 
+"twitter-api-v2@^1.15.0":
+  "integrity" "sha512-Cqg3pIGhSwPyFBndpBrucdeNXecNFnYcXy3ixQ4brJHd/3k1CAtBVcX0e3s6jRYl/QIx5BmyGXS/SHEGtYZ3gw=="
+  "resolved" "https://registry.npmjs.org/twitter-api-v2/-/twitter-api-v2-1.15.0.tgz"
+  "version" "1.15.0"
+
 "type-check@~0.3.2":
   "integrity" "sha512-ZCmOJdvOWDBYJlzAoFkC+Q0+bUyEOS1ltgp1MGU03fqHG+dbi9tBFU2Rd9QKiDZFAYrhPh2JUf7rZRIuHRKtOg=="
   "resolved" "https://registry.npmjs.org/type-check/-/type-check-0.3.2.tgz"
