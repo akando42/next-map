@@ -2,11 +2,12 @@ import { Component } from "react"
 import { getAllPostIds, getPostData } from '../libs/posts'
 import path from "path"
 import Styles from '../styles/Post.module.css'
-const postsTopic = "public/content/posts"
-const postsDirectory = path.join(process.cwd(), postsTopic)
 import Map from "../components/Map"
 import Logo from "../components/Logo"
 import Head from 'next/head'
+
+const postsTopic = "public/content/posts"
+const postsDirectory = path.join(process.cwd(), postsTopic)
 
 export async function getStaticProps({ params }) {
   const postsData = await getPostData(postsDirectory, params.id)
