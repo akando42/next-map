@@ -49,8 +49,8 @@ module.exports.handler = schedule('* * * * *', async (event) => {
     try {
       let message = postData.path + "\n" + postData.title;
       await twitterClient.v2.tweet(message);
-
-      console.log("there is no post today. Sample \n", postData);
+      console.log("Posting tweet \n", message);
+      
       return {
         statusCode: 200,
         message: message
