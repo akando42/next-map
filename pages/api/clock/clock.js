@@ -1,5 +1,6 @@
 const { schedule } = require("@netlify/functions");
 const { twitterClient } = require("../../../libs/twitter.js")
+const image_file = require.resolve("./vietnam_california.png");
 
 const handler = async function (event, context) {
   let d = new Date()
@@ -9,7 +10,7 @@ const handler = async function (event, context) {
   let caliTime = d.toLocaleString('en-GB', { timeZone: caliZone });
   let message = `Now in Vietnam is ${hanoiTime} and \n in California is ${caliTime} !!!`
   let remoteURL = "https://geogenetics.dystillvision.com/content/posts/12-06/RUEXICO.png"
-
+  
 
   try {
     //////// Tweet out text only ///////////
@@ -18,7 +19,7 @@ const handler = async function (event, context) {
    
     ////////  Tweet out text and static local image ///////////
     const mediaIds = await Promise.all([
-      twitterClient.v1.uploadMedia("./public/images/vietnam_california.png")
+      twitterClient.v1.uploadMedia(image_file)
     ]);
 
     await twitterClient.v2.tweet({
