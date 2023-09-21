@@ -28,14 +28,15 @@ const getPost = function(postsDirectory, id){
   return resObj
 }
 
-module.exports.handler = schedule('0 0 * * *', async (event) => {
+module.exports.handler = schedule('* * * * *', async (event) => {
   const postsTopic = "public/content/posts"
   const postsDirectory = path.join(process.cwd(), postsTopic)
   const eventBody = JSON.parse(event.body)
 
   let fileNames = fs.readdirSync(postsDirectory)
   let d = new Date()
-  let today = formatDate(d)
+  // let today = formatDate(d)
+  let today = "09-25"
 
   if (fileNames.includes(today)){
     console.log("there is post today");
