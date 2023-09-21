@@ -7,7 +7,7 @@ const handler = async function (event, context) {
   let caliZone = 'America/Los_Angeles'
   let hanoiTime = d.toLocaleString('en-GB', { timeZone: hanoiZone });
   let caliTime = d.toLocaleString('en-GB', { timeZone: caliZone });
-  let message = `Now is ${hanoiTime} in Vietnam and ${caliTime} in California !`
+  let message = `Now in Vietnam is ${hanoiTime} and \n in California is ${caliTime} !!!`
   let remoteURL = "https://geogenetics.dystillvision.com/content/posts/12-06/RUEXICO.png"
 
 
@@ -27,7 +27,7 @@ const handler = async function (event, context) {
     });
 
     ///// Tweet out text and image from url 
-    
+
     // const response = await axios.get(remoteURL,  { responseType: 'arraybuffer' })
     // const buffer = Buffer.from(response.data, "utf-8")
     // const media_ids = await Promise.all([

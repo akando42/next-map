@@ -25,7 +25,9 @@ yarn dev
 [X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
 [X] Post San Fran and Vietnam time.
 [X] Upload Media from local File with Twitter API.
-[ ] Upload Media from remote URL with Twitter API.
+[ ] Create array of timezone, city name, city image.
+[ ] Look up major cities that is currently at NOON.
+[ ] Draw on Image with Nodejs
 
 
 ## References
