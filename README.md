@@ -25,9 +25,15 @@ yarn dev
 [X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
 [X] Post San Fran and Vietnam time.
 [X] Upload Media from local File with Twitter API.
-[ ] Create array of timezone, city name, city image.
+[ ] Add Hashtag fromm Post Tag into Twitter Message.
+[ ] Add Summary section to Post to be used as Twitter message. 
+[ ] Split a Post content into Trunk of Image and 280 character paragraph.
+[ ] Post one Post trunk and its Image an Hour.
+
+## FUN
+[ ] Create array of timezone, city name, city-zen image.
 [ ] Look up major cities that is currently at NOON.
-[ ] Draw on Image with Nodejs
+[ ] Tag the city and top twitter users of the city.
 
 
 ## References
