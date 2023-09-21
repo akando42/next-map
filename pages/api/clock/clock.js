@@ -3,23 +3,55 @@ const { twitterClient } = require("../../../libs/twitter.js")
 
 const handler = async function (event, context) {
   let d = new Date()
-  let timeZone = 'Asia/Bangkok'
-  let ank = d.toLocaleString('en-US', { timeZone: timeZone });
-  let message = "Current time in Hanoi is "+ ank
+  let hanoiZone = 'Asia/Bangkok'
+  let caliZone = 'America/Los_Angeles'
+  let hanoiTime = d.toLocaleString('en-GB', { timeZone: hanoiZone });
+  let caliTime = d.toLocaleString('en-GB', { timeZone: caliZone });
+  let message = `Now is ${hanoiTime} in Vietnam and ${caliTime} in California !`
+  let remoteURL = "https://geogenetics.dystillvision.com/content/posts/12-06/RUEXICO.png"
+
+
   try {
-	await twitterClient.v2.tweet(message);
-	console.log("Tweet successfully \n",message)
-	return {
-    	statusCode: 200,
-    	message: message
-	}
+    //////// Tweet out text only ///////////
+
+    // await twitterClient.v2.tweet(message)
+   
+    ////////  Tweet out text and static local image ///////////
+    const mediaIds = await Promise.all([
+      twitterClient.v1.uploadMedia("./public/images/vietnam_california.png")
+    ]);
+
+    await twitterClient.v2.tweet({
+      text: message,
+      media: { media_ids: mediaIds }
+    });
+
+    ///// Tweet out text and image from url 
+    
+    // const response = await axios.get(remoteURL,  { responseType: 'arraybuffer' })
+    // const buffer = Buffer.from(response.data, "utf-8")
+    // const media_ids = await Promise.all([
+    //   twitterClient.v1.uploadMedia(buffer, {type: 'png'})
+    // ]);
+    // await twitterClient.v2.tweet(message, { media_ids: media_ids  });
+
+
+  
+  	console.log("Tweet successfully \n",message)
+  	return {
+      	statusCode: 200,
+      	message: message
+  	}
   } catch(e){
   	console.log(e)
-	return {
-		statusCode: 200,
-		message: e
-	}
+  	return {
+  		statusCode: 200,
+  		message: e
+  	}
   }
 };
 
 exports.handler = schedule("@hourly", handler);
+
+
+

@@ -22,7 +22,10 @@ yarn dev
 [X] Trigger Lambda functions on schedule in live deployment.  
 [X] Tweet programmatically.  
 [X] Automatic Twitter Posting daily.  
-[ ] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link.  
+[X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
+[X] Post San Fran and Vietnam time.
+[X] Upload Media from local File with Twitter API.
+[ ] Upload Media from remote URL with Twitter API.
 
 
 ## References
