@@ -25,7 +25,7 @@ yarn dev
 [X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
 [X] Post San Fran and Vietnam time.
 [X] Upload Media from local File with Twitter API.
-[ ] Add Hashtag fromm Post Tag into Twitter Message.
+[X] Add Hashtag fromm Post Tag into Twitter Message.
 [ ] Add Summary section to Post to be used as Twitter message. 
 [ ] Split a Post content into Trunk of Image and 280 character paragraph.
 [ ] Post one Post trunk and its Image an Hour.
