@@ -19,6 +19,7 @@ const getPost = function(postsDirectory, id){
   let postCover = "https://geogenetics.dystillvision.com/"+matterResult.data.cover
   let postTitle = matterResult.data.title
   let tags = matterResult.data.tags
+  let summary = matterResult.data.summary
 
   // console.log(tags)
 
@@ -26,7 +27,8 @@ const getPost = function(postsDirectory, id){
     'path':postPath,
     'postCover': postCover,
     'title': postTitle, 
-    'tags': tags
+    'tags': tags, 
+    'summary': summary
   }
 
   return resObj
@@ -49,25 +51,31 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
     let localTime = d.toLocaleString('en-US', { timeZone: timeZone });
     let postData = getPost(postsDirectory,today);
     
-    let message = postData.title + "\n\n\n" + postData.path + "\n\n";
-
+    let message = postData.path +"\n" + postData.summary + " ";
     for (tag of postData.tags){ 
       tag = tag.replace(/ /g,"_");
       message = message + " #" + tag
     }
 
     try {
-      console.log("Posting tweet \n", message);
-      await twitterClient.v2.tweet(message);
-      
-      return {
-        statusCode: 200,
-        message: message
+      if (message.length <= 280){
+        console.log("Posting a "+ message.length + " characters tweet \n", message);
+        await twitterClient.v2.tweet(message);
+        return {
+          statusCode: 200,
+          message: message
+        }
+      } else {
+        console.log("The Tweet is longer than 280 limit")
+        return {
+          statusCode: 400,
+          message: "The Tweet is longer than 280 limit"
+        }
       }
     } catch(e) {
       console.log(e)
       return {
-        statusCode: 200,
+        statusCode: 400,
         message: e
       }
     }

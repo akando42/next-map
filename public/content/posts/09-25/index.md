@@ -6,7 +6,8 @@ path: "/irish-republican-army-and-the-maze-prision-escape"
 cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-prison-escape.png"
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"
-tags: ['IRA', 'Irish Republican Army', 'Irish','United Kingdom','Spykman World','Nicholas Spykman']    
+summary: "Are the British or Local Elites better rulers of British formal satelite states?"
+tags: ['IRA', 'Irish Republican Army', 'Ireland','Hong Kong', 'United Kingdom','Spykman World','Nicholas Spykman']    
 published: true
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F1506688906139009%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

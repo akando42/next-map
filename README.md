@@ -26,7 +26,7 @@ yarn dev
 [X] Post San Fran and Vietnam time.
 [X] Upload Media from local File with Twitter API.
 [X] Add Hashtag fromm Post Tag into Twitter Message.
-[ ] Add Summary section to Post to be used as Twitter message. 
+[X] Add Summary section to Post to be used as Twitter message. 
 [ ] Split a Post content into Trunk of Image and 280 character paragraph.
 [ ] Post one Post trunk and its Image an Hour.
 
