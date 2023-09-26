@@ -10,8 +10,6 @@ summary: "Are the British or Local Elites better rulers of British formal sateli
 tags: ['IRA', 'Irish Republican Army', 'Ireland','Hong Kong', 'United Kingdom','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F1506688906139009%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ### Irish Republican Army - An Independence Movement
 
 Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. 

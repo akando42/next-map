@@ -20,8 +20,6 @@ Maybe White Supremacy is the invisible glass ceiling in America keeping us at th
 
 Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F529862321107501%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
  
 # Journeys of the mtDNA Haplogroup M
 

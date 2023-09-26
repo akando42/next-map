@@ -5,17 +5,14 @@ lng: 108.19065044967628
 path: "/putin-the-force-multiplier"
 cover: "content/posts/10-07/spykman-world-putin-the-force-multiplier.png"
 date: "10-07"
-title: "Putin, The Force Multiplier"
-tags: ['Putin','Russia','Saint Petersburg','North Pole','Siberia', 'Alaska','Golden Gate','Spykman World','Nicholas Spykman']    
+title: "Moscow Russia and Its Many Levers"
+tags: ['Putin','XO','Russia','Kiev','Novogrod' ,'Moscow' ,'Saint Petersburg' ,'Astrakhan' ,'Kazan' ,'Siberia' ,'Vlad-ivo-Stov' ,'Golden Gate','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F418342825535587%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+#Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
-Currently, Top 10 Economies are USA,  China,  Japan, Germany, United Kingdom, India, France, Italy, Brazil, Canada. Where is Russia ? It is number 11, not on the list. 
-
-So How  Number 11 can become number 1 ? Take out number one. And only one man can do this ? Introducing Putin, the Force Multiplier.  He is also the biggest landlord in the world. 
-
-### Saint Petersburg - the Founder of Russian Navy
+### Novogrod, Saint Petersburg and the Nordic Influences in Russia
+![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
 A saint is simply an ordinary Christian who lead an extraordinary life and left behind a massive legacy for future generations of Christian. 
 
@@ -38,6 +35,23 @@ As of 2019, 250 million people ( almost equal to the size of the United States) 
 Soviet Union has the land, the people and the ports and it was the second largest economy in the world until the opening of second money printing facility in Fort Worth in 1987 and the collapse of Soviet Union in 1990. 
 
 The biggest problem for Russia after the collapse of Soviet Union is its declining population and loss of important sea ports. Maybe Peter the Great’s city is the answer.
+
+### Evolution from Kievan Rus to Moscow Russia
+![The Genetics Influence of Russia](https://storage.googleapis.com/spykman-world/genetics_influences_of_russia.png)
+
+#Russia and #Ukraine have the largest arable land in Europe and they were and still are major producers of farming products to the Western European market but do not have a long history of developing complex social and military structures.
+
+#Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on it, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. 
+
+#Slav-dom was the largest social class in Eastern Europe until the 19th century because of Russia's large arable land area. 
+
+Before mechanization, without the farmers, there would be no one to work on the farms and the Russian kings and nobles would have no income or valuable goods to trade for furs and other luxury items from Western Europe, Scandinavia and the Black Sea. 
+
+The #Romanov dynasty, a Roman-Tatar lineage, built the Moscow fortress faraway from two Eastern European major rivers, the Dnieper and Volga in order to keep their slaves from running away as well as avoiding surprise raids from their enemies.
+
+The Moscow fortress was able to accumulate the most amount of Slav farmers as well as keeping them safe from being killed by raids from the Mongol in the East or German in the West. 
+
+With large area of farmland, most amount of farmers and no flood, #Moskova or много коровыp or Most Cows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
 
 ### Putin - The Russian Dream
 
@@ -77,7 +91,7 @@ Today, there are still standing the Golden Gate of Vladimir, East of modern Mosc
 
 These three important monuments and its relative capital cities are forming the Winter Triangle that will potentially open up the golden era of Euro-Asia continent. Maybe once again, Euro-Asia continent will be the main driving force that shapes human civilization destiny. 
 
-### Siberia - The Jet Engine for Russia Takeoff
+### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
 
 Putin did a lot for Russia and Russian people whether people around the world like him or not. If Russia did transition directly into a Western democracy model, it was probably broken up even into smaller sub-countries and being at the mercy of other larger world powers like the United Kingdom and the United States for the rest of 21 century.
 

@@ -9,10 +9,6 @@ title: "John F. Kennedy Assassination and the Dilution of Adam Smith Vision"
 tags: ['England','Assassination','John F. Kennedy','Texas','Florida','The Atlantic','Spykman World','Nicholas Spykman']  
 published: true
 ---
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F1563265210479919%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-
 ### JOHN F. KENNEDY ASSASSINATION - A PIERCING BULLET THAT CHANGE HISTORY
 
 JFK assassination at the high of the COLD WAR marked the beginning of a constant dilution of working-class hard-earn value unit with US Dollar printing spree.
