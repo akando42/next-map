@@ -11,7 +11,7 @@ published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
-### Novogrod, Saint Petersburg and the Nordic Influences in Russia
+### Novogrod, Saint Petersburg and the Blonde Influences in Russia
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
 A saint is simply an ordinary Christian who lead an extraordinary life and left behind a massive legacy for future generations of Christian. 
@@ -51,10 +51,10 @@ The #Romanov dynasty, a #Roman-Tatar lineage, built the Moscow fortress faraway 
 
 The #Moscow fortress was able to accumulate the most amount of #Slav farmers as well as keeping them safe from being killed by raids from the #Mongol in the East or #German in the West. 
 
-With large area of farmland, most amount of farmers and no flood, #Moskova or много коровыp or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
+With large area of farmland, most amount of farmers and no flood, #Moskova or много коровы or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
 
 ### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
-The European planners placed the most cruel lineages at the frontiers regions, first in Hungary Romania, then in Vladimir Moscow and then finally now in Vladivostok.
+The European planners placed the most cruel lineages at the frontier regions, first in Hungary Romania, then in Vladimir Moscow and then finally now in Vladivostok.
  
 
 ### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
@@ -75,19 +75,13 @@ And Russia and its stockpile of nuclear weapons in Siberia can always choose the
 
 ### Soviet Propaganda with the Technology levers under Modern Russia
 
-From studying and training cattle animals like cows, dogs, horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals.
+From studying and training cattle animals like cows, dogs, horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals. Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
 
-Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. 
+![Conference vs Church](https://storage.googleapis.com/spykman-world/conferenceroom_vs_church.png)
 
-Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
+Communism's use of Symbols, Large Statues, Large Preaching Hall with careful design for sound effects is very similar to the design of Christian symbols, large Christian statues and large Churches with rows of chairs to listen to the preacher for hours. Humans living in modern cities no longer work on their own farm but become the animals in the industrialist farms. 
 
-Communism's use of Symbols, Large Statues, Large Preaching Hall with careful design for sound effects is very similar to the design of Christian symbols, large Christian statues and large Churches with rows of chairs to listen to the preacher for hours. 
-
-Humans living in modern cities no longer work on their own farm but become the animals in the industrialist farms. 
-
-The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands.
-
-With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day
+The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands. With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day
 
 By carefully tuning all the recommendation algorithms in Google, Youtube, Spotify, Ubers, Airbnb, Amazon, We Work and others, the human programmers of the Soviet era now can remotely control the audio, visual, pain and pleasure input of humans across the continents via the speed of light fiber optic cable data link.
 
