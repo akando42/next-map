@@ -60,6 +60,8 @@ The European planners placed the most cruel lineages at the frontiers regions, f
 ### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
 By poisoning the main water stream or storage with chemical weapons, one could achieve the force multiplier effects. A small group of dozen chemical weapon specialists could cause widespread damage to hundreds of thousands of troops and civilians within a population center that shares that water stream or storage. Hence harmful chemical compounds getting into the main water source would become a Weapon of Mass Destruction. 
 
+![Chemical WMD](https://storage.googleapis.com/spykman-world/aral_sea_4x.gif)
+
 The Russian planners were using Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies.
 
 By spreading viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
