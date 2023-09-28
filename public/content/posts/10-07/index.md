@@ -6,7 +6,7 @@ path: "/putin-the-force-multiplier"
 cover: "content/posts/10-07/spykman-world-putin-the-force-multiplier.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
-tags: ['Putin','XO','Russia','Kiev','Novogrod' ,'Moscow' ,'Saint Petersburg' ,'Astrakhan' ,'Kazan' ,'Siberia' ,'Vlad-ivo-Stov' ,'Golden Gate','Spykman World','Nicholas Spykman']    
+tags: ['Putin','XO','Russia','Kiev','Novogrod' ,'Moscow' ,'Saint Petersburg' ,'Astrakhan' ,'Kazan' ,'Novosibirsk','Vlad-ivo-Stov','WMD',Golden Gate','Spykman World','Nicholas Spykman']    
 published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
@@ -45,67 +45,47 @@ The biggest problem for Russia after the collapse of Soviet Union is its declini
 
 #Slav-dom was the largest social class in Eastern Europe until the 19th century because of Russia's large arable land area. 
 
-Before mechanization, without the farmers, there would be no one to work on the farms and the Russian kings and nobles would have no income or valuable goods to trade for furs and other luxury items from Western Europe, Scandinavia and the Black Sea. 
+Before mechanization, without the farmers, there would be no one to work on the farms and the #Russian kings and nobles would have no income or valuable goods to trade for furs and other luxury items from #WesternEurope, #Scandinavia and the #BlackSea. 
 
-The #Romanov dynasty, a Roman-Tatar lineage, built the Moscow fortress faraway from two Eastern European major rivers, the Dnieper and Volga in order to keep their slaves from running away as well as avoiding surprise raids from their enemies.
+The #Romanov dynasty, a #Roman-Tatar lineage, built the Moscow fortress faraway from two #EasternEuropean major rivers, the Dnieper and Volga in order to keep their slaves from running away as well as avoiding surprise raids from their enemies.
 
-The Moscow fortress was able to accumulate the most amount of Slav farmers as well as keeping them safe from being killed by raids from the Mongol in the East or German in the West. 
+The #Moscow fortress was able to accumulate the most amount of #Slav farmers as well as keeping them safe from being killed by raids from the #Mongol in the East or #German in the West. 
 
-With large area of farmland, most amount of farmers and no flood, #Moskova or много коровыp or Most Cows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
+With large area of farmland, most amount of farmers and no flood, #Moskova or много коровыp or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
 
-### Putin - The Russian Dream
-
-All men dream: but not equally. Those that dream by night in the dusty recesses of their minds wake in the day to find that it was vanity but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible -- T.E. Lawrence, “Lawrence of Arabia”.
-
-Every man, woman, child and even dog dreams. 
-
-However, in certain societies and environments, more people have enough conviction to go out during the day to pursue their dreams and aspirations while in others, most people lost their confidence, accept their faith and believe their night dream is just a dream.
-
-If Mark Zukerberg, Steve Jobs, Barack Obama are examples of a self-made American dream. Well mostly self-made. Then Vladimir Putin is an example of a self-made Russian dream. 
-
-Putin was born in Saint Petersburg, Russia while the city is still named as Leningrad after Vladimir Lenin, the founder of Soviet Union. 
-
-Peter the Great has a Turkist mom reflecting the multiculturism root of Russia in contrast with more conservative, less diverse Western European. 
-
-Maybe that why Soviet Union has quickly gained support around the world and their ideas were spreading like wild fire without any shot being fired by Russian throughout Asia, Africa and Latin America. 
-
-Vladimir Putin's farther was a common cook for Vladimir Lenin and his mom is a common factory worker. Putin was the third child being born after two brothers dealths, one in pregnancy and the other during the siege of Leningrad in World War II. 
-
-From this humble background, Putin follows a very similiar career path of George H.W Bush, first as an intelligent officer and military man of the KGB, then Saint Petersburg city officier, then Moscow city bureaucrats. 
-
-July 25, 1998, Putin became the Director of the Federal Security Service (FSB), the Russian CIA. 
-
-Then come 1999, when Vladimir Putin career suddenly took off like a rocketship. 
-
-Aug 9, 1999, he was appointed one of three Deputy Prime Ministers. Later that evening, he became the acting Prime Minister. 
-
-One week later on Aug 16, 1999, Putin became Prime Minister after winning the State Duma election. 
-
-December 31, 1999, Yeltsin resigned and according to Russia constitution, Vladimir Putin would become president. Most likely Yeltsin's safe landing and Putin becoming Russia's President is part of a secret deal.
-
-Since the beginning of 21 century, Putin is the main driving force that pull Russian people out of poverty and reassert Russia in the world stage as the major world power.  
-
-So why 2 important men in Russia: Vladimir Putin and Vladimir Lenin named Vladimir. Well because Vladimir is the medievel capital of Russia, the cradle of the great Russian language and nationality, which gradually evolved into the Grand Duchy of Moscow. 
-
-Today, there are still standing the Golden Gate of Vladimir, East of modern Moscow along side with the Golden Gate of Constantinnople, modern Instanbul, Turkey and the Victory Column of Prussia, modern Berlin, Germany. 
-
-These three important monuments and its relative capital cities are forming the Winter Triangle that will potentially open up the golden era of Euro-Asia continent. Maybe once again, Euro-Asia continent will be the main driving force that shapes human civilization destiny. 
+### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
+The European planners placed the most cruel lineages at the frontiers regions, first in Hungary Romania, then in Vladimir Moscow and then finally now in Vladivostok.
+ 
 
 ### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
+By poisoning the main water stream or storage with chemical weapons, one could achieve the force multiplier effects. A small group of dozen chemical weapon specialists could cause widespread damage to hundreds of thousands of troops and civilians within a population center that shares that water stream or storage. Hence harmful chemical compounds getting into the main water source would become a Weapon of Mass Destruction. 
 
-Putin did a lot for Russia and Russian people whether people around the world like him or not. If Russia did transition directly into a Western democracy model, it was probably broken up even into smaller sub-countries and being at the mercy of other larger world powers like the United Kingdom and the United States for the rest of 21 century.
+The Russian planners were using Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies.
 
-Russia is huge with the massive untapped Siberia era. It needs much more driven, smart, adventurous people to take advantage of this massive potential. 
-Russia could be the new brain and beauty magnet of Euro Asia this century.
+By spreading viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
 
-While the US, UK and European Union are seeing the rising of conservative, anti-immigrant parties and politicians, Russia is opening up its border to welcome foreigners. Many of these immigrants are victims of wars and climate changes, very similar to the massive migrant wave to America during World War I and World War II. 
+COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. COVID-19 or COV-1 are version-1 and version-2 of the SARS virus stands for Severe Acute Respiratory Syndrome or TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
 
-Siberia, the harsh frontier of Russia, could potentially become the New New World. Russia could create an open immigration policies to Cyrillic script countries as well as other Middle Eastern refugees.  
+By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. 
 
-They can teach Russian language to refugees, convert them into Christian Othordox, give them education and training similar to the Soviet Era's policies for Communist countries. 
+And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
 
-They could also lease 100 years land settlement in Siberia to these new refugees to take advantage of new farming land appearing as a result of global warming around Lake Baika. An increase in food production is essential for the huge upstick in Russian population. 
 
-Maybe the WWII beef between Germany and Russia could be resolved through an immigration and refugees program between the EU and Russia. A program like the carbon footprint credit that will have Germany and EU covered the bill for Russia to settle this massive wave of climate change refugees and immigrants to Siberia.  
+### Soviet Propaganda with the Technology levers under Modern Russia
 
-In the end, the Alta Mountain was the birthplace of Egyptian pharaoh ancestors as well as the destination of a crucial out of Africa journey that triggered a sudden jump of human into an apex predator in the animal kingdom. 
+From studying and training cattle animals like cows, dogs, horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals.
+
+Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. 
+
+Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
+
+Communism's use of Symbols, Large Statues, Large Preaching Hall with careful design for sound effects is very similar to the design of Christian symbols, large Christian statues and large Churches with rows of chairs to listen to the preacher for hours. 
+
+Humans living in modern cities no longer work on their own farm but become the animals in the industrialist farms. 
+
+The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands.
+
+With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day
+
+By carefully tuning all the recommendation algorithms in Google, Youtube, Spotify, Ubers, Airbnb, Amazon, We Work and others, the human programmers of the Soviet era now can remotely control the audio, visual, pain and pleasure input of humans across the continents via the speed of light fiber optic cable data link.
+
