@@ -6,7 +6,7 @@ path: "/putin-the-force-multiplier"
 cover: "content/posts/10-07/spykman-world-putin-the-force-multiplier.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
-tags: ['Putin','XO','Russia','Kiev','Novogrod' ,'Moscow' ,'Saint Petersburg' ,'Astrakhan' ,'Kazan' ,'Novosibirsk','Vlad-ivo-Stov','WMD',Golden Gate','Spykman World','Nicholas Spykman']    
+tags: ['Putin','XO','Russia','Novogrod','Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan' , 'Kazan', 'Novosibirsk','Vlad-ivo-Stov', 'WMD', 'Golden Gate', 'Spykman World','Nicholas Spykman']    
 published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
