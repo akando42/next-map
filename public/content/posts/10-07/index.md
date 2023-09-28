@@ -3,7 +3,7 @@ zoom: 4
 lat: 53.71129023633367
 lng: 108.19065044967628
 path: "/putin-the-force-multiplier"
-cover: "content/posts/10-07/spykman-world-putin-the-force-multiplier.png"
+cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
 tags: ['Putin','XO','Russia','Novogrod','Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan' , 'Kazan', 'Novosibirsk','Vlad-ivo-Stov', 'WMD', 'Golden Gate', 'Spykman World','Nicholas Spykman']    
