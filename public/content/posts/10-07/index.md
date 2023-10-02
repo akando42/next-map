@@ -19,17 +19,15 @@ During this Middle Age for the first time, the NORD culture of the Scandinavia a
 
 ![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the_volga_trade_route.png)
 
-Through intermixing between Nord tribes with the local Slavic tribes, the RUS culture and identity started to form and stay relatively constant until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color like Western European culture but still have facial features distinctively different from German, French or British.
+Through intermixing between Nord tribes with the local Kazakh tribes, the NORDIC-KAZAKH culture and identity started to form and stay relatively constant until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color like Western European culture but still have facial features distinctively different from German, French or British.
 
-However, with the Mongol expansion from the East, these NORDIC-SLAVIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river. These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. 
+However, with the Mongol expansion from the East, these NORDIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river. The NORDIC and SLAVIC tribes of Ukraine and Poland started to intermixing in this period and form another distinctive culture of NORDIC-SLAVIC in Ukraine and Western Russia. 
 
-The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineage and their most cruel families to settle among the Nordic-Russian cities in the modern Ukraine and Western Russian region. 
+These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of Hungary and Romania. The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send these Vlad lineages and their most cruel military generals to settle among the Nordic-Russian cities in modern Ukraine and Western Russian regions. 
 
-The Roman Vlad lineages started to build Roman-style fortified settlements called Vladimir at the middle point between the Dniper river and the Volga river and utilized the local Nordic-Slavic women as gifts to the Mongol princes to reduce the number of Mongol raids to the West as well as way to learn about the Mongol tactics and military structures. 
+The Roman Vlad lineages started to build Roman-style fortified settlements called Vladimir at the middle point between the Dniper river and the Volga river and utilized the local Nordic-Slavic women as gifts to the Mongol princes to reduce the number of Mongol raids to the West as well as way to learn about the Mongol tactics and military structures. These foreign tribes of VLAD from ROMANIA later became the KINGs of RUSSIA under the ROMANOV dynasty. 
 
-![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
-
-### Evolution from Kievan Rus to Moscow Russia
+### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
 ![The Genetics Influence of Russia](https://storage.googleapis.com/spykman-world/genetics_influences_of_russia.png)
 
 #Russia and #Ukraine have the largest arable land in Europe and they were and still are major producers of farming products to the Western European market but do not have a long history of developing complex social and military structures.
@@ -44,10 +42,7 @@ The #Romanov dynasty, a #Roman-Tatar lineage, built the Moscow fortress faraway 
 
 The #Moscow fortress was able to accumulate the most amount of #Slav farmers as well as keeping them safe from being killed by raids from the #Mongol in the East or #German in the West. 
 
-With large area of farmland, most amount of farmers and no flood, #Moskova or много коровы or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia. 
-
-### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
-The European planners placed the most cruel lineages at the frontier regions, first in Hungary Romania, then in Vladimir Moscow and then finally now in Vladivostok.
+With large area of farmland, most amount of farmers and no flood, #Moskova or много коровы or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia.
  
 
 ### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
@@ -77,4 +72,8 @@ Communism's use of Symbols, Large Statues, Large Preaching Hall with careful des
 The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands. With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day
 
 By carefully tuning all the recommendation algorithms in Google, Youtube, Spotify, Ubers, Airbnb, Amazon, We Work and others, the human programmers of the Soviet era now can remotely control the audio, visual, pain and pleasure input of humans across the continents via the speed of light fiber optic cable data link.
+
+![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
+
+LinuxOS running most web servers, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a politcal one.
 
