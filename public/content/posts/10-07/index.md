@@ -75,5 +75,5 @@ By carefully tuning all the recommendation algorithms in Google, Youtube, Spotif
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
-LinuxOS running most web servers, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a politcal one.
+LinuxOS running most web servers, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a public influential daughter.
 
