@@ -11,30 +11,23 @@ published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
-### Novogrod, Saint Petersburg and the Blonde Influences in Russia
+### Scandinavian influences in Kiev, St Petersburg and Russian identity
+
+The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and form settlements along the river bank of the Volga river all the way to the Caspian sea. 
+
+During this Middle Age for the first time, the NORD culture of the Scandinavia area came into contact with the Nomadic culture of Central Asian Kazakh tribes. The NORD VIking was able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
+
+![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the_volga_trade_route.png)
+
+Through intermixing between Nord tribes with the local Slavic tribes, the RUS culture and identity started to form and stay relatively constant until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color like Western European culture but still have facial features distinctively different from German, French or British.
+
+However, with the Mongol expansion from the East, these NORDIC-SLAVIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river. These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. 
+
+The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineage and their most cruel families to settle among the Nordic-Russian cities in the modern Ukraine and Western Russian region. 
+
+The Roman Vlad lineages started to build Roman-style fortified settlements called Vladimir at the middle point between the Dniper river and the Volga river and utilized the local Nordic-Slavic women as gifts to the Mongol princes to reduce the number of Mongol raids to the West as well as way to learn about the Mongol tactics and military structures. 
+
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
-
-A saint is simply an ordinary Christian who lead an extraordinary life and left behind a massive legacy for future generations of Christian. 
-
-The word “Slav” comes from the latin word “Slave” since majority of slavic people were former slaves of Roman Empire. Peter the Great is an exemplar Christian for the Slavic people. He is the emperor that put Russia Empire on the map as a major European power, leaving behind a 2nd class European formal slave image. 
-
-Kiev, Ukraine was the first capital of the Russian Empire. After experiencing a period of Mongol rule, a tax collector status for the Mongol help to propel Moscow to a more important role and eventually the major capital of Russian Empire. 
-
-Mongol was a relative liberal ruler, just want to be able to collect taxes and appoint Russian crown prince. Mongol rule actually accidentally helped to shield Russian from being absorbed into the German Empire.  
-
-Maybe because of this period, Slavic and Asian people have certain mutual respect and common suspicion for Western European powers.
-
-Russian language is based on the Cryillic script which is being used as national script in various Slavic, Turkic and Persian-speaking countries. 
-
-Two missionary brothers from Eastern Roman Empire: Saints Cyril and Methodius created the Glagolitic letters to able to translate the Bible into Slavic sounds for Slavic speaking people. 
-
-A Bulgarian emperor understood that a ruler can use war to protect or expand a nation’s territorials but he needs culture to stabilize and solidify an enduring nation. So he ordered students of Saints Cyril and Methodius to create the Cyrilic alphabet from Greek and Glagolitic letters  to unite different Slavic tribes under a single nation. This is why Russian alphabet is closer to Greek alphabet than Latin alphabet.
-
-As of 2019, 250 million people ( almost equal to the size of the United States) is using Cyralic alphabets. 
-
-Soviet Union has the land, the people and the ports and it was the second largest economy in the world until the opening of second money printing facility in Fort Worth in 1987 and the collapse of Soviet Union in 1990. 
-
-The biggest problem for Russia after the collapse of Soviet Union is its declining population and loss of important sea ports. Maybe Peter the Great’s city is the answer.
 
 ### Evolution from Kievan Rus to Moscow Russia
 ![The Genetics Influence of Russia](https://storage.googleapis.com/spykman-world/genetics_influences_of_russia.png)
@@ -66,7 +59,7 @@ The Russian planners were using Chemical weapons on the main Kazakh population w
 
 By spreading viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
 
-COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. COVID-19 or COV-1 are version-1 and version-2 of the SARS virus stands for Severe Acute Respiratory Syndrome or TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
+COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. COV-1 and COVID-19 are version-1 and version-2 of the SARS virus standing for Severe Acute Respiratory Syndrome or TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
 
 By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. 
 
@@ -75,7 +68,7 @@ And Russia and its stockpile of nuclear weapons in Siberia can always choose the
 
 ### Soviet Propaganda with the Technology levers under Modern Russia
 
-From studying and training cattle animals like cows, dogs, horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals. Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
+From studying and training cattle animals like cows, dogs and horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals. Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
 
 ![Conference vs Church](https://storage.googleapis.com/spykman-world/conferenceroom_vs_church.png)
 
