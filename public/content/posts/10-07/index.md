@@ -39,6 +39,8 @@ The new ROMAN-VLAD fortified settlements, use of Roman military structure and us
 ### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
 #Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slav-dom was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day Moscow.
 
+![Arable Land for Farming](https://storage.googleapis.com/spykman-world/arable-land-map.png)
+
 The #Roman-VLAD lineage also started to intermix with the nomadic tribes of #Mongol, #Tatars and #Kazah. One of these marriages produced a Roman-Tatar son, who was able to acquire the support of Vladimir city nobles to become the first king of the long lasting Romanov dynasty. #Vladimir citystate under the #Romanov rule started to form the #calvary formation within the #Vladimir army and for the first time was able to defeat #German tribes and #Mongol tribes outside their fortress wall.
 
 ![Kazan Instagram Users](https://storage.googleapis.com/spykman-world/kazan_women.png) 
