@@ -70,14 +70,21 @@ By poisoning the main water stream or storage with chemical weapons, one could a
 
 The Russian planners were using Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies.
 
+![Caucasian Looking Asian females](https://storage.googleapis.com/spykman-world/kazahstan-instagram-users.png)
+
 By spreading viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
+
+![European and China Dense Rail Network](https://storage.googleapis.com/spykman-world/rail-network-euro-asia.png)
 
 COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. COV-1 and COVID-19 are version-1 and version-2 of the SARS virus standing for Severe Acute Respiratory Syndrome or TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
 
-By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. 
+![COVID Cases, Death and Vaccinated](https://storage.googleapis.com/spykman-world/covid-cases-and-death.png)
+
+By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been Intercontinentaly Needled with who know what biologial and chemical content inside every vacine dose.
+
+![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
 And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
-
 
 ## Soviet Propaganda with the Technology levers under Modern Russia
 
@@ -97,7 +104,7 @@ By carefully tuning all the recommendation algorithms in Google, Youtube, Spotif
 
 ![Fiber Link between East Coast and Europe](https://storage.googleapis.com/spykman-world/eastcoat-europe-fiber-link.png)
 
-Linux Torvard, a Finnish programmer, created Linux Operating System. And many improved variants of LinuxOS like RedhatOS, UbuntuOS and AndroidOS dominates the server and mobile market through Billion Hours of FREE work done by the open source community of formal Soviet state programmers in Russia, Scandinavia and Eastern Europe. Obviously the Soviet propaganda machine still work well in the software world and Scandinavian nations and Russia still have close tied under the table. So close that Putin kept his biological son in Finland and publicly only have daughters in Russia.
+Linux Torvard, a Finnish programmer, created Linux Operating System. And many improved variants of LinuxOS like RedhatOS, UbuntuOS and AndroidOS dominates the server and mobile market through Billion Hours of FREE work done by the open source community of formal Soviet state programmers in Russia, Scandinavia, Eastern Europe and East Asia. Obviously the Soviet propaganda machine still work well in the software world and Scandinavian nations and Russia still have close tied under the table. So close that Putin kept his biological son in Finland and publicly only have daughters in Russia.
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
