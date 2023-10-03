@@ -11,10 +11,10 @@ published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
-### Scandinavian influences in Kiev, St Petersburg and Russian identity
+### Scandinavian influences in Kiev, Novogrod and Russian identity
 The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and raid along the river bank of the Volga river all the way to the Caspian sea. These NORD Vikings also were able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
 
-![The VOLGA trade route](https://storage.googleapis.com/spykman-world/russian-genetics-influences.png)
+![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the-volga-trade.png)
 
 Through intermixing between Nordic tribes with the local tribes, the NORDIC culture and identity started to become large part of Eastern European cultures and identities until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color just like Western European cultures like German, French or British.
 
@@ -26,7 +26,7 @@ However, with the Mongol expansion from the East, these NORDIC settlements were 
 
 These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of Hungary and Romania. The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. 
 
-![Carpathian Mountain](https://storage.googleapis.com/spykman-world/russian-genetics-influences-volga-capathain-baltics.png)
+![Carpathian Mountain](https://storage.googleapis.com/spykman-world/carpathian-mountain.png)
 
 The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineages, their most cruel military generals and hundred thounds of Roman Bulgarian slaves to settle beyond the Capathian mountain range. They also invented a new alphabet, the Cyralic alphabet for this new Roman frontier and later on becoming the Russian official alphabet and built Roman-style fortress called Vladimir, modern day Moscow, at the middle point between the Dniper river and the Volga river. 
 
