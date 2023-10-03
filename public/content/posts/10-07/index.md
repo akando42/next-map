@@ -83,17 +83,21 @@ And Russia and its stockpile of nuclear weapons in Siberia can always choose the
 
 From studying and training cattle animals like cows, dogs and horses, the preachers of Christianity probably found the similarity in low level code between humans and these farm animals. Stalin studied to become a religious preacher for the Orthodox church. However, he ended up becoming a Communist revolutionary alongside Lenin of the Catholic churches. Maybe both of them are religious preachers who ported human programming techniques from Christianity to Communism. 
 
-![Conference vs Church](https://storage.googleapis.com/spykman-world/conferenceroom_vs_church.png)
+![Jesus, the animal trainer](https://storage.googleapis.com/spykman-world/jesus-shepherd.png)
 
 Communism's use of Symbols, Large Statues, Large Preaching Hall with careful design for sound effects is very similar to the design of Christian symbols, large Christian statues and large Churches with rows of chairs to listen to the preacher for hours. Humans living in modern cities no longer work on their own farm but become the animals in the industrialist farms. 
 
-The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands. With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day
+![Conference vs Church](https://storage.googleapis.com/spykman-world/conferenceroom_vs_church.png)
+
+The control of all audio and visual inputs as well as the reward sensory of pleasure and the punishment sensory of pain in modern packed apartments is much easier than in the large open farm lands. With modern broadcasting technology, first through the radio and television radio wave and now through the internet, these preaching halls have expanded globally to smart phones and laptops with mobile screen usage can reach up to 9 hours a day.
+
+![Linux domination of Mobile and Server market](https://storage.googleapis.com/spykman-world/operating-system-familiy-tree.png)
 
 By carefully tuning all the recommendation algorithms in Google, Youtube, Spotify, Ubers, Airbnb, Amazon, We Work and others, the human programmers of the Soviet era now can remotely control the audio, visual, pain and pleasure input of humans across the continents via the speed of light fiber optic cable data link.
 
-![Fiber Link between East Coast and Europe](hhttps://storage.googleapis.com/spykman-world/eastcoat-europe-fiber-link.png)
+![Fiber Link between East Coast and Europe](https://storage.googleapis.com/spykman-world/eastcoat-europe-fiber-link.png)
 
-LinuxOS running most web servers and smart phones, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a public influential daughter.
+Linux Torvard, a Finnish programmer, created Linux Operating System. And many improved variants of LinuxOS like RedhatOS, UbuntuOS and AndroidOS dominates the server and mobile market through Billion Hours of FREE work done by the open source community of formal Soviet state programmers in Russia, Scandinavia and Eastern Europe. Obviously the Soviet propaganda machine still work well in the software world and Scandinavian nations and Russia still have close tied under the table. So close that Putin kept his biological son in Finland and publicly only have daughters in Russia.
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
