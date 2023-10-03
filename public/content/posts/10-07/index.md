@@ -11,14 +11,14 @@ published: true
 ---
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
-### Scandinavian influences in Kiev, Novogrod and Russian identity
+### Scandinavian genetic influences and the Russian Golden Lever
 The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and raid along the river bank of the Volga river all the way to the Caspian sea. These NORD Vikings also were able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
 
 ![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the-volga-trade.png)
 
 Through intermixing between Nordic tribes with the local tribes, the NORDIC culture and identity started to become large part of Eastern European cultures and identities until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color just like Western European cultures like German, French or British.
 
-![Novogrod KREMLIN](https://storage.googleapis.com/spykman-world/novogrod-kremlin.png)
+![Golden KREMLINs of Western Russia](https://storage.googleapis.com/spykman-world/golden-kremlins.png)
 
 However, with the Mongol expansion from the East, these NORDIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river and the Baltic coastal NOVOGROD settlement. The NORDIC and GERMAN tribes of Ukraine and Baltic settlements started to intermixing in this period and form another distinctive culture of NORDIC-GERMAN in Ukraine and the Baltic coastal cities.
 
@@ -32,11 +32,11 @@ The danger of the Eastern nomadic horsemen became known among the Roman world an
 
 ![Moscow Kremlin](https://storage.googleapis.com/spykman-world/moscow_kremln.png)
 
-The new ROMAN-VLAD fortified settlements, use of Roman military structure and use of Nordic and Roman women as gifts to the Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the Roman-VLAD planners. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
+The new #ROMAN-VLAD fortified settlements, use of Roman military structure and use of #Nordic Blonde women as gifts to the #Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the #Roman-VLAD planners. Maybbe these Russian Blonde women caused the #Mongol princes to switch from Mongol paper money to Russian Golden coins as mean of transaction which brought extra weight and broke down the Mongol fiat monetary system. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
 
 ![Moscow Instagram Users](https://storage.googleapis.com/spykman-world/moscow_women.png)
 
-### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
+### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop, the Russian Land Territorial Lever
 #Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slav-dom was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day Moscow.
 
 ![Arable Land for Farming](https://storage.googleapis.com/spykman-world/arable-land-map.png)
@@ -57,9 +57,13 @@ The Romanov, a Roman-Tatar, lineage did not stop at the Volga river but expand R
 The VLAD-KAZAH nobles along with the ROMANOV kings become very popular among the Russian population with their successful expansion of Russia to the East. Under the Roman Dynasty, the original Nordics nobles of Moscow became less popular and got deported to Saint Petersburg to make spaces for Romans and Tatars lineages in Moscow when Peters the Great temporary moved the capital of Russia from Moscow to Saint Petersburg.
 
 ![Saint Petersburg Women](https://storage.googleapis.com/spykman-world/saint_petersburg_women.png)
+
+Russian expansion to the East results in Russian becoming the largest country in Europe and the World with abundances of farming land, minerals, oil and gas resources. Abundance of minerals and talents allow Russia to have an advanced heavy industry that is capable of producing large industrial machineries and weapons. Until the modern day, only Russia and United States posseses all energy, food and defense security with both countries do not need to import fuel, food and weapons from a foreign nation. 
+
+![Russian Oil Export](https://storage.googleapis.com/spykman-world/daily_oil_output_norway_vs_opec.png)
  
 
-### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
+### Siberian Stockpile of Nuclear, Chemical and Biological and the Russian WMD Lever
 By poisoning the main water stream or storage with chemical weapons, one could achieve the force multiplier effects. A small group of dozen chemical weapon specialists could cause widespread damage to hundreds of thousands of troops and civilians within a population center that shares that water stream or storage. Hence harmful chemical compounds getting into the main water source would become a Weapon of Mass Destruction. 
 
 ![Chemical WMD](https://storage.googleapis.com/spykman-world/aral_sea_4x.gif)
@@ -87,7 +91,9 @@ The control of all audio and visual inputs as well as the reward sensory of plea
 
 By carefully tuning all the recommendation algorithms in Google, Youtube, Spotify, Ubers, Airbnb, Amazon, We Work and others, the human programmers of the Soviet era now can remotely control the audio, visual, pain and pleasure input of humans across the continents via the speed of light fiber optic cable data link.
 
-![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
+![Fiber Link between East Coast and Europe](https://storage.googleapis.com/spykman-world/us-east-coast-finland.png)
 
-LinuxOS running most web servers, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a public influential daughter.
+LinuxOS running most web servers and smart phones, Finland and Russia is still close under the table. Putin kept his son in Finland to make sure his political infighting in Russia will not threaten his son life. His daughter in Russia is probably not a biological daughter but a public influential daughter.
+
+![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
