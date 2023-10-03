@@ -12,37 +12,49 @@ published: true
 #Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
 
 ### Scandinavian influences in Kiev, St Petersburg and Russian identity
+The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and raid along the river bank of the Volga river all the way to the Caspian sea. These NORD Vikings also were able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
 
-The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and form settlements along the river bank of the Volga river all the way to the Caspian sea. 
+![The VOLGA trade route](https://storage.googleapis.com/spykman-world/russian-genetics-influences.png)
 
-During this Middle Age for the first time, the NORD culture of the Scandinavia area came into contact with the Nomadic culture of Central Asian Kazakh tribes. The NORD VIking was able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
+Through intermixing between Nordic tribes with the local tribes, the NORDIC culture and identity started to become large part of Eastern European cultures and identities until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color just like Western European cultures like German, French or British.
 
-![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the_volga_trade_route.png)
+![Novogrod KREMLIN](https://storage.googleapis.com/spykman-world/novogrod-kremlin.png)
 
-Through intermixing between Nord tribes with the local Kazakh tribes, the NORDIC-KAZAKH culture and identity started to form and stay relatively constant until modern day with monuments, religious buildings and symbols showing high value for GOLD and the Blonde color like Western European culture but still have facial features distinctively different from German, French or British.
+However, with the Mongol expansion from the East, these NORDIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river and the Baltic coastal NOVOGROD settlement. The NORDIC and GERMAN tribes of Ukraine and Baltic settlements started to intermixing in this period and form another distinctive culture of NORDIC-GERMAN in Ukraine and the Baltic coastal cities.
 
-However, with the Mongol expansion from the East, these NORDIC settlements were pushed back from the bank of the Volga river to the settlement of KIEV along the Dniper river. The NORDIC and SLAVIC tribes of Ukraine and Poland started to intermixing in this period and form another distinctive culture of NORDIC-SLAVIC in Ukraine and Western Russia. 
+![Novogrod Instagram Users](https://storage.googleapis.com/spykman-world/Novgorod_women.png)
 
-These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of Hungary and Romania. The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send these Vlad lineages and their most cruel military generals to settle among the Nordic-Russian cities in modern Ukraine and Western Russian regions. 
+These Mongol raids reached all the way to Romania and only stopped by the CARPATHIAN MOUNTAIN range and the most barbaric Roman lineage, Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of Hungary and Romania. The raids and battles between the Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the Roman Empire and their satellite states. 
 
-The Roman Vlad lineages started to build Roman-style fortified settlements called Vladimir at the middle point between the Dniper river and the Volga river and utilized the local Nordic-Slavic women as gifts to the Mongol princes to reduce the number of Mongol raids to the West as well as way to learn about the Mongol tactics and military structures. These foreign tribes of VLAD from ROMANIA later became the KINGs of RUSSIA under the ROMANOV dynasty. 
+![Carpathian Mountain](https://storage.googleapis.com/spykman-world/russian-genetics-influences-volga-capathain-baltics.png)
+
+The danger of the Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineages, their most cruel military generals and hundred thounds of Roman Bulgarian slaves to settle beyond the Capathian mountain range. They also invented a new alphabet, the Cyralic alphabet for this new Roman frontier and later on becoming the Russian official alphabet and built Roman-style fortress called Vladimir, modern day Moscow, at the middle point between the Dniper river and the Volga river. 
+
+![Moscow Kremlin](https://storage.googleapis.com/spykman-world/moscow_kremln.png)
+
+The new ROMAN-VLAD fortified settlements, use of Roman military structure and use of Nordic and Roman women as gifts to the Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the Roman-VLAD planners. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
+
+![Moscow Instagram Users](https://storage.googleapis.com/spykman-world/moscow_women.png)
 
 ### From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop
+#Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slav-dom was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day Moscow.
+
+The #Roman-VLAD lineage also started to intermix with the nomadic tribes of #Mongol, #Tatars and #Kazah. One of these marriages produced a Roman-Tatar son, who was able to acquire the support of Vladimir city nobles to become the first king of the long lasting Romanov dynasty. #Vladimir citystate under the #Romanov rule started to form the #calvary formation within the #Vladimir army and for the first time was able to defeat #German tribes and #Mongol tribes outside their fortress wall.
+
+![Kazan Instagram Users](https://storage.googleapis.com/spykman-world/kazan_women.png) 
+
+The #Vladimir settlement position faraway from two #EasternEuropean major rivers, the Dnieper and Volga, also keep their 
+#slav-farmers from running away as well as avoiding surprise raids from German in the West and Mongol in the East. With large area of farmland, minimum raids and no flood, #Vladimir settlement developed a large fleet of cattles for meat and milk, expanded their #slav-farmers population quickly and became the richest and strongest city state in #Russia and change its name to #Moskova or много коровы or #MostCows.
+
 ![The Genetics Influence of Russia](https://storage.googleapis.com/spykman-world/genetics_influences_of_russia.png)
 
-#Russia and #Ukraine have the largest arable land in Europe and they were and still are major producers of farming products to the Western European market but do not have a long history of developing complex social and military structures.
+The Romanov, a Roman-Tatar, lineage did not stop at the Volga river but expand Russia border all the way East to the Pacifics ocean. They ultilized a mix strategy of high mobility of the Mongol army and fortified strong point of the Roman army. The fleet of cattle for water and food supply as well as large horce population allows the Russian army to be flexible and move quickly. However, wherever they reach a strong geographical barrier like a River, a Mountain range, a Desert or the Coastline then they abandoned their mobile strategy but started to build highly fortified settlements with large settled population as the strong anchors for their border expansion. As the results, modern Russian cities East of the Volga river are popululated mostly by Roman-Tatars.
 
-#Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on it, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. 
+![The Kazan Women](https://storage.googleapis.com/spykman-world/astrakhan_women.png)
 
-#Slav-dom was the largest social class in Eastern Europe until the 19th century because of Russia's large arable land area. 
+The VLAD-KAZAH nobles along with the ROMANOV kings become very popular among the Russian population with their successful expansion of Russia to the East. Under the Roman Dynasty, the original Nordics nobles of Moscow became less popular and got deported to Saint Petersburg to make spaces for Romans and Tatars lineages in Moscow when Peters the Great temporary moved the capital of Russia from Moscow to Saint Petersburg.
 
-Before mechanization, without the farmers, there would be no one to work on the farms and the #Russian kings and nobles would have no income or valuable goods to trade for furs and other luxury items from #WesternEurope, #Scandinavia and the #BlackSea. 
-
-The #Romanov dynasty, a #Roman-Tatar lineage, built the Moscow fortress faraway from two #EasternEuropean major rivers, the Dnieper and Volga in order to keep their slaves from running away as well as avoiding surprise raids from their enemies.
-
-The #Moscow fortress was able to accumulate the most amount of #Slav farmers as well as keeping them safe from being killed by raids from the #Mongol in the East or #German in the West. 
-
-With large area of farmland, most amount of farmers and no flood, #Moskova or много коровы or #MostCows, developed a large fleet of cattles for meat and milk, expanded their population quickly and became the richest and strongest city state in #Russia.
+![Saint Petersburg Women](https://storage.googleapis.com/spykman-world/saint_petersburg_women.png)
  
 
 ### Russia and Its Siberian Stockpile of Nuclear, Chemical and Biological WMD.
