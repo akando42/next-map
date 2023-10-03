@@ -84,7 +84,17 @@ By using viral biological weapons on highly dense population centers of China an
 
 ![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
+*** TO BE FINISHED ***
+
 And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
+
+- The Western-Eastern Roman Empire Spin Off
+- The United States - British Empire Spin Off
+- The Soviet Union - Central Asian countries Spin Off
+
+Russia control of XO mom and their sperm banks babies. XO mom and sperm bank babies control of China, Vietnam and Myanmar key leadership, technology and energy infrastructures. No need to worry about the Siberian flank.
+
+*** TO BE FINISHED ***
 
 ## Soviet Propaganda with the Technology levers under Modern Russia
 
