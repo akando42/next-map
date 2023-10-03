@@ -48,7 +48,7 @@ The #Roman-VLAD lineage also started to intermix with the nomadic tribes of #Mon
 The #Vladimir settlement position faraway from two #EasternEuropean major rivers, the Dnieper and Volga, also keep their 
 #slav-farmers from running away as well as avoiding surprise raids from German in the West and Mongol in the East. With large area of farmland, minimum raids and no flood, #Vladimir settlement developed a large fleet of cattles for meat and milk, expanded their #slav-farmers population quickly and became the richest and strongest city state in #Russia and change its name to #Moskova or много коровы or #MostCows.
 
-![The Genetics Influence of Russia](https://storage.googleapis.com/spykman-world/genetics_influences_of_russia.png)
+![VLAD from Bucharest to Vladimir](https://storage.googleapis.com/spykman-world/bucharest-to-vladimir.png)
 
 The Romanov, a Roman-Tatar, lineage did not stop at the Volga river but expand Russia border all the way East to the Pacifics ocean. They ultilized a mix strategy of high mobility of the Mongol army and fortified strong point of the Roman army. The fleet of cattle for water and food supply as well as large horce population allows the Russian army to be flexible and move quickly. However, wherever they reach a strong geographical barrier like a River, a Mountain range, a Desert or the Coastline then they abandoned their mobile strategy but started to build highly fortified settlements with large settled population as the strong anchors for their border expansion. As the results, modern Russian cities East of the Volga river are popululated mostly by Roman-Tatars.
 
