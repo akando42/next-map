@@ -67,6 +67,20 @@ const chunkIntoN = (arr, n) => {
 	return newGroup
 }
 
+const sentTweet = async (tweetObject) => {
+	let text = tweetObject.text.content;
+	let tweets = text.match( /[^\.!\?]+[\.!\?]+/g );
+	let image = tweetObject.image.link;
+	for (const tweet of tweets){
+		console.log(tweet)
+		await twitterClient.v2.tweet(tweet);
+		// setTimeout(() => {
+		//   console.log("Delayed for 1 second.\n");
+		// }, 500);
+	}
+	
+}
+
 module.exports.handler = schedule('0 * * * *', async (event) => {
 	const postsTopic = "public/content/posts"
   	const postsDirectory = path.join(process.cwd(), postsTopic)	
@@ -74,14 +88,22 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   	let d = new Date()
   	let currentHour = d.getHours()
   	let today = formatDate(d)
-  	//let today = "10-07"
+  	// let today = "10-07"
 
   	if (fileNames.includes(today)){
   		console.log("there is post today")
   		let tweets = getTweets(postsDirectory, today)
   		let tweetCounts = tweets.length
   		let chunked = chunkIntoN(tweets, 24)
-  		console.log(chunked[currentHour])
+  		let tobeTweets = chunked[currentHour]
+  		for (const content of tobeTweets){
+  			sentTweet(content)
+  			setTimeout(() => {
+			  console.log("Delayed for 1 second.\n");
+			}, 500);
+  		}
+  		
+  		//console.log(tobeTweets)
   	} else {
   		console.log("there is no post today")
   	}
