@@ -42,7 +42,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
   let fileNames = fs.readdirSync(postsDirectory)
   let d = new Date()
   let today = formatDate(d)
-  //let today = "09-25"
+  // let today = "10-07"
 
   if (fileNames.includes(today)){
     console.log("there is post today");
@@ -58,6 +58,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
     }
 
     try {
+      console.log(message.length, " MESSAGE: \n", message)
       if (message.length <= 280){
         console.log("Posting a "+ message.length + " characters tweet \n", message);
         await twitterClient.v2.tweet(message);

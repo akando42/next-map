@@ -6,11 +6,10 @@ path: "/putin-the-force-multiplier"
 cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
-tags: ['Putin','XO','Russia','Novogrod','Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan' , 'Kazan', 'Novosibirsk','Vlad-ivo-Stov', 'WMD', 'Golden Gate', 'Spykman World','Nicholas Spykman']    
+tags: ['Putin','XO','Russia','Novogrod','Saint Petersburg','Kiev','Moscow','Astrakhan','Kazan','Novosibirsk','Vladivostov','WMD','GeoGenetics']
+summary: "How #Russia with a small population of less than 2% of world population can sway so much of the world destiny"
 published: true
 ---
-#Russia is the largest country in the world, possess most number of nuclear warheads and at somepoint control most number of people in the world via its #Soviet system. How a small population of less than 2% of world population can sway so much of the world destiny. 
-
 ## Scandinavian genetic influences and the Russian Golden Lever
 The Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the Caspian Sea of Central Asia. This river trade route allows the Nord Viking to explore, trade and raid along the river bank of the Volga river all the way to the Caspian sea. These NORD Vikings also were able to build large settlements along the Volga trade route in modern day Saint Petersburg, Kazan and Astrakhan. 
 
@@ -32,7 +31,7 @@ The danger of the Eastern nomadic horsemen became known among the Roman world an
 
 ![Moscow Kremlin](https://storage.googleapis.com/spykman-world/moscow_kremln.png)
 
-The new #ROMAN-VLAD fortified settlements, use of Roman military structure and use of #Nordic Blonde women as gifts to the #Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the #Roman-VLAD planners. Maybbe these Russian Blonde women caused the #Mongol princes to switch from Mongol paper money to Russian Golden coins as mean of transaction which brought extra weight and broke down the Mongol fiat monetary system. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
+The new #ROMAN-VLAD fortified settlements, use of Roman military structure and use of #Nordic Blonde women as gifts to the #Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the #Roman-VLAD planners. Maybe these Russian Blonde women caused the #Mongol princes to switch from Mongol paper money to Russian Golden coins as mean of transaction which brought extra weight and broke down the Mongol fiat monetary system. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
 
 ![Moscow Instagram Users](https://storage.googleapis.com/spykman-world/moscow_women.png)
 
@@ -80,7 +79,7 @@ COVID-19 is an example of Russian use of Biological WMD in China, European Union
 
 ![COVID Cases, Death and Vaccinated](https://storage.googleapis.com/spykman-world/covid-cases-and-death.png)
 
-By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been Intercontinentally Needled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
+By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been Intercontinentally Needled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles around #Moscow and #Novosibirsk. 
 
 ![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
