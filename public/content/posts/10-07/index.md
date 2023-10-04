@@ -68,7 +68,7 @@ By poisoning the main water stream or storage with chemical weapons, one could a
 
 ![Chemical WMD](https://storage.googleapis.com/spykman-world/aral_sea_4x.gif)
 
-The Russian planners were using Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies.
+The Russian planners were using Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies. The poison water source also serves as the Water Gap to prevent any North West migiration and push the migration to South East direction.
 
 ![Caucasian Looking Asian females](https://storage.googleapis.com/spykman-world/kazahstan-instagram-users.png)
 
