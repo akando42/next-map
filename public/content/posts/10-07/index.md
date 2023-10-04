@@ -60,7 +60,7 @@ The VLAD-KAZAH nobles along with the ROMANOV kings become very popular among the
 
 These early Russian expansion via superior mobility first via horses then the Siberian railway to the East results in Russian becoming the largest country in Europe and the World with abundances of farming land, minerals, oil and gas resources. Abundance of minerals and talents allow Russia to have an advanced heavy industry that is capable of producing large industrial machineries and weapons. Until the modern day, only Russia and United States posseses all energy, food and defense security with both countries do not need to import fuel, food and weapons from a foreign nation. 
 
-![Russian Oil Export](https://storage.googleapis.com/spykman-world/daily_oil_output_norway_vs_opec.png)
+![Russian Oil Export](https://storage.googleapis.com/spykman-world/russian-daily-oil-output.png)
  
 
 ## Siberian Stockpile of Nuclear, Chemical and Biological and the Russian WMD Lever
@@ -97,7 +97,6 @@ The collapse of Soviet Union is very likely the third Spin-Off into Modern Russi
 This third wave of Western expansion happening through the Soviet-Russian XO mom and sperm bank babies program first in China and Southeast Asia and now in India. Hundred millions of Asian dad did not and will not raise their biological child but raising one or two sperm bank baby and an XO wife in exchange for better consumer goods, weapon and fuel imports from the West. These grown up sperm bank babies in China built and control China Airforce and Nuclear Force and became the insurance policy for Modern Russia against any Asian threat from the Siberia direction. 
 
 ![Dong Feng Nuclear Ballistic Missile](https://storage.googleapis.com/spykman-world/dongfeng-nuclear-force.png)
-
 
 ## Soviet Propaganda with the Technology levers under Modern Russia
 
