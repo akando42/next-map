@@ -28,7 +28,6 @@ const handler = async function (event, context) {
     });
 
     ///// Tweet out text and image from url 
-
     // const response = await axios.get(remoteURL,  { responseType: 'arraybuffer' })
     // const buffer = Buffer.from(response.data, "utf-8")
     // const media_ids = await Promise.all([

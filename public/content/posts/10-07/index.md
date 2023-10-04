@@ -44,8 +44,7 @@ The #Roman-VLAD lineage also started to intermix with the nomadic tribes of #Mon
 
 ![Kazan Instagram Users](https://storage.googleapis.com/spykman-world/kazan_women.png) 
 
-The #Vladimir settlement position faraway from two #EasternEuropean major rivers, the Dnieper and Volga, also keep their 
-#slav-farmers from running away as well as avoiding surprise raids from German in the West and Mongol in the East. With large area of farmland, minimum raids and no flood, #Vladimir settlement developed a large fleet of cattles for meat and milk, expanded their #slav-farmers population quickly and became the richest and strongest city state in #Russia and change its name to #Moskova or много коровы or #MostCows.
+The #Vladimir settlement position faraway from two #EasternEuropean major rivers, the Dnieper and Volga, also keep their #slav-farmers from running away as well as avoiding surprise raids from German in the West and Mongol in the East. With large area of farmland, minimum raids and no flood, #Vladimir settlement developed a large fleet of cattles for meat and milk, expanded their #slav-farmers population quickly and became the richest and strongest city state in #Russia and change its name to #Moskova or много коровы or #MostCows.
 
 ![VLAD from Bucharest to Vladimir](https://storage.googleapis.com/spykman-world/bucharest-to-vladimir.png)
 
@@ -60,7 +59,6 @@ The VLAD-KAZAH nobles along with the ROMANOV kings become very popular among the
 These early Russian expansion via superior mobility first via horses then the Siberian railway to the East results in Russian becoming the largest country in Europe and the World with abundances of farming land, minerals, oil and gas resources. Abundance of minerals and talents allow Russia to have an advanced heavy industry that is capable of producing large industrial machineries and weapons. Until the modern day, only Russia and United States posseses all energy, food and defense security with both countries do not need to import fuel, food and weapons from a foreign nation. 
 
 ![Russian Oil Export](https://storage.googleapis.com/spykman-world/russian-daily-oil-output.png)
- 
 
 ## Siberian Stockpile of Nuclear, Chemical and Biological and the Russian WMD Lever
 By poisoning the main water stream or storage with chemical weapons, one could achieve the force multiplier effects. A small group of dozen chemical weapon specialists could cause widespread damage to hundreds of thousands of troops and civilians within a population center that shares that water stream or storage. Hence harmful chemical compounds getting into the main water source would become a Weapon of Mass Destruction. 

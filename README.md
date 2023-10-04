@@ -27,8 +27,11 @@ yarn dev
 [X] Upload Media from local File with Twitter API.
 [X] Add Hashtag fromm Post Tag into Twitter Message.
 [X] Add Summary section to Post to be used as Twitter message. 
-[ ] Split a Post content into Trunk of Image and 280 character paragraph.
-[ ] Post one Post trunk and its Image an Hour.
+[X] Split a Post content into Trunk of Image and 280 character paragraph.
+[ ] Updates POST with smaller paragraph and more image.  
+[ ] Upload Image from remote URL to tweet.  
+[ ] Post one Post trunk and its Image an Hour.  
+
 
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.
