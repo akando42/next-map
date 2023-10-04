@@ -74,27 +74,30 @@ The Russian planners were using Chemical weapons on the main Kazakh population w
 
 By spreading viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
 
-![European and China Dense Rail Network](https://storage.googleapis.com/spykman-world/rail-network-euro-asia.png)
+![European and China Dense Rail Network](https://storage.googleapis.com/spykman-world/euroasia-railnetwork.png)
 
 COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. COV-1 and COVID-19 are version-1 and version-2 of the SARS virus standing for Severe Acute Respiratory Syndrome or TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
 
 ![COVID Cases, Death and Vaccinated](https://storage.googleapis.com/spykman-world/covid-cases-and-death.png)
 
-By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been Intercontinentaly Needled with who know what biologial and chemical content inside every vacine dose.
+By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, COVID-19 achieved the Intercontinental reach of Ballistic Missiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been Intercontinentally Needled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
 
 ![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
-*** TO BE FINISHED ***
+When the Western empires got too big to manage, they always use an Investment Bank Spin-Off like maneuver to split the task of managing the Empire into Two Emperors who focuses on expanding into two opposite direction. 
 
-And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles. 
+First time in history was the Western-Eastern Roman Empire Spin Off which resulted in the Christianization and Romanization the rest of Central, Northern and Eastern Europe. Second time in history was United States and British Empire spin off which results in the whole world switching to speaking English, using American dollars and American standard to build and trade everything we use daily.
 
-- The Western-Eastern Roman Empire Spin Off
-- The United States - British Empire Spin Off
-- The Soviet Union - Central Asian countries Spin Off
+![NATO OTAN EAST WEST EXPANSION](https://storage.googleapis.com/spykman-world/nato-otan-west-east-expansions.png)
 
-Russia control of XO mom and their sperm banks babies. XO mom and sperm bank babies control of China, Vietnam and Myanmar key leadership, technology and energy infrastructures. No need to worry about the Siberian flank.
+The collapse of Soviet Union is very likely the third Spin-Off into Modern Russia and Central Asian countries. This spin-off results in Caucasianization of the genentics makeup for the rest of India, China and Southeast Asia with all influential figures in the Far East looking increasing like their Western kings and the majority of the Far East population having the same blood type as the Western kings.
 
-*** TO BE FINISHED ***
+![Caucasian looking Chinese Women](https://storage.googleapis.com/spykman-world/xinjiang-women.png)
+
+This third wave of Western expansion happening through the Soviet-Russian XO mom and sperm bank babies program first in China and Southeast Asia and now in India. Hundred millions of Asian dad did not and will not raise their biological child but raising one or two sperm bank baby and an XO wife in exchange for better consumer goods, weapon and fuel imports from the West. These grown up sperm bank babies in China built and control China Airforce and Nuclear Force and became the insurance policy for Modern Russia against any Asian threat from the Siberia direction. 
+
+![Dong Feng Nuclear Ballistic Missile](https://storage.googleapis.com/spykman-world/dongfeng-nuclear-force.png)
+
 
 ## Soviet Propaganda with the Technology levers under Modern Russia
 
