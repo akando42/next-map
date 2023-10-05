@@ -41,14 +41,22 @@ const handler = async function (event, context) {
           message: message
       }
     } catch(e){
-      console.log(e)
+      let message = "#NETLIFY clock function ERROR: "+e.message
+      console.log(message)
+      await twitterClient.v2.tweet(message)
       return {
         statusCode: 400,
         message: e
       }
     }
   } else {
-    console.log("Hanoi or California is sleeping or sleepy")
+    try {
+      console.log("Hanoi or California is sleeping or sleepy", afdf)  
+    } catch(e){
+      let message = "#NETLIFY clock function ERROR: "+e.message
+      await twitterClient.v2.tweet(message)
+    }
+    
   }
 };
 

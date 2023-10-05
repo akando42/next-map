@@ -146,7 +146,8 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   		console.log("there is no post today")
   	}
   } catch(e){
-    console.log(e)
+    let message = "#NETLIFY chunk function ERROR: "+e.message
+    console.log(message)
     return {
       statusCode: 400,
       message: e
