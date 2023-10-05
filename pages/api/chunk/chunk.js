@@ -147,6 +147,7 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   	}
   } catch(e){
     let message = "#NETLIFY chunk function ERROR: "+e.message
+    await twitterClient.v2.tweet(message)
     console.log(message)
     return {
       statusCode: 400,
