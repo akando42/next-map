@@ -99,7 +99,8 @@ const sentTweet = async (tweetObject) => {
 
   https.get(imageURL,(res) => {    
     // Image will be stored at this path
-    const imagePath = path.join(process.cwd(),'tmp',fileName);  
+    const temp_folder = process.env.TEMP
+    const imagePath = path.join(temp_folder,fileName);  
     const filePath = fs.createWriteStream(imagePath); 
     res.pipe(filePath); 
 
@@ -112,7 +113,7 @@ const sentTweet = async (tweetObject) => {
 }
 
 module.exports.handler = schedule('0 * * * *', async (event) => {
-  const node_env = process.env.NODE_ENV
+
   const postsTopic = "public/content/posts"
 	const postsDirectory = path.join(process.cwd(), postsTopic)	
 	let fileNames = fs.readdirSync(postsDirectory)
