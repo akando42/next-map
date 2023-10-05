@@ -3,6 +3,7 @@ const { twitterClient } = require("../../../libs/twitter.js")
 const fs  = require("fs")
 const path  = require("path")
 const matter = require('gray-matter')
+const https = require('https'); 
 
 const formatDate = function(date){
   let postFormat = date.toISOString().slice(5, 10)
@@ -68,43 +69,75 @@ const chunkIntoN = (arr, n) => {
 }
 
 const sentTweet = async (tweetObject) => {
+  // console.log(tweetObject)
 	let text = tweetObject.text.content;
-	let tweets = text.match( /[^\.!\?]+[\.!\?]+/g );
-	let image = tweetObject.image.link;
-	for (const tweet of tweets){
-		console.log(tweet)
-		await twitterClient.v2.tweet(tweet);
-		// setTimeout(() => {
-		//   console.log("Delayed for 1 second.\n");
-		// }, 500);
-	}
-	
+	let tweets = text.match(/[^\.!\?]+[\.!\?]+/g);
+	let imageURL = tweetObject.image.link;
+  let fileName = imageURL.split("/").pop()
+  let fileType = fileName.split(".").pop()
+
+  const tweetBurst = async (imagePath) => {
+    for (let i = 0; i < tweets.length; i++){
+      if (i == 0){
+        const image_file = require.resolve(imagePath)
+        const media_ids = await Promise.all([
+          twitterClient.v1.uploadMedia(image_file)
+        ]);
+        // const media_ids = await twitterClient.v1.uploadMedia(path)
+        await twitterClient.v2.tweet({
+          text: tweets[i], 
+          media: { media_ids: media_ids  }
+        });
+      } else {
+        await twitterClient.v2.tweet(tweets[i])
+        console.log("Text: ", tweets[i]);
+      }
+    }
+  }
+
+  https.get(imageURL,(res) => {    
+    // Image will be stored at this path
+    const imagePath = path.join(process.cwd(), fileName);  
+    const filePath = fs.createWriteStream(imagePath); 
+    res.pipe(filePath); 
+
+    filePath.on('finish',() => { 
+        filePath.close(); 
+        console.log('Download Completed to', imagePath);
+        tweetBurst(imagePath)  
+    }) 
+  })	
 }
 
 module.exports.handler = schedule('0 * * * *', async (event) => {
-	const postsTopic = "public/content/posts"
-  	const postsDirectory = path.join(process.cwd(), postsTopic)	
-  	let fileNames = fs.readdirSync(postsDirectory)
-  	let d = new Date()
-  	let currentHour = d.getHours()
-  	let today = formatDate(d)
-  	// let today = "10-07"
+  const node_env = process.env.NODE_ENV
+  const postsTopic = "public/content/posts"
+	const postsDirectory = path.join(process.cwd(), postsTopic)	
+	let fileNames = fs.readdirSync(postsDirectory)
+	let d = new Date()
+	let currentHour = d.getHours()
+	//let today = formatDate(d)
+	let today = "10-07"
 
-  	if (fileNames.includes(today)){
-  		console.log("there is post today")
-  		let tweets = getTweets(postsDirectory, today)
-  		let tweetCounts = tweets.length
-  		let chunked = chunkIntoN(tweets, 24)
-  		let tobeTweets = chunked[currentHour]
-  		for (const content of tobeTweets){
-  			sentTweet(content)
-  			setTimeout(() => {
-			  console.log("Delayed for 1 second.\n");
-			}, 500);
-  		}
-  		
-  		//console.log(tobeTweets)
-  	} else {
-  		console.log("there is no post today")
-  	}
+	if (fileNames.includes(today)){
+		
+		let tweets = getTweets(postsDirectory, today)
+		let tweetCounts = tweets.length
+
+    console.log(`These are ${tweetCounts} tweets for today ${tweets}`)
+    
+		let chunked = chunkIntoN(tweets, 24)
+		let tobeTweets = chunked[currentHour]
+
+		for (const content of tobeTweets){
+			sentTweet(content)
+			setTimeout(() => {
+		    console.log("Resting for 0.5 second.\n");
+		  }, 500);
+		}
+		
+		//console.log(tobeTweets)
+	} else {
+		console.log("there is no post today")
+	}
 })

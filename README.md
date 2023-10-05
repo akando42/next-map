@@ -29,13 +29,11 @@ yarn dev
 [X] Add Summary section to Post to be used as Twitter message. 
 [X] Split a Post content into Trunk of Image and 280 character paragraph. 
 [X] Post one Post trunk an Hour.  
-[ ] Add hash tag to all text.
-[ ] Upload Image from remote URL to tweet.  
-
+[X] Add hash tag to all text.
+[X] Upload Image from remote URL to tweet.  
 
 
 ## FUN
-[ ]
 [ ] Create array of timezone, city name, city-zen image.
 [ ] Look up major cities that is currently at NOON.
 [ ] Tag the city and top twitter users of the city.
@@ -44,3 +42,10 @@ yarn dev
 ## References
 - [Documentations](https://nextjs.org/docs)
 - [Flexbox](https://flexbox.malven.co/)
+
+```
+$ sudo lsof -i :3000
+$ kill -9 
+```
+
+- [Tweet with NODEJS](https://www.geeksforgeeks.org/tweet-using-node-js-and-twitter-api/)

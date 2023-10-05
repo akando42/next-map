@@ -11,6 +11,7 @@ summary: "How #Russia with a small population of less than 2% of world populatio
 published: true
 ---
 ## Scandinavian genetic influences and the Russian Golden Lever
+
 The #Volga rivers and its connected rivers form a large trade route between the Baltic Sea of Scandinavian and the #Caspian Sea of #Central Asia. This river trade route allows the #Nord #Viking to explore, trade and raid along the river bank of the #Volga river all the way to the Caspian sea. These #NORD Vikings also were able to build large settlements along the #Volga trade route in modern day #StPetersburg, #Kazan and #Astrakhan. 
 
 ![The VOLGA trade route](https://storage.googleapis.com/spykman-world/the-volga-trade.png)
@@ -36,6 +37,7 @@ The new #ROMAN-VLAD fortified settlements, use of Roman military structure and u
 ![Moscow Instagram Users](https://storage.googleapis.com/spykman-world/moscow_women.png)
 
 ## From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop, the Russian Land Territorial Lever
+
 #Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slav-dom was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day #Moscow.
 
 ![Arable Land for Farming](https://storage.googleapis.com/spykman-world/arable-land-map.png)
@@ -61,6 +63,7 @@ These early #Russian expansion via superior mobility first via horses then the S
 ![Russian Oil Export](https://storage.googleapis.com/spykman-world/russian-daily-oil-output.png)
 
 ## Siberian Stockpile of Nuclear, Chemical and Biological and the Russian WMD Lever
+
 By poisoning the main water stream or storage with chemical weapons, one could achieve the force multiplier effects. A small group of dozen chemical weapon specialists could cause widespread damage to hundreds of thousands of troops and civilians within a population center that shares that water stream or storage. Hence harmful chemical compounds getting into the main water source would become a #WMD. 
 
 ![Chemical WMD](https://storage.googleapis.com/spykman-world/aral_sea_4x.gif)
@@ -69,7 +72,7 @@ The Russian planners were using #Chemical weapons on the main Kazakh population 
 
 ![Caucasian Looking Asian females](https://storage.googleapis.com/spykman-world/kazahstan-instagram-users.png)
 
-By spreading #Viral disease inside high density population centers, military barracks with central air conditioners or major indoor transportation hubs like airports or train stations, a team of a dozen biological specialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
+By spreading #ViralDiseases inside #Indoor locations with central #AirConditioners like military barracks, high rise buildings, #Airports or #TrainStations, a dozen #BiologicalSpecialists could cause widespread sickness and death among millions of enemy combatants or civilians. 
 
 ![European and China Dense Rail Network](https://storage.googleapis.com/spykman-world/euroasia-railnetwork.png)
 
@@ -77,15 +80,17 @@ By spreading #Viral disease inside high density population centers, military bar
 
 ![COVID Cases, Death and Vaccinated](https://storage.googleapis.com/spykman-world/covid-cases-and-death.png)
 
-By using viral biological weapons on highly dense population centers of China and the United States as well as its high speed and highly connected transportation network of trains and planes, #COVID-19 achieved the #Intercontinental reach of #BallisticMissiles as well as the lethality of Nuclear explosions. With COVID-19 wide spread, every man, woman and chid also have been #IntercontinentallyNeedled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles around #Moscow and #Novosibirsk. 
+By using engineered COVID-19 on dense population centers of China and Europe and its high speed and highly connected transportation network of trains and planes, #COVID-19 achieved the #Intercontinental reach of #BallisticMissiles as well as the lethality of #NuclearExplosions. With COVID-19 wide spread, every man, woman and chid also have been #IntercontinentallyNeedled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles around #Moscow and #Novosibirsk. 
 
 ![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
 When the #Western empires got too big to manage, they always use an Investment Bank #Spin-Off like maneuver to split the task of managing the Empire into Two Emperors who focuses on expanding into two opposite direction. 
 
+![NATO OTAN EAST WEST EXPANSION](https://storage.googleapis.com/spykman-world/nato-otan-west-east-expansions.png)
+
 First time in history was the #Western-Eastern Roman Empire Spin Off which resulted in the #Christianization and #Romanization the rest of Central, Northern and Eastern Europe. Second time in history was #UnitedStates and #BritishEmpire spin off which results in the whole world switching to speaking English, using American dollars and American standard to build and trade everything we use daily.
 
-![NATO OTAN EAST WEST EXPANSION](https://storage.googleapis.com/spykman-world/nato-otan-west-east-expansions.png)
+![LATIN alphabet Users](https://storage.googleapis.com/spykman-world/latin-alphabet-users.png)
 
 The collapse of Soviet Union is very likely the third #Spin-Off into Modern Russia and Central Asian countries. This spin-off results in #Caucasianization of the genentics makeup for the rest of #India, #China and #SoutheastAsia with all influential figures in the #FarEast looking increasing like their Western kings and the majority of the #FarEast population having the same blood type as the Western kings.
 
