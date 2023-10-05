@@ -71,7 +71,7 @@ const chunkIntoN = (arr, n) => {
 }
 
 const sentTweet = async (tweetObject) => {
-  // console.log(tweetObject)
+  
 	let text = tweetObject.text.content;
 	let tweets = text.match(/[^\.!\?]+[\.!\?]+/g);
 	let imageURL = tweetObject.image.link;
@@ -85,15 +85,25 @@ const sentTweet = async (tweetObject) => {
         const media_ids = await Promise.all([
           twitterClient.v1.uploadMedia(image_file)
         ]);
-        
+        console.log("TWEET ", tweets[i])
         //const media_ids = await twitterClient.v1.uploadMedia(path)
-        await twitterClient.v2.tweet({
-          text: tweets[i], 
-          media: { media_ids: media_ids  }
-        });
+        try {
+          await twitterClient.v2.tweet({
+            text: tweets[i], 
+            media: { media_ids: media_ids  }
+          });
+        } catch(e){
+          console.log(e)
+          await twitterClient.v2.tweet(e.message)
+        }
       } else {
-        await twitterClient.v2.tweet(tweets[i])
-        console.log("Text: ", tweets[i]);
+        try {
+          await twitterClient.v2.tweet(tweets[i])
+          console.log("TWEET ", tweets[i])
+        } catch(e){
+          console.log("Text: ", tweets[i]);
+          await twitterClient.v2.tweet(e.message)
+        }
       }
     }
   }
@@ -125,12 +135,8 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 
   try {
   	if (fileNames.includes(today)){
-  		
   		let tweets = getTweets(postsDirectory, today)
   		let tweetCounts = tweets.length
-
-      console.log(`These are ${tweetCounts} tweets for today ${tweets}`)
-      
   		let chunked = chunkIntoN(tweets, 24)
   		let tobeTweets = chunked[currentHour]
 

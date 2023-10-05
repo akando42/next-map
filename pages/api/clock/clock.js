@@ -51,7 +51,7 @@ const handler = async function (event, context) {
     }
   } else {
     try {
-      console.log("Hanoi or California is sleeping or sleepy", afdf)  
+      console.log("Hanoi or California is sleeping or sleepy")
     } catch(e){
       let message = "#NETLIFY clock function ERROR: "+e.message
       await twitterClient.v2.tweet(message)

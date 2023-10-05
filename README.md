@@ -44,8 +44,7 @@ yarn dev
 - [Flexbox](https://flexbox.malven.co/)
 
 ```
-$ sudo lsof -i :3000
-$ kill -9 
+$ sudo killall node
 ```
 
 - [Tweet with NODEJS](https://www.geeksforgeeks.org/tweet-using-node-js-and-twitter-api/)
