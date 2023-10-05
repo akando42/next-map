@@ -85,7 +85,8 @@ const sentTweet = async (tweetObject) => {
         const media_ids = await Promise.all([
           twitterClient.v1.uploadMedia(image_file)
         ]);
-        // const media_ids = await twitterClient.v1.uploadMedia(path)
+        
+        //const media_ids = await twitterClient.v1.uploadMedia(path)
         await twitterClient.v2.tweet({
           text: tweets[i], 
           media: { media_ids: media_ids  }
@@ -122,25 +123,33 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 	//let today = formatDate(d)
 	let today = "10-07"
 
-	if (fileNames.includes(today)){
-		
-		let tweets = getTweets(postsDirectory, today)
-		let tweetCounts = tweets.length
+  try {
+  	if (fileNames.includes(today)){
+  		
+  		let tweets = getTweets(postsDirectory, today)
+  		let tweetCounts = tweets.length
 
-    console.log(`These are ${tweetCounts} tweets for today ${tweets}`)
-    
-		let chunked = chunkIntoN(tweets, 24)
-		let tobeTweets = chunked[currentHour]
+      console.log(`These are ${tweetCounts} tweets for today ${tweets}`)
+      
+  		let chunked = chunkIntoN(tweets, 24)
+  		let tobeTweets = chunked[currentHour]
 
-		for (const content of tobeTweets){
-			sentTweet(content)
-			setTimeout(() => {
-		    console.log("Resting for 0.5 second.\n");
-		  }, 500);
-		}
-		
-		//console.log(tobeTweets)
-	} else {
-		console.log("there is no post today")
-	}
+  		for (const content of tobeTweets){
+  			sentTweet(content)
+  			setTimeout(() => {
+  		    console.log("Resting for 0.5 second.\n");
+  		  }, 500);
+  		}
+  		
+  		//console.log(tobeTweets)
+  	} else {
+  		console.log("there is no post today")
+  	}
+  } catch(e){
+    console.log(e)
+    return {
+      statusCode: 400,
+      message: e
+    }
+  }
 })
