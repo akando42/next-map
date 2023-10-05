@@ -34,9 +34,7 @@ const handler = async function (event, context) {
     //   twitterClient.v1.uploadMedia(buffer, {type: 'png'})
     // ]);
     // await twitterClient.v2.tweet(message, { media_ids: media_ids  });
-
-
-  
+    
   	console.log("Tweet successfully \n",message)
   	return {
       	statusCode: 200,

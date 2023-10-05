@@ -13,45 +13,47 @@ const formatDate = function(date){
 
 const getTweets = function(postsDirectory, id){
 	const fullPath = path.join(postsDirectory, id, `index.md`)
-  	const fileContents = fs.readFileSync(fullPath, 'utf8')
-  	const matterResult = matter(fileContents)
+	const fileContents = fs.readFileSync(fullPath, 'utf8')
+	const matterResult = matter(fileContents)
 
-  	let contents = matterResult.content
-  	let tweetCounts = contents.length / 280
-  	let trunks = contents.split(/\r?\n/);
-  	let tweetText = []
-  	let tweetImage = []
+	let contents = matterResult.content
+	let tweetCounts = contents.length / 280
+	let trunks = contents.split(/\r?\n/);
+	let tweetText = []
+	let tweetImage = []
 
-  	for(trunk of trunks){
-  		if (trunk == ''){
-  			continue;
-  		} else if (trunk.startsWith("#")){
-  			continue;
-  		} else {
-  			let data = {}
-  			if(trunk.startsWith("!")){
-  				data.type = 'image'
-  				data.content = trunk 
-  				re = /\((.*)\)/;
-  				data.link = trunk.match(re)[1]
-  				tweetImage.push(data)
-  			} else {
-  				data.type = 'text'
-  				data.content = trunk 
-  				data.length = trunk.length
-  				tweetText.push(data)
-  			}
-  		}
-  	}
+	for(trunk of trunks){
+		if (trunk == ''){
+			continue;
+		} else if (trunk.startsWith("##")){
+			continue;
+		} else {
+			let data = {}
+			if(trunk.startsWith("!")){
+				data.type = 'image'
+				data.content = trunk 
+				re = /\((.*)\)/;
+				data.link = trunk.match(re)[1]
+				tweetImage.push(data)
+			} else {
+				data.type = 'text'
+				data.content = trunk 
+				data.length = trunk.length
+				tweetText.push(data)
+			}
+		}
+	}
 
-  	let tweets = []
+	let tweets = []
 
-  	for (let i = 0; i < tweetText.length; i++) {
-	  	let tweet = {}
-	  	tweet.id = i
-	  	tweet.image = tweetImage[i]
-	  	tweet.text = tweetText[i]
-	  	tweets.push(tweet)
+  console.log(`There are ${tweetImage.length} images and ${tweetText.length} paragraph in the text`)
+
+	for (let i = 0; i < tweetText.length; i++) {
+  	let tweet = {}
+  	tweet.id = i
+  	tweet.image = tweetImage[i]
+  	tweet.text = tweetText[i]
+  	tweets.push(tweet)
 	}
 
 	return tweets
@@ -97,7 +99,7 @@ const sentTweet = async (tweetObject) => {
 
   https.get(imageURL,(res) => {    
     // Image will be stored at this path
-    const imagePath = path.join(process.cwd(), fileName);  
+    const imagePath = path.join(process.cwd(),'tmp',fileName);  
     const filePath = fs.createWriteStream(imagePath); 
     res.pipe(filePath); 
 
