@@ -143,8 +143,8 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   		for (const content of tobeTweets){
   			sentTweet(content)
   			setTimeout(() => {
-  		    console.log("Resting for 0.5 second.\n");
-  		  }, 500);
+  		    console.log("Resting for 0.1 second.\n");
+  		  }, 100);
   		}
   		
   		//console.log(tobeTweets)
