@@ -20,29 +20,29 @@ Through intermixing between #Nordic tribes with the local tribes, the NORDIC cul
 
 ![Golden KREMLINs of Western Russia](https://storage.googleapis.com/spykman-world/golden-kremlins.png)
 
-However, with the #Mongol expansion from the #East, these #NORDIC settlements were pushed back from the bank of the #Volga river to the settlement of KIEV along the #Dniper river and the Baltic coastal #NOVOGROD settlement. The #NORDIC and #GERMAN tribes of #Ukraine and Baltic settlements started to intermixing in this period and form another distinctive culture of #NORDIC-GERMAN in #Ukraine and the #Baltic coastal cities.
+However, with the #Mongol expansion from the #East, these #NORDIC settlements were pushed back from the bank of the #Volga river to the settlement of KIEV along the #Dniper river and the Baltic coastal #NOVOGROD settlement. The #NORDIC and #GERMAN tribes of #Ukraine and Baltic settlements started to intermixing in this period and form another distinctive culture of #NordicGerman in #Ukraine and the #Baltic coastal cities.
 
 ![Novogrod Instagram Users](https://storage.googleapis.com/spykman-world/Novgorod_women.png)
 
-These #Mongol raids reached all the way to #Romania and only stopped by the #CARPATHIAN MOUNTAIN range and the most barbaric #Roman lineage, #Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of #Hungary and #Romania. The raids and battles between the #Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the #RomanEmpire and their satellite states. 
+These #Mongol raids reached all the way to #Romania and only stopped by the #CarpathianMountain range and the most barbaric #Roman lineage, #Vlad the Impaler. The ROMAN planners placed the most cruel lineages at its frontier regions of #Hungary and #Romania. The raids and battles between the #Mongol tribes and the Vlad kingdom was the first time that the Mongol came into contact with the #RomanEmpire and their satellite states. 
 
 ![Carpathian Mountain](https://storage.googleapis.com/spykman-world/carpathian-mountain.png)
 
-The danger of the #Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineages, their most cruel military generals and hundred thounds of Roman Bulgarian slaves to settle beyond the #Carpathian mountain range. They also invented a new alphabet, the #Cyralic alphabet for this new Roman frontier and later on becoming the #Russian official alphabet and built Roman-style fortress called #Vladimir, modern day Moscow, at the middle point between the #Dniper river and the Volga river. 
+The danger of the #Eastern nomadic horsemen became known among the Roman world and the Roman planners started to send the Vlad lineages, their most cruel military generals and hundred thounds of #Roman #Bulgarian slaves to settle beyond the #Carpathian mountain range. They also invented a new alphabet, the #Cyralic alphabet for this new Roman frontier and later on becoming the #Russian official alphabet and built Roman-style fortress called #Vladimir, modern day Moscow, at the middle point between the #Dniper river and the Volga river. 
 
 ![Moscow Kremlin](https://storage.googleapis.com/spykman-world/moscow_kremln.png)
 
-The new #ROMAN-VLAD fortified settlements, use of Roman military structure and use of #Nordic Blonde women as gifts to the #Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the #Roman-VLAD planners. Maybe these Russian Blonde women caused the #Mongol princes to switch from Mongol paper money to Russian Golden coins as mean of transaction which brought extra weight and broke down the Mongol fiat monetary system. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
+The new #RomanVLAD fortified settlements, use of Roman military structure and use of #Nordic Blonde women as gifts to the #Mongol princes reduced the number of Mongol raids to the West as well as exposed the Mongol tactics and military structures to the #RomanVLAD planners. Maybe these Russian Blonde women caused the #Mongol princes to switch from Mongol paper money to Russian Golden coins as mean of transaction which brought extra weight and broke down the Mongol fiat monetary system. With the weakening Mongol Golden Horde, the forward #VLADIMIR fortress once again allowed the Nordic tribes to expand East from the Dniper river and Baltic coastal settlements to rebuild in their abandoned town of Kazan and Astrakhan into fortified settlements as well as populating Vladimir.
 
 ![Moscow Instagram Users](https://storage.googleapis.com/spykman-world/moscow_women.png)
 
 ## From Vlad the Impaler Lineage First Stop to Vladivostok Final Stop, the Russian Land Territorial Lever
 
-#Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slav-dom was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day #Moscow.
+#Serf-dom or #Slav-dom is a farmer social class who are not allowed to move around but stay year around at the farm to work on the land, have to pay a large percentage of their farming output to the kings and nobles who control the land, horses and major water sources via the use of forces. #slavDOM was first invented by the #Roman and #WesternEuropean kings and became part of #Russia society until 19th century when the #VLAD lineage moved East with their #slave farmers to settle in modern day #Moscow.
 
 ![Arable Land for Farming](https://storage.googleapis.com/spykman-world/arable-land-map.png)
 
-The #Roman-VLAD lineage also started to intermix with the nomadic tribes of #Mongol, #Tatars and #Kazah. One of these marriages produced a Roman-Tatar son, who was able to acquire the support of Vladimir city nobles to become the first king of the long lasting Romanov dynasty. #Vladimir citystate under the #Romanov rule started to form the #calvary formation within the #Vladimir army and for the first time was able to defeat #German tribes and #Mongol tribes outside their fortress wall.
+The #RomanVLAD lineage also started to intermix with the nomadic tribes of #Mongol, #Tatars and #Kazah. One of these marriages produced a #RomanTatar son, who was able to acquire the support of Vladimir city nobles to become the first king of the long lasting Romanov dynasty. #Vladimir citystate under the #Romanov rule started to form the #calvary formation within the #Vladimir army and for the first time was able to defeat #German tribes and #Mongol tribes outside their fortress wall.
 
 ![Kazan Instagram Users](https://storage.googleapis.com/spykman-world/kazan_women.png) 
 
@@ -50,15 +50,15 @@ The #Vladimir settlement position faraway from two #EasternEuropean major rivers
 
 ![VLAD from Bucharest to Vladimir](https://storage.googleapis.com/spykman-world/bucharest-to-vladimir.png)
 
-The Romanov, a #Roman-Tatar, lineage did not stop at the Volga river but expand Russia border all the way East to the Pacifics ocean. They ultilized a mix strategy of high mobility of the Mongol army and fortified strong point of the Roman army. The fleet of cattle for water and food supply as well as large horce population allows the Russian army to be flexible and move quickly. However, wherever they reach a strong geographical barrier like a #River, a #Mountain range, a #Desert or the #Coastline then they abandoned their mobile strategy but started to build highly fortified settlements with large settled population as the strong anchors for their border expansion. As the results, modern Russian cities East of the Volga river are popululated mostly by #Roman-Tatars.
+The Romanov, a #RomanTatar, lineage did not stop at the Volga river but expand Russia border all the way East to the Pacifics ocean. They ultilized a mix strategy of high mobility of the Mongol army and fortified strong point of the Roman army. The fleet of cattle for water and food supply as well as large horce population allows the Russian army to be flexible and move quickly. However, wherever they reach a strong geographical barrier like a #River, a #Mountain range, a #Desert or the #Coastline then they abandoned their mobile strategy but started to build highly fortified settlements with large settled population as the strong anchors for their border expansion. As the results, modern Russian cities East of the Volga river are popululated mostly by #Roman-Tatars.
 
 ![The Kazan Women](https://storage.googleapis.com/spykman-world/astrakhan_women.png)
 
-The #VLAD-KAZAH nobles along with the ROMANOV kings become very popular among the Russian population with their successful expansion of Russia to the East. Under the Roman Dynasty, the original Nordics nobles of Moscow became less popular and got deported to Saint Petersburg to make spaces for #Romans and #Tatars lineages in Moscow when Peters the Great temporary moved the capital of Russia from #Moscow to #StPetersburg.
+The #VladKazah nobles along with the #ROMANOV kings become very popular among the #Russian population with their successful expansion of Russia to the East. Under the Roman Dynasty, the original Nordics nobles of #Moscow became less popular and got deported to #SaintPetersburg to make spaces for #Romans and #Tatars lineages in Moscow when Peters the Great temporary moved the capital of Russia from #Moscow to #StPetersburg.
 
 ![Saint Petersburg Women](https://storage.googleapis.com/spykman-world/saint_petersburg_women.png)
 
-These early #Russian expansion via superior mobility first via horses then the Siberian railway to the East results in Russian becoming the largest country in Europe and the World with abundances of farming land, minerals, oil and gas resources. Abundance of minerals and talents allow Russia to have an advanced heavy industry that is capable of producing large industrial machineries and weapons. Until the modern day, only #Russia and United States posseses all energy, food and defense security with both countries do not need to import fuel, food and weapons from a foreign nation. 
+These early #Russian expansion via superior mobility first via horses then the Siberian railway to the #East results in #Russian becoming the largest country in Europe and the World with abundances of farming land, minerals, oil and gas resources. Abundance of minerals and talents allow #Russia to have an advanced heavy industry that is capable of producing large industrial machineries and weapons. Until the modern day, only #Russia and United States posseses all energy, food and defense security with both countries do not need to import fuel, food and weapons from a foreign nation. 
 
 ![Russian Oil Export](https://storage.googleapis.com/spykman-world/russian-daily-oil-output.png)
 
@@ -68,7 +68,7 @@ By poisoning the main water stream or storage with chemical weapons, one could a
 
 ![Chemical WMD](https://storage.googleapis.com/spykman-world/aral_sea_4x.gif)
 
-The Russian planners were using #Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building Hydroelectric Dams in Uzbekistan and Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting #Russian-Kazakh inter-marriage to eliminate any threats of invasion from these historical enemies. The poison water source also serves as the #WaterGap to prevent any #NorthWest #migiration and push the migration to #SouthEast direction.
+The Russian planners were using #Chemical weapons on the main Kazakh population water source, the Aral sea, as well as building #HydroElectric Dams in #Uzbekistan and #Kazakhstan to control water input of Kazakh tribes. The use of chemical weapons on water input eliminates population growth of Native Kazan while promoting #RussianKazakh inter-marriage to eliminate any threats of invasion from these historical enemies. The poison water source also serves as the #WaterGap to prevent any #NorthWest #migiration and push the migration to #SouthEast direction.
 
 ![Caucasian Looking Asian females](https://storage.googleapis.com/spykman-world/kazahstan-instagram-users.png)
 
@@ -76,11 +76,11 @@ By spreading #ViralDiseases inside #Indoor locations with central #AirConditione
 
 ![European and China Dense Rail Network](https://storage.googleapis.com/spykman-world/euroasia-railnetwork.png)
 
-#COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. #COV-1 and #COVID-19 are version-1 and version-2 of the #SARS virus standing for Severe Acute Respiratory Syndrome or #TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
+#COVID-19 is an example of Russian use of Biological WMD in China, European Union and United States. #COV1 and #COVID19 are version-1 and version-2 of the #SARS virus standing for Severe Acute Respiratory Syndrome or #TSAR. While version 1 of SARS only spreaded to more than 8000 patients and caused 700 deaths, version 2 of SARS, COVID-19 spreaded to more than 695,000,000 patients and caused more than 6,920,000 deaths. The version 3 of SARS with a higher fatality rate could be more damaging than nuclear weapons but with high deniability of who actually launched the biological weapons. 
 
 ![COVID Cases, Death and Vaccinated](https://storage.googleapis.com/spykman-world/covid-cases-and-death.png)
 
-By using engineered COVID-19 on dense population centers of China and Europe and its high speed and highly connected transportation network of trains and planes, #COVID-19 achieved the #Intercontinental reach of #BallisticMissiles as well as the lethality of #NuclearExplosions. With COVID-19 wide spread, every man, woman and chid also have been #IntercontinentallyNeedled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles around #Moscow and #Novosibirsk. 
+By using engineered #COVID19 on dense population centers of China and Europe and its high speed and highly connected transportation network of trains and planes, #COVID19 achieved the #Intercontinental reach of #BallisticMissiles as well as the lethality of #NuclearExplosions. With #COVID19 wide spread, every man, woman and chid also have been #IntercontinentallyNeedled with who know what biologial and chemical content inside every vaccine dose. And Russia and its stockpile of nuclear weapons in Siberia can always choose the large casualty option within minutes anywhere on earth of its nuclear ballistic missiles around #Moscow and #Novosibirsk. 
 
 ![Intercontinental Needle for Every Hu-Man](https://storage.googleapis.com/spykman-world/intercontinental-needle-for-every-human.png)
 
@@ -88,11 +88,11 @@ When the #Western empires got too big to manage, they always use an Investment B
 
 ![NATO OTAN EAST WEST EXPANSION](https://storage.googleapis.com/spykman-world/nato-otan-west-east-expansions.png)
 
-First time in history was the #Western-Eastern Roman Empire Spin Off which resulted in the #Christianization and #Romanization the rest of Central, Northern and Eastern Europe. Second time in history was #UnitedStates and #BritishEmpire spin off which results in the whole world switching to speaking English, using American dollars and American standard to build and trade everything we use daily.
+First time in history was the #WesternEastern Roman Empire Spin Off which resulted in the #Christianization and #Romanization the rest of Central, Northern and Eastern Europe. Second time in history was #UnitedStates and #BritishEmpire spin off which results in the whole world switching to speaking English, using American dollars and American standard to build and trade everything we use daily.
 
 ![LATIN alphabet Users](https://storage.googleapis.com/spykman-world/latin-alphabet-users.png)
 
-The collapse of Soviet Union is very likely the third #Spin-Off into Modern Russia and Central Asian countries. This spin-off results in #Caucasianization of the genentics makeup for the rest of #India, #China and #SoutheastAsia with all influential figures in the #FarEast looking increasing like their Western kings and the majority of the #FarEast population having the same blood type as the Western kings.
+The collapse of Soviet Union is very likely the third #SpinOff into Modern Russia and Central Asian countries. This spin-off results in #Caucasianization of the genentics makeup for the rest of #India, #China and #SoutheastAsia with all influential figures in the #FarEast looking increasing like their Western kings and the majority of the #FarEast population having the same blood type as the Western kings.
 
 ![Caucasian looking Chinese Women](https://storage.googleapis.com/spykman-world/xinjiang-women.png)
 
@@ -118,7 +118,7 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 
 ![Fiber Link between East Coast and Europe](https://storage.googleapis.com/spykman-world/eastcoat-europe-fiber-link.png)
 
-#LinuxTorvard, a #Finnish programmer, created #Linux Operating System. And many improved variants of LinuxOS like #RedhatOS, #UbuntuOS and #AndroidOS dominates the server and mobile market through Billion Hours of FREE work done by the open source community of formal Soviet state programmers in #Russia, #Scandinavia, #EasternEurope and #EastAsia. Obviously the #Soviet propaganda machine still work well in the software world and #Scandinavian nations and #Russia still have close tied under the table. So close that Putin kept his biological son in #Finland and publicly only have daughters in Russia.
+#LinuxTorvard, a #Finnish programmer, created #Linux Operating System. And many improved variants of LinuxOS like #RedhatOS, #UbuntuOS and #AndroidOS dominates the server and mobile market through Billion Hours of #FREE work done by the open source community of formal Soviet state programmers in #Russia, #Scandinavia, #EasternEurope and #EastAsia. Obviously the #Soviet propaganda machine still work well in the software world and #Scandinavian nations and #Russia still have close tied under the table. So close that Putin kept his biological son in #Finland and publicly only have daughters in Russia.
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 

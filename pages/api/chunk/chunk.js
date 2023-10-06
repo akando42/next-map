@@ -71,7 +71,6 @@ const chunkIntoN = (arr, n) => {
 }
 
 const sentTweet = async (tweetObject) => {
-  
 	let text = tweetObject.text.content;
 	let tweets = text.match(/[^\.!\?]+[\.!\?]+/g);
 	let imageURL = tweetObject.image.link;
@@ -80,29 +79,35 @@ const sentTweet = async (tweetObject) => {
 
   const tweetBurst = async (imagePath) => {
     for (let i = 0; i < tweets.length; i++){
+      
       if (i == 0){
         const image_file = require.resolve(imagePath)
+
         const media_ids = await Promise.all([
           twitterClient.v1.uploadMedia(image_file)
         ]);
-        console.log("TWEET ", tweets[i])
-        //const media_ids = await twitterClient.v1.uploadMedia(path)
+        console.info("TWEET ", tweets[i])
+
         try {
           await twitterClient.v2.tweet({
             text: tweets[i], 
             media: { media_ids: media_ids  }
           });
+
         } catch(e){
-          console.log(e)
+          console.error(e)
           await twitterClient.v2.tweet(e.message)
+
         }
       } else {
         try {
-          await twitterClient.v2.tweet(tweets[i])
-          console.log("TWEET ", tweets[i])
+          await twitterClient.v2.tweet(`${process.env.NODE_ENV} ${tweets[i]}`)
+          console.info("TWEET ", tweets[i])
+
         } catch(e){
-          console.log("Text: ", tweets[i]);
-          await twitterClient.v2.tweet(e.message)
+          console.error("Text: ", tweets[i]);
+          await twitterClient.v2.tweet("TWEET API ERROR "+e.message)
+
         }
       }
     }
@@ -124,22 +129,23 @@ const sentTweet = async (tweetObject) => {
 }
 
 module.exports.handler = schedule('0 * * * *', async (event) => {
-
   const postsTopic = "public/content/posts"
 	const postsDirectory = path.join(process.cwd(), postsTopic)	
 	let fileNames = fs.readdirSync(postsDirectory)
 	let d = new Date()
 	let currentHour = d.getHours()
-	//let today = formatDate(d)
+	
+  //let today = formatDate(d)
 	let today = "10-07"
 
   try {
+    console.time()
   	if (fileNames.includes(today)){
   		let tweets = getTweets(postsDirectory, today)
   		let tweetCounts = tweets.length
   		let chunked = chunkIntoN(tweets, 24)
   		let tobeTweets = chunked[currentHour]
-
+     
   		for (const content of tobeTweets){
   			await sentTweet(content)
         console.info("INFO",content)
@@ -150,10 +156,14 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   	} else {
   		console.info("there is no post today")
   	}
+    console.timeEnd()
+
   } catch(e){
+
     let message = "#NETLIFY chunk function ERROR: "+e.message
     await twitterClient.v2.tweet(message)
     console.log(message)
+
     return {
       statusCode: 400,
       message: e
