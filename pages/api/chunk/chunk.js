@@ -124,7 +124,7 @@ const sentTweet = async (tweetObject) => {
 }
 
 module.exports.handler = schedule('0 * * * *', async (event) => {
-  
+
   const postsTopic = "public/content/posts"
 	const postsDirectory = path.join(process.cwd(), postsTopic)	
 	let fileNames = fs.readdirSync(postsDirectory)
@@ -142,13 +142,13 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 
   		for (const content of tobeTweets){
   			await sentTweet(content)
-        console.log(content)
+        console.info("INFO",content)
   			setTimeout(() => {
-  		    console.log("Resting for 0.1 second.\n");
+  		    console.info("Resting for 0.1 second.\n");
   		  }, 100);
   		}
   	} else {
-  		console.log("there is no post today")
+  		console.info("there is no post today")
   	}
   } catch(e){
     let message = "#NETLIFY chunk function ERROR: "+e.message
