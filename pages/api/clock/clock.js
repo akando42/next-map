@@ -8,7 +8,7 @@ const handler = async function (event, context) {
   let caliZone = 'America/Los_Angeles'
   let hanoiTime = d.toLocaleString('en-GB', { timeZone: hanoiZone });
   let caliTime = d.toLocaleString('en-GB', { timeZone: caliZone });
-  let message = `Now in Vietnam is ${hanoiTime} and \n in California is ${caliTime}. Conference all is possible!!!`
+  let message = `Now in Vietnam is ${hanoiTime} and \n in California is ${caliTime}. Conference call is possible!!!`
   let remoteURL = "https://geogenetics.dystillvision.com/content/posts/12-06/RUEXICO.png"
 
   if (parseInt(hanoiTime) > 8 && parseInt(hanoiTime) < 22 && parseInt(caliTime) > 8 && parseInt(caliTime) < 22){
