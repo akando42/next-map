@@ -124,7 +124,7 @@ const sentTweet = async (tweetObject) => {
 }
 
 module.exports.handler = schedule('0 * * * *', async (event) => {
-
+  
   const postsTopic = "public/content/posts"
 	const postsDirectory = path.join(process.cwd(), postsTopic)	
 	let fileNames = fs.readdirSync(postsDirectory)
@@ -141,13 +141,12 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   		let tobeTweets = chunked[currentHour]
 
   		for (const content of tobeTweets){
-  			sentTweet(content)
+  			await sentTweet(content)
+        console.log(content)
   			setTimeout(() => {
   		    console.log("Resting for 0.1 second.\n");
   		  }, 100);
   		}
-  		
-  		//console.log(tobeTweets)
   	} else {
   		console.log("there is no post today")
   	}
