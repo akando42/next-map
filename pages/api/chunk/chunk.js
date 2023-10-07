@@ -102,7 +102,7 @@ const sentTweet = async (tweetObject) => {
         }
       } else {
         try {
-          await twitterClient.v2.tweet(`${process.env.NODE_ENV} ${tweets[i]}`)
+          await twitterClient.v2.tweet(`${tweets[i]}`)
           console.info("TWEET ", tweets[i])
 
         } catch(e){

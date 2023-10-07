@@ -11,9 +11,8 @@ const handler = async function (event, context) {
   let message = `Now in Vietnam is ${hanoiTime} and \n in California is ${caliTime}. Conference call is possible!!!`
   let remoteURL = "https://geogenetics.dystillvision.com/content/posts/12-06/RUEXICO.png"
 
-  if (parseInt(hanoiTime) > 0 && parseInt(hanoiTime) < 23 && parseInt(caliTime) > 0 && parseInt(caliTime) < 23){
+  if (parseInt(hanoiTime) > 8 && parseInt(hanoiTime) < 22 && parseInt(caliTime) > 8 && parseInt(caliTime) < 22){
     try {
-
       console.log(message)
       //////// Tweet out text only ///////////
       // await twitterClient.v2.tweet(message)
@@ -52,7 +51,20 @@ const handler = async function (event, context) {
     }
   } else {
     try {
-      console.log("Hanoi or California is sleeping or sleepy")
+      if (parseInt(hanoiTime) <= 8 || parseInt(hanoiTime) >= 22){
+        console.log(hanoiTime, parseInt(hanoiTime));
+        await twitterClient.v2.tweet(`Now is ${hanoiTime} in Hanoi. Citi-Zens are sleeping or sleepy`);
+
+      } else if (parseInt(caliTime) <= 8 || parseInt(caliTime) >= 22){
+        console.log(caliTime, parseInt(caliTime));
+        await twitterClient.v2.tweet(`Now is ${caliTime} in California. Citi-Zens are sleeping or sleepy`);
+
+      } else {
+        console.log("Uncaught Condition");
+        console.log("CALI", caliTime, parseInt(caliTime));
+        console.log("HANOI", hanoiTime, parseInt(hanoiTime));
+
+      }
     } catch(e){
       let message = "#NETLIFY clock function ERROR: "+e.message
       await twitterClient.v2.tweet(message)
