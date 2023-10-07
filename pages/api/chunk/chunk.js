@@ -78,6 +78,7 @@ const sentTweet = async (tweetObject) => {
   let fileType = fileName.split(".").pop()
 
   const tweetBurst = async (imagePath) => {
+    console.time()
     for (let i = 0; i < tweets.length; i++){
       
       if (i == 0){
@@ -111,6 +112,7 @@ const sentTweet = async (tweetObject) => {
         }
       }
     }
+    console.timeEnd()
   }
 
   https.get(imageURL,(res) => {    
@@ -139,7 +141,7 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 	let today = "10-07"
 
   try {
-    console.time()
+    
   	if (fileNames.includes(today)){
   		let tweets = getTweets(postsDirectory, today)
   		let tweetCounts = tweets.length
@@ -148,7 +150,7 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
      
   		for (const content of tobeTweets){
   			await sentTweet(content)
-        console.info("INFO",content)
+        console.info("START sending Tweet")
   			setTimeout(() => {
   		    console.info("Resting for 0.1 second.\n");
   		  }, 100);
@@ -156,14 +158,12 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   	} else {
   		console.info("there is no post today")
   	}
-    console.timeEnd()
-
   } catch(e){
 
     let message = "#NETLIFY chunk function ERROR: "+e.message
     await twitterClient.v2.tweet(message)
     console.log(message)
-
+    
     return {
       statusCode: 400,
       message: e
