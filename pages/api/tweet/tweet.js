@@ -41,17 +41,16 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 
   let fileNames = fs.readdirSync(postsDirectory)
   let d = new Date()
-  let today = formatDate(d)
-  //let today = "10-07"
+  // let today = formatDate(d)
+  let today = "10-17"
 
   if (fileNames.includes(today)){
     console.log("there is post today");
-    
     // let timeZone = 'Asia/Bangkok';
     // let localTime = d.toLocaleString('en-US', { timeZone: timeZone });
     let postData = getPost(postsDirectory,today);
-    
     let message = postData.path +"\n" + postData.summary + " ";
+
     for (tag of postData.tags){ 
       tag = tag.replace(/ /g,"_");
       message = message + " #" + tag

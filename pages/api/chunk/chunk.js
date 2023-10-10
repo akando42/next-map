@@ -134,11 +134,11 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   const postsTopic = "public/content/posts"
 	const postsDirectory = path.join(process.cwd(), postsTopic)	
 	let fileNames = fs.readdirSync(postsDirectory)
+
 	let d = new Date()
 	let currentHour = d.getHours()
-	
   //let today = formatDate(d)
-	let today = "10-07"
+	let today = "10-17"
 
   try {
     

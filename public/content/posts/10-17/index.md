@@ -6,19 +6,14 @@ path: "/kingston-technology-and-easter-island"
 cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jpg"
 date: "10-17"
 title: "Kingston Technology and Easter Island"
-tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Spykman World','Nicholas Spykman']    
+tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','Nicholas Spykman'],
+summary: 'How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America' 
 published: true
 ---
 
-David Sun[^fn1] and John Tu, two Kingston Technology founders consistently rank as richest Asian Americans in tech. 
+David Sun[^fn1] and John Tu, two Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 119 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of Asian American in tech and Asian household average income top all ethnicities in America above 90,000 / year[^fn2]. Why our number one can even make the top 100. 
 
-They currently take number 119 in the Forbes top 400 Highest Net Worth Americans. 
-
-Well there are a lot of Asian American in tech and Asian household average income top all ethnicities in America above 90,000 / year[^fn2]. Why our number one can even make the top 100. 
-
-Maybe White Supremacy is the invisible glass ceiling in America keeping us at the milkcow status in this country.
-
-Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
+Maybe White Supremacy is the invisible glass ceiling in America keeping us at the milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
 
  
 # Journeys of the mtDNA Haplogroup M
