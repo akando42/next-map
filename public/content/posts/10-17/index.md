@@ -6,12 +6,12 @@ path: "/kingston-technology-and-easter-island"
 cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jpg"
 date: "10-17"
 title: "Kingston Technology and Easter Island"
-tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','Nicholas Spykman'],
+tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','Nicholas Spykman']
 summary: 'How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America' 
 published: true
 ---
 
-David Sun[^fn1] and John Tu, two Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 119 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of Asian American in tech and Asian household average income top all ethnicities in America above 90,000 / year[^fn2]. Why our number one can even make the top 100. 
+#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 119 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of Asian American in tech and Asian household average income top all ethnicities in America above 90,000 / year. Why our number one can even make the top 100. 
 
 Maybe White Supremacy is the invisible glass ceiling in America keeping us at the milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
 
@@ -20,29 +20,26 @@ Maybe White Supremacy is the invisible glass ceiling in America keeping us at th
 
 ### Haplogroup M1 and The Back to Africa Journey
 
-5100 BC, during a Westward expansion, the people of Asia belonging to mtDNA Haplogroup M1 traveled back to North Africa[^fn3] through the Euroasia area and created the Ancient Egyptian empire. 
+5100 BC, during a Westward expansion, the people of Asia belonging to mtDNA Haplogroup M1 traveled back to North Africa through the Euroasia area and created the Ancient Egyptian empire. 
 
 They archirected the Egyptian pyramids of Giza and constructed them with the help of local North Africa population. 
 
-Recently discovery of 21,000 year old pyramid in Indonesia[^fn4], Southeast Asia might explain the mysterious lost civilization of MU or Atlantis as well as the Pyramid architecture in Ancient Egypt and Ancient Inca. 
+Recently discovery of 21,000 year old pyramid in Indonesia Southeast Asia might explain the mysterious lost civilization of MU or Atlantis as well as the Pyramid architecture in Ancient Egypt and Ancient Inca. 
 
-Modern DNA test has confirmed results that Khnum-nakht and Nekht-ankh, the two famous Egyptian pharaohs in the Manchester Museum at the University of Manchester, UK belong to the the M1A1 mtDNA haplogroup[^fn5].
+Modern DNA test has confirmed results that Khnum-nakht and Nekht-ankh, the two famous Egyptian pharaohs in the Manchester Museum at the University of Manchester, UK belong to the the M1A1 mtDNA haplogroup.
 
-It is also deeply intriguing that Adolf Hitler’s DNA result [^fn6] showing that he has a Jewish & North Africa ancestor. 
+It is also deeply intriguing that Adolf Hitler’s DNA result showing that he has a Jewish & North Africa ancestor. 
 
 Before World War II, Hitler and the Nazi Germany’s extensive researchs of the Pyramids of Giza may explain the anti-Sematic policies of Hitler and his hatred toward Jewish people as well as the Swatika’s Indian Jainism religion origin. 
 
 Maybe after all the genocides by Western collonial powers in South America, Africa, India and Southeast Asia, karma just return right back. Hilter and Nazi rise indirectly led to the collapse of collonialism and started the independence movement across all formal collonies. 
 
 Maybe when it got really dark, the sunrise is just a few hours away. 
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2193747074259488%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ### Long Sailing Journey to Easter Island of Haplogroup M7
 
 M7 MtDNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. 
 
-Modern day mtDna M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philiphine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean[^fn7].
+Modern day mtDna M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philiphine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean.
 
 Maybe our ancestors, the Aquatic ape descendants, were very adventurous people, great at swimming, fishing, sailing and want to keep sailing East, where the Sun raise, to have the chance to meet the Golden Sun god. So they started their journey from Mandalay, Myanmar where Rambo 4 was filmed to Easter Island, Chile.  
 
@@ -58,11 +55,9 @@ They also built massive stone figures resembling themselves as a way to mark the
 
 The building of settlements as well as reconstructions of ocean-faring ships probably took up to 1-2 generations and led to the total deforestation of Easter Island.
 
-These sailors architectured[^fn8] a system of canals around the island to transport large carved stone figures floating on wooden platform around the island. The finishing touch of these Moai was probably done underwater for the ease of rotating and moving the stone block around.
+These sailors architectured a system of canals around the island to transport large carved stone figures floating on wooden platform around the island. The finishing touch of these Moai was probably done underwater for the ease of rotating and moving the stone block around.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F440578823244826%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-These secret underwater construction and transportation method was probably used to build the Egyptian pyramids as well as Inca pyramids and maybe why Germany U-Boats was so good[^fn9].
+These secret underwater construction and transportation method was probably used to build the Egyptian pyramids as well as Inca pyramids and maybe why Germany U-Boats was so good.
 
 However, 7 of the monks with their sense of adventure and divine absolute conviction chose to risk it all sailing to the end of the world instead of making a long journey home with everyone. They finally made it to South America. 
 
@@ -168,26 +163,6 @@ The future ocean will be dominated by supersonic attack submarines, submarine dr
 During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and Germany was so close at capturing the second triangle Berlin, Istanbul and Moscow but fail.During the Cold War, Soviet Union have control over East Berlin and Moscow but block by American missile base in Turkey.
 
 Maybe finally in 21 century, two golden triangles could finally be unlocked either through military or diplomacy and economic alliances to finally return EuroAsia to its rightful place as the driver of world history.
-
-
-### References
-[^fn1]:[John Tu - President & CEO of Kingston Technology](https://www.forbes.com/profile/john-tu/#edc0e7eae494)
-
-[^fn2]:[Asian-American Households Continue to Enjoy Above-Average Incomes](https://www.marketingcharts.com/demographics-and-audiences/household-income-107552)
-
-[^fn3]:[Mitochondrial lineage M1 traces an early human backflow to Africa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1945034/)
-
-[^fn4]:[Long Hidden Pyramid Found in Indonesia](https://www.scientificamerican.com/article/long-hidden-pyramid-found-in-indonesia-was-likely-an-ancient-temple/)
-
-[^fn5]:[4000 Year Old Ancient Egyptian Mummy Mystery Solved](https://www.heritagedaily.com/2018/01/4000-year-old-ancient-egyptian-mummy-mystery-solved/118168)
-
-[^fn6]:[Adolf Hitler had Jewish and African ancestors](https://www.history.com/news/study-suggests-adolf-hitler-had-jewish-and-african-ancestors)
-
-[^fn7]:[MtDNA Haplogroups M7 and B in Southwestern Han Chinese at Risk for Acute Mountain Sickness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3109103/)
-
-[^fn8]:[Building the Pyramids of Egypt ](https://www.youtube.com/watch?v=C1y8N0ePuF8&t=737s)
-
-[^fn9]:[The Amazing Connections Between the Inca and Egyptian Cultures](http://humansarefree.com/2013/12/the-amazing-connections-between-inaca.html)
 
 
 
