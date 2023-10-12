@@ -15,16 +15,16 @@ published: true
 
 Maybe White Supremacy is the invisible glass ceiling in America keeping us at the milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
  
-## Journeys of the mtDNA Haplogroup M
+## Journeys of the Y-DNA Haplogroup M
 ### Haplogroup M1 and The Back to Africa Journey
 
-5100 BC, during a Westward expansion, the people of Asia belonging to mtDNA Haplogroup M1 traveled back to North Africa through the Euroasia area and created the Ancient Egyptian empire. 
+5100 BC, during a Westward expansion, the people of Asia belonging to Y-DNA Haplogroup M1 traveled back to North Africa through the Euroasia area and created the Ancient Egyptian empire. 
 
 They architected the Egyptian pyramids of Giza and constructed them with the help of local North Africa population. 
 
 The Recent discovery of a 21,000 year old pyramid in Indonesia Southeast Asia might explain the mysterious lost civilization of MU or Atlantis as well as the Pyramid architecture in Ancient Egypt and Ancient Inca. 
 
-Modern DNA tests have confirmed results that Khnum-nakht and Nekht-ankh, the two famous Egyptian pharaohs in the Manchester Museum at the University of Manchester, UK belong to the M1A1 mtDNA haplogroup.
+Modern DNA tests have confirmed results that Khnum-nakht and Nekht-ankh, the two famous Egyptian pharaohs in the Manchester Museum at the University of Manchester, UK belong to the M1A1 Y-DNA haplogroup.
 
 It is also deeply intriguing that Adolf Hitler’s DNA results show that he has a Jewish & North Africa ancestor. 
 
@@ -35,9 +35,9 @@ Maybe after all the genocides by Western colonial powers in South America, Afric
 Maybe when it gets really dark, the sunrise is just a few hours away. 
 
 ### Long Sailing Journey to Easter Island of Haplogroup M7
-M7 MtDNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. 
+M7 Y-DNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. 
 
-Modern day mtDna M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philippine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean.
+Modern day Y-DNA M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philippine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean.
 
 Maybe our ancestors, the Aquatic ape descendants, were very adventurous people, great at swimming, fishing, sailing and want to keep sailing East, where the Sun rises, to have the chance to meet the Golden Sun god. So they started their journey from Mandalay, Myanmar where Rambo 4 was filmed to Easter Island, Chile.  
 
