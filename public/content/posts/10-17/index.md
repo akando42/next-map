@@ -7,32 +7,51 @@ cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jp
 date: "10-17"
 title: "Kingston Technology and Easter Island"
 tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','Nicholas Spykman']
-summary: 'How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America' 
+summary: "How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America"
 published: true
 ---
+#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 184 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ?
 
-#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 119 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of Asian American in tech and Asian household average income tops all ethnicities in America above 90,000 / year. Why our number one can even make the top 100. 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-Maybe White Supremacy is the invisible glass ceiling in America keeping us at the milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in Asia than in America in the 21st century.
- 
+Maybe #WhiteSupremacy is the invisible glass ceiling in #America keeping us at the #milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in #Asia than in #America for the rest of the #21stCentury. 
+
+![Faces of Asian in Tech](https://storage.googleapis.com/spykman-world/faces_of_asian_in_tec.png)
+
 ## Journeys of the Y-DNA Haplogroup M
 ### Haplogroup M1 and The Back to Africa Journey
 
-5100 BC, during a Westward expansion, the people of Asia belonging to Y-DNA Haplogroup M1 traveled back to North Africa through the Euroasia area and created the Ancient Egyptian empire. 
+5100 BC, during a Westward expansion, the people of Asia belonging to Y-DNA Haplogroup M1 traveled back to North Africa from Kazahstan through the Iranian mountain ranges and created the Ancient Egyptian empire. 
+
+![From Lake Baika to Egypt and Vietnam](https://storage.googleapis.com/spykman-world/m_halogroup.png)
 
 They architected the Egyptian pyramids of Giza and constructed them with the help of local North Africa population. 
 
-The Recent discovery of a 21,000 year old pyramid in Indonesia Southeast Asia might explain the mysterious lost civilization of MU or Atlantis as well as the Pyramid architecture in Ancient Egypt and Ancient Inca. 
+![Egyptian Pyramid of Giza](https://storage.googleapis.com/spykman-world/egyptian_pyramid_of_GIZA.png)
+
+The recent discovery of a 21,000 year old pyramid in Indonesia Southeast Asia might explain the mysterious lost civilization of MU or Atlantis as well as the Pyramid architecture in Ancient Egypt and Ancient Inca. 
+
+![Indonesia Pyramid](https://storage.googleapis.com/spykman-world/gunung-padang-pyramid-indonesia.png)
 
 Modern DNA tests have confirmed results that Khnum-nakht and Nekht-ankh, the two famous Egyptian pharaohs in the Manchester Museum at the University of Manchester, UK belong to the M1A1 Y-DNA haplogroup.
 
+![Close DNA between Egyptian pharaoh and mongol](https://storage.googleapis.com/spykman-world/machester-museum-uk-mummies-of-two-pharoh.png)
+
 It is also deeply intriguing that Adolf Hitler’s DNA results show that he has a Jewish & North Africa ancestor. 
+
+![Hitler speaking venue](https://storage.googleapis.com/spykman-world/hilter-speaking-venue.png)
 
 Before World War II, Hitler and the Nazi Germany’s extensive research of the Pyramids of Giza may explain the anti-Sematic policies of Hitler and his hatred toward Jewish people as well as the Swastika's Indian Jainism religion origin. 
 
+![Indian Swatika](https://storage.googleapis.com/spykman-world/indian-swatika.png)
+
 Maybe after all the genocides by Western colonial powers in South America, Africa, India and Southeast Asia, karma just returned right back. Hilter and Nazi rise indirectly led to the collapse of colonialism and started the independence movement across all former colonies. 
 
+![Colonial Empires Pre World War](https://storage.googleapis.com/spykman-world/pre-world-war-colonial-map.png)
+
 Maybe when it gets really dark, the sunrise is just a few hours away. 
+
+![Pre Dawn](https://storage.googleapis.com/spykman-world/pre-dawn-horizon.png)
 
 ### Long Sailing Journey to Easter Island of Haplogroup M7
 M7 Y-DNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. 
