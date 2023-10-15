@@ -141,15 +141,18 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 	let today = "10-17"
 
   try {
-    
   	if (fileNames.includes(today)){
   		let tweets = getTweets(postsDirectory, today)
+
+      //console.log(tweets)
   		let tweetCounts = tweets.length
+
   		let chunked = chunkIntoN(tweets, 24)
-  		let tobeTweets = chunked[currentHour]
-     
+      console.log(chunked)
+
+  		let tobeTweets = chunked[currentHour]   
   		for (const content of tobeTweets){
-  			await sentTweet(content)
+  			// await sentTweet(content)
         console.info("START sending Tweet")
   			setTimeout(() => {
   		    console.info("Resting for 0.1 second.\n");
@@ -159,11 +162,9 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
   		console.info("there is no post today")
   	}
   } catch(e){
-
     let message = "#NETLIFY chunk function ERROR: "+e.message
     await twitterClient.v2.tweet(message)
     console.log(message)
-    
     return {
       statusCode: 400,
       message: e

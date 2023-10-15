@@ -32,13 +32,10 @@ yarn dev
 [X] Add hash tag to all text.
 [X] Upload Image from remote URL to tweet.  
 
-
-
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.
 [ ] Look up major cities that is currently at NOON.
 [ ] Tag the city and top twitter users of the city.
-
 
 ## References
 - [Documentations](https://nextjs.org/docs)

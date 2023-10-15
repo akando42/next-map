@@ -6,7 +6,7 @@ path: "/kingston-technology-and-easter-island"
 cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jpg"
 date: "10-17"
 title: "Kingston Technology and Easter Island"
-tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','Nicholas Spykman']
+tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','GeoGenetics']
 summary: "How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America"
 published: true
 ---
@@ -54,61 +54,93 @@ Maybe when it gets really dark, the sunrise is just a few hours away.
 ![Pre Dawn](https://storage.googleapis.com/spykman-world/pre-dawn-horizon.png)
 
 ### Long Sailing Journey to Easter Island of Haplogroup M7
-M7 Y-DNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. 
 
-Modern day Y-DNA M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philippine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean.
+M7 Y-DNA Haplogroup originated from Southeast Asia and spread North to South Siberia and East to Easter Island and South America. Modern day Y-DNA M7 individuals can be found in high concentration in Myanmar, Thailand, Vietnam, Japan, Korea, Taiwan, Philippine, Altan people near Altai mountain and Polynesians population in the Pacific Ocean.
+
+![UNIX Ordered List of ASIA](https://storage.googleapis.com/spykman-world/unix_lo_of_asia.png)
 
 Maybe our ancestors, the Aquatic ape descendants, were very adventurous people, great at swimming, fishing, sailing and want to keep sailing East, where the Sun rises, to have the chance to meet the Golden Sun god. So they started their journey from Mandalay, Myanmar where Rambo 4 was filmed to Easter Island, Chile.  
 
+![Easter Island](https://storage.googleapis.com/spykman-world/easter_island_rapa_nui.png)
+
 These sailors are aquatic warriors and buddhist monks with their long and big monkey ears and shaved head. They started their journey to the East on big wooden boats. The story of the lost MU civilization from their ancestors is another reason to start the risky but uplifting journey.  
 
-Keep following the island chains of Indonesia through Papua New Guinea, Solomon Islands, Fijis, American Samoa, French Polynesia, Pitcairn Islands and finally Easter Islands.
+![Wooden Sailboat to Chile](https://storage.googleapis.com/spykman-world/moana.png)
 
-When they made it to Easter Island, they ran out of all food, supplies as well as crew members. Most of the ships sank on the journeys. 
+Keep following the island chains of Indonesia through Papua New Guinea, Solomon Islands, Fijis, American Samoa, French Polynesia, Pitcairn Islands and finally Easter Islands. When they made it to Easter Island, they ran out of all food, supplies as well as crew members. Most of the ships sank on the journeys. 
+
+![New Zealand to Easter Island](https://storage.googleapis.com/spykman-world/new_zealand_to_easter_island.gif)
 
 They sent out scout ships to East, North, South and just found blue water and eternal sky. So they settled on Easter Island. They charmed the local population of Easter Island into helping with the reconstruction of huge wooden ships for their journey home. 
 
+![The Moai Anchors For Large Ships](https://storage.googleapis.com/spykman-world/moai_anchors.png)
+
 They also built massive stone figures resembling themselves as a way to mark their spots in history and tell a thousand year story about their journey to meet the Golden Sun god. These stone human figures, Moai, were used as anchors to ropes that secured their newly built ships as well as gifts to the sea gods for a safe journey ahead. 
+
+![Easter Island](https://storage.googleapis.com/spykman-world/easter_island.png)
 
 The building of settlements as well as reconstructions of ocean-faring ships probably took up to 1-2 generations and led to the total deforestation of Easter Island.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 These sailors architectured a system of canals around the island to transport large carved stone figures floating on wooden platforms around the island. The finishing touch of these Moai was probably done underwater for the ease of rotating and moving the stone block around.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 These secret underwater construction and transportation methods were probably used to build the Egyptian pyramids as well as Inca pyramids and maybe why Germany U-Boats were so good.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 However, 7 of the monks with their sense of adventure and divine absolute conviction chose to risk it all sailing to the end of the world instead of making a long journey home with everyone. They finally made it to South America. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 In the Inca Myths,  four Ayar aka Asia brothers with divine powers came out from the caves inside of a hill in the area of Pacaritambo.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 Unfortunately, the mummies and bodily remains of the Inca emperors, worshiped as gods, were burnt and buried in unknown locations due to religious and political persecution by the Christian conquistadors and inquisitors, so there exists no direct material for DNA analysis
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 However, DNA data analysis of modern South Americans found a rare present Haplogroup C-B477 which is popular among Indigenous Australians, Papuan people, Melanesian people and Polynesian people. C-B477 was probably more widely found before the arrival of Spanish conquistadors and their Influenza diseases. 
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 ## Rigel and Betelgeuse, Good and Evil, Yin and Yang
 
-Ten-gr-ism was the prevailing religion of the Turks, Mongols, Hungarians, Bulgars and Huns and widely advocated among intellectual circles.
- 
-The Mongols pray to the “Munkh Khukh Tengri” or Eternal Blue Sky. How did they know the sky is eternal more than 700 years ago ?
+Ten-gr-ism was the prevailing religion of the Turks, Mongols, Hungarians, Bulgars and Huns and widely advocated among intellectual circles. The Mongols pray to the “Munkh Khukh Tengri” or Eternal Blue Sky. How did they know the sky is eternal more than 700 years ago ?
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
 Religion should be promoted as a way of life to inspire the best qualities among men and women, not as a super powerful almighty figure that all common people should be afraid of. 
- 
-When dealing with the hardest moment in life, we need religion to help to take foolish steps to achieve the impossible. Like Steve Job once said: 
- 
-You can’t connect the dots looking forward, you can only connect them looking backwards.
 
-So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever.
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
-Because believing that the dots will connect down the road will give you the confidence to follow
-your heart, even when it leads you off the well worn path. 
+When dealing with the hardest moment in life, we need religion to help to take foolish steps to achieve the impossible. Like Steve Job once said: You can’t connect the dots looking forward, you can only connect them looking backwards.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
+So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well worn path. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
-Latin will not be the most common alphabet without foolish senses of adventure and divine internal conviction by the Christian missionaries. The European sailors probably did not conquer the American continent, subdued the Vikings and their pageant god as well as colonize India and Asia without their Christian belief system. 
+Latin will not be the most common alphabet without foolish senses of adventure and divine internal conviction by the Christian missionaries. The European sailors probably did not conquer the American continent, subdued the Vikings and their pageant god as well as colonize India and Asia without their Christian belief system.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png) 
  
 Mongol probably won't ride their horses tirelessly for more than three hundred years in all four corners of the earth to reach the end of the world where the eternal blue sky meets the horizon. Maybe the Mongol figured that out so they picked “the eternal sky” to inspire Mongol sons and daughters of the Eternal Blue Sky to go explore and conquer all four corners of the earth.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
 And maybe the Hun and Mongol horses left so much trauma in the West that the Four Horsemen of Apocalypse got into the Bible as an early sign of bad luck.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
 Orion’s Constellation inspired the Egyptian to build their three massive pyramids, the Chinese to create the Yin and Yang’s sign and Constantine The Great to create his unique Christian symbol
 from his vision before the battle of Milvian Bridge. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
  
 Or maybe the stars actually affect our future and being at the right time at the right place can mean the star's radiation will trigger a change in our DNA that tips the balance of power in global scale. 
 
@@ -116,67 +148,98 @@ Or maybe the stars actually affect our future and being at the right time at the
 
 ### England and Their Last Attempt at Greatness
 
-England was number one economy in the world before World War II with an extensive network of colonies like the British once proclaimed “The sun never sets on the British Empire”.
+England was number one economy in the world before World War II with an extensive network of colonies like the British once proclaimed “The sun never sets on the British Empire”. After World War II, England was once again a tiny island and in decline. 
 
-After World War II, England was once again a tiny island and in decline. 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 By 2016, Europe is in turmoil and England's only advantage left in the global economy is the popularity of its language and its close alliance with the United States.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 Like during WWII, England hardliner brokered an alliance with the United States hardliner to place Donald meaning Ruler of the World in Scottish English as president of the United States and blames it on Russia - a typical MI6 Fall Flag operation, preparing American public as well as England for major war with the rising China and other East Asian nations.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 Samuel Huntingon describes American identity as not “a Nation of Immigrants” but “a Nation of British settlers” and these first British settlers or the 13 colonies create the American Creed as embodying the “principles of liberty, equality, individualism, representative government and private property” for White people.
 
-Well he also believes America is a country of White British Protestant Christian and concerned about the Latino Immigrants, their Spanish language and their Roman Christian Catholics would divide America in half as a society.
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-Samuel Huntington believes Latino immigrants need to learn English and convert to Protestant Christian.  
+Well he also believes America is a country of White British Protestant Christian and concerned about the Latino Immigrants, their Spanish language and their Roman Christian Catholics would divide America in half as a society. Samuel Huntington believes Latino immigrants need to learn English and convert to Protestant Christian.  
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 Samuel Huntington predicted a major “Clash of Civilizations” between the United States and Islam since both religions are:
+missionary religions that seeking to convert others, believing that their god is only the correct one and placing their entire human existence on their Christian values and beliefs.
 
-- Missionary religions, seeking to convert others.
-- Universal, all or nothing. Believe their god is only the correct one. 
-- Teleological ⇒ Placing their entire human existence on their Christian values and beliefs.
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-Whether it is self-fulfilled prophecy or good prediction, it did happen with 9/11, Afghanistan, Iraq, Libya and then the Syrian war. 
+Whether it is self-fulfilled prophecy or good prediction, it did happen with 9/11, Afghanistan, Iraq, Libya and then the Syrian war. In Clash of Civilization, he also predicted the rise of China and their attempt to reassert their hegemony in East Asia and the Western Pacifics. If his prediction is true again this time then Asia will become the new Middle East in the next decade.
 
-In Clash of Civilization, he also predicted the rise of China and their attempt to reassert their hegemony in East Asia and the Western Pacifics. If his prediction is true again this time then Asia will become the new Middle East in the next decade.
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 And China and Southeast Asia nations would band together like the former Warsaw pact to warn off British and American involvement or it could become the new Middle East and China would get broken up like Yugoslovakia and re-experienced its century of humiliation. 
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 ### Russia and The New NATO Plus
 
-During Bill Clinton’s visit to Moscow in 2000, Vladimir Putin discussed the possibility of
-Russia joined NATO, to which Clinton responded that he did not mind. 
+During Bill Clinton’s visit to Moscow in 2000, Vladimir Putin discussed the possibility of Russia joined NATO, to which Clinton responded that he did not mind. With the recent British withdrawal from the EU and American reducing financial support for NATO countries, maybe it is the right time to discuss potential NATO membership again with Russia. 
 
-With the recent British withdrawal from the EU and American reducing financial support for NATO countries, maybe it is the right time to discuss potential NATO membership again with Russia. 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-Russia NATO membership means EU countries actually can reduce military spending
-since the Russia threat now is off the table. 
+Russia NATO membership means EU countries actually can reduce military spending since the Russia threat now is off the table. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 If NATO membership is not an option, Russia can always try to get support from Norway, Sweden, Finland and Turkey to form a military alliance called the Scorpion since Scandinavian countries are generally neutral and probably tired of American financial recklessness and total dominance of world affairs. Deep down inside, Scandinavian nations and Russia are used to be all part of the Viking family anyway and it is time for a Family Union. 
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 Norway constitution is the oldest standing constitution in the world and could possibly be the best one. Scandinavian nations are Socialists so they could be more accepting of Russia’s past Bolshevik revolution records. Scandinavian countries and Russia supply energy to the rest of the EU, so it makes sense that they have the big say at the table. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 ### Southeast Asia and The End of Aircraft Carrier Age
 
-Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare.
+Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 The Mongol and British Royal Navy was so potent because of their unfair logistics advantage or Warren Buffet's term, an economic moat. 
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 The Mongol can live off their conquered land or even live off their horse with their milk and salts while the British Blue Water Royal Navy can conduct long-term blockades and sieges from their ships. 
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 A nuclear aircraft carrier in theory can run indefinitely for years. However, how useful is an empty aircraft carrier with no ammunition, jet fuel or food and supplies for their sailors.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 With tremendous advantage since the Cold War of missile technology, every advanced nation now possesses high-resolution low orbit satellites and long-range missiles as well as anti-ship missiles that can be launched from land platforms as well as destroyers and battle cruisers.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 With an increasing American debt level with no ending in sight as well as a bridge-burner president at the top, America most likely will first lose their bases in Thailand, Philipine, Korea and Japan and then in Europe.
 
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
 America needs its global network of military bases to provide an essential logistics advantage in case of major war. A carrier battle group with no foreign bases will just be empty ships that run forever like the Flying Dutchman.
 
-The future ocean will be dominated by supersonic attack submarines, submarine drone carriers, low flying reconnaissance and attack satellites.
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and Germany was so close at capturing the second triangle Berlin, Istanbul and Moscow but fail.During the Cold War, the Soviet Union had control over East Berlin and Moscow but was blocked by an American missile base in Turkey.
+The future ocean will be dominated by autonomous submarines and surface ships, submarine drone carriers, low flying reconnaissance and attack satelites.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+
+During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and Germany was so close at capturing the second triangle Berlin, Istanbul and Moscow but fail. During the Cold War, the Soviet Union had control over East Berlin and Moscow but was blocked by an American missile base in Turkey.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 Maybe finally in the 21st century, two golden triangles could finally be unlocked either through military or diplomacy and economic alliances to finally return EuroAsia to its rightful place as the driver of world history.
+
+![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 
 
