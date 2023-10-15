@@ -231,11 +231,11 @@ America needs its global network of military bases to provide an essential logis
 
 The future ocean will be dominated by autonomous submarines and surface ships, submarine drone carriers, low flying reconnaissance and attack satelites.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Supercavitating_Torpedo](https://storage.googleapis.com/spykman-world/supercavitating_torpedo.gif)
 
 During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and Germany was so close at capturing the second triangle Berlin, Istanbul and Moscow but fail. During the Cold War, the Soviet Union had control over East Berlin and Moscow but was blocked by an American missile base in Turkey.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Supercavitating_Torpedo](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 Maybe finally in the 21st century, two golden triangles could finally be unlocked either through military or diplomacy and economic alliances to finally return EuroAsia to its rightful place as the driver of world history.
 
