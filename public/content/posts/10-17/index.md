@@ -89,16 +89,15 @@ These secret underwater construction and transportation methods were probably us
 
 However, the monks and sailors with their sense of adventure and divine absolute conviction chose to risk it all sailing to the end of the world instead of making a long journey home with everyone. They finally made it to South America. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Southern Trade Wind](https://storage.googleapis.com/spykman-world/souther_trade_wind.gif)
 
-In the Inca Myths,  four Ayar aka Asia brothers with divine powers came out from the caves inside of a hill in the area of Pacaritambo.
-Unfortunately, the mummies and bodily remains of the Inca emperors, worshiped as gods, were burnt and buried in unknown locations due to religious and political persecution by the Christian conquistadors and inquisitors, so there exists no direct material for DNA analysis
+In the Inca Myths,  four Ayar aka Asia brothers with divine powers came out from the caves inside of a hill in the area of Pacaritambo. Unfortunately, the mummies and bodily remains of the Inca emperors, worshiped as gods, were burnt and buried in unknown locations due to religious and political persecution by the Christian conquistadors and inquisitors, so there exists no direct material for DNA analysis
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Machu Pichu Inca Myths](https://storage.googleapis.com/spykman-world/peru_visa_free_next.png)
 
 However, DNA data analysis of modern South Americans found a rare present Haplogroup C-B477 which is popular among Indigenous Australians, Papuan people, Melanesian people and Polynesian people. C-B477 was probably more widely found before the arrival of Spanish conquistadors and their Influenza diseases. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Faces of Santiago](https://storage.googleapis.com/spykman-world/faces_of_santiago.png)
 
 ## Rigel and Betelgeuse, Good and Evil, Yin and Yang
 
