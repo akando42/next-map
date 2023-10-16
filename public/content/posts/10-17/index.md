@@ -79,26 +79,19 @@ They also built massive stone figures resembling themselves as a way to mark the
 
 ![Easter Island](https://storage.googleapis.com/spykman-world/easter_island.png)
 
-The building of settlements as well as reconstructions of ocean-faring ships probably took up to 1-2 generations and led to the total deforestation of Easter Island.
+The building of settlements as well as reconstructions of ocean-faring ships probably took up to 1-2 generations and led to the total deforestation of Easter Island. These sailors architectured a system of canals around the island to transport large carved stone figures floating on wooden platforms around the island. The finishing touch of these Moai was probably done underwater for the ease of rotating and moving the stone block around.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
-These sailors architectured a system of canals around the island to transport large carved stone figures floating on wooden platforms around the island. The finishing touch of these Moai was probably done underwater for the ease of rotating and moving the stone block around.
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Lotus Propagating Across Asia from Egypt to Japan with Human Travel](https://storage.googleapis.com/spykman-world/egyptian-vietnamese-japanese-ancient-lotus.png)
 
 These secret underwater construction and transportation methods were probably used to build the Egyptian pyramids as well as Inca pyramids and maybe why Germany U-Boats were so good.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Floating Stone Block Construction and Transportation](https://storage.googleapis.com/spykman-world/floating_stone_block.png)
 
-However, 7 of the monks with their sense of adventure and divine absolute conviction chose to risk it all sailing to the end of the world instead of making a long journey home with everyone. They finally made it to South America. 
+However, the monks and sailors with their sense of adventure and divine absolute conviction chose to risk it all sailing to the end of the world instead of making a long journey home with everyone. They finally made it to South America. 
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 In the Inca Myths,  four Ayar aka Asia brothers with divine powers came out from the caves inside of a hill in the area of Pacaritambo.
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
 Unfortunately, the mummies and bodily remains of the Inca emperors, worshiped as gods, were burnt and buried in unknown locations due to religious and political persecution by the Christian conquistadors and inquisitors, so there exists no direct material for DNA analysis
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
