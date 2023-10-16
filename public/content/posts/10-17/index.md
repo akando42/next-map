@@ -103,48 +103,37 @@ However, DNA data analysis of modern South Americans found a rare present Haplog
 
 Ten-gr-ism was the prevailing religion of the Turks, Mongols, Hungarians, Bulgars and Huns and widely advocated among intellectual circles. The Mongols pray to the “Munkh Khukh Tengri” or Eternal Blue Sky. How did they know the sky is eternal more than 700 years ago ?
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Mongolia Eternal Blue Sky](https://storage.googleapis.com/spykman-world/mongolia-blue-sky.png)
  
-Religion should be promoted as a way of life to inspire the best qualities among men and women, not as a super powerful almighty figure that all common people should be afraid of. 
+Religion should be promoted as a way of life to inspire the best qualities among men and women, not as a super powerful almighty figure that all common people should be afraid of. When dealing with the hardest moment in life, we need religion to help to take foolish steps to achieve the impossible. Like Steve Job once said: You can’t connect the dots looking forward, you can only connect them looking backwards. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
- 
-When dealing with the hardest moment in life, we need religion to help to take foolish steps to achieve the impossible. Like Steve Job once said: You can’t connect the dots looking forward, you can only connect them looking backwards.
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Connecting the Dots to make Meaning](https://storage.googleapis.com/spykman-world/connecting_the_dots_to_make_meaning.png)
 
 So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well worn path. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Steve Jobs Stanford Commencement Address](https://storage.googleapis.com/spykman-world/steve_job_stanford_commencement.png)
  
 Latin will not be the most common alphabet without foolish senses of adventure and divine internal conviction by the Christian missionaries. The European sailors probably did not conquer the American continent, subdued the Vikings and their pageant god as well as colonize India and Asia without their Christian belief system.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png) 
+![The LATIN Alphabet](https://storage.googleapis.com/spykman-world/latin-alphabet-users.png) 
  
-Mongol probably won't ride their horses tirelessly for more than three hundred years in all four corners of the earth to reach the end of the world where the eternal blue sky meets the horizon. Maybe the Mongol figured that out so they picked “the eternal sky” to inspire Mongol sons and daughters of the Eternal Blue Sky to go explore and conquer all four corners of the earth.
+Mongol probably won't ride their horses tirelessly for more than three hundred years in all four corners of the earth to reach the end of the world where the eternal blue sky meets the horizon. Maybe the Mongol figured that out so they picked “the eternal sky” to inspire Mongol sons and daughters of the Eternal Blue Sky to go explore and conquer all four corners of the earth. The Mongol was only stopped by the Tropical storms and viruses of Southeast Asia.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Dark Storm Cloud](https://storage.googleapis.com/spykman-world/dark-storm-cloud-of-tropical-climate.png)
  
 And maybe the Hun and Mongol horses left so much trauma in the West that the Four Horsemen of Apocalypse got into the Bible as an early sign of bad luck.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Four Horsemen of the Apocalypse](https://storage.googleapis.com/spykman-world/four-horsemen-of-the-apocalyse.png)
  
-Orion’s Constellation inspired the Egyptian to build their three massive pyramids, the Chinese to create the Yin and Yang’s sign and Constantine The Great to create his unique Christian symbol
-from his vision before the battle of Milvian Bridge. 
+Orion’s Constellation inspired the Egyptian to build their three massive pyramids, the Chinese to create the Yin and Yang’s sign and Constantine The Great to create his unique Christian symbol from his vision before the battle of Milvian Bridge. Or maybe the stars actually affect our future and being at the right time at the right place can mean the star's radiation will trigger a change in our DNA that tips the balance of power in global scale. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
- 
-Or maybe the stars actually affect our future and being at the right time at the right place can mean the star's radiation will trigger a change in our DNA that tips the balance of power in global scale. 
+![Orion Belt In Texas, Florida and Hanoi Sky](https://storage.googleapis.com/spykman-world/orion-belt-constants-in-the-sky.png)
 
 ## The 21 Century, Clash of Civilizations
 
 ### England and Their Last Attempt at Greatness
 
-England was number one economy in the world before World War II with an extensive network of colonies like the British once proclaimed “The sun never sets on the British Empire”. After World War II, England was once again a tiny island and in decline. 
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
-By 2016, Europe is in turmoil and England's only advantage left in the global economy is the popularity of its language and its close alliance with the United States.
+England was number one economy in the world before World War II with an extensive network of colonies like the British once proclaimed “The sun never sets on the British Empire”. After World War II, England was once again a tiny island and in decline. By 2016, Europe is in turmoil and England's only advantage left in the global economy is the popularity of its language and its close alliance with the United States.
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
@@ -193,11 +182,7 @@ Norway constitution is the oldest standing constitution in the world and could p
 
 ### Southeast Asia and The End of Aircraft Carrier Age
 
-Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare. 
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
-The Mongol and British Royal Navy was so potent because of their unfair logistics advantage or Warren Buffet's term, an economic moat. 
+Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare. The Mongol and British Royal Navy was so potent because of their unfair logistics advantage or Warren Buffet's term, an economic moat. 
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
