@@ -164,47 +164,39 @@ And China and Southeast Asia nations would band together like the former Warsaw 
 
 ### Russia and The New NATO Plus
 
-During Bill Clinton’s visit to Moscow in 2000, Vladimir Putin discussed the possibility of Russia joined NATO, to which Clinton responded that he did not mind. With the recent British withdrawal from the EU and American reducing financial support for NATO countries, maybe it is the right time to discuss potential NATO membership again with Russia. 
+During Bill Clinton’s visit to Moscow in 2000, Vladimir Putin discussed the possibility of Russia joined NATO, to which Clinton responded that he did not mind. With the recent British withdrawal from the EU and American reducing financial support for NATO countries, maybe it is the right time to discuss potential NATO membership again with Russia. Russia NATO membership means EU countries actually can reduce military spending since the Russia threat now is off the table. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
-Russia NATO membership means EU countries actually can reduce military spending since the Russia threat now is off the table. 
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Bil Clinton and Putin Handshakes](https://storage.googleapis.com/spykman-world/bill_clinton_vladimir_putin.png)
 
 If NATO membership is not an option, Russia can always try to get support from Norway, Sweden, Finland and Turkey to form a military alliance called the Scorpion since Scandinavian countries are generally neutral and probably tired of American financial recklessness and total dominance of world affairs. Deep down inside, Scandinavian nations and Russia are used to be all part of the Viking family anyway and it is time for a Family Union. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Nordic Genetics Influence in NATO and RUSSIA](https://storage.googleapis.com/spykman-world/NOR_vs_KAZ.png)
 
 Norway constitution is the oldest standing constitution in the world and could possibly be the best one. Scandinavian nations are Socialists so they could be more accepting of Russia’s past Bolshevik revolution records. Scandinavian countries and Russia supply energy to the rest of the EU, so it makes sense that they have the big say at the table. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Norway and Russia Oil Pipelines](https://storage.googleapis.com/spykman-world/european-oil-pipelines.png)
 
 ### Southeast Asia and The End of Aircraft Carrier Age
 
-Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare. The Mongol and British Royal Navy was so potent because of their unfair logistics advantage or Warren Buffet's term, an economic moat. 
+Logistics is essential in war from the ancient time of the Roman Empire and the Mongol to the Carrier's battle of the Pacifics during WWII as well as future 21st century warfare. The Mongol and British Royal Navy was so potent because of their unfair logistics advantage or Warren Buffet's term, an economic moat. The Mongol can live off their conquered land or even live off their horse with their milk and salts. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Mongolian Mobile Supply Line](https://storage.googleapis.com/spykman-world/mongolian_mobile_supply_line.png)
 
-The Mongol can live off their conquered land or even live off their horse with their milk and salts while the British Blue Water Royal Navy can conduct long-term blockades and sieges from their ships. 
+The British and American with their Blue Water navy can conduct long-term blockades and sieges from their ships. A nuclear aircraft carrier in theory can run indefinitely for years. However, how useful is an empty aircraft carrier with no ammunition, jet fuel or food and supplies for their sailors.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
-
-A nuclear aircraft carrier in theory can run indefinitely for years. However, how useful is an empty aircraft carrier with no ammunition, jet fuel or food and supplies for their sailors.
-
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Blue Water Navy](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
 
 With tremendous advantage since the Cold War of missile technology, every advanced nation now possesses high-resolution low orbit satellites and long-range missiles as well as anti-ship missiles that can be launched from land platforms as well as destroyers and battle cruisers.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Anti-Ship Missiles](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
 With an increasing American debt level with no ending in sight as well as a bridge-burner president at the top, America most likely will first lose their bases in Thailand, Philipine, Korea and Japan and then in Europe.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![US East Asia Forward Bases](https://storage.googleapis.com/spykman-world/us_east_asia_forward_bases.png)
 
 America needs its global network of military bases to provide an essential logistics advantage in case of major war. A carrier battle group with no foreign bases will just be empty ships that run forever like the Flying Dutchman.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Singapore Changi Naval Port](https://storage.googleapis.com/spykman-world/singapore-changi-naval-port.png)
 
 The future ocean will be dominated by autonomous submarines and surface ships, submarine drone carriers, low flying reconnaissance and attack satelites.
 
@@ -212,11 +204,11 @@ The future ocean will be dominated by autonomous submarines and surface ships, s
 
 During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and Germany was so close at capturing the second triangle Berlin, Istanbul and Moscow but fail. During the Cold War, the Soviet Union had control over East Berlin and Moscow but was blocked by an American missile base in Turkey.
 
-![Supercavitating_Torpedo](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![South East Asia Sphere of Influences](https://storage.googleapis.com/spykman-world/southeast_asia_sphere_of_influence.png)
 
 Maybe finally in the 21st century, two golden triangles could finally be unlocked either through military or diplomacy and economic alliances to finally return EuroAsia to its rightful place as the driver of world history.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Continental Europe Sphere of Influences](https://storage.googleapis.com/spykman-world/continental_europ_sphere_of_influencial.png)
 
 
 
