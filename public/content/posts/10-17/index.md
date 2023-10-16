@@ -147,7 +147,7 @@ Samuel Huntingon describes American identity as not “a Nation of Immigrants”
 
 Well he also believes America is a country of White British Protestant Christian and concerned about the Latino Immigrants, their Spanish language and their Roman Christian Catholics would divide America in half as a society. Samuel Huntington believes Latino immigrants need to learn English and convert to Protestant Christian.  
 
-![Catholics vs Protestants](https://www.rcdea.org.uk/wp-content/uploads/2019/07/OrdinationiIveBishopAlanOutside750-750x480.jpg)
+![Catholics vs Protestants](https://storage.googleapis.com/spykman-world/catholics-vs-protestants.png)
 
 Samuel Huntington predicted a major “Clash of Civilizations” between the United States and Islam since both religions are:
 missionary religions that seeking to convert others, believing that their god is only the correct one and placing their entire human existence on their Christian values and beliefs.
