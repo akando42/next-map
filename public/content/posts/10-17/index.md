@@ -135,32 +135,32 @@ Orion’s Constellation inspired the Egyptian to build their three massive pyram
 
 England was number one economy in the world before World War II with an extensive network of colonies like the British once proclaimed “The sun never sets on the British Empire”. After World War II, England was once again a tiny island and in decline. By 2016, Europe is in turmoil and England's only advantage left in the global economy is the popularity of its language and its close alliance with the United States.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![New England to England Fiber Optics Cable](https://storage.googleapis.com/spykman-world/new-england-to-old-england-fiber-optics-cable.png)
 
 Like during WWII, England hardliner brokered an alliance with the United States hardliner to place Donald meaning Ruler of the World in Scottish English as president of the United States and blames it on Russia - a typical MI6 Fall Flag operation, preparing American public as well as England for major war with the rising China and other East Asian nations.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Loud Mouth Duck Hiding Behind The Ocean](https://storage.googleapis.com/spykman-world/loud-mouth-duck-hiding-behind-the-ocean.png)
 
 Samuel Huntingon describes American identity as not “a Nation of Immigrants” but “a Nation of British settlers” and these first British settlers or the 13 colonies create the American Creed as embodying the “principles of liberty, equality, individualism, representative government and private property” for White people.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![US English Thirteen Colonies](https://storage.googleapis.com/spykman-world/us_thirteen_colonies_and_the_west.png)
 
 Well he also believes America is a country of White British Protestant Christian and concerned about the Latino Immigrants, their Spanish language and their Roman Christian Catholics would divide America in half as a society. Samuel Huntington believes Latino immigrants need to learn English and convert to Protestant Christian.  
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Catholics vs Protestants](https://www.rcdea.org.uk/wp-content/uploads/2019/07/OrdinationiIveBishopAlanOutside750-750x480.jpg)
 
 Samuel Huntington predicted a major “Clash of Civilizations” between the United States and Islam since both religions are:
 missionary religions that seeking to convert others, believing that their god is only the correct one and placing their entire human existence on their Christian values and beliefs.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![Cruisaders vs Islamic Militants](https://storage.googleapis.com/spykman-world/holywar-cruisaders-vs-islamic-militants.png)
 
 Whether it is self-fulfilled prophecy or good prediction, it did happen with 9/11, Afghanistan, Iraq, Libya and then the Syrian war. In Clash of Civilization, he also predicted the rise of China and their attempt to reassert their hegemony in East Asia and the Western Pacifics. If his prediction is true again this time then Asia will become the new Middle East in the next decade.
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![The STD Tongues of China or American Thai](https://storage.googleapis.com/spykman-world/south_china_sea_disputes.png)
 
 And China and Southeast Asia nations would band together like the former Warsaw pact to warn off British and American involvement or it could become the new Middle East and China would get broken up like Yugoslovakia and re-experienced its century of humiliation. 
 
-![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
+![The Lotus Coalition](https://storage.googleapis.com/spykman-world/the_lotus_coalition.png)
 
 ### Russia and The New NATO Plus
 
