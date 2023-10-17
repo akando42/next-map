@@ -2,10 +2,11 @@ import {Component} from 'react'
 import Head from 'next/head'
 import { getAllPostIds, getPostData } from '../../libs/posts'
 import path from "path"
+import Styles from "../../styles/Video.module.css"
+
 
 const postsTopic = "public/content/posts"
 const postsDirectory = path.join(process.cwd(), postsTopic)
-
 const getTrunks = function(contents){
 	let trunks = contents.split(/\r?\n/);
 	let tweetText = []
@@ -13,8 +14,10 @@ const getTrunks = function(contents){
 
 	for(let trunk of trunks){
 		if (trunk == ''){
+			console.log("EMPTY", trunk)
 			continue;
 		} else if (trunk.startsWith("##")){
+			console.log("TITLE", trunk)
 			continue;
 		} else {
 			let data = {}
@@ -46,7 +49,6 @@ const getTrunks = function(contents){
 	}
 
 	console.log(tweets)
-
 	return tweets
 }
 
@@ -75,6 +77,9 @@ export default class Video extends Component {
 	constructor(props){
 		super(props)
 		this.setContent = this.setContent.bind(this)
+		this.state = {
+			thoughts: []
+		}
 	}
 
 	async setContent(){
@@ -82,6 +87,8 @@ export default class Video extends Component {
 		this.setState({
 			thoughts: thoughts 
 		})
+
+		console.log("THOUGHTS", this.state.thoughts)
 	}
 
 	componentDidMount(){
@@ -90,9 +97,33 @@ export default class Video extends Component {
 
 	render(){
 		return (
-			<div>
+			<div className={Styles.main}>
 				<Head></Head>
 				<h1> {this.props.postsData.title} </h1>
+				<div className={Styles.videoContainer}>
+					<div className={Styles.slide}>
+						{ 
+							this.state.thoughts.map((thought) => 
+								<div className={Styles.card}>
+									{ thought.image ? 
+										<div 
+											className={Styles.image}
+											style={{backgroundImage: `url(${thought.image.link})`}} 
+										>
+											<div className={Styles.idContainer}>  
+												<div className={Styles.id}>{thought.id} </div>
+											</div>
+										</div>:<div>NO Image</div>
+									}
+									<div className={Styles.text}> 
+										{thought.text.content} 
+									</div>
+								</div>
+								
+							)
+						}
+					</div>
+				</div>
 			</div>
 		)
 	}
