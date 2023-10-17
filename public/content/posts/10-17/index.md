@@ -10,11 +10,11 @@ tags: ['Kingston','Easter Island','Spykman World','GeoGenetics']
 summary: "How the #Siberian #Inuit tribes was able to sustain the colonization of #PostColumbus America but Modern Asians fail to create significant genetics footprint in Modern #America"
 published: true
 ---
-#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 184 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ?
+#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 184 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ? 
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
-Maybe #WhiteSupremacy is the invisible glass ceiling in #America keeping us at the #milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in #Asia than in #America for the rest of the #21stCentury. 
+Well maybe because Asian only wants to be employees not founders or major shareholders in a public companies. Or maybe #WhiteSupremacy is the invisible glass ceiling in #America keeping us at the #milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in #Asia than in #America for the rest of the #21stCentury. 
 
 ![Faces of Asian in Tech](https://storage.googleapis.com/spykman-world/faces_of_asian_in_tec.png)
 
