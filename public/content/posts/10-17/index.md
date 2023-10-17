@@ -7,7 +7,7 @@ cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jp
 date: "10-17"
 title: "Kingston Technology and Easter Island"
 tags: ['Kingston Technology','Easter Island','Asia','Asian American','China', 'Japan','Taiwan','Malaysia','Spykman World','GeoGenetics']
-summary: "How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires fail to create significant genetics footprint in Modern #America"
+summary: "How the #Siberian #Eskimo tribes was able to sustain the colonization of #PostColumbus America but East Asian empires and Modern Asian fail to create significant genetics footprint or social influences in Modern #America"
 published: true
 ---
 #DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 184 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ?
