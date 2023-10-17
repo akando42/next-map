@@ -59,14 +59,20 @@
 	background-repeat: no-repeat;
 	background-color: white;
 	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .text {
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.6);
 	color: white;
 	padding: 10px;
 	font-size: 21px;
-	margin: 20px 0;
+	margin: 0px 0;
+	width: 60vw;
+	height: auto;
 }
 
 .slideControl {

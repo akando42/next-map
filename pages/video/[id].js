@@ -86,7 +86,8 @@ export default class Video extends Component {
 				image: '',
 				text: '',
 				id: 0
-			}
+			},
+			activeIndex: 0
 		}
 	}
 
@@ -103,15 +104,16 @@ export default class Video extends Component {
 	}
 
 	async setActiveSlide(event){
-		let activeIndex = event.target.id;
-		//console.log("SELECTED ", this.state.thoughts[activeIndex]);
+		let targetID = event.target.id;
+		let activeIndex = targetID.split("_").pop()
+		console.log("SELECTED ", activeIndex);
 		this.setState({
 			activeThought: this.state.thoughts[activeIndex],
 			activeIndex: activeIndex
 		})
 	}
 
-	async nextSlide(event){
+	async nextSlide(){
 		if (this.state.activeIndex > this.state.totalSlides - 2){
 			let activeIndex = 0;
 			console.log("ACTIVE ", activeIndex);
@@ -120,7 +122,7 @@ export default class Video extends Component {
 				activeIndex: activeIndex
 			})
 		} else {
-			let activeIndex = this.state.activeIndex + 1;
+			let activeIndex = parseInt(this.state.activeIndex) + 1;
 			console.log("ACTIVE ", activeIndex);
 			this.setState({
 				activeThought: this.state.thoughts[activeIndex],
@@ -144,7 +146,7 @@ export default class Video extends Component {
 
 				<div className={Styles.videoContainer}>
 					<div className={Styles.slide}>
-						<div className={Styles.card} onClick={this.nextSlide} id={this.state.activeThought.id}>
+						<div className={Styles.card} onClick={this.nextSlide}>
 							{ 
 								this.state.activeThought ?
 								<div 
@@ -154,13 +156,13 @@ export default class Video extends Component {
 									<div className={Styles.idContainer}>  
 										<div className={Styles.id}>{this.state.activeThought.id} </div>
 									</div>
+									<div className={Styles.text}> 
+										{this.state.activeThought.text.content} 
+									</div>
 								</div>
 								:
 								<div>NO Image</div>
 							}
-							<div className={Styles.text}> 
-								{this.state.activeThought.text.content} 
-							</div>
 						</div>
 					</div>
 
@@ -169,7 +171,7 @@ export default class Video extends Component {
 						<div 
 							className={Styles.slideButton} 
 							onClick={this.setActiveSlide}
-							id={thought.id}
+							id={`button_${thought.id}`}
 						>
 							{thought.id}
 						</div>

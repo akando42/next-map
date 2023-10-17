@@ -31,7 +31,8 @@ yarn dev
 [X] Post one Post trunk an Hour.  
 [X] Add hash tag to all text.
 [X] Upload Image from remote URL to tweet.  
-[ ] Generate Slides from Images 
+[X] Generate Slides from Images and Text
+[ ] Automatically run Slide.
 
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.
