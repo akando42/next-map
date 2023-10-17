@@ -77,18 +77,56 @@ export default class Video extends Component {
 	constructor(props){
 		super(props)
 		this.setContent = this.setContent.bind(this)
+		this.nextSlide = this.nextSlide.bind(this)
+		this.setActiveSlide = this.setActiveSlide.bind(this)
+
 		this.state = {
-			thoughts: []
+			thoughts: [], 
+			activeThought: {
+				image: '',
+				text: '',
+				id: 0
+			}
 		}
 	}
 
 	async setContent(){
 		let thoughts = getTrunks(this.props.postsData.content)
 		this.setState({
-			thoughts: thoughts 
+			thoughts: thoughts,
+			activeThought: thoughts[0],
+			totalSlides: thoughts.length,
+			activeIndex: 0,
 		})
 
-		console.log("THOUGHTS", this.state.thoughts)
+		// console.log("THOUGHTS", this.state.thoughts)
+	}
+
+	async setActiveSlide(event){
+		let activeIndex = event.target.id;
+		//console.log("SELECTED ", this.state.thoughts[activeIndex]);
+		this.setState({
+			activeThought: this.state.thoughts[activeIndex],
+			activeIndex: activeIndex
+		})
+	}
+
+	async nextSlide(event){
+		if (this.state.activeIndex > this.state.totalSlides - 2){
+			let activeIndex = 0;
+			console.log("ACTIVE ", activeIndex);
+			this.setState({
+				activeThought: this.state.thoughts[activeIndex],
+				activeIndex: activeIndex
+			})
+		} else {
+			let activeIndex = this.state.activeIndex + 1;
+			console.log("ACTIVE ", activeIndex);
+			this.setState({
+				activeThought: this.state.thoughts[activeIndex],
+				activeIndex: activeIndex
+			})
+		}
 	}
 
 	componentDidMount(){
@@ -96,33 +134,49 @@ export default class Video extends Component {
 	}
 
 	render(){
+		let thought = this.state.activeThought
+		console.log(thought)
+
 		return (
 			<div className={Styles.main}>
 				<Head></Head>
 				<h1> {this.props.postsData.title} </h1>
+
 				<div className={Styles.videoContainer}>
 					<div className={Styles.slide}>
-						{ 
-							this.state.thoughts.map((thought) => 
-								<div className={Styles.card}>
-									{ thought.image ? 
-										<div 
-											className={Styles.image}
-											style={{backgroundImage: `url(${thought.image.link})`}} 
-										>
-											<div className={Styles.idContainer}>  
-												<div className={Styles.id}>{thought.id} </div>
-											</div>
-										</div>:<div>NO Image</div>
-									}
-									<div className={Styles.text}> 
-										{thought.text.content} 
+						<div className={Styles.card} onClick={this.nextSlide} id={this.state.activeThought.id}>
+							{ 
+								this.state.activeThought ?
+								<div 
+									className={Styles.image}
+									style={{backgroundImage: `url(${this.state.activeThought.image.link})`}} 
+								>
+									<div className={Styles.idContainer}>  
+										<div className={Styles.id}>{this.state.activeThought.id} </div>
 									</div>
 								</div>
-								
-							)
-						}
+								:
+								<div>NO Image</div>
+							}
+							<div className={Styles.text}> 
+								{this.state.activeThought.text.content} 
+							</div>
+						</div>
 					</div>
+
+					<div className={Styles.slideControl}>
+					{ this.state.thoughts.map(thought => 
+						<div 
+							className={Styles.slideButton} 
+							onClick={this.setActiveSlide}
+							id={thought.id}
+						>
+							{thought.id}
+						</div>
+					)}
+						
+					</div>
+
 				</div>
 			</div>
 		)
