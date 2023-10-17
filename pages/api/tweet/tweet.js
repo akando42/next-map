@@ -47,6 +47,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
     console.log("there is post today");
     // let timeZone = 'Asia/Bangkok';
     // let localTime = d.toLocaleString('en-US', { timeZone: timeZone });
+    
     let postData = getPost(postsDirectory,today);
     let message = postData.path +"\n" + postData.summary + " ";
 
