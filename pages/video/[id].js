@@ -181,13 +181,14 @@ export default class Video extends Component {
 									<div className={Styles.idContainer}>  
 										<div className={Styles.id}>{this.state.activeThought.id} </div>
 									</div>
-									<div className={Styles.text}> 
-										{this.state.activeThought.text.content} 
-									</div>
+									
 								</div>
 								:
 								<div>NO Image</div>
 							}
+							<div className={Styles.text}> 
+								{this.state.activeThought.text.content} 
+							</div>
 						</div>
 					</div>
 
