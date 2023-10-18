@@ -33,7 +33,7 @@ yarn dev
 [X] Upload Image from remote URL to tweet.  
 [X] Generate Slides from Images and Text
 [X] Automatically run Slide.
-[ ] Mark active slide in the slide controller.
+[X] Mark active slide in the slide controller.
 [ ] Typing out Text animation.
 
 
