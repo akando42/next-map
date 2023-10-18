@@ -76,9 +76,12 @@ export async function getStaticPaths(){
 export default class Video extends Component {
 	constructor(props){
 		super(props)
+
 		this.setContent = this.setContent.bind(this)
 		this.nextSlide = this.nextSlide.bind(this)
 		this.setActiveSlide = this.setActiveSlide.bind(this)
+		this.startPlaying = this.startPlaying.bind(this)
+		this.stopPlaying = this.stopPlaying.bind(this)
 
 		this.state = {
 			thoughts: [], 
@@ -87,7 +90,8 @@ export default class Video extends Component {
 				text: '',
 				id: 0
 			},
-			activeIndex: 0
+			activeIndex: 0, 
+			playing: false
 		}
 	}
 
@@ -105,7 +109,10 @@ export default class Video extends Component {
 
 	async setActiveSlide(event){
 		let targetID = event.target.id;
-		let activeIndex = targetID.split("_").pop()
+		let activeIndex = targetID.split("_").pop();
+		// let button = document.getElementById(targetID);
+		// button.style.transform = "scale(1.3)";
+		this.stopPlaying();
 		console.log("SELECTED ", activeIndex);
 		this.setState({
 			activeThought: this.state.thoughts[activeIndex],
@@ -129,6 +136,24 @@ export default class Video extends Component {
 				activeIndex: activeIndex
 			})
 		}
+	}
+
+	async stopPlaying(){
+		clearInterval(this.state.interval)
+		this.setState({
+			playing: false
+		})
+	}
+
+	async startPlaying(){
+		var playInterval  = setInterval(() => {
+			this.nextSlide()
+		}, 3000)
+
+		this.setState({
+			playing: true, 
+			interval: playInterval
+		})
 	}
 
 	componentDidMount(){
@@ -167,19 +192,28 @@ export default class Video extends Component {
 					</div>
 
 					<div className={Styles.slideControl}>
-					{ this.state.thoughts.map(thought => 
-						<div 
-							className={Styles.slideButton} 
-							onClick={this.setActiveSlide}
-							id={`button_${thought.id}`}
-						>
-							{thought.id}
-						</div>
-					)}
-						
+						{ this.state.thoughts.map(thought => 
+							<div 
+								className={Styles.slideButton} 
+								onClick={this.setActiveSlide}
+								id={`button_${thought.id}`}
+							>
+								{thought.id}
+							</div>
+						)}
 					</div>
 
 				</div>
+				{ this.state.playing ? 
+					<div className={Styles.stopButton} onClick={this.stopPlaying}>
+						STOP
+					</div>
+				  :
+				  	<div className={Styles.playButton} onClick={this.startPlaying}>
+						PLAY
+					</div>
+				}
+				
 			</div>
 		)
 	}

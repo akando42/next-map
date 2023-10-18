@@ -32,7 +32,10 @@ yarn dev
 [X] Add hash tag to all text.
 [X] Upload Image from remote URL to tweet.  
 [X] Generate Slides from Images and Text
-[ ] Automatically run Slide.
+[X] Automatically run Slide.
+[ ] Mark active slide in the slide controller.
+[ ] Typing out Text animation.
+
 
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.
