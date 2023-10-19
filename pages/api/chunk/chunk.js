@@ -152,7 +152,7 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 
   		let tobeTweets = chunked[currentHour]   
   		for (const content of tobeTweets){
-  			await sentTweet(content)
+  			// await sentTweet(content)
         console.info("START sending Tweet")
   			setTimeout(() => {
   		    console.info("Resting for 0.1 second.\n");

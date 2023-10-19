@@ -25,17 +25,17 @@ yarn dev
 [X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
 [X] Post San Fran and Vietnam time.
 [X] Upload Media from local File with Twitter API.
-[X] Add Hashtag fromm Post Tag into Twitter Message.
+[X] Add Hashtag fromm Post Tag into Twitter Message.  
 [X] Add Summary section to Post to be used as Twitter message. 
-[X] Split a Post content into Trunk of Image and 280 character paragraph. 
-[X] Post one Post trunk an Hour.  
-[X] Add hash tag to all text.
+[X] Split a Post content into Trunk of Image and 280 character paragraph.  
+[X] Post one Post trunk an Hour.    
+[X] Add hash tag to all text.  
 [X] Upload Image from remote URL to tweet.  
-[X] Generate Slides from Images and Text
-[X] Automatically run Slide.
-[X] Mark active slide in the slide controller.
-[ ] Typing out Text animation. 
-
+[X] Generate Slides from Images and Text.  
+[X] Automatically run Slide.  
+[X] Mark active slide in the slide controller.  
+[ ] Auto Start and Stop Audio
+[ ] Typing out Text animation.  
 
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.

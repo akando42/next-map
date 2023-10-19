@@ -139,6 +139,9 @@ export default class Video extends Component {
 	}
 
 	async stopPlaying(){
+		var music = document.getElementById('music')
+		music.pause()
+
 		clearInterval(this.state.interval)
 		this.setState({
 			playing: false
@@ -146,9 +149,11 @@ export default class Video extends Component {
 	}
 
 	async startPlaying(){
+		var music = document.getElementById('music')
+		music.play()
 		var playInterval  = setInterval(() => {
 			this.nextSlide()
-		}, 3000)
+		}, 10000)
 
 		this.setState({
 			playing: true, 
@@ -214,6 +219,10 @@ export default class Video extends Component {
 						PLAY
 					</div>
 				}
+				<audio className={Styles.audio}  id="music">
+					<source src="https://storage.googleapis.com/spykman-world/Musics/Stark_Mix.m4a" type="audio/mpeg" />
+					Your browser does not support the audio element.
+				</audio>
 				
 			</div>
 		)
