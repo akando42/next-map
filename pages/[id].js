@@ -92,7 +92,6 @@ export default class Post extends Component {
 						</div>
 				       
 			        </div>
-			        
 		        </div>
 			</div>
 		)

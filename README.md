@@ -19,7 +19,7 @@ yarn dev
 [X] Click on Map Marker to Open Post.  
 [X] Store Images in GCloud Storage in ASIA servers.
 [X] Trigger Lambda Functions Locally.
-[X] Trigger Lambda functions on schedule in live deployment.  
+[X] Trigger Laclearmbda functions on schedule in live deployment.  
 [X] Tweet programmatically.  
 [X] Automatic Twitter Posting daily.  
 [X] Checking Blog for Matching date before Tweeting out Thumbnail Image and Link. 
