@@ -37,6 +37,7 @@ yarn dev
 [X] Auto Start and Stop Audio
 [ ] Generate new Site Map every builds.  
 [ ] Mobile and iPAD CSS for Video page.  
+[ ] Generate Voice Over Video from 1 image and the text
 [ ] Typing out Text animation.  
 
 ## FUN
