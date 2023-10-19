@@ -34,7 +34,7 @@ yarn dev
 [X] Generate Slides from Images and Text
 [X] Automatically run Slide.
 [X] Mark active slide in the slide controller.
-[ ] Typing out Text animation.
+[ ] Typing out Text animation. 
 
 
 ## FUN

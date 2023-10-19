@@ -1,5 +1,4 @@
 {
-	"siteId": "54e3409d-3f8e-4dd9-9c4b-5dcea7bc9b57",
 	"geolocation": {
 		"data": {
 			"city": "Hanoi",
@@ -15,6 +14,6 @@
 			"latitude": 21.0292,
 			"longitude": 105.8526
 		},
-		"timestamp": 1697517618295
+		"timestamp": 1697694720666
 	}
 }
