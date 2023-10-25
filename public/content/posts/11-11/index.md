@@ -64,6 +64,8 @@ Maybe The French maths puzzle was created to inspire French kids to solve the lo
 
 When one can concentrate the best minds of your people behind a single problem or a vision or an idea. One can move mountains, split ocean and reach the moon.
 
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+
 ### COCKFIGHTING - AN ANCIENT RITUAL
 
 Cockfighting was an originally an act of sacrification for the MU Oceanic god of Bravery and Victory. After the sunken of MU Empire, MU descendants dispersed across the Euro-Asia continent along the coastline as well as Latin America. 
