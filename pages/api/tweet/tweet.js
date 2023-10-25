@@ -45,7 +45,13 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 
   if (fileNames.includes(today)){
     console.log("there is post today");
+<<<<<<< Updated upstream
 
+=======
+    
+    // let timeZone = 'Asia/Bangkok';
+    // let localTime = d.toLocaleString('en-US', { timeZone: timeZone });
+>>>>>>> Stashed changes
     let postData = getPost(postsDirectory,today);
     let message = postData.path +"\n" + postData.summary + " ";
 
