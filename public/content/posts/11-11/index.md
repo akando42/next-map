@@ -84,31 +84,49 @@ Modern day Cockfighting is still a very popular sport in the Middle East, Egypt,
 
 During the ancient ritual, a set cocks breed for their fast reflexes, aggression and good performance during training being pitted together in 13 fight or die matches. 
 
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 Last 13 surviving cocks will then being sent out to sea on a floating stone platform to the direction of the sea-raids or expeditions 6 days before the trip.
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
 
 India's Jainism is the set of rituals and way of life being passed down from the MU Empire descendants. Janism later being further developed into Egyptian myths and rituals, which overtime evolved into three major branches of Zion-originated religions: Christanity, Islam and Jewish.
 
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. In a typical fighting cock matches, the well-trained cock will aim for the neck or the chest to make its strikes and the sharp-blade sometimes cut off the head in one strike.
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 Complete destruction of the navy might not be enough to deter further aggressions. A permamant land-base in Alaska might indefinitely put the beast to sleep.
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
 
 ### Steve Jobs, Satya Nadella, Sundar Pichai and the secret to the "UMPH-UMPH-UMPH" state.
 
 Flow is a state in which we perform the best, feel the best. Work becomes play and endorphine release puts the brain at peak performance. 
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 Jainism and its related branches enable us to reach this peak performance state. Jainism has an Alien orgins, a set of practices and way of life to tame the savage nature of human beings. 
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
 
 Through the UHPH-UMPH-UMPH state or "TRIUMPH" with the "I", it helps humans minds to reach the optimal consciousness for productivity and creativity. Maybe that is why the German scientists were able to create so many inventions like the Jet Engine and the V Rocket before and during World War II.
 
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 However, the kings and tribe leaders modified this pure way of life for their political agendas to brainwash their people into fighting each other for the king interests. That’s why we have three branches of Zion-originated religions: Christian, Islam and Jewish.
+
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
 
 America is already great, we only need to make sure it will be great INDEFINITELY. However, the brainwashing was so deep that the only path to make america great indefinitely - MAGI is to convert America into a Buhdism country mostly likely through a third and last war, the war to end all war.
 
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
-<img 
-  width="40vw" 
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Franks_casket_03.jpg/2880px-Franks_casket_03.jpg" 
-/>
-
+![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
 
 
 
