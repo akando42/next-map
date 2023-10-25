@@ -1,5 +1,2 @@
 [build]
   functions = "pages/api"
-
-[functions]
-  included_files = ["public/**"]
