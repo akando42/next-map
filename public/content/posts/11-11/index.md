@@ -9,62 +9,61 @@ title: "Indian Ocean and the Asia Association"
 tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
 published: true
 ---
-
 ### INDIAN OCEAN AND THE TOWER OF HANOI PUZZLE
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 April 30, 1789, George Washington delivered the first inaugural address to the newly founded nation: the United States of America after a successful war of independence against the British Empire and the creation of the United State Constitution. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 There is no doubt that the United State Constitution and George Washing speech inspired the French Revolution 5 days later in May 5, 1789.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 The French Revolution is a pivotal moment in human history. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 23 August 1799, Napoleon returning from Egypt after a failed campaign to block Bristish Royal Navy access to Indian Ocean and declare himself dictator of the French Republics and launch the Napoleonic wars against the British Empire and its allies. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 Napoleon was finally defeated by the 7th European Coalitions but there is no doubt he is a military genius and his military campaigns help to spread Republics and Democracy value across Europe.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 Napoleon had seen Vietnam as a strategically important objective in the colonial power struggle in Asia, as he felt that it would make an ideal base from which to contest the British East India Company's control of the Indian subcontinent. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 In 1831, the Nguyễn emperor Minh Mạng renamed Thăng Long meaning The Taking Off Yellow Dragon to Hà Nội meaning Between Two Rivers or Splitting Currents. 42 years later, Hanoi was conquered by the French.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 The Towers of Hanoi maths puzzle was then invented by the French mathematician Édouard Lucas in 1883, the same year that Hanoi become the administrative center of French Indochina colony. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 The Towers of Hanoi is like the geopolitical game of juggling between Africa, India and Indochina for France.  
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 Africa, India and Indochina used to look like 3 pyramids reflection in the Nile river but Indochina and the MU empire was partially sunk. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 Maybe The French maths puzzle was created to inspire French kids to solve the logistical problems of a Blue Water navy in order to be able to operate across three oceans: The Pacific, The Atlantic and The Indian Ocean.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 When one can concentrate the best minds of your people behind a single problem or a vision or an idea. One can move mountains, split ocean and reach the moon.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
 ### COCKFIGHTING - AN ANCIENT RITUAL
 
@@ -86,23 +85,23 @@ Modern day Cockfighting is still a very popular sport in the Middle East, Egypt,
 
 During the ancient ritual, a set cocks breed for their fast reflexes, aggression and good performance during training being pitted together in 13 fight or die matches. 
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
 Last 13 surviving cocks will then being sent out to sea on a floating stone platform to the direction of the sea-raids or expeditions 6 days before the trip.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
 India's Jainism is the set of rituals and way of life being passed down from the MU Empire descendants. Janism later being further developed into Egyptian myths and rituals, which overtime evolved into three major branches of Zion-originated religions: Christanity, Islam and Jewish.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
 Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. In a typical fighting cock matches, the well-trained cock will aim for the neck or the chest to make its strikes and the sharp-blade sometimes cut off the head in one strike.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
 Complete destruction of the navy might not be enough to deter further aggressions. A permamant land-base in Alaska might indefinitely put the beast to sleep.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
 ### Steve Jobs, Satya Nadella, Sundar Pichai and the secret to the "UMPH-UMPH-UMPH" state.
 
