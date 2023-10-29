@@ -19,11 +19,7 @@ There is no doubt that the United State Constitution and George Washing speech i
 
 ![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
-The French Revolution is a pivotal moment in human history. 
-
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
-The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions. 
+The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions. 
 
 ![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
