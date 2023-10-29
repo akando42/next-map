@@ -11,11 +11,9 @@ published: true
 ---
 ### INDIAN OCEAN AND THE TOWER OF HANOI PUZZLE
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
 April 30, 1789, George Washington delivered the first inaugural address to the newly founded nation: the United States of America after a successful war of independence against the British Empire and the creation of the United State Constitution. 
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![United States Map at Independence](https://storage.googleapis.com/spykman-world/american_independence_territorial.png)
 
 There is no doubt that the United State Constitution and George Washing speech inspired the French Revolution 5 days later in May 5, 1789.
 
@@ -128,10 +126,3 @@ America is already great, we only need to make sure it will be great INDEFINITEL
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
 ![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
-
-
-
-
-	
-
-
