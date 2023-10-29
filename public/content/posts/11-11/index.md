@@ -2,15 +2,15 @@
 zoom: 6  
 lat: 7.665672742993175
 lng: 81.88449879560726
-path: "/indian-ocean-india-and-the-asia-association"
-cover: "content/posts/11-11/spykman-world-group-meditation.png"
+path: "/indian-ocean-the-asia-association"
+cover: "content/posts/11-11/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png"
 date: "11-11"
 title: "Indian Ocean, India and the Asia Association"
 tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
 published: true
 ---
 
-### INDIAN OCEAN AND THE TOWER OF HANOI
+### INDIAN OCEAN AND THE TOWER OF HANOI PUZZLE
 
 ![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
 
@@ -129,11 +129,6 @@ America is already great, we only need to make sure it will be great INDEFINITEL
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
 ![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
-
-
-
-
-
 
 
 
