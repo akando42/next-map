@@ -5,7 +5,7 @@ lng: 81.88449879560726
 path: "/indian-ocean-the-asia-association"
 cover: "content/posts/11-11/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png"
 date: "11-11"
-title: "Indian Ocean, India and the Asia Association"
+title: "Indian Ocean and the Asia Association"
 tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
 published: true
 ---
