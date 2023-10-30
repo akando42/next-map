@@ -15,19 +15,16 @@ April 30, 1789, George Washington delivered the first inaugural address to the n
 
 ![United States Map at Independence](https://storage.googleapis.com/spykman-world/american_independence_territorial.png)
 
-There is no doubt that the United State Constitution and George Washing speech inspired the French Revolution 5 days later in May 5, 1789.
+There is no doubt that the United State Constitution and George Washington speech inspired the French Revolution 5 days later in May 5, 1789.
+The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions in Continental Europe.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![The French Revolution](https://storage.googleapis.com/spykman-world/the-french-revolution.png)
 
-The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions. 
+23 August 1799, Napoleon returning from Egypt after a failed campaign to block Bristish Royal Navy access to Indian Ocean and declare himself dictator of the French Republics and launch the Napoleonic wars against the British Empire and its allies. Maybe Napoleon is a British agent.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Napoleon Statue in Egypt](https://storage.googleapis.com/spykman-world/napoleon-secret-statue.png)
 
-23 August 1799, Napoleon returning from Egypt after a failed campaign to block Bristish Royal Navy access to Indian Ocean and declare himself dictator of the French Republics and launch the Napoleonic wars against the British Empire and its allies. 
-
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
-Napoleon was finally defeated by the 7th European Coalitions but there is no doubt he is a military genius and his military campaigns help to spread Republics and Democracy value across Europe.
+Napoleon was finally defeated by the 7th European Coalitions but there is no doubt he is a military genius and his military campaigns help to spread the Republics and Democracy value across Europe.
 
 ![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
 
