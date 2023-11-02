@@ -19,5 +19,8 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
     "twitter-api-v2": "^1.15.0"
+  },
+  "devDependencies": {
+    "chromatic": "^7.6.0"
   }
 }
