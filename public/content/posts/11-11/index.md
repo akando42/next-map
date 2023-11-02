@@ -11,59 +11,46 @@ published: true
 ---
 ### INDIAN OCEAN AND THE TOWER OF HANOI PUZZLE
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
 April 30, 1789, George Washington delivered the first inaugural address to the newly founded nation: the United States of America after a successful war of independence against the British Empire and the creation of the United State Constitution. 
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![United States Map at Independence](https://storage.googleapis.com/spykman-world/american_independence_territorial.png)
 
-There is no doubt that the United State Constitution and George Washing speech inspired the French Revolution 5 days later in May 5, 1789.
+There is no doubt that the United State Constitution and George Washington speech inspired the French Revolution 5 days later in May 5, 1789.
+The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions in Continental Europe.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![The French Revolution](https://storage.googleapis.com/spykman-world/the-french-revolution.png)
 
-The French Revolution is a pivotal moment in human history. 
+23 August 1799, Napoleon returning from Egypt after a failed campaign to block Bristish Royal Navy access to Indian Ocean and declare himself dictator of the French Republics and launch the Napoleonic wars against the British Empire and its allies. Maybe Napoleon is a British agent.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Napoleon Statue in Egypt](https://storage.googleapis.com/spykman-world/napoleon-secret-statue.png)
 
-The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions. 
+Napoleon was finally defeated by the 7th European Coalitions but there is no doubt he is a military genius and his military campaigns help to spread the Republics and Democracy value across Europe.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
-23 August 1799, Napoleon returning from Egypt after a failed campaign to block Bristish Royal Navy access to Indian Ocean and declare himself dictator of the French Republics and launch the Napoleonic wars against the British Empire and its allies. 
-
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
-Napoleon was finally defeated by the 7th European Coalitions but there is no doubt he is a military genius and his military campaigns help to spread Republics and Democracy value across Europe.
-
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Napoleonic France](https://storage.googleapis.com/spykman-world/napoleonic_france.png)
 
 Napoleon had seen Vietnam as a strategically important objective in the colonial power struggle in Asia, as he felt that it would make an ideal base from which to contest the British East India Company's control of the Indian subcontinent. 
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Hanoi Strategic Location and Geography](https://storage.googleapis.com/spykman-world/hanoi_central_of_wetrice_circle.png)
 
 In 1831, the Nguyễn emperor Minh Mạng renamed Thăng Long meaning The Taking Off Yellow Dragon to Hà Nội meaning Between Two Rivers or Splitting Currents. 42 years later, Hanoi was conquered by the French.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Thang Long Ha Noi](https://storage.googleapis.com/spykman-world/THANGLONG_RED_RIVER_DELTA.png)
 
 The Towers of Hanoi maths puzzle was then invented by the French mathematician Édouard Lucas in 1883, the same year that Hanoi become the administrative center of French Indochina colony. 
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Lucas Tower or Hanoi Tower Puzzle](https://storage.googleapis.com/spykman-world/hanoi_tower_puzzle_in_planet_of_the_apes.png)
 
-The Towers of Hanoi is like the geopolitical game of juggling between Africa, India and Indochina for France.  
+The Towers of Hanoi is like the geopolitical game of juggling between Africa, India and Indochina for France. Africa, India and Indochina used to look like 3 pyramids reflection in the Nile river but Indochina and the MU empire was partially sunk. 
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![3 Continents with Distinct Genetics and Cultures](https://storage.googleapis.com/spykman-world/three_pyramids_or_towers_of_indian_ocean.png)
 
-Africa, India and Indochina used to look like 3 pyramids reflection in the Nile river but Indochina and the MU empire was partially sunk. 
+Maybe The French maths puzzle was created to inspire Asian kids to solve the logistical problems of a Blue Water navy in order to be able to operate across three oceans: The Pacific, The Atlantic and The Indian Ocean and finally became a powerful ally for Continental France.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
-
-Maybe The French maths puzzle was created to inspire French kids to solve the logistical problems of a Blue Water navy in order to be able to operate across three oceans: The Pacific, The Atlantic and The Indian Ocean.
-
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![United States Combatant Commands](https://storage.googleapis.com/spykman-world/us_military_combatant_commands.png)
 
 When one can concentrate the best minds of your people behind a single problem or a vision or an idea. One can move mountains, split ocean and reach the moon.
 
-![Tower of Hanoi](https://storage.googleapis.com/spykman-world/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png)
+![Sex and Food for Megastructure Project Workers](https://storage.googleapis.com/spykman-world/sex_and_food.png)
 
 ### COCKFIGHTING - AN ANCIENT RITUAL
 
@@ -128,10 +115,3 @@ America is already great, we only need to make sure it will be great INDEFINITEL
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
 ![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
-
-
-
-
-	
-
-
