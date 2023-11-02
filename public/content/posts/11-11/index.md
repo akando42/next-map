@@ -44,7 +44,7 @@ The Towers of Hanoi is like the geopolitical game of juggling between Africa, In
 
 ![3 Continents with Distinct Genetics and Cultures](https://storage.googleapis.com/spykman-world/three_pyramids_or_towers_of_indian_ocean.png)
 
-Maybe The French maths puzzle was created to inspire French kids to solve the logistical problems of a Blue Water navy in order to be able to operate across three oceans: The Pacific, The Atlantic and The Indian Ocean.
+Maybe The French maths puzzle was created to inspire Asian kids to solve the logistical problems of a Blue Water navy in order to be able to operate across three oceans: The Pacific, The Atlantic and The Indian Ocean and finally became a powerful ally for Continental France.
 
 ![United States Combatant Commands](https://storage.googleapis.com/spykman-world/us_military_combatant_commands.png)
 
