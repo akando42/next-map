@@ -56,39 +56,39 @@ When one can concentrate the best minds of your people behind a single problem o
 
 Cockfighting was an originally an act of sacrification for the MU Oceanic god of Bravery and Victory. After the sunken of MU Empire, MU descendants dispersed across the Euro-Asia continent along the coastline as well as Latin America. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Cock Fighting](https://storage.googleapis.com/spykman-world/cock_fighting.png)
 
 MU empire people has the golden skin color and highly adaptive for the life at sea and underwater stone masonry techniques.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Underwater Stone Techniques](https://storage.googleapis.com/spykman-world/underwater_stone_masion_techniques.png)
 
 The Cockflighting sacrification ritual was being held ahead any major sea-raids or expeditions to the unknown.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Chicken at the Beach](https://storage.googleapis.com/spykman-world/chicken_at_the_beach.png)
 
 Modern day Cockfighting is still a very popular sport in the Middle East, Egypt, Madagascar, India, Vietnam, Philiphine, Venezuela, Chile and other Latin American countries.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Chicken Past Glory](https://storage.googleapis.com/spykman-world/chicken_was_an_apec_predator.png)
 
 During the ancient ritual, a set cocks breed for their fast reflexes, aggression and good performance during training being pitted together in 13 fight or die matches. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Cock Fighting Matches](https://storage.googleapis.com/spykman-world/cock_fight.gif)
 
 Last 13 surviving cocks will then being sent out to sea on a floating stone platform to the direction of the sea-raids or expeditions 6 days before the trip.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Chicken Can Float on Water](https://storage.googleapis.com/spykman-world/chicken_can_float.gif)
 
 India's Jainism is the set of rituals and way of life being passed down from the MU Empire descendants. Janism later being further developed into Egyptian myths and rituals, which overtime evolved into three major branches of Zion-originated religions: Christanity, Islam and Jewish.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Indian Jainism](https://storage.googleapis.com/spykman-world/indian_jainism.png)
 
-Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. In a typical fighting cock matches, the well-trained cock will aim for the neck or the chest to make its strikes and the sharp-blade sometimes cut off the head in one strike.
+Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. 
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Asian Map Drawn By Whitemen After WW2](https://storage.googleapis.com/spykman-world/asian_map_drawn_by_whitemen.png)
 
-Complete destruction of the navy might not be enough to deter further aggressions. A permamant land-base in Alaska might indefinitely put the beast to sleep.
+In a typical fighting cock matches, the well-trained cock will aim for the neck or the chest to make its strikes and the sharp-blade sometimes cut off the head in one strike. Complete destruction of the navy might not be enough to deter further aggressions. A permamant land-base in Alaska might indefinitely put the beast to sleep.
 
-![Dollar](https://storage.googleapis.com/spykman-world/563px-US_one_dollar_bill%2C_reverse%2C_series_2009.jpg)
+![Dollar](https://storage.googleapis.com/spykman-world/alaska_foothold_in_american_continent.png)
 
 ### Steve Jobs, Satya Nadella, Sundar Pichai and the secret to the "UMPH-UMPH-UMPH" state.
 
