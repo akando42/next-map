@@ -15,8 +15,7 @@ April 30, 1789, George Washington delivered the first inaugural address to the n
 
 ![United States Map at Independence](https://storage.googleapis.com/spykman-world/american_independence_territorial.png)
 
-There is no doubt that the United State Constitution and George Washington speech inspired the French Revolution 5 days later in May 5, 1789.
-The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions in Continental Europe.
+There is no doubt that the United State Constitution and George Washington speech inspired the French Revolution 5 days later in May 5, 1789. The French Revolution is a pivotal moment in human history. The revolution trigger the collapse of absolute monarchy and concentration of money and power within the top 0.000001% and replace them with republic and liberal democracy institutions in Continental Europe.
 
 ![The French Revolution](https://storage.googleapis.com/spykman-world/the-french-revolution.png)
 
