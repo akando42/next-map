@@ -88,30 +88,30 @@ Intesting enough, China, Vietnam, Lao map in combination looking like a fighting
 
 In a typical fighting cock matches, the well-trained cock will aim for the neck or the chest to make its strikes and the sharp-blade sometimes cut off the head in one strike. Complete destruction of the navy might not be enough to deter further aggressions. A permamant land-base in Alaska might indefinitely put the beast to sleep.
 
-![Dollar](https://storage.googleapis.com/spykman-world/alaska_foothold_in_american_continent.png)
+![Alaska Footprint](https://storage.googleapis.com/spykman-world/alaska_foothold_in_american_continent.png)
 
 ### Steve Jobs, Satya Nadella, Sundar Pichai and the secret to the "UMPH-UMPH-UMPH" state.
 
 Flow is a state in which we perform the best, feel the best. Work becomes play and endorphine release puts the brain at peak performance. 
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Curry Warrior Flow State](https://storage.googleapis.com/spykman-world/steve_curry.gif)
 
 Jainism and its related branches enable us to reach this peak performance state. Jainism has an Alien orgins, a set of practices and way of life to tame the savage nature of human beings. 
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Orion Belt In Texas, Florida and Hanoi Sky](https://storage.googleapis.com/spykman-world/orion-belt-constants-in-the-sky.png)
 
-Through the UHPH-UMPH-UMPH state or "TRIUMPH" with the "I", it helps humans minds to reach the optimal consciousness for productivity and creativity. Maybe that is why the German scientists were able to create so many inventions like the Jet Engine and the V Rocket before and during World War II.
+Through the UHPH-UMPH-UMPH state or "TRIUMPH" with the "I", it helps humans minds to reach the optimal consciousness for productivity and creativity. Maybe that is why the German scientists were able to create so many inventions like the Jet Engine and the V Rocket during World War II and Apple, Google and Microsoft are all managed by people with Middle Eastern DNA.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![History Post SILICON CHIP age](https://storage.googleapis.com/spykman-world/apple-google-microsoft.png)
 
 However, the kings and tribe leaders modified this pure way of life for their political agendas to brainwash their people into fighting each other for the king interests. That’s why we have three branches of Zion-originated religions: Christian, Islam and Jewish.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![From Karachi to All Religions](https://storage.googleapis.com/spykman-world/from_karachi_to_all_religions.png)
 
 America is already great, we only need to make sure it will be great INDEFINITELY. However, the brainwashing was so deep that the only path to make america great indefinitely - MAGI is to convert America into a Buhdism country mostly likely through a third and last war, the war to end all war.
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![Yoga First American](https://storage.googleapis.com/spykman-world/yoga_first_american.png)
 
 Like the trinity or the river fork, pivotal decision in history will decide the trajectory of the future, just like the Frank Casket once depicted the two very different destinies of humankind: one with constant wars, cannibalism, death and extinction right in front of the Christian Cross and the other when the King lowering his posture and kneeling in front of the buddha then a space-faring perpetual expanding civilization of 100 billion human beings. 
 
-![Mediatation](https://storage.googleapis.com/spykman-world/spykman-world-group-meditation.png)
+![The Frank Casket Made of Whale Bone](https://storage.googleapis.com/spykman-world/frank_casket_made_of_whale_bone.png)
