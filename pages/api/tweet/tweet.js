@@ -41,7 +41,8 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 
   let fileNames = fs.readdirSync(postsDirectory)
   let d = new Date()
-  let today = formatDate(d)
+  // let today = formatDate(d)
+  let today = "11-11"
 
   if (fileNames.includes(today)){
     console.log("there is post today");
@@ -49,7 +50,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
     // let timeZone = 'Asia/Bangkok';
     // let localTime = d.toLocaleString('en-US', { timeZone: timeZone });
 
-    let postData = getPost(postsDirectory,today);
+    let postData = getPost(postsDirectory, today);
     let message = postData.path +"\n" + postData.summary + " ";
 
     for (tag of postData.tags){ 
@@ -74,7 +75,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
         }
       }
     } catch(e) {
-      console.log(e)
+      console.log(e);
       return {
         statusCode: 400,
         message: e
