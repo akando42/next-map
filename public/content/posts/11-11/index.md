@@ -81,7 +81,7 @@ India's Jainism is the set of rituals and way of life being passed down from the
 
 ![Indian Jainism](https://storage.googleapis.com/spykman-world/indian_jainism.png)
 
-Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. 
+Intesting enough, China, Myanmar, Vietnam, Lao, Cambodia, Thailand map in combination looking like a fighting cock and Malaysia looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. 
 
 ![Asian Map Drawn By Whitemen After WW2](https://storage.googleapis.com/spykman-world/asian_map_drawn_by_whitemen.png)
 
