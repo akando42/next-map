@@ -137,8 +137,8 @@ module.exports.handler = schedule('0 * * * *', async (event) => {
 
 	let d = new Date()
 	let currentHour = d.getHours()
-  let today = formatDate(d)
-	//let today = "10-17"
+  //let today = formatDate(d)
+	let today = "11-11"
 
   try {
   	if (fileNames.includes(today)){

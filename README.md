@@ -34,10 +34,10 @@ yarn dev
 [X] Generate Slides from Images and Text.  
 [X] Automatically run Slide.  
 [X] Mark active slide in the slide controller.  
-[X] Auto Start and Stop Audio.  
+[X] Auto Start and Stop Audio. 
 [ ] Generate new Site Map every builds.  
 [ ] Mobile and iPAD CSS for Video page.  
-[ ] Generate Voice Over Video from 1 image and the text
+[ ] Generate Voice Over Video from 1 image and the text.  
 [ ] Typing out Text animation.  
 
 ## FUN

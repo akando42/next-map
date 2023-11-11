@@ -153,7 +153,7 @@ export default class Video extends Component {
 		music.play()
 		var playInterval  = setInterval(() => {
 			this.nextSlide()
-		}, 10000)
+		}, 21000)
 
 		this.setState({
 			playing: true, 

@@ -5,8 +5,8 @@ lng: 81.88449879560726
 path: "/indian-ocean-the-asia-association"
 cover: "content/posts/11-11/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png"
 date: "11-11"
-title: "Indian Ocean and the Asia Association"
-tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
+title: "Indian Ocean and the Asia Association"tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
+summary: "#SeaPower has always beaten #Land armies because of the cheaper cost of moving good as well as the flexibility of rivers and ocean highway. Whoever control the #IndianOcean will end up control Euro Asia in 21 century."
 published: true
 ---
 ### INDIAN OCEAN AND THE TOWER OF HANOI PUZZLE
@@ -81,7 +81,7 @@ India's Jainism is the set of rituals and way of life being passed down from the
 
 ![Indian Jainism](https://storage.googleapis.com/spykman-world/indian_jainism.png)
 
-Intesting enough, China, Vietnam, Lao map in combination looking like a fighting cock and Thailand looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. 
+Intesting enough, China, Myanmar, Vietnam, Lao, Cambodia, Thailand map in combination looking like a fighting cock and Malaysia looks like the extended sharp-blade to the cock heel to enable the flighting cock to make the killing blow during their matches. 
 
 ![Asian Map Drawn By Whitemen After WW2](https://storage.googleapis.com/spykman-world/asian_map_drawn_by_whitemen.png)
 
