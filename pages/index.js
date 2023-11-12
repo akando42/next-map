@@ -81,8 +81,8 @@ export default class Main extends Component {
     return (
       <div className={styles.container}>
         <Head>
-          <title>Next Map</title>
-          <meta name="description" content="Location-based Stories" />
+          <title>GeoGenetics</title>
+          <meta name="description" content="The Longterm Impacts of Genetics and Geography on World Destiny" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
