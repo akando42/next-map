@@ -35,10 +35,9 @@ yarn dev
 [X] Automatically run Slide.  
 [X] Mark active slide in the slide controller.  
 [X] Auto Start and Stop Audio. 
-[ ] Generate new Site Map every builds.  
+[X] Generate new Site Map every builds.  
 [ ] Mobile and iPAD CSS for Video page.  
-[ ] Generate Voice Over Video from 1 image and the text.  
-[ ] Typing out Text animation.  
+[ ] Generate Voice Over Video from 1 image and the text.   
 
 ## FUN
 [ ] Create array of timezone, city name, city-zen image.
