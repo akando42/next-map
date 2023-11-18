@@ -13,47 +13,72 @@ published: true
 
 JFK assassination at the high of the COLD WAR marked the beginning of a constant dilution of working-class hard-earn value unit with US Dollar printing spree.
 
-Nowaday, FED minutes is being watched by bankers and policy makers around the world.
+![US Dollar and Gold Price](https://storage.googleapis.com/spykman-world/US_Dollar_and_Gold_Price.png)
 
-The FED signals their lowering of interest rates and more quantitative easing. Every other central banks would follow with their own policies of  lowering interest rates and quantitative easing. 
+Nowaday, #FED minutes is being watched by bankers and policy makers around the world. The #FED signals their lowering of interest rates and more quantitative easing. Every other central banks would follow with their own policies of lowering interest rates and quantitative easing. 
 
-If you are a big bank and at  the top with access to cheap, ultra-low credit then you are cool but if you have a normal working person with a saving then you are the suckers.
+![US Federal Reserves Chairmans](https://storage.googleapis.com/spykman-world/us_federal_reserves_chairmans.png)
 
-Original role of the Bank is to hold Value Creator deposit or saving and lend it back to
-businesses to create more value. 
+If you are a #BigBank and at the top with access to cheap, ultra-low interest credit then you are cool but if you have a normal working person with a saving then you are the suckers.
 
-Modern banking does not make money by lending out money from their depositor money anymore.
+![](https://placehold.co/1200x675.png)
 
-Modern banking makes money from extra-cash print out by the FED and central banks around the world and charge their depositors ridiculous fees.
+Original role of the Bank is to #HoldDeposit from value creators or saving and lend it back to businesses to create more value. Modern banking does not make money by lending out money from their depositor money anymore. Modern banking makes money from extra-cash print out by the FED and central banks around the world and charge their depositors ridiculous fees.
 
-Normal working people have no to little access to the Equity market to counter this value erosion trend created by Central Banks and the FEDs.
+![American Bankers Get Rich From Negative Balances of Average American Depositors](https://storage.googleapis.com/spykman-world/negative_account_balances_make_bankers_rich.png)
 
-And even if you have a portfolio to counter the FED’s induced value-erosion policies, each financial crisis, you will get robbed of all your hard-earn value and wealth are increasing concentrating on the top 1%.  The king and monarchy is already back and we do not even know it. 
+Normal working people have no to little access to the #EquityMarket to counter this value erosion trend created by #CentralBanks and the FEDs. And even if you have a portfolio to counter the FED’s induced value-erosion policies, each financial crisis, you will get robbed of all your hard-earn value and wealth are increasing concentrating on the top 1%.  The king and monarchy is already back and we do not even know it. 
+
+![](https://placehold.co/1200x675.png)
 
 The modern 30 years Mortgage at 5% interest rate and Consumer Credit Card industry at 21% interest while the big banks are getting near 0% interest from OUR government is just another form of Bondage that had enslaved European people in 17 & 18 century and led them to escape the continent and find freedom in the United States. 
+
+![](https://placehold.co/1200x675.png)
 
 This distortion of natural cycle of value creation started with the Cold War and the Vietnam War. 
 The US needed extra financial resources in order to fund the IRON curtain countries and the US dollar is the value anchor of the whole world anyway so no one can stop it.
 
+![](https://placehold.co/1200x675.png)
+
 Extra dollars were being shipped to IRON curtain countries via IMF and World BANK lending and financial assistant programs. These IRON curtains countries will then maximize their OUTPUT via Industrial built-up WHILE  the AMERICAN will maximize their INPUT by absorbing the OUTPUT from IRON-CURTAIN countries via Consumption and Credit Usage.
+
+![](https://placehold.co/1200x675.png)
 
 This is supposed to be a UP-Ward Spiral or an UPward ReCURSIVE process with the US lifting the entire world industrial and productivity output. 
 
+![](https://placehold.co/1200x675.png)
+
 However, they overdid it and the Vietnam War eventually led to the collapse of Brenton Wood agreement and Richard Nixion got rid of the Gold standard. This led to the beginning of the Down-ward Spiral Process of VALUE.
 
-If Kennedy was still president, the US probably end the Vietnam War 10 years earlier, did not have to break the post WWII Brenton Wood agreement and the Gold Standard and start the Down-ward spiral of the World value storage and productivity growth. 
+![](https://placehold.co/1200x675.png)
+
+If Kennedy was still president, the US probably end the Vietnam War 10 years earlier, did not have to break the post WWII Brenton Wood agreement and the Gold Standard and start the Down-ward spiral of the World value storage and productivity growth.
+
+![](https://placehold.co/1200x675.png) 
 
 The Vietnam War and Kennedy assisassisation marked the peak of the US role as the world's leader and start the deceleration process of US industrial and productivity growth. 
 
+![](https://placehold.co/1200x675.png)
+
 US economy gradually transitioned from Productivity Growth and Value Creation Activities to Financial and Lending related activities with their share of the GDP gradually moving away from Value Creation activities into more of Financial and Banking related activities. 
+
+![](https://placehold.co/1200x675.png)
 
 Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. 
 
+![](https://placehold.co/1200x675.png)
+
 Real Estate is just another money-sunk credit-driven industry. We like to live in a nice house but a mansion or a one bed-room studio does not help to increase or decrease our individual Productivity. 
+
+![](https://placehold.co/1200x675.png)
 
 Manufacturing, Agriculture, Transportation, Technology, Science and Research was the main driver that propelled the US into the World number 1 economy and will most likely propell China and Germany into number 1 and 2 spot of the World Economy since they see the most improvement in Productivity growth as well as Population growth since WWII and have a very strong industrial and technology value creation economy. 
 
+![](https://placehold.co/1200x675.png)
+
 The US is holding on to its number 1 spot with more cheap credit, its unfair advantage as Currency reserve and its NUKE to pressure non-Nuclear nations like Germany and Japan in trade negotiating table. 
+
+![](https://placehold.co/1200x675.png)
 
 Well humans can INVENT NUKE then we should be able to figure out a way to DISABLE NUKE. 
 
@@ -61,27 +86,51 @@ Well humans can INVENT NUKE then we should be able to figure out a way to DISABL
 
 Gold is something we all believe in since before the birth of Christ, across different cultures, at the time of war or peace as long as the Sun is still shining with its golden rays. 
 
+![](https://placehold.co/1200x675.png)
+
 Gold reserve is the requirement of a true world superpower. As of today, top 6 countries in gold reserves are USA, Germany, Italy, France, China and Russia. 
 
-United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling. 
+![](https://placehold.co/1200x675.png)
+
+United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling.
+
+![](https://placehold.co/1200x675.png) 
 
 United Kingdom more than anyone else understand the crucial role of a nation treasure in its long-term prospect. 
 
+![](https://placehold.co/1200x675.png)
+
 During the early 1700 War of Spanish Succession, France and Spain are moving too close to become a formidable and dangerous coalition. If France and Spain become a single cohesive unit, Britain’s war in the American continent as well the Indian subcontinent is a lost cause. 
+
+![](https://placehold.co/1200x675.png)
 
 So the British diplomats and planners pitched Holy Roman Empire and its allies into a major war against Spain and France on land as well as at sea in the Mediterian and the Caribean. 
 
+![](https://placehold.co/1200x675.png)
+
 Spain's power was drawing mainly from its endless gold supply from Central and South America. Understanding this, British sponsored piracies activities in the Caribbean to deal lethal blows to Spain’s strength and eventually force Spain to its knees and forever prevent the creation of a formiddle giant: France and Spain as a cohesive unit. 
+
+![](https://placehold.co/1200x675.png)
 
 Nowaday, we can still find clues of these past piracy activities along the Treasure Coast of Florida. The sinking of Spanish 1715 treasure fleet marked the decline of Spain as a major European power and start the Golden age of Ocean piracies in the Carribean as well as around the world. 
 
+![](https://placehold.co/1200x675.png)
+
 The Spanish 1715 treasure fleet was sunk during a big tropical hurricane. However like the Malaysia Flight 370, the geography and the political implication tells a very different story.
+
+![](https://placehold.co/1200x675.png)
 
 Spain and France are major land power but also have a long coast line and direct access to the Mediaterian and Atlantic. Both languages are Latin-based language and both countries are past Roman Empire territorials with main religion as Roman Catholics. 
 
+![](https://placehold.co/1200x675.png)
+
 Britain like Russia wants to be Christian but think of themselves as better and want to create their own separate branch of Christian to reduce influence from the Pope and the Roman Catholic church. 
 
+![](https://placehold.co/1200x675.png)
+
 So here it is Protestian of the West and Orthodox of the East with federated Holy Roman Empire at the central loosely control other Christian branches via Royalty endorsement.
+
+![](https://placehold.co/1200x675.png)
 
 Mostly the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The raid of 1715 Spanish treasure fleets was most likely launched from 2 locations:
 
@@ -99,9 +148,7 @@ China is rising to number 2 economies with both land, sea and air offensive nucl
 
 Russia no longer has the Soviet Union might but still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
 
-Russia and China both a Denisovan descendants but have very different skin color and religion. 
-
-Russian are white Christian and Chinese are yellow Confusian. 
+Russia and China both a Denisovan descendants but have very different skin color and religion. Russian are white Christian and Chinese are yellow Confusian. 
 
 Both countries have long common border that could trigger major conflict like France and Germany but luckily their capital, the power center of gravity and all its major population centers are far away from each other with Moscow near the Baltics sea and Beijing near the Pacifics. 
 
