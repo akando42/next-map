@@ -21,7 +21,7 @@ Nowaday, #FED minutes is being watched by bankers and policy makers around the w
 
 If you are a #BigBank and at the top with access to cheap, ultra-low interest credit then you are cool but if you have a normal working person with a saving then you are the suckers.
 
-![](https://placehold.co/1200x675.png)
+![Largest Banks In United States by Total Assets](https://storage.googleapis.com/spykman-world/largest_banks_in_united_states.png)
 
 Original role of the Bank is to #HoldDeposit from value creators or saving and lend it back to businesses to create more value. Modern banking does not make money by lending out money from their depositor money anymore. Modern banking makes money from extra-cash print out by the FED and central banks around the world and charge their depositors ridiculous fees.
 
@@ -29,40 +29,35 @@ Original role of the Bank is to #HoldDeposit from value creators or saving and l
 
 Normal working people have no to little access to the #EquityMarket to counter this value erosion trend created by #CentralBanks and the FEDs. And even if you have a portfolio to counter the FED’s induced value-erosion policies, each financial crisis, you will get robbed of all your hard-earn value and wealth are increasing concentrating on the top 1%.  The king and monarchy is already back and we do not even know it. 
 
-![](https://placehold.co/1200x675.png)
+![401K account holders vs the rest of population](https://storage.googleapis.com/spykman-world/longterm-investments-in-401k.png)
 
-The modern 30 years Mortgage at 5% interest rate and Consumer Credit Card industry at 21% interest while the big banks are getting near 0% interest from OUR government is just another form of Bondage that had enslaved European people in 17 & 18 century and led them to escape the continent and find freedom in the United States. 
+The modern 30 years #Mortgage at 5% interest rate and Consumer Credit Card industry at 21% interest while the big banks are getting near 0% interest from OUR government is just another form of Bondage that had enslaved European people in 17 & 18 century and led them to escape the continent and find freedom in the United States. 
 
-![](https://placehold.co/1200x675.png)
+![The Banks Own two third of all American homes](https://storage.googleapis.com/spykman-world/mortgage_free.png)
 
-This distortion of natural cycle of value creation started with the Cold War and the Vietnam War. 
-The US needed extra financial resources in order to fund the IRON curtain countries and the US dollar is the value anchor of the whole world anyway so no one can stop it.
+This distortion of natural cycle of value creation started with the Cold War and the Vietnam War. The US needed extra financial resources in order to fund the IRON curtain countries and the US dollar is the value anchor of the whole world anyway so no one can stop it. Extra dollars were being shipped to #IronCurtain countries via IMF and World BANK lending and financial assistant programs. 
 
-![](https://placehold.co/1200x675.png)
+![Iron Curtain Countries](https://storage.googleapis.com/spykman-world/iron-curtain-countries.png)
 
-Extra dollars were being shipped to IRON curtain countries via IMF and World BANK lending and financial assistant programs. These IRON curtains countries will then maximize their OUTPUT via Industrial built-up WHILE  the AMERICAN will maximize their INPUT by absorbing the OUTPUT from IRON-CURTAIN countries via Consumption and Credit Usage.
+These IRON curtains countries will then maximize their #Exports via Industrial built-up WHILE AMERICANs will maximize their #Imports by absorbing the OUTPUT from IRON-CURTAIN countries via Consumption and Credit Usage.
 
-![](https://placehold.co/1200x675.png)
+![Every Takes Dollar because the Currency is Backed by Golds and Nukes](https://storage.googleapis.com/spykman-world/print-money-to-buy-stuffs.png)
 
-This is supposed to be a UP-Ward Spiral or an UPward ReCURSIVE process with the US lifting the entire world industrial and productivity output. 
+This is supposed to be a UP-Ward Spiral or an UPward ReCURSIVE process with the US lifting the entire world industrial and productivity output. However, they overdid it and the Vietnam War eventually led to the collapse of Brenton Wood agreement and Richard Nixion got rid of the Gold standard. This led to the beginning of the Down-ward Spiral Process of VALUE.
 
-![](https://placehold.co/1200x675.png)
-
-However, they overdid it and the Vietnam War eventually led to the collapse of Brenton Wood agreement and Richard Nixion got rid of the Gold standard. This led to the beginning of the Down-ward Spiral Process of VALUE.
-
-![](https://placehold.co/1200x675.png)
+![Richard Nixon suspended Gold Standard temporarily but forever](https://storage.googleapis.com/spykman-world/suspend_gold_standard_temporary_maybe.gif)
 
 If Kennedy was still president, the US probably end the Vietnam War 10 years earlier, did not have to break the post WWII Brenton Wood agreement and the Gold Standard and start the Down-ward spiral of the World value storage and productivity growth.
 
-![](https://placehold.co/1200x675.png) 
+![JFK First Lady Running Away Instinctively from JFK Corpse](https://storage.googleapis.com/spykman-world/JFK_first_lady_running_from_JFK_corpse.png)
 
 The Vietnam War and Kennedy assisassisation marked the peak of the US role as the world's leader and start the deceleration process of US industrial and productivity growth. 
 
-![](https://placehold.co/1200x675.png)
+![WW2 and the Internet Boosted US Productivity Growth](https://storage.googleapis.com/spykman-world/ww2_and_the_internet_boosted_us_productivity_growth.png)
 
 US economy gradually transitioned from Productivity Growth and Value Creation Activities to Financial and Lending related activities with their share of the GDP gradually moving away from Value Creation activities into more of Financial and Banking related activities. 
 
-![](https://placehold.co/1200x675.png)
+![Moved From Making Hardware Stuffs and Trade Them to Making Digital products and Trade them](https://storage.googleapis.com/spykman-world/us_moved_from_trading_hardware_products_to_trading_information.png)
 
 Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. 
 
