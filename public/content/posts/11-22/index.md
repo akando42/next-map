@@ -57,7 +57,7 @@ The Vietnam War and Kennedy assisassisation marked the peak of the US role as th
 
 US economy gradually transitioned from Productivity Growth and Value Creation Activities to Financial and Lending related activities with their share of the GDP gradually moving away from Value Creation activities into more of Financial and Banking related activities. 
 
-![Moved From Making Hardware Stuffs and Trade Them to Making Digital products and Trade them](https://storage.googleapis.com/spykman-world/us_moved_from_trading_hardware_products_to_trading_information.png)
+![Moved From Making Hardware Stuffs and Trade Them to Making Digital products and Trade them](https://storage.googleapis.com/spykman-world/us_moved_from_manufacturing_and_trading_to_banking_and_it.png)
 
 Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. 
 
