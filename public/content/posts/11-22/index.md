@@ -59,106 +59,116 @@ US economy gradually transitioned from Productivity Growth and Value Creation Ac
 
 ![Moved From Making Hardware Stuffs and Trade Them to Making Digital products and Trade them](https://storage.googleapis.com/spykman-world/us_moved_from_manufacturing_and_trading_to_banking_and_it.png)
 
-Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. 
+Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. Real Estate is just another money-sunk credit-driven industry. We like to live in a nice house but a mansion or a one bed-room studio does not help to increase or decrease our individual Productivity. 
 
-![](https://placehold.co/1200x675.png)
-
-Real Estate is just another money-sunk credit-driven industry. We like to live in a nice house but a mansion or a one bed-room studio does not help to increase or decrease our individual Productivity. 
-
-![](https://placehold.co/1200x675.png)
+![Sky High Housing Price Pop Up by FED Cheap Credit](https://storage.googleapis.com/spykman-world/skyhigh-housing-price-popup-by-FED-cheap-credits.png)
 
 Manufacturing, Agriculture, Transportation, Technology, Science and Research was the main driver that propelled the US into the World number 1 economy and will most likely propell China and Germany into number 1 and 2 spot of the World Economy since they see the most improvement in Productivity growth as well as Population growth since WWII and have a very strong industrial and technology value creation economy. 
 
-![](https://placehold.co/1200x675.png)
+![Germany and China Deep Insight of American Lifes](https://storage.googleapis.com/spykman-world/china-germany-deep-insight-of-american-lifes.png)
 
-The US is holding on to its number 1 spot with more cheap credit, its unfair advantage as Currency reserve and its NUKE to pressure non-Nuclear nations like Germany and Japan in trade negotiating table. 
+The US is holding on to its number 1 spot with more cheap credit, its unfair advantage as Currency reserve and its NUKE to pressure non-Nuclear nations like Germany and Japan in trade negotiating table. Well humans can INVENT NUKE then we should be able to figure out a way to DISABLE NUKE. 
 
-![](https://placehold.co/1200x675.png)
-
-Well humans can INVENT NUKE then we should be able to figure out a way to DISABLE NUKE. 
+![US Military Bases in Germany](https://storage.googleapis.com/spykman-world/us-military-bases-in-germany.png)
 
 ### Fort Knox, Kentucky - The Golden Eggs Stash That Ensure American Perpetual Dominance.
 
-Gold is something we all believe in since before the birth of Christ, across different cultures, at the time of war or peace as long as the Sun is still shining with its golden rays. 
+Gold is something we all believe in since before the birth of Christ, across different cultures, at the time of war or peace as long as the Sun is still shining with its golden rays. Gold reserve is the requirement of a true world superpower. As of today, top 6 countries in gold reserves are USA, Germany, Italy, France, China and Russia.
 
-![](https://placehold.co/1200x675.png)
+![American Gold Reserves Vault in Fort Knox](https://storage.googleapis.com/spykman-world/american-gold-reserves-vault-with-new-airport.png)
 
-Gold reserve is the requirement of a true world superpower. As of today, top 6 countries in gold reserves are USA, Germany, Italy, France, China and Russia. 
+United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling. United Kingdom more than anyone else understand the crucial role of a nation treasure in its long-term prospect. 
 
-![](https://placehold.co/1200x675.png)
-
-United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling.
-
-![](https://placehold.co/1200x675.png) 
-
-United Kingdom more than anyone else understand the crucial role of a nation treasure in its long-term prospect. 
-
-![](https://placehold.co/1200x675.png)
+![The King uses Social media not Gold no More to Show his Face](https://storage.googleapis.com/spykman-world/gold-reserves-in-ton-by-countries.png)
 
 During the early 1700 War of Spanish Succession, France and Spain are moving too close to become a formidable and dangerous coalition. If France and Spain become a single cohesive unit, Britain’s war in the American continent as well the Indian subcontinent is a lost cause. 
 
-![](https://placehold.co/1200x675.png)
+![The Spanish British War of 1700s](https://storage.googleapis.com/spykman-world/the-spanish-british-wars-of-1700s.png)
 
-So the British diplomats and planners pitched Holy Roman Empire and its allies into a major war against Spain and France on land as well as at sea in the Mediterian and the Caribean. 
+So the British diplomats and planners pitched Holy Roman Empire aka Modern Germany and its allies into a major war against Spain and France on land as well as at sea in the Mediterian and the Caribean. 
 
-![](https://placehold.co/1200x675.png)
+![Wars at Sea between British Royal Navy and Spanish Armada](https://storage.googleapis.com/spykman-world/wars-at-sea-between-british-royal-navy-and-spanish-armada.png)
 
 Spain's power was drawing mainly from its endless gold supply from Central and South America. Understanding this, British sponsored piracies activities in the Caribbean to deal lethal blows to Spain’s strength and eventually force Spain to its knees and forever prevent the creation of a formiddle giant: France and Spain as a cohesive unit. 
 
-![](https://placehold.co/1200x675.png)
+![Spanish Gold Supply From Latin America](https://storage.googleapis.com/spykman-world/spanish-gold-supply-from-south-america.png)
 
 Nowaday, we can still find clues of these past piracy activities along the Treasure Coast of Florida. The sinking of Spanish 1715 treasure fleet marked the decline of Spain as a major European power and start the Golden age of Ocean piracies in the Carribean as well as around the world. 
 
-![](https://placehold.co/1200x675.png)
+![Spanish Fleet Frequent Sunk Location Became the Florida Treasure Coast](https://storage.googleapis.com/spykman-world/spanish-frequent-sunk-location.png)
 
 The Spanish 1715 treasure fleet was sunk during a big tropical hurricane. However like the Malaysia Flight 370, the geography and the political implication tells a very different story.
 
+![Spanish Golden Trade Route through the North Atlantics Ocean](https://storage.googleapis.com/spykman-world/the-similiarity-between-chinese-pacifics-and-spanish-atlantics-trade-routes.png)
+
+Spain and France are major land power but also have a long coast line and direct access to the Mediaterian and Atlantic. Both languages are Latin-based language and both countries are past Roman Empire territorials with main religion as Roman Catholics and population is heavily Romanized.  
+
+![The Soldier DNA](https://storage.googleapis.com/spykman-world/spanish-french-roman-soldiers-dna.png)
+
+Britain like Russia wants to be Christian but think of themselves as better and want to create their own separate branch of Christian to reduce influence from the Pope and the Roman Catholic church. Both British, Northern German and Russian monarchs have Nordic Scandinavian origins. So here it is, the Protestian of the England, the Orthodox of the Russia and the New Holy Roman Empire of Germany banned together to fight the Catholic Roman Empire states of France and Spain. 
+
+![The Propagandist DNA](https://storage.googleapis.com/spykman-world/german-british-russian-propagandist-dna.png)
+
+Most likely the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The raid of 1715 Spanish treasure fleets was most likely launched from 2 locations:
+
 ![](https://placehold.co/1200x675.png)
 
-Spain and France are major land power but also have a long coast line and direct access to the Mediaterian and Atlantic. Both languages are Latin-based language and both countries are past Roman Empire territorials with main religion as Roman Catholics. 
+The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau. And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
 
 ![](https://placehold.co/1200x675.png)
-
-Britain like Russia wants to be Christian but think of themselves as better and want to create their own separate branch of Christian to reduce influence from the Pope and the Roman Catholic church. 
-
-![](https://placehold.co/1200x675.png)
-
-So here it is Protestian of the West and Orthodox of the East with federated Holy Roman Empire at the central loosely control other Christian branches via Royalty endorsement.
-
-![](https://placehold.co/1200x675.png)
-
-Mostly the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The raid of 1715 Spanish treasure fleets was most likely launched from 2 locations:
-
-The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau.
-And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
 
 Pirates sponsored by the Crown will then make sure most of treasure will be captured and shared among Caribean pirates as kick-start capital for further piracy payroll, working capital, ship upgrade and weapon purchases.
 
+![](https://placehold.co/1200x675.png)
+
 After the sinking of Spanish treasure fleet of 1715, we saw the Golden Age of Caribean piracies from 1716 - 1726. The whole Spanish Succession War and The Pirates of Carribeans look a lot like the China-Russia relationship of 21 century and South China Sea dispute.  
+
+![](https://placehold.co/1200x675.png)
 
 During the height of the Cold War, China is still a developing nation with backward industrial capabilities as well as a peasant army with little to none naval or air force. The Soviet Union alone already put up a good fight and come close to bankrupt America but bankrupt itself first. 
 
-At the beginning of 21 centuries, America's biggest ally, England is at the sunset of its power.
-China is rising to number 2 economies with both land, sea and air offensive nuclear and conventional capabilities 
+![](https://placehold.co/1200x675.png)
+
+At the beginning of 21 centuries, America's biggest ally, England is at the sunset of its power. China is rising to number 2 economies with both land, sea and air offensive nuclear and conventional capabilities 
+
+![](https://placehold.co/1200x675.png)
 
 Russia no longer has the Soviet Union might but still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
 
-Russia and China both a Denisovan descendants but have very different skin color and religion. Russian are white Christian and Chinese are yellow Confusian. 
+![](https://placehold.co/1200x675.png)
+
+Russia and China both a Denisovan descendants but have very different skin color and religion. Russian are white Christian and Chinese are yellow Confusian.
+
+![](https://placehold.co/1200x675.png) 
 
 Both countries have long common border that could trigger major conflict like France and Germany but luckily their capital, the power center of gravity and all its major population centers are far away from each other with Moscow near the Baltics sea and Beijing near the Pacifics. 
 
+![](https://placehold.co/1200x675.png) 
+
 So if both focus on the geographic and economic factors then they compliment each others and have great synergy, looking like a perfect M & A. However, if both focus on ethnicity and religious factors then they are vastly different and could be arch enemy. World War losers let their land become the battle ground while the winners fund the war and sell weapons to both sides. 
+
+![](https://placehold.co/1200x675.png) 
 
 Most WWII casualties are in Russia and China and maybe the American weapon designer was planning to wipe out half of the world population with the majority of that trunk comes from Middle East, China, India and Indonesia. That’s why the newest stealth fighters are F35 and we have little more than 7 billion people on earth. 
 
-Russia is the land-bridge between East and West. It has the power to unite the Euro-Asia Continent or plunge itself and the entire continent into another war.
+![](https://placehold.co/1200x675.png) 
+
+Russia is the land-bridge between East and West. It has the power to unite the Euro-Asia Continent or plunge itself and the entire continent into another wars. Ater 2020, maybe Russia prefers constant Chaos in Euro Asia and keep their wife and children in United States or Canada.
 
 ### Triple Headed Eagle and Its Mandate From the Sky
 
 Whether the West like it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities.  Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
 
+![](https://placehold.co/1200x675.png) 
+
 Americans need to look into mirror, fix its soul, redeem its karma from past African slavery, native Americans massacre and modern day White Christian supremacy first before it can truly claim its role as world liberators or the promoters of liberal and democratic value.  
 
-People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure. 
+![](https://placehold.co/1200x675.png) 
+
+People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure.
+
+![](https://placehold.co/1200x675.png)  
 
 People wants food, clean air and water, housing, healthcare, child development and then when they have free-time then they will go to vote.
+
+![](https://placehold.co/1200x675.png) 
