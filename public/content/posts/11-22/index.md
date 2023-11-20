@@ -109,66 +109,64 @@ Britain like Russia wants to be Christian but think of themselves as better and 
 
 ![The Propagandist DNA](https://storage.googleapis.com/spykman-world/german-british-russian-propagandist-dna.png)
 
-Most likely the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The raid of 1715 Spanish treasure fleets was most likely launched from 2 locations:
+Most likely the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau. And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
 
-![](https://placehold.co/1200x675.png)
+![British Royal Navy and Pirates vs Spanish Armada](https://storage.googleapis.com/spykman-world/british-navy-and-pirates-vs-spanish-armanda.png)
 
-The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau. And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
+#Pirates sponsored by the Crown will then make sure most of treasure will be captured and shared among Caribean pirates as kick-start capital for further piracy payroll, working capital, ship upgrade and weapon purchases.
 
-![](https://placehold.co/1200x675.png)
+![Gold Coins from SUNKEN Spanish Armada](https://storage.googleapis.com/spykman-world/pirates-of-caribbean-golds.png)
 
-Pirates sponsored by the Crown will then make sure most of treasure will be captured and shared among Caribean pirates as kick-start capital for further piracy payroll, working capital, ship upgrade and weapon purchases.
+After the sinking of Spanish treasure fleet of 1715, we saw the Golden Age of Caribean piracies from 1716 - 1726. The whole Spanish Succession War and The Pirates of Carribeans look a lot like the #China-Russia relationship of 21 century and South China Sea dispute.  
 
-![](https://placehold.co/1200x675.png)
+![Russian Merchants of Chaos](https://storage.googleapis.com/spykman-world/russian-merchant-of-chaos.png)
 
-After the sinking of Spanish treasure fleet of 1715, we saw the Golden Age of Caribean piracies from 1716 - 1726. The whole Spanish Succession War and The Pirates of Carribeans look a lot like the China-Russia relationship of 21 century and South China Sea dispute.  
+Post WW2 of 1949, People Liberation Army with no expedition naval forces was not able to capture the Kinmen Island, which is only 11 kilometers from its shores from Taiwan. During the height of the Cold War of 1980s, China was still a developing nation with backward industrial capabilities as well as a peasant army with minimum naval or air force. 
 
-![](https://placehold.co/1200x675.png)
+![Taiwan vs China Balance of Military Power](https://storage.googleapis.com/spykman-world/real-balance-of-power-between-taiwan-and-china.png)
 
-During the height of the Cold War, China is still a developing nation with backward industrial capabilities as well as a peasant army with little to none naval or air force. The Soviet Union alone already put up a good fight and come close to bankrupt America but bankrupt itself first. 
+At the beginning of 21 century, America's biggest ally, England is at the sunset of its power and China is rising to number 2 Economy. The PLAN possesses with both land, sea and air offensive nuclear and conventional capabilities but still has never conducted any successful real-world naval campaigns.
 
-![](https://placehold.co/1200x675.png)
+![Chinese Refurbish Aircraft Carrier](https://storage.googleapis.com/spykman-world/chinese-Refurbish-aircraft-carrier.png)
 
-At the beginning of 21 centuries, America's biggest ally, England is at the sunset of its power. China is rising to number 2 economies with both land, sea and air offensive nuclear and conventional capabilities 
+After the Soviet Union collapse, Russia still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves only after the US. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
 
-![](https://placehold.co/1200x675.png)
+![Russia and Northern Europe OIL and Gas Deposit](https://storage.googleapis.com/spykman-world/europe-oil-and-gas-deposits.png)
 
-Russia no longer has the Soviet Union might but still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
+However, Russia of 21 century no longer has a fully RED flag. Russia and China both have large blood type B population but Blood type B in Russia has declined to a minority share of population. Russian is still a highly Caucasian Christian society while China is still a highly East Asian Confucious society. 
 
-![](https://placehold.co/1200x675.png)
-
-Russia and China both a Denisovan descendants but have very different skin color and religion. Russian are white Christian and Chinese are yellow Confusian.
-
-![](https://placehold.co/1200x675.png) 
+![RUSSIA-SOVIET-CHINA](https://storage.googleapis.com/spykman-world/RUSSIAN-SOVIET-CHINA.png)
 
 Both countries have long common border that could trigger major conflict like France and Germany but luckily their capital, the power center of gravity and all its major population centers are far away from each other with Moscow near the Baltics sea and Beijing near the Pacifics. 
 
-![](https://placehold.co/1200x675.png) 
+![Moscow Empty Space Beijing](https://storage.googleapis.com/spykman-world/moscow-buffer-beijing.png) 
 
 So if both focus on the geographic and economic factors then they compliment each others and have great synergy, looking like a perfect M & A. However, if both focus on ethnicity and religious factors then they are vastly different and could be arch enemy. World War losers let their land become the battle ground while the winners fund the war and sell weapons to both sides. 
 
-![](https://placehold.co/1200x675.png) 
+![Stalingrad and Berlin in 1945](https://storage.googleapis.com/spykman-world/stalingrad-and-berlin-1945.png) 
 
-Most WWII casualties are in Russia and China and maybe the American weapon designer was planning to wipe out half of the world population with the majority of that trunk comes from Middle East, China, India and Indonesia. That’s why the newest stealth fighters are F35 and we have little more than 7 billion people on earth. 
+Most WWII casualties are in Russia and China and maybe the American weapon designer was planning to wipe out or convert half of the world population to Blood type A and O with the majority of that trunk comes from Middle East, China, India and Indonesia. That’s why the newest stealth fighters are F35 and we have little more than 7 billion people on earth. 
 
-![](https://placehold.co/1200x675.png) 
+![Countries Part of the F35 Program](https://storage.googleapis.com/spykman-world/countries-part-of-f35-program.png) 
 
 Russia is the land-bridge between East and West. It has the power to unite the Euro-Asia Continent or plunge itself and the entire continent into another wars. Ater 2020, maybe Russia prefers constant Chaos in Euro Asia and keep their wife and children in United States or Canada.
 
+![2021 Putin Biden Submit](https://storage.googleapis.com/spykman-world/2021_putin_biden_submit.png)
+
 ### Triple Headed Eagle and Its Mandate From the Sky
 
-Whether the West like it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities.  Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
+Whether the West like it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities. Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
 
-![](https://placehold.co/1200x675.png) 
+![Communist Union at its Peak](https://storage.googleapis.com/spykman-world/the-communist-union-at-its-peak.png) 
 
 Americans need to look into mirror, fix its soul, redeem its karma from past African slavery, native Americans massacre and modern day White Christian supremacy first before it can truly claim its role as world liberators or the promoters of liberal and democratic value.  
 
-![](https://placehold.co/1200x675.png) 
+![San Francisco High Tech High Homeless City](https://storage.googleapis.com/spykman-world/san-francisco-fed-made-homeless.png) 
 
-People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure.
+People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure. 
 
-![](https://placehold.co/1200x675.png)  
+![Twitter Algorithm Driven Arab Spring](https://storage.googleapis.com/spykman-world/twitter-algorithm-driven-arab-springs.png)
 
 People wants food, clean air and water, housing, healthcare, child development and then when they have free-time then they will go to vote.
 
-![](https://placehold.co/1200x675.png) 
+![Dollar Store Food Cans](https://storage.googleapis.com/spykman-world/dollar-store-food-cans.png)
