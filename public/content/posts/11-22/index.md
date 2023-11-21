@@ -7,6 +7,7 @@ cover: "content/posts/11-22/spykman-world-JFK_limo.png"
 date: "11-22"
 title: "John F. Kennedy Assassination and the Dilution of Adam Smith Vision"
 tags: ['England','Assassination','John F. Kennedy','Texas','Florida','The Atlantic','Spykman World','Nicholas Spykman']  
+summary: "After 1975, the American planners switched from an #ATOM #Superpower  to #BIT #Superpower via #USDollars as Global Reserves Currency and #USInternet as #GlobalCommunicationNetwork. Did this switch from #ATOM to #BIT make America stronger or weaker?"
 published: true
 ---
 ### JOHN F. KENNEDY ASSASSINATION - A PIERCING BULLET THAT CHANGE HISTORY
