@@ -29,14 +29,14 @@ const handler = async function (event, context) {
       ///////////////////////////////////////////////////////////
       ////////  Tweet out text and static local image ///////////
       ///////////////////////////////////////////////////////////
-      const mediaIds = await Promise.all([
-        twitterClient.v1.uploadMedia(image_file)
-      ]);
+      // const mediaIds = await Promise.all([
+      //   twitterClient.v1.uploadMedia(image_file)
+      // ]);
 
-      await twitterClient.v2.tweet({
-        text: message,
-        media: { media_ids: mediaIds }
-      });
+      // await twitterClient.v2.tweet({
+      //   text: message,
+      //   media: { media_ids: mediaIds }
+      // });
 
       //////// Tweet out text and image from url ///////////
       // const response = await axios.get(remoteURL,  { responseType: 'arraybuffer' })

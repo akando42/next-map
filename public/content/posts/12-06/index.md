@@ -6,57 +6,79 @@ path: "/the-byzantine-generals-grandiose-plan"
 cover: "content/posts/12-06/spykman-world-west-roman-east-roman.png"
 date: "12-06"
 title: "The Byzantine Generals Grandiose Plan"
-summary: "Geography gave the Western civilizations unfair naval advantages early on in human history. From the Roman Empire of 1st century to the European Colonial Empires of 17 century to the modern day United States of 21 century, these naval advantages kept compounding and leading to the total domination of Western thoughts, cultures and way of lives in every corner of the earth. Is the space age going to be another Western domination? If so we are no longer can blame Geography and the Game of Chances."
+summary: "Being able to command and control forces across vast geographical territorials requires superior communication network. Romans dominated the Mediterranean with better alphanets, Britishs dominated Europe via the Radiowave and Americans dominated the world with the Internet. Who will have superior com in 21 century? "
 tags: ['Spain','Germany','Russia','Latin','Roman','Mediterranean','Spykman World','Nicholas Spykman']  
 published: true
 ---
-Geography gave the Western civilizations unfair naval advantages early on in human history. 
+Geography gave the Western civilizations unfair naval advantages early on in human history. From the Roman Empire of 1st century to the European Colonial Empires of 17 century to the modern day United States of 21 century, these naval advantages kept compounding and leading to the total domination of Western thoughts, cultures and way of lives in every corner of the earth. 
 
-From the Roman Empire of 1st century to the European Colonial Empires of 17 century to the modern day United States of 21 century, these naval advantages kept compounding and leading to the total domination of Western thoughts, cultures and way of lives in every corner of the earth. 
+![Infant Navy Practice Pools](https://storage.googleapis.com/spykman-world/infant-navy-practice-pool.png)
 
 Is the space age going to be another Western domination? If so we are no longer can blame Geography and the Game of Chances.
+
+![SpaceX Starlink Constellation](https://storage.googleapis.com/spykman-world/space-x-starlink-constellation.png)
 
 ### The Inherited Empire Building Formula
 
 Who is the Godfather ? Probably a Roman soldier. 
 
+![The Island of Sicily](https://storage.googleapis.com/spykman-world/island_of_sicily.png)
+
 First there was Latin, an efficient alphabet that transformed the information landscape of the Italian peninsula. 
 
-Now the senators of Rome and their field generals from all Italian city states can have written battle plan documentations with detailed calculations in Roman numbers that they can all agree on.
+![The Roman Latin Alphabet](https://storage.googleapis.com/spykman-world/roman-latin-alphabet.png)
 
-Large and complex plan that is beyond the average human memory could be created by multiple parties and executed precisely by the generals and their soldiers on the field. 
+Now the senators of Rome and their field generals from all Italian city states can have written battle plan documentations with detailed calculations in Roman numbers that they can all agree on. Large and complex plan that is beyond the average human memory could be created by multiple parties and executed precisely by the generals and their soldiers on the field. 
 
-Contracts that tied all the city states together into one single coalition could be signed by every tribute city leader. 
+![The Roman Efficient Written Communication](https://storage.googleapis.com/spykman-world/roman-general-reading-plans.png)
 
-While learning to speak and listen to a foreign language will take a long time and is quite challenging for adults, learning to write and read a foreign language is much easier and could be done quickly by all Roman satellite states decision makers. 
+Contracts that tied all the city states together into one single coalition could be signed by every tribute city leader. While learning to speak and listen to a foreign language will take a long time and is quite challenging for adults, learning to write and read a foreign language is much easier and could be done quickly by all Roman satellite states decision makers. 
 
-With the written battle plans and the written tribute state contracts, Rome grew quickly and every contract that was signed by a city state, Rome could draw more resources and soldiers from. 
+![Roma as Central of Roman Empire](https://storage.googleapis.com/spykman-world/roma-as-central-of-roman-empire.png)
 
-The Latin alphabet also becomes more popular after each contract is signed and becomes part of Roman identity that distincted Roman vs non-Roman. 
+With the written battle plans and the written tribute state contracts, Rome grew quickly and every contract that was signed by a city state, Rome could draw more resources and soldiers from. The Latin alphabet also becomes more popular after each contract is signed and becomes part of Roman identity that distincted Roman vs non-Roman. 
 
-The system of Roman Legion from recruit, to training, to weapon building as well as battle tactics now could be standardized from a single written documentation by the Roman military thinkers.  
+![Roman Gladiator Cage](https://storage.googleapis.com/spykman-world/roman-gladiator-cage.png)
 
-What worked and what did not work during a battle could be recorded in written form and used to improve the Roman military structures later. 
+The system of Roman Legion from recruit, to training, to weapon building as well as battle tactics now could be standardized from a single written documentation by the Roman military thinkers. What worked and what did not work during a battle could be recorded in written form and used to improve the Roman military structures later. 
+
+![Roman Legion Structure](https://storage.googleapis.com/spykman-world/roman-legion-structure.png)
 
 Roman legions could lose one battle or two from a new tribe with an exotic military tactic or weapons but they could soon find the weakness of the new foe and develop their new strategies and tactics to counter the foes. 
 
+![Roman Training](https://storage.googleapis.com/spykman-world/roman-training.png)
+
 So at first the Roman was failing at sea against the Cathrage of North Africa, then they developed the Roman ship-boarding ramp that turned a sea battle into a land battle for the Roman legions. 
+
+![Roman Ship Boarding Ram](https://storage.googleapis.com/spykman-world/roman-ship-boarding-ram.png)
 
 When the Roman were dealing with superior Calvary like the case of the Hannibal campaign during the 2nd Punic War then they withdrew back to their fortified coastal cities with a sea port that can supply the cities indefinitely, block Hannibal supply line and slowly wear down Hannibal army via small engagements instead of high intensity open field battles. 
 
+![Walled Coastal City on Sicily Island](https://storage.googleapis.com/spykman-world/walled-coastal-city.png)
+
 When dealing with the Iberian cavalry of Spain and the Numedian cavalry of North Africa, then Rome used the divide and conquer strategy to never allow their calvary force of these tribes to link up and reach the critical mass that could threaten the Roman legions. 
+
+![Spanish Iberian Calvary](https://storage.googleapis.com/spykman-world/iberian-calvary.png)
 
 When dealing with the barbarian French Gallic and Germanic of whom almost every man is fit for fighting and have a furious first charge that could break through the Roman shield walls, Roman utilize their superior Training and better Armor to turn a Sprint into a Marathon. The Roman war machine with superior logistics used the piecemeal approach to gradually chew throw the numerical superior tribe of Gallic and Germanic. 
 
+![French Gallic Soldier](https://storage.googleapis.com/spykman-world/french-garlic-gallic.png)
+
 The Roman only start to decline and lose their elite generals and troops when they over-expand North into Germany beyond the reach of their naval supply line and naval troop transports. Roman supply range issues on land need to wait for the invention of trucks and trains. 
 
-When the Roman Empire collapsed, their way of building empires via superior naval supplyline and well standardized structured , equipped and trained army lived on and resulted in the rebirth of the British Empire, Spanish Empire, French Empire and Holy Roman Empire of Germany.
+![Roman Overexpansion into Germany](https://storage.googleapis.com/spykman-world/roman-overexpansion-into-germany.png)
+
+When the Roman Empire collapsed, their way of building empires via superior naval supplyline and well standardized structured, equipped and trained army lived on and resulted in the rebirth of the British Empire, Spanish Empire, French Empire and Holy Roman Empire of Germany.
+
+![Continental Army of Europe](https://storage.googleapis.com/spykman-world/continental-army-of-europe.png)
 
 Even after the fall of Eastern Roman and Constantinople because of the mobile horsemen of Central Asia and Persia with their arrows and gun powder projectiles,  the Western Roman war machine would breed their own lineages of horses, develop their calvary formation as well as building their own guns and cannons for infantry used against the original inventors of the horse archers, the cavalry charge and the siege cannon of the East.  
 
-Moscow was reborn from Constantinople ashes as the Russian Empire and Soviet Union with a formidable land army that supplied via horses and later on the Siberian railways that eventually dominated Central and East Asia. 
+![Turkish Capture of Constantinople](https://storage.googleapis.com/spykman-world/turkish-capture-of-constantinople.png)
 
-Maybe the Bible is a 1000s year encrypted database with updates every decade or century or so.
+Moscow was reborn from Constantinople ashes as the Russian Empire and Soviet Union with a formidable land army that supplied via horses and later on the Siberian railways that eventually dominated Central and East Asia. Maybe the Bible is a 1000s year encrypted database with updates every decade or century or so.
+
+![Soviet Artilery Stopping German Tank Advances](https://storage.googleapis.com/spykman-world/sovie-artilery-stopping-german-tank-advances.png)
 
 ### Austrian Economics vs Keynesian Economics
 
