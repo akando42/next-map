@@ -7,7 +7,7 @@ cover: "content/posts/11-22/spykman-world-JFK_limo.png"
 date: "11-22"
 title: "John F. Kennedy Assassination and the Dilution of Adam Smith Vision"
 tags: ['England','Assassination','John F. Kennedy','Texas','Florida','The Atlantic','Spykman World','Nicholas Spykman']  
-summary: "After 1975, the American planners switched from an #ATOM #Superpower  to #BIT #Superpower via #USDollars as Global Reserves Currency and #USInternet as #GlobalCommunicationNetwork. Did this switch from #ATOM to #BIT make America stronger or weaker?"
+summary: "After 1975, the #American planners switched from an #ATOM #Superpower to #BIT #Superpower via #USDollars as Global #ReservesCurrency and #USInternet as #GlobalCommunicationNetwork. Did this switch from #ATOM to #BIT make America stronger or weaker?"
 published: true
 ---
 ### JOHN F. KENNEDY ASSASSINATION - A PIERCING BULLET THAT CHANGE HISTORY
@@ -16,7 +16,7 @@ JFK assassination at the high of the COLD WAR marked the beginning of a constant
 
 ![US Dollar and Gold Price](https://storage.googleapis.com/spykman-world/US_Dollar_and_Gold_Price.png)
 
-Nowaday, #FED minutes is being watched by bankers and policy makers around the world. The #FED signals their lowering of interest rates and more quantitative easing. Every other central banks would follow with their own policies of lowering interest rates and quantitative easing. 
+Nowaday, #FED minutes is being watched by bankers and policy makers around the world. If The #FED signals their lowering of interest rates and more quantitative easing, every other central banks would follow with their own policies of lowering interest rates and quantitative easing. 
 
 ![US Federal Reserves Chairmans](https://storage.googleapis.com/spykman-world/us_federal_reserves_chairmans.png)
 
@@ -156,7 +156,7 @@ Russia is the land-bridge between East and West. It has the power to unite the E
 
 ### Triple Headed Eagle and Its Mandate From the Sky
 
-Whether the West like it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities. Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
+Whether the West likes it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities. Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
 
 ![Communist Union at its Peak](https://storage.googleapis.com/spykman-world/the-communist-union-at-its-peak.png) 
 
