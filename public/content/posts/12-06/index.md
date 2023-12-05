@@ -118,39 +118,47 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
 
-In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. 
+![Qin Crossbow Mass Manufacturing](https://storage.googleapis.com/spykman-world/qin-crossbow-mass-manufacturing.png)
 
-Without the fundamental science investment of the defense industry, no other nation can really keep up with the United States or be able to create the Silicon Valleys and its mega tech giants. 
+In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. Without the fundamental science investment of the defense industry, no other nation can really keep up with the United States or be able to create the Silicon Valleys and its mega tech giants. 
 
-The Internet was invented for military communication during a nuclear attack and The GPS global position system was invented for missile guidance and tank navigation. 
+![Two Options for Air Defense](https://storage.googleapis.com/spykman-world/two-options-for-air-defense.png)
 
-These breakthrough technologies will later on serve as the enabling infrastructures for companies like Apple, Google, Yahoo, Amazon, Facebook, Uber, Tesla and many more new Unicorns in upcoming decades. 
+The Internet was invented for military communication during a nuclear attack and The GPS global position system was invented for missile guidance and tank navigation. These breakthrough technologies will later on serve as the enabling infrastructures for companies like Apple, Google, Yahoo, Amazon, Facebook, Uber, Tesla and many more new Unicorns in upcoming decades. The trickle down technology is very real while the trickle down economy is a dream.  
 
-The trickle down technology is very real while the trickle down economy is a dream.  
+![Earth GPS Satelites](https://storage.googleapis.com/spykman-world/earth-gps-satelites.gif)
 
-Countries in the 21st century are increasingly finding out that American mega tech giants know much more about their citizens than themselves. They can also no longer really negotiate fairly on the trading table while the US Navy and CIA drone is watching over every move of their oil tankers and consumer products vessels. 
+Countries in the 21st century are increasingly finding out that American mega tech giants know much more about their citizens than themselves. They can also no longer really negotiate fairly on the trading table while the US Navy and CIA drone is watching over every move of their oil tankers and consumer products vessels.
 
-With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table.  
+![The NSA Can Tap Into All Phones](https://storage.googleapis.com/spykman-world/the-nsa-can-tap-into-all-personal-devices.png) 
 
-India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold backed currency exchange rate and avoid using the US dollar as the energy currency. 
+With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table. India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold backed currency exchange rate and avoid using the US dollar as the energy currency. 
+
+![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/germany-russia-nordstrom-gas-pipeline-explosion.png)
 
 The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
 
-The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer stop Google, Apple and even TikTok serving customers in all available languages. 
+![Germany-Russia Gas Pipeline Explosion](https://storage.googleapis.com/spykman-world/germany-russia-nordstrom-gas-pipeline-explosion.png)
 
-This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority. 
+The increasingly better computer programs that communicate in 0 and 1, can translate as well as encrypt sensitive documents, the language and organizational barriers that once stopped a Hannibal coalition from taking on Rome can no longer stop Google, Apple and even TikTok serving customers in all available languages. This new form of global communication that was built on top of American infrastructure accidentally enabled the non-English speaking world to communicate without going through the American central authority. 
+
+![Hidden Communication via the Cryptocurrency Network](https://storage.googleapis.com/spykman-world/crytocurrencies.png)
 
 If the US Pacifics fleet lost a major navy battle in South China Sea and the US Atlantic fleet lost a major naval engagement in the Mediterranean sea, that would leave US mainland vulnerable to land invasion.    
 
 ![Euroasia Fronts](content/posts/12-06/ERU_vs_USE.png)
 
-A war in the Middle East could break out between 2 US major allies: Israel and Turkey over a drone accident that accidentally deployed Israel’s covert nuclear weapon to detonate over the city of Ankara. 
+A war in the Middle East could break out between 2 US major allies: Israel and Turkey over a drone accident that accidentally deployed Israel’s covert nuclear weapon to detonate over the city of Ankara. Turkey with its massive land force and modern air forces equipped with TB2 quickly overran Israel capital Tel Aviv in retaliation for Israel's use of nuclear weapons on its major city. 
 
-Turkey with its massive land force and modern air forces equipped with TB2 quickly overran Israel capital Tel Aviv in retaliation for Israel's use of nuclear weapons on its major city. 
+![Turkish Tanks Killer](https://storage.googleapis.com/spykman-world/turkish-tb2.png)
 
 US Atlantics and Pacific fleets from the East Coast and US Air Force in Ramstein are quickly deployed to the region to assist Israel in their war with Turkey. Russian with Turkey permission deployed their Black Sea fleets to the region to assist Turkey. 
 
+![Russian Black Sea Fleet](https://storage.googleapis.com/spykman-world/russian-black-sea-fleet.png)
+
 While the US carriers and destroyers were transiting through Sicily to the Middle East, the Carrier Battle Group was ambushed and destroyed by German-Italian submarine type 212 sneaking through an underground tunnel connecting Munich and Venice. A carrier battle group was sinked without knowing what caused the catastrophe. 
+
+![Type 212 AIP DIESEL Ultra Endurance](https://storage.googleapis.com/spykman-world/aip-diesel-ultra-endurance.png)
 
 Two more carrier battle groups were deployed from the US Pacific Fleet via the Strait of Malacca to Qatar but sinked in transit by the Indian Brahmos Hypersonic Cruise Missiles and China DF21 Balistic Missiles.  At the same time, the South Korean Air Force attacked US Airbase in Okinawa and North Korea launched two nuclear balistic missiles that hit Guam and the Marshall Island. 
 
@@ -158,19 +166,31 @@ Two more carrier battle groups were deployed from the US Pacific Fleet via the S
 
 While the US is busy with the Middle East and East Asian front, The German-French forces infiltrate the US Ramstein Air Base and overrun it with their tanks and infantry to prevent any further aerial support from Germany to the Middle East. At the same time, French and German special forces traveling to Quebec under tourist visas use their stockpile of weapons in Canada to launch a major land invasion of Washington DC from Canada. 
 
+![Quebec to DC](https://storage.googleapis.com/spykman-world/quebec-to-dc.png)
+
 The Chinese People Liberation Army also had been stationed in Mexico and Guatemala with the cover of construction workers working on the Guatemala canal connecting the Caribbean and the Pacifics. With modular fast moving armor vehicles and portable anti-tank and anti-air weapons hidden in shipping containers docking for the port of Houston, the PLA and their South American allies quickly overrun Houston, Austin and Dallas.  
 
+![Doosan Chinese Construction Equipment](https://storage.googleapis.com/spykman-world/doosan-construction-workers.png)
+
 The Russian population in Canada has been built up for decades to prepare for this push into the US homeland. They infiltrated the US Norad in Colorado and disable all US early warning radars and allowed the Russian Air Force and Transport aircrafts to make the 10 hours flight from Vladivostok to Colorado via North Pole and Canada with no major resistance.  
+
+![Russian Control of NORAD](https://storage.googleapis.com/spykman-world/Cheyenne_NORAD_CC_CENTER.png)
 
 After 3 invasions of Washington DC, Houston and Colorado, the images and videos of the invasion were uploaded to social media platforms of Facebook, Snapchat and Instagram but were quickly removed by Russian and German hackers the next day. 
 
 ![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
 
-Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado 
+Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado. 
+
+![US ICBM](https://storage.googleapis.com/spykman-world/FE_Warren_ICBM_Silos.png)
 
 The US major logistic suppliers of FedEx, UPS, Walmart and Amazon servers was also hacked and shut down by Russian and German hackers directly from the US Military computer system in NORAD and Washington DC. All US Search Engines and Mapping Apps were also quickly targeted and shutdown. 
 
+![UPS DELIVERY TRUCK](https://storage.googleapis.com/spykman-world/ups-delivery-driver.png)
+
 The US just lost 3 Carrier battle groups and 5 major cities without any other State Capitol being alerted. The only thing they knew through the news was a Turkey-Israel war in the Middle East and the Korean attack on Okinawa and they no longer have access to the Internet, Walmart and Amazon. 
+
+![North Korea Normalization of ICBM Launches](https://storage.googleapis.com/spykman-world/north-korea-launches.png)
 
 After landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force had severely declined. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast prevent states to be able to coordinate and launch any major resistances.  
 
@@ -178,16 +198,27 @@ After landing forces in Denver, Houston, New York and Washington, the US ability
 
 During this chaos, hundreds of anti-satelite missiles carried by the fleet of more than 500 Mig 31 Mach 3 Aircraft was launched and take out all US and NATO communication and GPS satelites in orbits. All US major cities lights are still on but they are back to the pre-WW2 era, in the dark with no cellphone, internet or televisions. 
 
+![MIG31 Views from Space](https://storage.googleapis.com/spykman-world/mig-31-view-from-space.png)
+
 The North and South Korean Airforce secret collaboration on a wireless brain control project via nanobots inside the human brain had yielded a breakthrough just a few years earlier. The nanobot could be delivered to the recipient's brain via liquid intake like bottle water, soda, or milk and navigate up the bloodstream toward the brain. 
+
+![Nanobots Attaching to Brain Cell](https://storage.googleapis.com/spykman-world/nano-bot-attaching-to-brain-cell.png)
+
 The nanobot receivers will then attach to the brain neurons to receive signals via wireless mobile network, modulate the wireless mobile signal into neuron electrical signals and send it directly to individual neurons to deliver wireless thoughts to the receiving brains. 
 
+![5G Phone Tower](https://storage.googleapis.com/spykman-world/5g-phone-tower.png)
+
 Right before the amphibious force take over a major city, all bottling factories for water, soda and milks as well as water factories around police stations and military installations would be infiltrated by special forces and the nanobots packages would be mixed with drinking sources to turn the local policies and military personnels into remote control zombies. 
+
+![Circle K](https://storage.googleapis.com/spykman-world/circle_k.png)
 
 These remote control zombies will then be tasked with taking over more supply sources like restaurants, coffee shops and supermarkets to add more nanobots into all available drinking suppliers within the city. 
 
 ![Nanometer Chips](content/posts/12-06/nanochips.jpeg)
 
-After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were delivered among French-German, Chinese-Korean, and Russian occupied forces. 
+After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were shared among French-German, Chinese-Korean, and Russian occupied forces. 
+
+![5G Phone Towers](https://storage.googleapis.com/spykman-world/5g-phone-tower.png)
 
 All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
 
