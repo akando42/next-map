@@ -227,8 +227,3 @@ All taxes of the US East Coast will be collected by the European French-German g
 Chinese-Korean has the administrative right of Australia and Hawaii. 
 
 ![Australia New Administrations](content/posts/12-06/chinatralia.png)
-
-
-
-
-
