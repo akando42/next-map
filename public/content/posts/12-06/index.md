@@ -82,25 +82,37 @@ Moscow was reborn from Constantinople ashes as the Russian Empire and Soviet Uni
 
 ### Austrian Economics vs Keynesian Economics
 
-Adam Smith was the forefather of Capitalism and his unique insight helps humans to organize our human capital, resources and time in an exponentially more optimized way. The religion of money aka capitalism helped to propel European nations into the leading powers in the world stage through industrialization and scientific discovery.
+Adam Smith was the forefather of Capitalism and his unique insight helps humans to organize our human capital, resources and time in an exponentially more optimized way. The religion of money aka capitalism helped to propel European nations into the leading powers in the world stage through industrialization and scientific discovery. From the original Adam Smith’s vision, European philosophers and economists developed two separate branches of Economic thoughts: the English Keynesian Economics and the Austrian Economics. These two schools of economic thought reflect two different economic lenses for the world.
 
-From the original Adam Smith’s vision, European philosophers and economists developed two separate branches of Economic thoughts: the English Keynesian Economics and the Austrian Economics. These two schools of economic thought reflect two different economic lenses for the world.
+![Wealth of Nation](https://storage.googleapis.com/spykman-world/wealth_of_nation_in_scottish_museum.png)
 
-Keynesian Economics derived the understanding of resources from an Island perspective. Keynesian Economics view resources as unlimited and abundant that could be borrowed from the outside world via neo-colonialism or from the future by money printing to fund present economic activities. England is an Island nation with very few resources anyway so this Keynesian economic view helps them to constantly look outside for more resources.
+Keynesian Economics derived the understanding of resources from an Island perspective. Keynesian Economics view resources as unlimited and abundant that could be borrowed from the outside world via neo-colonialism or from the future by money printing to fund present economic activities. England is an Island nation with very few resources anyway so this Keynesian economic view helps them to constantly look outside for more resources. With the Keynesian view, the American New England planners also explore natural resources outside of American mainland first.
+
+![Keynesian Economics Theory](https://storage.googleapis.com/spykman-world/keynesian-economics-theory.png)
 
 Austrian Economics views resources from the perspective of a land power and evolved from the Roman Empire's understanding of economics. All resources available are within the limited territories of land. All resources spending now needs to result in a surplus aka aggregate productivity growth to fund territorial expansion for more resources or fund scientific discovery to spend the resources more effectively to create more surplus next cycle.
 
+![Schumpeter Creative Destruction Theory](https://storage.googleapis.com/spykman-world/schumpeter-creative-destruction-theory.png)
+
 Eventually Keynesian Economics became mainstream for most of the 20th century with American and English defining how world economics should behave in their best interests. Under the Keynesian Economics view, the world financial system is drifting further and further away from Adam Smith’s golden standard of value: “Maker is King” to “Creditor is King”.
 
-Americans and English with their absolute control of the world financial system steal and borrow without restraint from the workers, entrepreneurs of Latin America, India, China and the rest of the value creators of the world via their aggregate demand theory. While the rest of the world have to work overtime to pay off debt from America after WWII, Americans enjoy unlimited credits to waste on fast food and drugs.
+![The Global Reserve Bank](https://storage.googleapis.com/spykman-world/the-global-reserve.png)
 
-However, without enough new scientific discoveries to improve productivity or a new planet, all a Chinese or Hispanic worker can do is work 20 hours/day. He still needs to eat and sleep and he can’t be 3 times more productive so American consumers can buy more McDonalds.
+Americans and English with their absolute control of the world financial system steal and borrow without restraint from the workers, entrepreneurs of Latin America, India, China and the rest of the value creators of the world via their aggregate demand theory. While the rest of the world have to work overtime to pay off debt from America after WWII, Americans enjoy unlimited credits to waste on fast food and drugs. However, without enough new scientific discoveries to improve productivity or a new planet, all a Chinese or Hispanic worker can do is work 20 hours/day. He still needs to eat and sleep and he can’t be 3 times more productive so American consumers can buy more McDonalds.
+
+![McDonalds Communism Color Scheme](https://storage.googleapis.com/spykman-world/macdonald-secret-sauces.png)
 
 From the 21st century, Earth and its limited resources is our Island now in Keynesian views and space is the ocean. We need to discover America first before we can try to borrow from the outside world. When we run out of resources then our only option is to cannibalize each other. The American and British are leading the world into a dark and dangerous path of extinction and they do not have to worry because they have the big warheads. 
 
+![Nuclear Test Map](https://storage.googleapis.com/spykman-world/nuclear_tests_map.png)
+
 Fossil fuels or solar powers or wind power will still all affect the overall energy balance of the entire ecosystem when being used at a massive level and it does not look like human energy demand will decline anytime soon. So unless we can have a massive uptick in productivity via 3rd world countries specialized training or breakthrough scientific discoveries, we will not be able to harvest energy from space at the scale that we can sustain our civilization. 
 
+![The Kardashev Scale](https://storage.googleapis.com/spykman-world/the_kardashev_scale.png)
+
 The Roman Republics is among the first human civilizations to figure out an economic theory to create sustainable continuous economic expansion. Great generals win battles while a superior economic model wins the war. The Roman discovered the time-tested method to organize human energy and resources behind common visions.
+
+![The Roman Empire at Its Peak](https://storage.googleapis.com/spykman-world/the-roman-empire-at-its-peak.png)
 
 ### The Golden Armada of Euro Asia
 
