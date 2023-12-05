@@ -134,7 +134,7 @@ Countries in the 21st century are increasingly finding out that American mega te
 
 With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table. India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold backed currency exchange rate and avoid using the US dollar as the energy currency. 
 
-![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/germany-russia-nordstrom-gas-pipeline-explosion.png)
+![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/oil-tanker-transiting-through-djibouti.png))
 
 The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
 
@@ -218,7 +218,7 @@ These remote control zombies will then be tasked with taking over more supply so
 
 After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were shared among French-German, Chinese-Korean, and Russian occupied forces. 
 
-![5G Phone Towers](https://storage.googleapis.com/spykman-world/5g-phone-tower.png)
+![US 4G Coverage](https://storage.googleapis.com/spykman-world/us-4g-coverage.png)
 
 All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
 
