@@ -214,16 +214,12 @@ Right before the amphibious force take over a major city, all bottling factories
 
 These remote control zombies will then be tasked with taking over more supply sources like restaurants, coffee shops and supermarkets to add more nanobots into all available drinking suppliers within the city. 
 
-![Nanometer Chips](content/posts/12-06/nanochips.jpeg)
+![Nanometer Chips](https://storage.googleapis.com/spykman-world/nanochips.jpeg)
 
 After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were shared among French-German, Chinese-Korean, and Russian occupied forces. 
 
 ![US 4G Coverage](https://storage.googleapis.com/spykman-world/us-4g-coverage.png)
 
-All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
+All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. Chinese-Korean has the administrative right of Australia and Hawaii.
 
-![North America New Administrations](content/posts/12-06/RUEXICO.png)
-
-Chinese-Korean has the administrative right of Australia and Hawaii. 
-
-![Australia New Administrations](content/posts/12-06/chinatralia.png)
+![North America and the Pacifics New Administrations](https://storage.googleapis.com/spykman-world/new-map-post-ww3.png)
