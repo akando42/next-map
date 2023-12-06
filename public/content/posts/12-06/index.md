@@ -162,7 +162,7 @@ While the US carriers and destroyers were transiting through Sicily to the Middl
 
 Two more carrier battle groups were deployed from the US Pacific Fleet via the Strait of Malacca to Qatar but sinked in transit by the Indian Brahmos Hypersonic Cruise Missiles and China DF21 Balistic Missiles.  At the same time, the South Korean Air Force attacked US Airbase in Okinawa and North Korea launched two nuclear balistic missiles that hit Guam and the Marshall Island. 
 
-![US Mainland Fronts](content/posts/12-06/battle_fronts.png)
+![US Mainland Fronts](https://storage.googleapis.com/spykman-world/the-us-mainland-fronts.png)
 
 While the US is busy with the Middle East and East Asian front, The German-French forces infiltrate the US Ramstein Air Base and overrun it with their tanks and infantry to prevent any further aerial support from Germany to the Middle East. At the same time, French and German special forces traveling to Quebec under tourist visas use their stockpile of weapons in Canada to launch a major land invasion of Washington DC from Canada. 
 
