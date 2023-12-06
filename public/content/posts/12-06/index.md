@@ -146,7 +146,7 @@ The increasingly better computer programs that communicate in 0 and 1, can trans
 
 If the US Pacifics fleet lost a major navy battle in South China Sea and the US Atlantic fleet lost a major naval engagement in the Mediterranean sea, that would leave US mainland vulnerable to land invasion.    
 
-![Euroasia Fronts](content/posts/12-06/ERU_vs_USE.png)
+![The European Front](https://storage.googleapis.com/spykman-world/the-european-front.png)
 
 A war in the Middle East could break out between 2 US major allies: Israel and Turkey over a drone accident that accidentally deployed Israel’s covert nuclear weapon to detonate over the city of Ankara. Turkey with its massive land force and modern air forces equipped with TB2 quickly overran Israel capital Tel Aviv in retaliation for Israel's use of nuclear weapons on its major city. 
 
@@ -178,7 +178,7 @@ The Russian population in Canada has been built up for decades to prepare for th
 
 After 3 invasions of Washington DC, Houston and Colorado, the images and videos of the invasion were uploaded to social media platforms of Facebook, Snapchat and Instagram but were quickly removed by Russian and German hackers the next day. 
 
-![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
+![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png](https://storage.googleapis.com/spykman-world/gate-to-fertile-land-area.png)
 
 Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado. 
 
