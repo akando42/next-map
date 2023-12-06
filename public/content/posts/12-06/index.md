@@ -178,7 +178,7 @@ The Russian population in Canada has been built up for decades to prepare for th
 
 After 3 invasions of Washington DC, Houston and Colorado, the images and videos of the invasion were uploaded to social media platforms of Facebook, Snapchat and Instagram but were quickly removed by Russian and German hackers the next day. 
 
-![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png](https://storage.googleapis.com/spykman-world/gate-to-fertile-land-area.png)
+![Nuke or Not](https://storage.googleapis.com/spykman-world/gate-to-fertile-land-area.png)
 
 Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado. 
 
