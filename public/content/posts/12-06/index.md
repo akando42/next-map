@@ -118,7 +118,7 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
 
-![Qin Crossbow Mass Manufacturing](https://storage.googleapis.com/spykman-world/qin-crossbow-mass-manufacturing.png)
+![Qin Crossbow Mass Manufacturing](https://storage.googleapis.com/spykman-world/mass-manufactured-qin-crossbow.png)
 
 In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. Without the fundamental science investment of the defense industry, no other nation can really keep up with the United States or be able to create the Silicon Valleys and its mega tech giants. 
 
