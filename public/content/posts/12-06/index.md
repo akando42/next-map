@@ -118,7 +118,7 @@ The Roman Republics is among the first human civilizations to figure out an econ
 
 The defense industry is the most demanding industry of an economy with massive capital investment and extremely high bar for quality as well as talents. However, since the dawn of human civilization, the defense industry of the nation is still the main driver of change both in technology as well as social fabrics. 
 
-![Qin Crossbow Mass Manufacturing](https://storage.googleapis.com/spykman-world/qin-crossbow-mass-manufacturing.png)
+![Qin Crossbow Mass Manufacturing](https://storage.googleapis.com/spykman-world/mass-manufactured-qin-crossbow.png)
 
 In the post world war 2 era, the world relies solely on two vendors for the merchandise of death: the United States and Russia. Even European nations like France, UK or Germany no longer have export-surplus defense industries but are relying heavily on imports from the United States. Without the fundamental science investment of the defense industry, no other nation can really keep up with the United States or be able to create the Silicon Valleys and its mega tech giants. 
 
@@ -134,7 +134,7 @@ Countries in the 21st century are increasingly finding out that American mega te
 
 With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table. India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold backed currency exchange rate and avoid using the US dollar as the energy currency. 
 
-![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/oil-tanker-transiting-through-djibouti.png))
+![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/oil-tanker-transiting-through-djibouti.png)
 
 The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
 
@@ -146,7 +146,7 @@ The increasingly better computer programs that communicate in 0 and 1, can trans
 
 If the US Pacifics fleet lost a major navy battle in South China Sea and the US Atlantic fleet lost a major naval engagement in the Mediterranean sea, that would leave US mainland vulnerable to land invasion.    
 
-![Euroasia Fronts](content/posts/12-06/ERU_vs_USE.png)
+![The European Front](https://storage.googleapis.com/spykman-world/the-european-front.png)
 
 A war in the Middle East could break out between 2 US major allies: Israel and Turkey over a drone accident that accidentally deployed Israel’s covert nuclear weapon to detonate over the city of Ankara. Turkey with its massive land force and modern air forces equipped with TB2 quickly overran Israel capital Tel Aviv in retaliation for Israel's use of nuclear weapons on its major city. 
 
@@ -162,7 +162,7 @@ While the US carriers and destroyers were transiting through Sicily to the Middl
 
 Two more carrier battle groups were deployed from the US Pacific Fleet via the Strait of Malacca to Qatar but sinked in transit by the Indian Brahmos Hypersonic Cruise Missiles and China DF21 Balistic Missiles.  At the same time, the South Korean Air Force attacked US Airbase in Okinawa and North Korea launched two nuclear balistic missiles that hit Guam and the Marshall Island. 
 
-![US Mainland Fronts](content/posts/12-06/battle_fronts.png)
+![US Mainland Fronts](https://storage.googleapis.com/spykman-world/the-us-mainland-fronts.png)
 
 While the US is busy with the Middle East and East Asian front, The German-French forces infiltrate the US Ramstein Air Base and overrun it with their tanks and infantry to prevent any further aerial support from Germany to the Middle East. At the same time, French and German special forces traveling to Quebec under tourist visas use their stockpile of weapons in Canada to launch a major land invasion of Washington DC from Canada. 
 
@@ -178,7 +178,7 @@ The Russian population in Canada has been built up for decades to prepare for th
 
 After 3 invasions of Washington DC, Houston and Colorado, the images and videos of the invasion were uploaded to social media platforms of Facebook, Snapchat and Instagram but were quickly removed by Russian and German hackers the next day. 
 
-![Nuke or Not](content/posts/12-06/Gate_to_US_South_West.png)
+![Nuke or Not](https://storage.googleapis.com/spykman-world/gate-to-fertile-land-area.png)
 
 Will US still have the ability to launch nuclear weapons after NORAD and Washington DC is overrun. And will they launch nuclear weapons over their own cities of Houston, Dallas, Austin, Washington or Colorado. 
 
@@ -194,7 +194,7 @@ The US just lost 3 Carrier battle groups and 5 major cities without any other St
 
 After landing forces in Denver, Houston, New York and Washington, the US ability to resist an invasion force had severely declined. Surrounding and cutting logistical supplies among other major cities West, South West and East Coast prevent states to be able to coordinate and launch any major resistances.  
 
-![Surround Major Cities](content/posts/12-06/US_Populous_Cities.png)
+![Surround Major Cities](https://storage.googleapis.com/spykman-world/north-and-central-america-major-cities.png)
 
 During this chaos, hundreds of anti-satelite missiles carried by the fleet of more than 500 Mig 31 Mach 3 Aircraft was launched and take out all US and NATO communication and GPS satelites in orbits. All US major cities lights are still on but they are back to the pre-WW2 era, in the dark with no cellphone, internet or televisions. 
 
@@ -214,16 +214,12 @@ Right before the amphibious force take over a major city, all bottling factories
 
 These remote control zombies will then be tasked with taking over more supply sources like restaurants, coffee shops and supermarkets to add more nanobots into all available drinking suppliers within the city. 
 
-![Nanometer Chips](content/posts/12-06/nanochips.jpeg)
+![Nanometer Chips](https://storage.googleapis.com/spykman-world/nanochips.jpeg)
 
 After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were shared among French-German, Chinese-Korean, and Russian occupied forces. 
 
 ![US 4G Coverage](https://storage.googleapis.com/spykman-world/us-4g-coverage.png)
 
-All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
+All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. Chinese-Korean has the administrative right of Australia and Hawaii.
 
-![North America New Administrations](content/posts/12-06/RUEXICO.png)
-
-Chinese-Korean has the administrative right of Australia and Hawaii. 
-
-![Australia New Administrations](content/posts/12-06/chinatralia.png)
+![North America and the Pacifics New Administrations](https://storage.googleapis.com/spykman-world/new-map-post-ww3.png)
