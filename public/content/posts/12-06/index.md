@@ -134,7 +134,7 @@ Countries in the 21st century are increasingly finding out that American mega te
 
 With the American economy no-check addiction to cheap credit, the export-driven economies like India, China, Japan, Germany, Russia, Saudi Arabia will have to find a common solution to have a better position at the trade negotiating table. India, China and Germany will have to build their domestic defense industries and sign exclusive agreements with energy exporters like Russia and Saudi Arabia for oil or gold backed currency exchange rate and avoid using the US dollar as the energy currency. 
 
-![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/oil-tanker-transiting-through-djibouti.png))
+![Oil Tankers Transiting Through Djibouti](https://storage.googleapis.com/spykman-world/oil-tanker-transiting-through-djibouti.png)
 
 The US will then have to resort to black mailing, high deniability CIA black ops and proxy wars to stop disadvantageous energy deals like the German-Russia Nordstrom gas pipelines or China - Pakistan - Saudi Arabia partnerships.  
 
