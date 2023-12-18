@@ -36,7 +36,8 @@ yarn dev
 [X] Mark active slide in the slide controller.  
 [X] Auto Start and Stop Audio. 
 [X] Generate new Site Map every builds.  
-[ ] Generate Video from Images and Text counts.
+[ ] Dynamic Slide Switching Basing on Text counts.
+[ ] Position Text Box on the Right
 [ ] Mobile and iPAD CSS for Video page.     
 
 ## FUN

@@ -218,7 +218,7 @@ These remote control zombies will then be tasked with taking over more supply so
 
 After total surrender by the US governments behind closed doors, all US Gold Reserves and Nuclear Warheads were packed up and delivered to Europe, Russia and China. Hundred thousands of remote-control towers were installed in all US major cities and the remote control accesses of US government officers, military and police commanders as well as billionaires were shared among French-German, Chinese-Korean, and Russian occupied forces. 
 
-![5G Phone Towers](https://storage.googleapis.com/spykman-world/5g-phone-tower.png)
+![US 4G Phone Towers](https://storage.googleapis.com/spykman-world/us-4g-coverage.png)
 
 All taxes of the US East Coast will be collected by the European French-German government. The US East Coast will gradually transition to a French speaking country. All taxes of the US West Coast will be collected by the Central America coalition government and the US West Coast will gradually transition to a Spanish speaking country. Russia has the administrative rights of Alaska and Canada. 
 

@@ -10,18 +10,23 @@ title: "A Full Cup is Bout To Spill, From Moses to Hannibal to Maozedong"
 tags: ['Israel','Italy','China','Egypt','Rome','China','Moses','Hannibal','Mao Zedong',Spykman World','Nicholas Spykman']  
 published: true
 ---
-Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. 
+Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak destruction beyond imagination.
 
-Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak destruction beyond imagination.
+![The Curvy Wave](https://storage.googleapis.com/spykman-world/curvy_wave.png)
+
 ### Egyptian and the Way Out from Slavery With Moses
-
-![Giza to Sinai](content/posts/12-26/Giza_to_Sinai.png)
 
 Moses was the leader of the Israelites, an enslaved minority working under the Egyptian Pharaoh building his pyramids and other megastructure projects. 
 
+![Moses Splitting the Red Sea](https://storage.googleapis.com/spykman-world/moses_spliting_the_red_sea.png)
+
 The Pharaohs need more smart slaves like the Hebrews to be able to finish his megastructure projects faster but when there are too many of them then their numbers might result in disobedience and even a revolution. The guards build nothing and consume more resources than the slaves so it does not make sense to have too many guards either. 
 
+![The Pyramids of Giza to Attract Immigrants](https://storage.googleapis.com/spykman-world/pyramid_of_giza.png)
+
 To limit the strength of the slaves within the Egyptian empire, the Pharaoh ordered all new born Hebrew boys to be killed in order to assimilate the Hebrew into the Egyptian identity, to make the Hebrew looking more like the Egyptian. 
+
+![The North African Looking Increasingly More European](https://storage.googleapis.com/spykman-world/tunis-cairo-telaviv-faces.png)
 
 People have the tendency to comply  and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. 
 
@@ -30,6 +35,8 @@ By reducing the number of Hebrew baby boys and more inter-marriages between the 
 One theory is that after the Pyramids were finished, Moses, an Egyptian-Israelite mixed boy, led the unemployed slaves away from the Niles through the deserts to a dry mountain called Mount Sinai to die so they are no longer a threat to the Egyptian empire. 
 
 Modern infantry training is 40 km a day running. So a trip from Giza to Mount Sinai of 463 km would take at least 12 days or more. They are marching with women, children and the elderly so it probably will take much longer and they are marching away from water sources to a dry mountain with no water.
+
+![Giza to Sinai](https://storage.googleapis.com/spykman-world/giza-to-sinai-mount.png)
 
 Another theory is that Moses marched his followers from one isolated settlement to others with goats as water supply and food to recruit more followers into one single strong force. They marched from Giza to Sinai and came back to the Pyramids of Giza as a snowballed army to take on the Pharaoh and his guards. 
 
