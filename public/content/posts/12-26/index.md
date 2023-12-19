@@ -24,28 +24,33 @@ The Pharaohs need more smart slaves like the Hebrews to be able to finish his me
 
 ![The Pyramids of Giza to Attract Immigrants](https://storage.googleapis.com/spykman-world/pyramid_of_giza.png)
 
-To limit the strength of the slaves within the Egyptian empire, the Pharaoh ordered all new born Hebrew boys to be killed in order to assimilate the Hebrew into the Egyptian identity, to make the Hebrew looking more like the Egyptian. 
+To limit the strength of the slaves within the Egyptian empire, the Pharaoh ordered all new born Hebrew boys to be killed or turned into XO female in order to assimilate the Hebrew into the Egyptian identity, to make the Hebrew looking more like the Egyptian. By reducing the number of Hebrew baby boys, more XY and XO Hebrew marriages and more inter-marriages between the Egyptian man and Hebrew women, the Pharaoh would make few Hebrew leaders looking more like them and be able to use them as middle managers to direct the Hebrew slave population.
 
 ![The North African Looking Increasingly More European](https://storage.googleapis.com/spykman-world/tunis-cairo-telaviv-faces.png)
 
-People have the tendency to comply  and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. 
+People have the tendency to comply and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. Howerver, these tendencies have heavily reduced with people screentime and constant bombardment of American media via Television and smartphone devices. 
 
-By reducing the number of Hebrew baby boys and more inter-marriages between the Egyptian and the Hebrew, the Pharaoh would make few Hebrew leaders looking more like them and be able to use them as middle managers to direct the Hebrew slave population. 
+![Israel IS REAL American](https://storage.googleapis.com/spykman-world/israel-is-american.png)
 
 One theory is that after the Pyramids were finished, Moses, an Egyptian-Israelite mixed boy, led the unemployed slaves away from the Niles through the deserts to a dry mountain called Mount Sinai to die so they are no longer a threat to the Egyptian empire. 
 
+![Giza to Sinai](https://storage.googleapis.com/spykman-world/giza-to-sinai-mount.png)
+
 Modern infantry training is 40 km a day running. So a trip from Giza to Mount Sinai of 463 km would take at least 12 days or more. They are marching with women, children and the elderly so it probably will take much longer and they are marching away from water sources to a dry mountain with no water.
 
-![Giza to Sinai](https://storage.googleapis.com/spykman-world/giza-to-sinai-mount.png)
+![Delta and River to a Dry Mountain](https://storage.googleapis.com/spykman-world/giza-to-mount-sinai.png)
 
 Another theory is that Moses marched his followers from one isolated settlement to others with goats as water supply and food to recruit more followers into one single strong force. They marched from Giza to Sinai and came back to the Pyramids of Giza as a snowballed army to take on the Pharaoh and his guards. 
 
-People would join them along the way, weaker elders and childrens would die and by the time they got to Mount Sinai, only stronger men, women and older children would survive. They would be fit for services, free of dependents and ready to take the Pyramid of Giza. 
+![Mountain Goats of Israel](https://storage.googleapis.com/spykman-world/mountain-goat-israel.png)
 
-That is kind of what happened in the Egyptian myth where Moses marched to Mount Sinai and came back with God 10 commandments, rained hells down to Giza, and liberated the Egyptian slaves. Moses drafted his army by walking from one small community of free Israelites in the desert to the others with the escaped Israelite slaves. The group kept getting larger and stronger and by the time they get back to Giza, they would be a stronger fighting force than the Egyptian army. 
+People would join them along the way, weaker elders and childrens would die and by the time they got to Mount Sinai, only stronger men, women and older children would survive. They would be fit for services, free of dependents and ready to take the Pyramid of Giza. However without any supply from Red Sea port, longterm water and food supply will still be a major issue for this newly found Hebrew army. 
 
-One thing for sure is that no one can build a nation from Mount Sinai and they need to come back to the Nile. 
+![Dry Mountain Military Camp or Subsaharan African Death Trap](https://storage.googleapis.com/spykman-world/red-sea-resupply-or-die.png)
 
+That is kind of what happened in the Egyptian myth where Moses marched to Mount Sinai and came back with God 10 commandments, rained hells down to Giza, and liberated the Egyptian slaves. Moses drafted his army by walking from one small community of free Israelites in the desert to the others with the escaped Israelite slaves. The group kept getting larger and stronger and by the time they get back to Giza, they would be a stronger fighting force than the Egyptian army. One thing for sure is that no one can build a nation from Mount Sinai and they need to come back to the Nile. 
+
+![Rain down Missiles on Cairo Dream](https://storage.googleapis.com/spykman-world/moses_rain_down_missiles_on_cairo.gif)
 
 ### Hannibal and the Impossible March Toward Rome
 
