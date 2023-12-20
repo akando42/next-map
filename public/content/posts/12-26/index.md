@@ -54,69 +54,49 @@ That is kind of what happened in the Egyptian myth where Moses marched to Mount 
 
 ### Hannibal and the Impossible March Toward Rome
 
-![Cathrage](content/posts/12-26/Hannibal_to_Rome.png)
+After millions of years of random tectonic plates movement, somehow the Western civilization was awarded the largest bay on earth: the Mediterranean with the Baltic sea came in second. The Mediterranean served as a Kid swimming pool for the infant empires of the Western world to iterate their ocean fairing equipment design and made the infantanic first steps in sea explorations. It is like a massive mother womb with plenty of salts and spaces. 
 
-After millions of years of random tectonic plates movement, somehow the Western civilization was awarded the largest bay on earth: the Mediterranean with the Baltic sea came in second. 
+![Baltics vs Mediterranean Navy](https://storage.googleapis.com/spykman-world/baltics_vs_mediterranean.png)
 
-The Mediterranean served as a Kid swimming pool for the infant empires of the Western world to iterate their ocean fairing equipment design and made the infantanic first steps in sea explorations. It is like a massive mother womb with plenty of salts and spaces. 
+From 300 BC, Carthage and Rome were the two main powers of the Western civilization. Carthage is the capital of modern day Tunisia. She was rewarded with a fertile delta of the Medjerda river as well as a Northern African port at the center of the Mediterranean. Carthage arable land allowed the early traders to quickly grow their settlement population and have surpluses for trading with other city states in the Mediterranean. 
 
-From 300 BC, Carthage and Rome were the two main powers of the Western civilization. 
+![Cathrage Marching On Rome](https://storage.googleapis.com/spykman-world/Carthrage_marching_on_Rome.png)
 
-Carthage is the capital of modern day Tunisia. She was rewarded with a fertile delta of the Medjerda river as well as a Northern African port at the center of the Mediterranean. Carthage arable land allowed the early traders to quickly grow their settlement population and have surpluses for trading with other city states in the Mediterranean. 
+With trading boats and vessels as the main low energy per mile mode of transportation via the ocean natural highways and the Mediterranean calm sea, Carthage quickly became the largest metropolis in the world. Profitable trading with city states and colonies around the Mediterranean sea allows Carthage to build the largest navy in the Mediterranean and inevitably come into conflict with Rome for the dominance of the Mediterranean sea and its trading routes. 
 
-With trading boats and vessels as the main low energy per mile mode of transportation via the ocean natural highways and the Mediterranean calm sea , Carthage quickly became the largest metropolis in the world. 
+![Mediterranean Shipping Lanes](https://storage.googleapis.com/spykman-world/mediterranean-shipping-lanes.png)
 
-Profitable trading with city states and colonies around the Mediterranean sea allows Carthage to build the largest navy in the Mediterranean and inevitably come into conflict with Rome for the dominance of the Mediterranean sea and its trading routes.
+Carthage, the trading empire, strength lies in its superior ability to negotiate and trade with different ethnic groups who spoke different languages and have different traditions. Carthage income sources come from its superior capability to build and control ocean faring vessels and make favorable trades with other city states. It's like the Inter-Milan. 
 
-Carthage, the trading empire, strength lies in its superior ability to negotiate and trade with different ethnic groups who spoke different languages and have different traditions. 
+![Cathrage Harbor Modern Day Tunisia](https://storage.googleapis.com/spykman-world/cathrage-harbor-modern-tunisia.png)
 
-Carthage income sources come from its superior capability to build and control ocean faring vessels and make favorable trades with other city states. It's like the Inter-Milan. 
+Rome, a militaristic empire, strength lies in its systematic thinking and a well-structured and well-trained infantry force. No wonder why Mos-Cow, who called itself the third Rome, started with the MOS - Man Operating System and ended with COW - Commanding Officer Woman. Rome income comes from its ability to subdue city states like a Mafia and get regular tributes from the rich city states for protection. It’s like the AC-Milan. 
 
-Rome, a militaristic empire, strength lies in its systematic thinking and a well-structured and well-trained infantry force. No wonder why Mos-Cow, who called itself the third Rome, started with the MOS - Man Operating System and ended with COW - Commanding Officer Woman.
+![Roman Legion](https://storage.googleapis.com/spykman-world/roman-legion.png)
 
-Rome income comes from its ability to subdue city states like a Mafia and get regular tributes from the rich city states for protection. It’s like the AC-Milan. 
+Even with a superior navy at the beginning of the Punic war, the ramping tactic via superior ship control of Carthrage’s navy failed to secure their dominance at sea against the new infantry-first design of the Roman naval ship. And then by picking the battlefield location of Sicily in the expected all-out war between Rome and Carthage, Rome was able to minimize Carthage naval advantages while maximizing its Infantry advantage and won the first Punic war. 
 
-Even with a superior navy at the beginning of the Punic war, the ramping tactic via superior ship control of Carthrage’s navy failed to secure their dominance at sea against the new infantry-first design of the Roman naval ship. 
+![Roman First Decisive Battle](https://storage.googleapis.com/spykman-world/silicy-first-decisive-battle.png)
 
-And then by picking the battlefield location of Sicily in the expected all-out war between Rome and Carthage, Rome was able to minimize Carthage naval advantages while maximizing its Infantry advantage and won the first Punic war. 
+Carthage lost their naval superiority after Rome destroyed and ravaged their ships and their capital during the first Punic War. Hannibal is the son of a Carthage general who failed to capture the crucial strategic island of Sicily in the struggle between Carthage and Rome for the dominance of the Mediterranean sea.Hannibal was born and raised to take on Rome. 
 
-Carthage lost their naval superiority after Rome destroyed and ravaged their ships and their capital during the first Punic War.
+He was trained from childhood to lead a land coalition of flexible, diverse forces from all corners of Carthage Empire whose skills and tactics are exotic and unpredictable to take on  Rome's rigid military structure. Carthage had to evolve itself from a Naval and Trading Empire whose main mission is to protect trade routes and maximize profits to a combined land force of Libyan infantry and French Gallic infantry, Spanish horsemen and African elephants to take on the Roman shield walls
 
-Hannibal is the son of a Carthage general who failed to capture the crucial strategic island of Sicily in the struggle between Carthage and Rome for the dominance of the Mediterranean sea.
-Hannibal was born and raised to take on Rome. 
+Carthage could have focused on upgrading their naval ships with the infantry, horse and elephant transport ability. However, as a naval trading empire with little engineering and science capability, the ability to evolve their ship design quickly during war would not be possible. So instead of building an amphibious landing force and retaking Sicily and using it as a stepping stone to take on Rome,  Hannibal used their silver and negotiation skill to create a massive combined army and march on Rome through Spain on land.
 
-He was trained from childhood to lead a land coalition of flexible, diverse forces from all corners of Carthage Empire whose skills and tactics are exotic and unpredictable to take on  Rome's rigid military structure.
+The African elephant was added to the combined army of Carthage to serve as the tank of the Ancient era.  However, half of Hannibal's army perished and no siege equipment or elephants survived long after the march through the mountainous Alps of Switzerland. The uphill battle of Carthage culture and civilization could have just ended there at the city of Milan where the weakened army of Hannibal can not be resupplied. 
 
-Carthage had to evolve itself from a Naval and Trading Empire whose main mission is to protect trade routes and maximize profits to a combined land force of  Libyan infantry and French Gallic infantry, Spanish horsemen and African elephants to take on the Roman shield walls
+The good news is Hannibal is having his back against the massive wall of the Alps mountain so no worry about being outflanked. The previous Roman expansion campaigns in France and Switzerland also made a lot of enemies for them in the North. It is unclear whether through trading or personal charisma or common grudges toward Rome, many French Gallic and Swiss warriors as well as Northern Italian tribes who did not speak Latin, joined Hannibal and his forces through his march across the Alps as well as supplying them with warriors, weapons, food and intelligence.
 
-Carthage could have focused on upgrading their naval ships with the infantry, horse and elephant transport ability. However, as a naval trading empire with little engineering and science capability, the ability to evolve their ship design quickly during war would not be possible. 
+Whether the Roman army did not really have a lot of friends in Italy outside of their city walls or Hannibal had a massive network of spies in Italy before and during his campaigns, the Roman legions kept being outmaneuvered and ambushed in their own backyard. Hannibal's more mobile army and his understanding of Italian terrain kept getting him victories after victories, destroying Roman legion after legion from North to South of Italy. Roman Legion structure is the same across all Roman armies so if you figure how to crack one, you can kinda keep cracking all the others.
 
-So instead of building an amphibious landing force and retaking Sicily and using it as a stepping stone to take on Rome,  Hannibal used their silver and negotiation skill to create a massive combined army and march on Rome through Spain on land.
-
-The African elephant was added to the combined army of Carthage to serve as the tank of the Ancient era.  However, half of Hannibal's army perished and no siege equipment or elephants survived long after the march through the mountainous Alps of Switzerland. 
-
-The uphill battle of Carthage culture and civilization could have just ended there at the city of Milan where the weakened army of Hannibal can not be resupplied. 
-
-The good news is Hannibal is having his back against the massive wall of the Alps mountain so no worry about being outflanked. The previous Roman expansion campaigns in France and Switzerland also made a lot of enemies for them in the North.
-
-It is unclear whether through trading or personal charisma or common grudges toward Rome, many French Gallic and Swiss warriors as well as Northern Italian tribes who did not speak Latin, joined Hannibal and his forces through his march across the Alps as well as supplying them with warriors, weapons, food and intelligence.
-
-Whether the Roman army did not really have a lot of friends in Italy outside of their city walls or Hannibal had a massive network of spies in Italy before and during his campaigns, the Roman legions kept being outmaneuvered and ambushed in their own backyard.
-
-Hannibal's more mobile army and his understanding of Italian terrain kept getting him victories after victories, destroying Roman legion after legion from North to South of Italy. Roman Legion structure is the same across all Roman armies so if you figure how to crack one, you can kinda keep cracking all the others.
-
-However, without siege equipment, Hannibal can not take on Rome directly with his horses and elephants. 
-Rome is also too well supplied so the under-supplied Hannibal army can not surround and starve out Rome either like smaller city states and towns in Italy.
-
-So Hannibal continued his strategy of parading from around Italy, liberating one Italian tribute city state after the others and making Rome look bad. 
+However, without siege equipment, Hannibal can not take on Rome directly with his horses and elephants. Rome is also too well supplied so the under-supplied Hannibal army can not surround and starve out Rome either like smaller city states and towns in Italy. So Hannibal continued his strategy of parading from around Italy, liberating one Italian tribute city state after the others and making Rome look bad. 
 
 Rome will then have to send more legions chasing after his more mobile army with their heavy shields and armors. After destroying close to 20 Roman legions with his army and allies across Italy, Hannibal sent messengers to Rome to ask for their surrender of the Sicily island as well as messengers to Carthage for reinforcements and supplies.
 
 Bad news for Hannibal, the Roman senates would not negotiate because they knew in the long run it is very difficult for Hannibal to resupply his army across Spain and the Alps as well as through the Mediterranean sea while Rome can resupply itself indefinitely through its seaport and its naval fleet. 
 
-The continued threats from the Roman navy and their forward forces in Valencia, Spain also made the Carthage senates less confident in sending the rest of their army and navy to resupply Hannibal force in Italy while the capital was still being raided directly from Sicily.
-
-So in the end after destroying so many Roman legions, the army of Hannibal was still bleeding slowly and declining in numbers. Eventually, Hannibal had to set sail back to Carthage with a small surviving force and never be able to come back to Italy.
+The continued threats from the Roman navy and their forward forces in Valencia, Spain also made the Carthage senates less confident in sending the rest of their army and navy to resupply Hannibal force in Italy while the capital was still being raided directly from Sicily. So in the end after destroying so many Roman legions, the army of Hannibal was still bleeding slowly and declining in numbers. Eventually, Hannibal had to set sail back to Carthage with a small surviving force and never be able to come back to Italy.
 
 ### Mao Zedong and The Long March to North West China
 
