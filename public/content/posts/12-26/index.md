@@ -78,25 +78,41 @@ Even with a superior navy at the beginning of the Punic war, the ramping tactic 
 
 ![Roman First Decisive Battle](https://storage.googleapis.com/spykman-world/silicy-first-decisive-battle.png)
 
-Carthage lost their naval superiority after Rome destroyed and ravaged their ships and their capital during the first Punic War. Hannibal is the son of a Carthage general who failed to capture the crucial strategic island of Sicily in the struggle between Carthage and Rome for the dominance of the Mediterranean sea.Hannibal was born and raised to take on Rome. 
+Carthage lost their naval superiority after Rome destroyed and ravaged their ships and their capital during the first Punic War. Hannibal is the son of a Carthage general who failed to capture the crucial strategic island of Sicily in the struggle between Carthage and Rome for the dominance of the Mediterranean sea. Hannibal was born and raised to take on Rome. 
 
-He was trained from childhood to lead a land coalition of flexible, diverse forces from all corners of Carthage Empire whose skills and tactics are exotic and unpredictable to take on  Rome's rigid military structure. Carthage had to evolve itself from a Naval and Trading Empire whose main mission is to protect trade routes and maximize profits to a combined land force of Libyan infantry and French Gallic infantry, Spanish horsemen and African elephants to take on the Roman shield walls
+![Cathrage Capital](https://storage.googleapis.com/spykman-world/cathrage-capital.png)
+
+He was trained from childhood to lead a land coalition of flexible, diverse forces from all corners of Carthage Empire whose skills and tactics are exotic and unpredictable to take on  Rome's rigid military structure. Carthage had to evolve itself from a Naval and Trading Empire whose main mission is to protect trade routes and maximize profits to a combined land force of Libyan infantry and French Gallic infantry, Spanish horsemen and African elephants to take on the Roman shield walls.
+
+![Hannibal Crossing the Swiss Alps](https://storage.googleapis.com/spykman-world/hannibal.png)
 
 Carthage could have focused on upgrading their naval ships with the infantry, horse and elephant transport ability. However, as a naval trading empire with little engineering and science capability, the ability to evolve their ship design quickly during war would not be possible. So instead of building an amphibious landing force and retaking Sicily and using it as a stepping stone to take on Rome,  Hannibal used their silver and negotiation skill to create a massive combined army and march on Rome through Spain on land.
 
+![Hannibal vs Rome](https://storage.googleapis.com/spykman-world/cathrage_vs_roma_during_hannibal.png)
+
 The African elephant was added to the combined army of Carthage to serve as the tank of the Ancient era.  However, half of Hannibal's army perished and no siege equipment or elephants survived long after the march through the mountainous Alps of Switzerland. The uphill battle of Carthage culture and civilization could have just ended there at the city of Milan where the weakened army of Hannibal can not be resupplied. 
+
+![Hannibal Crossing the Alps](https://storage.googleapis.com/spykman-world/hannibal_combined_army.png)
 
 The good news is Hannibal is having his back against the massive wall of the Alps mountain so no worry about being outflanked. The previous Roman expansion campaigns in France and Switzerland also made a lot of enemies for them in the North. It is unclear whether through trading or personal charisma or common grudges toward Rome, many French Gallic and Swiss warriors as well as Northern Italian tribes who did not speak Latin, joined Hannibal and his forces through his march across the Alps as well as supplying them with warriors, weapons, food and intelligence.
 
+![Hannibal vs Milan Fortress](https://storage.googleapis.com/spykman-world/hannibal-vs-milan-fortress.png)
+
 Whether the Roman army did not really have a lot of friends in Italy outside of their city walls or Hannibal had a massive network of spies in Italy before and during his campaigns, the Roman legions kept being outmaneuvered and ambushed in their own backyard. Hannibal's more mobile army and his understanding of Italian terrain kept getting him victories after victories, destroying Roman legion after legion from North to South of Italy. Roman Legion structure is the same across all Roman armies so if you figure how to crack one, you can kinda keep cracking all the others.
 
-However, without siege equipment, Hannibal can not take on Rome directly with his horses and elephants. Rome is also too well supplied so the under-supplied Hannibal army can not surround and starve out Rome either like smaller city states and towns in Italy. So Hannibal continued his strategy of parading from around Italy, liberating one Italian tribute city state after the others and making Rome look bad. 
+![Hannibal vs Roman Leigions](https://storage.googleapis.com/spykman-world/hannibal-vs-roman-legions.png)
 
-Rome will then have to send more legions chasing after his more mobile army with their heavy shields and armors. After destroying close to 20 Roman legions with his army and allies across Italy, Hannibal sent messengers to Rome to ask for their surrender of the Sicily island as well as messengers to Carthage for reinforcements and supplies.
+However, without siege equipment, Hannibal can not take on Rome directly with his horses and elephants. Rome is also too well supplied so the under-supplied Hannibal army can not surround and starve out Rome either like smaller city states and towns in Italy. So Hannibal continued his strategy of parading from around Italy, liberating one Italian tribute city state after the others and making Rome look bad. Rome will then have to send more legions chasing after his more mobile army with their heavy shields and armors. 
 
-Bad news for Hannibal, the Roman senates would not negotiate because they knew in the long run it is very difficult for Hannibal to resupply his army across Spain and the Alps as well as through the Mediterranean sea while Rome can resupply itself indefinitely through its seaport and its naval fleet. 
+![Hannibal vs Roman Heavy Infantry](https://storage.googleapis.com/spykman-world/hannibal-vs-roman-heavy-infantry.png)
+
+After destroying close to 20 Roman legions with his army and allies across Italy, Hannibal sent messengers to Rome to ask for their surrender of the Sicily island as well as messengers to Carthage for reinforcements and supplies.Bad news for Hannibal, the Roman senates would not negotiate because they knew in the long run it is very difficult for Hannibal to resupply his army across Spain and the Alps as well as through the Mediterranean sea while Rome can resupply itself indefinitely through its seaport and its naval fleet. 
+
+![ROMA Fortress vs Hannibal](https://storage.googleapis.com/spykman-world/roma-fortress.png)
 
 The continued threats from the Roman navy and their forward forces in Valencia, Spain also made the Carthage senates less confident in sending the rest of their army and navy to resupply Hannibal force in Italy while the capital was still being raided directly from Sicily. So in the end after destroying so many Roman legions, the army of Hannibal was still bleeding slowly and declining in numbers. Eventually, Hannibal had to set sail back to Carthage with a small surviving force and never be able to come back to Italy.
+
+![Sicily vs Cathrage Capital](https://storage.googleapis.com/spykman-world/sicily-vs-cathrage.png)	
 
 ### Mao Zedong and The Long March to North West China
 
