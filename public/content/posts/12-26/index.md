@@ -115,32 +115,35 @@ The continued threats from the Roman navy and their forward forces in Valencia, 
 ![Sicily vs Cathrage Capital](https://storage.googleapis.com/spykman-world/sicily-vs-cathrage.png)	
 
 ### Mao Zedong and The Long March to North West China
+The #LongMarch or #TrườngChinh was the famous military maneuver that propelled #MaoZeDong into becoming the leader of the #CCP and their #RedArmy.  The #LongMarch saved the party from total annihilation by the #KMT and put their peasant army beyond the reach of the #KMT logistic supply line. 
 
 ![Long March](content/posts/12-26/Long_March.png)
 
-The Long March or Trường Chinh was the famous military maneuver that propelled Mao Zedong into becoming the leader of the Chinese Communist Party and their Red Army.  The Long March saved the party from total annihilation by the KMT and put their peasant army beyond the reach of the KMT logistic supply line. 
+In the early 1900, the #Qing dynasty after centuries of stagnation finally collapsed with #Puyi, a 2 year old, as their last emperor. #Puyi did survive through WW2 and the Civil War though to become a conversation partner of #MaoZeDong inside #Beijing #ForbiddenCity. After the #Qing collapse and the founding of the #RepublicOfChina, all the #Ports of China are now open for #Western power influences.
 
-In the early 1900, the Qing dynasty after centuries of stagnation finally collapsed with Puyi, a 2 year old, as their last emperor. Puyi did survive through WW2 and the Civil War though to become a conversation partner of Mao Zedong inside Beijing Forbidden city. 
+![Puji Chinese Last Qing Emperor](https://storage.googleapis.com/spykman-world/puji-version-001.png)
 
-After the Qing collapse and the founding of the Republic of China, all the ports of China are now open for Western power influences.
+The Chinese #KMT military started to follow Japan's footsteps by adopting Western military structures, clothings, weapons and tactics. Chinese coastal cities are quickly urbanized with Western building architectures, railways and cars. Both the Communism and Facism ideologies as well as weapons, ammunition and gasoline were traveling from Europe and their colonies North from the port of Canton, Fujian and Shanghai. 
 
-The Chinese KMT military started to follow Japan's footsteps by adopting Western military structures, clothings, weapons and tactics. Chinese coastal cities are quickly urbanized with Western building architectures, railways and cars. 
+![Port of Canton](https://storage.googleapis.com/spykman-world/port-of-canton.png)
 
-Both the Communism and Facism ideologies as well as weapons, ammunition and gasoline were traveling from Europe and their colonies North from the port of Canton, Fujian and Shanghai. 
+The struggle between the 1000s year of Chinese cultures and identities and newly imported Western cultures and influences turned the once united Qing dynasty whose map did not look like a chicken into fragmented warring states once again. Someone once said “Chaos is the Ladder” and Mao Zedong were super good at climbing that very fragile ladder. The CCP was founded by Chinese Abroaders who studied in Soviet secret universities but their influences on Chinese affairs and the CCP faded away after the Long March. 
 
-The struggle between the 1000s year of Chinese cultures and identities and newly imported Western cultures and influences turned the once united Qing dynasty whose map did not look like a chicken into fragmented warring states once again. 
+![Maoz Waving](https://storage.googleapis.com/spykman-world/bac-waving.gif)
 
-Someone once said “Chaos is the Ladder” and Mao Zedong were super good at climbing that very fragile ladder. The CCP was founded by Chinese Abroaders who studied in Soviet secret universities but their influences on Chinese affairs and the CCP faded away after the Long March. 
+While the upper classes, urban coastal cities service workers and #KMT militaries quickly gained wealth and influence after their newly adopted identities through Chinese industrialization. The peasants and scholars in the Chinese interior cities had little to gain from the newly chaotic state of Chinese affairs. 
 
-While the upper classes, urban coastal cities service workers and KMT militaries quickly gained wealth and influence after their newly adopted identities through Chinese industrialization . The peasants and scholars in the Chinese interior cities had little to gain from the newly chaotic state of Chinese affairs. 
+![KMT Depositors](https://storage.googleapis.com/spykman-world/kmt-bankers.gif)
 
 By moving the fragile Chinese Red Army and their supporters on foot and horses, who had unlimited range as long as they had food and water,  to the Chinese interior provinces and mountainous terrains, now the KMT gasoline-powered war machine had a range problem. 
 
-KMT and the Empire of Japan had a shared ideology but after the rape of Nam Kinh, two Western-influenced Industrialized military became mortal enemy. 
+![No Gas Station in the Mountain like Tesla Charger](https://storage.googleapis.com/spykman-world/the-gasoline-runningout.gif)
 
-Both the Empire of Japan and KMT failed to reach the CCP strong base of highly elevated delta of Xian during the Chinese modern Three Kingdom period of the 1940s. 
+KMT and the Empire of Japan had a shared ideology but after the rape of Nam Kinh, two Western-influenced Industrialized military became mortal enemy. Both the Empire of Japan and KMT failed to reach the CCP strong base of highly elevated delta of Xian during the Chinese modern Three Kingdom period of the 1940s. 
 
-While KMT and Empire of Japan were erosing each other strength, the Red Army was being restocked with supplies, weapons and ammunition to full strength through the narrow of passes of Xian mountain range. 
+![Nam Kinh Sample](https://storage.googleapis.com/spykman-world/namking-sample.png)
 
-After WW2, the RED army being supplied directly from So Viet Tran-Siberian railway in the north quickly overran the KMT Canton-based UK-backed army. 
+While #KMT and #EmpireofJapan were erosing each other strength, the Red Army was being restocked with supplies, weapons and ammunition to full strength through the narrow of passes of #Xian mountain range. After WW2, the RED army being supplied directly from #SoViet #TranSiberian railway in the north quickly overran the #KMT #Canton-based UK-backed army. 
+
+![Siberian Supply Line](https://storage.googleapis.com/spykman-world/siberian-supply-line.png)
 
