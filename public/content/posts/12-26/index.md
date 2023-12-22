@@ -5,7 +5,7 @@ lng: 33.97484315008055
 path: "/a-full-cup-is-bout-to-spill-from-moses-to-hannibal-to-maozedong"
 cover: "content/posts/12-26/spykman-world-moses-hannibal-maozedong.jpg"
 date: "12-26"
-summary: "Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak destruction beyond imagination."
+summary: "#Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. #Moses, #Hannibal and #MaoZeDong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak #Destruction beyond imagination."
 title: "A Full Cup is Bout To Spill, From Moses to Hannibal to Maozedong"
 tags: ['Israel','Italy','China','Egypt','Rome','China','Moses','Hannibal','Mao Zedong',Spykman World','Nicholas Spykman']  
 published: true
@@ -117,7 +117,7 @@ The continued threats from the Roman navy and their forward forces in Valencia, 
 ### Mao Zedong and The Long March to North West China
 The #LongMarch or #TrườngChinh was the famous military maneuver that propelled #MaoZeDong into becoming the leader of the #CCP and their #RedArmy.  The #LongMarch saved the party from total annihilation by the #KMT and put their peasant army beyond the reach of the #KMT logistic supply line. 
 
-![Long March](content/posts/12-26/Long_March.png)
+![MaoZeDong Long March](https://storage.googleapis.com/spykman-world/maozedong-long-march.png)
 
 In the early 1900, the #Qing dynasty after centuries of stagnation finally collapsed with #Puyi, a 2 year old, as their last emperor. #Puyi did survive through WW2 and the Civil War though to become a conversation partner of #MaoZeDong inside #Beijing #ForbiddenCity. After the #Qing collapse and the founding of the #RepublicOfChina, all the #Ports of China are now open for #Western power influences.
 
