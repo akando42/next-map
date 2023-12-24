@@ -145,5 +145,5 @@ KMT and the Empire of Japan had a shared ideology but after the rape of Nam Kinh
 
 While #KMT and #EmpireofJapan were erosing each other strength, the Red Army was being restocked with supplies, weapons and ammunition to full strength through the narrow of passes of #Xian mountain range. After WW2, the RED army being supplied directly from #SoViet #TranSiberian railway in the north quickly overran the #KMT #Canton-based UK-backed army. 
 
-![Siberian Supply Line](https://storage.googleapis.com/spykman-world/siberian-supply-line.png)
+![Siberian Supply Line](https://storage.googleapis.com/spykman-world/astana-cheese.png)
 
