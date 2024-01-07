@@ -138,6 +138,8 @@ The Thai King and their leadership made a choice that it is ok to share Thai wom
 
 The result of their negotiation is a rapidly evolved Thai society with more actors, actresses, and defense ministers looking half-western, a currency named after Royal Thai baht and regular coups as means of leadership changes and global promotion. 
 
+![Mixing of Thai and Western Genes](https://storage.googleapis.com/spykman-world/thailand-flag.png)
+
 The end result of Thai negotiation is a highest GDP per capita in Indochina of 8000 USD per year, the brightest capital in South East Asia and almost triple their population from 26 million in 1960 before the Bhumibol dam to 71 million nowaday. However, did Thai people evolve or be replaced ? Did the grandfather of Thailand in 1945 have any biological grandkids and great grandkids? Only an old Thai doctor or the just passed way Rama IX would know. 
 
 
