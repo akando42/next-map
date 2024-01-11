@@ -28,6 +28,8 @@ Among millions of solar systems, there is our solar system with a random planet 
 
 Earth at first was a calm water ball with little wind or weather system. After the initial cooling down of earth surfaces, the earth core was still a hot ball of constant nuclear fission explosions. These constant expansion and contraction of the earth core causes the earth's surface plates to move around, collide against each others forming mountains, continents and deep ocean. The different elevation in earth surfaces cause the uneven heat distribution among earth's surface. Air starts to move from high pressure colder regions of the earth to low pressure hotter regions of the earth. 
 
+![The Earth Core](https://storage.googleapis.com/spykman-world/earth_core.png)
+
 So during the day, we have the wind blowing from colder ocean to hotter land and at night we have the wind blowing from colder land toward hotter ocean. Because the earth core is also not perfectly distributed, the earth tilts by 23 degrees which causes the hottest regions on earth to move up and down across the equator throughout 365 rotation of the earth. Because of the seasonal effect of our weather, wind blowing over the massive body of ocean water could become extremely strong and form high wind tropical storms. The category 5 wind could push the massive storms full of water deep inside continental cells and only stop by the high mountains of the Himalaya. 
 
 ![Mountain Stops the Rainy Clouds](/content/posts/01-25/mountain.png)
@@ -42,7 +44,11 @@ Tibetan was the birthplace of Buddhism which later on evolved into Indian versio
 
 Before the age of the global position system and detailed printed map, you could easily get lost and die when you venture too far away from your birthplace. The benefit of cross-region travel is only available to the kings and generals with their hundred helpers. 
 
+![Chinese Ancient Compass](https://www.ancient-origins.net/sites/default/files/field/image/Chinese-compass.jpg)
+
 The natural way to navigate across the landmass of Asia is downstream through the river banks. The monks of the Tibetan plateau with their high elevation stamina could walk for thousands of miles from one river settlements to others. Through their journey across the human settlements along the Indus river, Brahmaputra River, the Mekong River, the Yangtze River and the Yellow Rivers, they would encounter different languages and cultures. 
+
+![Floating Log](https://storage.googleapis.com/spykman-world/floating-log.png)
 
 In order to gain trust and learn the local languages, they will need to develop a phonetic writing system to memorize the pronunciation of local languages, spread their teaching in local languages and make their marks on stones in the newly developed Script. 
 
@@ -75,37 +81,41 @@ In 1930, at the beginning of the American Great Depression, the Hoover Dam, the 
 
 ![The Hoover Dam](/content/posts/01-25/hoover_dam.png)
 
-The Hoover Dam also serves as the population regulation device for the surrounding area and the last resort military defensive device. 
+The Hoover Dam also serves as the population regulation device for the surrounding area and the last resort military defensive device. This tradition of using water as a tool of population control probably started with the Roman Empire Aquaduct. And later being used extensively within the Soviet Union, Mexico City, Communist China and Vietnam. 
+
+![Son Ha Water Tank](https://storage.googleapis.com/spykman-world/son-ha-red-river-water-tank.png) 
 
 After the rise of Japan in the East and its victorious Naval war against Russia in Siberia during WW1, the need to regulate the population growth of East Asian descendants in the US West Coast is increasingly more urgent. 
 
+![Battle of PORT Author](https://storage.googleapis.com/spykman-world/battle-of-port-arthur.png)
+
 After the construction of the Hoover Dam, the agriculture production of the US West Coast as well as its population could be limited. At the same time, the agriculture production of Mexico in the South slowly declined and more Mexicans started to migrate to California and Texas, renounced their Mexican citizenship, became American citizens and swore to protect the American constitution and the American father land. 
 
-California cities of Lights and Television stars draw increasingly more Mexicans away from their dark desert homeland to Los Angeles Movie Capital and San Francisco High Tech Capital. 
+![Mexican Migriating to United States from Drought Regions](https://storage.googleapis.com/spykman-world/mexican-migrants.png)
 
-While the Mexican could be easily programmed by Christianity, the Japanese intelligence and Chinese massive population and their attachment to Taoism is a big threat to the American growth in power and wealth. 
+California cities of Lights and Television stars draw increasingly more Mexicans away from their dark desert homeland to Los Angeles Movie Capital and San Francisco High Tech Capital. While the Mexican could be easily programmed by Christianity, the Japanese intelligence and Chinese massive population and their attachment to Taoism is a big threat to the American growth in power and wealth. If there is ever a naval amphibious landing in California and invasions of the US mainland in the West, the Hoover Dam could be used as a water bomb to stop the advances of the invading Asian armies. 
 
-If there is ever a naval amphibious landing in California and invasions of the US mainland in the West, the Hoover Dam could be used as a water bomb to stop the advances of the invading Asian armies. 
+![Craig Ferguson Late Night Show](https://storage.googleapis.com/spykman-world/craig-ferguson-late-night-show.png)
 
-The hedging of Asian powerhouses’ military and economic growth turns out to be not necessary after WW2. The Qing dynasty totally collapsed, the Chinese suffered the largest casualty in World WW2 and Japan was bombarded with two atomic bombs and their emperor had to offer unconditional surrender to the American and Russian forces.  
+The hedging of Asian powerhouses’ military and economic growth turns out to be not necessary after WW2. The Qing dynasty totally collapsed, the Chinese suffered the largest casualty in World WW2 and Japan was bombarded with two atomic bombs and their emperor had to offer unconditional surrender to the American and Russian forces.
 
-After the great calamities of World War 2 of death and darkness, the gods of SouthEast Asia were sent home from the West to bring light to their people. 
+![Moscow Washington Alliance Won WW2](https://storage.googleapis.com/spykman-world/japanese-emperor-signing-surrender-document.png)  
 
-In Vietnam, Ho Chi Minh, whose name means the Lake of Light, returned from Russia and became the president of Vietnam. And In Thailand, King of Rama IX, born in Boston, US and educated in Switzerland,  became the King of Thailand. 
+After the great calamities of World War 2 of death and darkness, the gods of SouthEast Asia were sent home from the West to bring light to their people. In Vietnam, Ho Chi Minh, whose name means the Lake of Light, returned from Russia and became the president of Vietnam. And In Thailand, King of Rama IX, born in Boston, US and educated in Switzerland,  became the King of Thailand. 
 
 ![Rama IX vs HCM](/content/posts/01-25/ramaix_vs_hcm.png)
 
-Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. The Bhuminol Hydroelectric Dam had the capicity of more than 600 MW that generated enough electricty to light up 100 million houses.
+Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching everyone how to read and write in the Latin alphabet. Thai and their Buddhist King Bhumibol built Asia largest and first Lake of Light in 1964, the Bhumibol Hydroelectric Dam. The Bhuminol Hydroelectric Dam had the capicity of more than 600 MW that generated enough electricty to light up capital Bankgkok and surrounding regions of 10 million houses.
+
+![South East Asia First Hydro Electric Dam](https://storage.googleapis.com/spykman-world/south-east-asia-first-hydroelectric-dam.png)
+
+Even though the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. A phoenetic alphabet based on sound could be adapted to use in a different spoken languages while the logogram alphabet based on visual diagram could only be used for that inventor of the logogram alphabet. So either Sanskrit alphabet inventors and the Latin alphabet inventors have the same mindsets or Sanskrit and Latin were invented by the same group of people for diffierent purposes. Both India and South East Asian countries were totally colonized while China and Japan were not. So maybe Latin or Sankrit were all invented by the European planners. 
 
 ![Bua Sang](/content/posts/01-25/breakfast.png)
 
-Even though the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. 
-
-A phoenetic alphabet based on sound could be adapted to use in a different spoken languages while the logogram alphabet based on visual diagram could only be used for that inventor of the logogram alphabet. So either Sanskrit alphabet inventors and the Latin alphabet inventors have the same mindsets or Sanskrit and Latin were invented by the same group of people for diffierent purposes. Both India and South East Asian countries were totally colonized while China and Japan were not. So maybe Latin or Sankrit were all invented by the European planners. 
+The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
 ![Thai Water Reservoirs](/content/posts/01-25/thailand_dams.png)
-
-The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
 Downstream from the first and biggest Dam, the Bhumibol, is the Chao Phrayha river and its tributary rivers and canals. Entire irrigation system and water supplies of Bangkok and its surrounding population centers are well within the Thai border and look like a heavily engineered river system. Hundred of bright towns and cities appeared along the bank of the Chao Phrayha river and its tributaries. 
 
@@ -121,6 +131,7 @@ However, since 1988 Thai population growth has been slowed and not a lot of new 
 
 ## Muay Thai and The Mixing of East and West
 ### The Mixing and Adaption of Thai to Outside Influences
+
 The boxing rebellion under the Qing dynasty marked the height of tension between China and the West. The capital Beijing or The Northern Capital was overrun by the coalition of England, France, Russia, Germany, United States, France, Italy, Austria-Hungary and Japan. The largest and most powerful nation in the East was just chewed through by 7 small nations of the West and the tiny island of Japan. 
 
 
