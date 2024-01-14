@@ -140,13 +140,13 @@ Powered by the Iron-age naval ships, canons, guns, ammunition and a full time st
 
 ![Indian Spices and Opium Specialty](https://storage.googleapis.com/spykman-world/indian-opium-inporting-to-china-via-treaty-ports.png)
 
-At the beginning of 1900s, Qing collapsed, China fell into a fragmented warring state, all China ports and women are now open to Western influences. A much smaller nation in SouthEast Asia, Thailand had a choice to keep fighting or negotiate and adapt to the new alpha in the region. 
-
-The king of Thailand and their leadership made a choice to negotiate with the West. Thai people, Thai king and Thai security forces will be mixed with Westerners according to the Christian God mission of creating man after his own images. 
+At the beginning of 1900s, Qing collapsed, China fell into a fragmented warring state, all China ports and women are now open to Western influences. A much smaller nation in SouthEast Asia, Thailand had a choice to keep fighting or negotiate and adapt to the new alpha in the region. The king of Thailand and their leadership made a choice to negotiate with the West. Thai people, Thai king and Thai security forces will be mixed with Westerners according to the Christian God mission of creating man after his own images. 
 
 ![Thailand Faces of Securities](/content/posts/01-25/thailand_faces_of_security.png)
 
-Thai martial arts, society and the military quickly evolved into a Western version. Muay Thai is the mixing of traditional Thai royal guards defense techniques and Western boxing. Royal Thai massage evolved into a Western-consumer version of Baht and Massage. And the Thai military was fully trained and equipped with American techniques and supplies. 
+Thai martial arts, society and the military quickly evolved into a Western version. Muay Thai is the mixing of traditional unarmed Thai royal guards defense techniques and Western entertainment boxing. Royal Thai massage evolved into a Western-consumer version of Baht and Massage. And the Thai military was fully trained and equipped with American techniques and supplies. 
+
+![American Fighters Parking in Thailand Airbase](https://storage.googleapis.com/spykman-world/1965-american-fighters-parking-thailand.png)
 
 The Thai King and their leadership made a choice that it is ok to share Thai women with the Westerners, ok to fight for spectators and fun with the Westerners and it is ok to buy weapons from the Westerners and trained by the Westerners. The result of their negotiation is a rapidly evolved Thai society with more actors, actresses, and defense ministers looking half-western, a currency named after Royal Thai baht and regular coups as means of leadership changes and global promotion. 
 
