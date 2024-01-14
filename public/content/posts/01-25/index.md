@@ -134,8 +134,11 @@ However, since 1988 Thai population growth has been slowed and not a lot of new 
 
 The boxing rebellion under the Qing dynasty marked the height of tension between China and the West. The capital Beijing or The Northern Capital was overrun by the coalition of England, France, Russia, Germany, United States, France, Italy, Austria-Hungary and Japan. The largest and most powerful nation in the East was just chewed through by 7 small nations of the West and the tiny island of Japan. 
 
+![G7 Nations Invasing Beijing fro Occupied Ports](https://storage.googleapis.com/spykman-world/g7-nations-invading-beijing.png)
 
 Powered by the Iron-age naval ships, canons, guns, ammunition and a full time standing army that was highly trained, the numerical superior Qing army of the Wooden-age was no match. To make the matter worse, all the Chinese Qing army was softened up thoroughly with Opium imported from India. 
+
+![Indian Spices and Opium Specialty](https://storage.googleapis.com/spykman-world/indian-opium-inporting-to-china-via-treaty-ports.png)
 
 At the beginning of 1900s, Qing collapsed, China fell into a fragmented warring state, all China ports and women are now open to Western influences. A much smaller nation in SouthEast Asia, Thailand had a choice to keep fighting or negotiate and adapt to the new alpha in the region. 
 
@@ -145,9 +148,7 @@ The king of Thailand and their leadership made a choice to negotiate with the We
 
 Thai martial arts, society and the military quickly evolved into a Western version. Muay Thai is the mixing of traditional Thai royal guards defense techniques and Western boxing. Royal Thai massage evolved into a Western-consumer version of Baht and Massage. And the Thai military was fully trained and equipped with American techniques and supplies. 
 
-The Thai King and their leadership made a choice that it is ok to share Thai women with the Westerners, ok to fight for spectators and fun with the Westerners and it is ok to buy weapons from the Westerners and trained by the Westerners. 
-
-The result of their negotiation is a rapidly evolved Thai society with more actors, actresses, and defense ministers looking half-western, a currency named after Royal Thai baht and regular coups as means of leadership changes and global promotion. 
+The Thai King and their leadership made a choice that it is ok to share Thai women with the Westerners, ok to fight for spectators and fun with the Westerners and it is ok to buy weapons from the Westerners and trained by the Westerners. The result of their negotiation is a rapidly evolved Thai society with more actors, actresses, and defense ministers looking half-western, a currency named after Royal Thai baht and regular coups as means of leadership changes and global promotion. 
 
 ![Mixing of Thai and Western Genes](https://storage.googleapis.com/spykman-world/thailand-flag.png)
 
