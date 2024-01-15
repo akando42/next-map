@@ -158,9 +158,15 @@ The end result of Thai negotiation is a highest GDP per capita in Indochina of 8
 ### Fighting for Money, Fame and Access to Western Girls.
 Men were born to aim. 
 
+![Men was born to AIM](https://storage.googleapis.com/spykman-world/men-was-born-to-aim.png)
+
 From the moment of being just a sperm among millions of other sperms in the great humanly made flood, the micrometer biological creature with only a long tail somehow were able to find its way in absolute darkness to the ultimate target, the female egg. If we compare the long-range swim that a sperm has to make relative to its size, a long range cruise missile designer will probably have to be impressed.
 
+![Sperm Navigation](https://storage.googleapis.com/spykman-world/sperm-navigation_640.gif)
+
 When the male human grew to the age of 3-6, he started to aim everyday with his act of water releasing and never stopped to aim until he died. When men became an adult, aiming once again proved to be a very useful skill in hunting for food and fighting for mates. 
+
+![Men Aiming Exercise](https://storage.googleapis.com/spykman-world/men-aiming-exercise.gif)
 
 Aiming and making action toward a specific target is a highly complex neural process requiring full body coordination. From the moment a target entered his field of vision, his brain started to calculate the trajectory and speed of the target and made millisecond predictions about the future position of a target. 
 
