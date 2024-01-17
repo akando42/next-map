@@ -170,7 +170,7 @@ When the male human grew to the age of 3-6, he started to aim everyday with his 
 
 Aiming and making action toward a specific target is a highly complex neural process requiring full body coordination. From the moment a target entered his field of vision, his brain started to calculate the trajectory and speed of the target and made millisecond predictions about the future position of a target. 
 
-
+![Convex Pocket](https://storage.googleapis.com/spykman-world/convex-pocket.gif)
 
 After the predicted position of a target were calculated, the brain sent a coordinated signal to hand, feet and the core muscles for a perfectly synced action in real time of all muscles to throw a bunch, a muay thai teep,  a bow release, a javelin throw or a gun trigger pull. For top muay thai fighters, boxers, soccer players, basketball players, anchors and hunters, the perfect synchronization of eyes and muscles in the Aim and Fire sequences had become an instinct that is faster than logic. 
 
