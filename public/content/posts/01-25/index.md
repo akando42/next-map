@@ -154,8 +154,8 @@ The Thai King and their leadership made a choice that it is ok to share Thai wom
 
 The end result of Thai negotiation is a highest GDP per capita in Indochina of 8000 USD per year, the brightest capital in South East Asia and almost triple their population from 26 million in 1960 before the Bhumibol dam to 71 million nowaday. However, did Thai people evolve or be replaced ? Did the grandfather of Thailand in 1945 have any biological grandkids and great grandkids? Only an old Thai doctor or the just passed way Rama IX would know. 
 
-
 ### Fighting for Money, Fame and Access to Western Girls.
+
 Men were born to aim. 
 
 ![Men was born to AIM](https://storage.googleapis.com/spykman-world/men-was-born-to-aim.png)
@@ -180,95 +180,107 @@ However, in modern society, we do not get to experience this highly satisfying a
 
 ![Muay Thai For Westerners](/content/posts/01-25/muay_thai_for_westerners.png)
 
-Then there is a savior, the Muay Thai gym, the real-life consumer version of Fight Club, men once again get to experience their ancestor manhood. Kickboxing and Muay Thai becomes a global phenomenon, a great promoter of Thai cultures and a church for the male office workers of the Western worlds to experience the absolute happiness of a perfectly synced sequence of eyes and muscle coordination.  
+Then there is a savior, the Muay Thai gym, the real-life consumer version of Fight Club, men once again get to experience their ancestor manhood. Kickboxing and Muay Thai becomes a global phenomenon, a great promoter of Thai cultures and a church for the male office workers of the Western worlds to experience the absolute happiness of a perfectly synced sequence of eyes and muscle coordination. Time seems to slow down in a Muay Thai spar. You are in 100% focus and absolutely alert, the lung expands at full capacity, you have 110% vision and all the environment noises seem to disappear. In a Muay Thai match, there is only you and your target. 
 
-Time seems to slow down in a Muay Thai spar. You are in 100% focus and absolutely alert, the lung expands at full capacity, you have 110% vision and all the environment noises seem to disappear. In a Muay Thai match, there is only you and your target. 
+![Spinning Kick](https://storage.googleapis.com/spykman-world/spinning_kick.gif)
 
-Muay Thai is a way for the young boys of the countryside in Thailand to pierce through the social classes in Thailand and get ahead in life. Thai people have the option to get an education or vocational training, then get a salary job and build savings in the Baht currency. 
+Muay Thai is a way for the young boys of the countryside in Thailand to pierce through the social classes in Thailand and get ahead in life. Thai people have the option to get an education or vocational training, then get a salary job and build savings in the Baht currency. However, with a fixed income and saving in a weak currency like Baht, lower class Thai would never be able to keep up with the rising cost of Foreign-capital induced real estate bubbles and energy prices, let alone be able to build any significant amount of capital.  
 
-However, with a fixed income and saving in a weak currency like Baht, lower class Thai would never be able to keep up with the rising cost of Foreign-capital induced real estate bubbles and energy prices, let alone be able to build any significant amount of capital. 
+![Muay Thai Kid](https://storage.googleapis.com/spykman-world/muay-thai-kid.png)
 
 A riskier option of becoming a professional Muay Thai fighter seems to be more attainable for many in the lower class of Thai society. Muay Thai fighters are like gladiators of the Roman society, a career with extremely high risk of death and injuries but if they do well, they will beat inflation 100 fold and can leverage their fame to climb the social ladders. 
 
-Muay Thai is also a way for male Thai abroaders to earn a living in the strange new lands in Western like the United States, England, Netherland or Germany. Fighters like Buakaw and Senchai became extremely famous in Thailand as well as outside of Thailand. Their fame did not only bring wealth to themselves but created hundreds of thousands of personal trainers jobs for Thai and people with Asian descents in the United States and Europe. 
+![Buakaw Holding King Pic Saluting Everyone](https://storage.googleapis.com/spykman-world/buakaw-holding-king-picture.png)
+
+Muay Thai is also a way for male Thai abroaders to earn a living in the strange new lands in Western like the United States, England, Netherland or Germany. Fighters like Buakaw and Senchai became extremely famous in Thailand as well as outside of Thailand. Their fame did not only bring wealth to themselves but created hundreds of thousands of personal trainers jobs for Thai and people with Asian descents in the United States and Europe. Muay Thai is also a tourism magnet that attracts thousands of foreigners to move to Thailand for long-term vacation rental and Muay Thai training annually to create local jobs and bring in foreign currencies. 
 
 ![Muay Thai Gym Church](/content/posts/01-25/muay_thai_gym.png)
 
-Muay Thai is also a tourism magnet that attracts thousands of foreigners to move to Thailand for long-term vacation rental and Muay Thai training annually to create local jobs and bring in foreign currencies. 
-
-
 ### The High Testerone Testing Ground for the Genetics Lab of the West
-The Siamese fighting fish (Betta fish) is a popular aquarium freshwater fish in South East Asia. On paper, Siamese fighting fish were domesticated 1000 years ago, originating from the Central Plane of the Chao Phraya river.  Siamese betta fish were known to the West through King Rama III after the King gave the fighting fishes to a Danish doctor as a gift.
 
-In reality, it could be the other way around where the Danish lab grew the Betta fishes and gave it to the Aquarium shops of Bangkok and Hanoi. 
+The Siamese fighting fish (Betta fish) is a popular aquarium freshwater fish in South East Asia. On paper, Siamese fighting fish were domesticated 1000 years ago, originating from the Central Plane of the Chao Phraya river.  Siamese betta fish were known to the West through King Rama III after the King gave the fighting fishes to a Danish doctor as a gift. In reality, it could be the other way around where the Danish lab grew the Betta fishes and gave it to the Aquarium shops of Bangkok and Hanoi. 
 
 ![Siam Fighting Fishes of the Lab](/content/posts/01-25/mua_y_thai.png)
 
-Betta fish is a highly territorial fish. In one fish tank, you can only have one betta fish. If there are two, they will fight each other to death kinda like the underground Boxing, UFC or Muay Thai ring. After each death match, you can keep breeding stronger fishes based on their survivability like the racing horses of the West. 
+Betta fish is a highly territorial fish. In one fish tank, you can only have one betta fish. If there are two, they will fight each other to death kinda like the underground Boxing, UFC or Muay Thai ring. After each death match, you can keep breeding stronger fishes based on their survivability like the racing horses of the West. The Thai Betta fishes and the Kentucky Derby racing horses are just like the Muay Thai fighters or Vietnamese, Chinese,  Korean and Japanese veterans who are subjects of betting matches by the Alphas of the West. 
 
-The Thai Betta fishes and the Kentucky Derby racing horses are just like the Muay Thai fighters or Vietnamese, Chinese,  Korean and Japanese veterans who are subjects of betting matches by the Alphas of the West. 
+![Thang Long Gate and Hanoi Flag Pole History Marker](https://storage.googleapis.com/spykman-world/thang-long-gate-hanoi-flag-pole.png)
+
+Chiang Mai means the New City in Thai, Commerce city in Han Chinese or the Trafficking City in underground Vietnamese.  Chiang Mai is the only bright spot on the mountain, right next to the Bhumibol hydroelectric dam. Thailand is like the Wild West of Asia where you can pretty much do whatever you like as long as you have money. Illegal medical experiments and operations could be done in Thailand. And Chiang Mai looks like a perfect tugged away spot for off the book activities. 
 
 ![Chiang Mai](/content/posts/01-25/chiang_mai.png)
 
-Chiang Mai means the New City in Thai, Commerce city in Han Chinese or the Trafficking City in underground Vietnamese.  Chiang Mai is the only bright spot on the mountain, right next to the Bhumibol hydroelectric dam. 
+He Jiankui, the Chinese researchers who created the world's first genome-edited babies, Lulu and Nana, was planning to move to Thailand to continue with his experiments after the Chinese government scrutinized his research. It is very likely that Western and American doctors have done a lot medical experiments on humans in Thailand off the book.
 
-Thailand is like the Wild West of Asia where you can pretty much do whatever you like as long as you have money. Illegal medical experiments and operations could be done in Thailand. And Chiang Mai looks like a perfect tugged away spot for off the book activities. 
+![He Jinakui](https://storage.googleapis.com/spykman-world/he-jiankui.png)
 
-He Jiankui, the Chinese researchers who created the world's first genome-edited babies, Lulu and Nana, was planning to move to Thailand to continue with his experiments after the Chinese government scrutinized his research. 
+After 1945, M_oscow and W_ashington were the two big winners of the War and became the two Alphas, the North Star power couple of the entire world. At the end of the Chinese civil war, China has submitted to Russia and Japan has surrendered and submitted to the United States. However, wars and politics are temporary while Geography and Genetics are permanent. In order to guard against any future resurgences of East Asia, borders need to be drawn and the genetic makeup of Central Asia, India, South East Asia and Korea need to be shaped so the mountain and the people would become an impassable barriers to any future expansion of any East Asian power. 
 
-It is very likely that Western and American doctors have done a lot medical experiments on humans in Thailand off the book.
-
-After 1945, M_oscow and W_ashington were the two big winners of the War and became the two Alphas, the North Pole and the South Pole of the entire world. At the end of the Chinese civil war, China has submitted to Russia and Japan has surrendered and submitted to the United States. 
-
-However, wars and politics are temporary while Geography and Genetics are permanent. In order to guard against any future resurgences of East Asia, borders need to be drawn and the genetic makeup of Central Asia, India, South East Asia and Korea need to be shaped so the mountain and the people would become an impassable barriers to any future expansion of any East Asian power. 
+![Mountain and Type AO Strategic Settlements](https://storage.googleapis.com/spykman-world/mountain.png)
 
 What is a better way to measure the performance of genetically selected and modified soccer players' DNA lineage than annual soccer tournaments ? What is a better way to measure the performance of a genetically selected and modified soldier lineage than constant proxy wars? The Korean wars, the Vietnam wars and the Afghanistan wars are the Refineries of Moscow and Washington guard dogs and Bangkok and Changmai are the ports for the introductions of new experiment lineages and the elimination of old fail lineages. 
 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+
 ## The Dragons of Mekong Delta or A Dry River Bed
+
 ### Mekong River, The Perpetual Supply Lines
-![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
 Wet rice of the monsoon area has the highest calories per square meter of cultivation. With no long and easily to be detected supply convoys, the Chinese soldiers were able to stay hidden near the Yalu River of the North Korean border and with just a few bowls of rice were able to ambush and push the American and UN forces back to the modern day DMZ. 
 
-The floodplains of the Mekong delta would be too much water for most plants but a perfect environment for the wet rice of Asia. Maybe the first humans who learned to walk upright were eating the floodplain rice of Asia to survive and evolve. 
+![Rice Production and Export](/content/posts/01-25/rice_patterns.png)
 
-While high Nitrogen food sources like beef or salmon would help you to grow muscles and rebuild cells faster, high Hydrogen food sources like wet rice would provide direct energy to the brain and muscles for human activities. 
+The floodplains of the Mekong delta would be too much water for most plants but a perfect environment for the wet rice of Asia. Maybe the first humans who learned to walk upright were eating the floodplain rice of Asia to survive and evolve. While high Nitrogen food sources like beef or salmon would help you to grow muscles and rebuild cells faster, high Hydrogen food sources like wet rice would provide direct energy to the brain and muscles for human activities. 
 
-The early humans did not know how to raise animals of farm, so they would probably only need rice to be able to stay awake and active for hunting other animals in their surrounding environments as well as traveling on foot to neighboring tribes for trading and mates. 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
-The high Hydrogen low Nitrogen diet of the Wet rice cultures in India, Southeast Asia, China, Korea and Japan results in human tribes with smaller builds but much larger numbers. Did the high Hydrogen diet result in higher APM - actions per minute for Korean starcraft gamers? 
+The early humans did not know how to raise animals of farm, so they would probably only need rice to be able to stay awake and active for hunting other animals in their surrounding environments as well as traveling on foot to neighboring tribes for trading and mates. The high Hydrogen low Nitrogen diet of the Wet rice cultures in India, Southeast Asia, China, Korea and Japan results in human tribes with smaller builds but much larger numbers. Did the high Hydrogen diet result in higher APM - actions per minute for Korean starcraft gamers? 
 
-After each harvest season, the crops of the delta use up minerals and waters from the soil but here comes the monsoon season. The Monsoon season brings the month-long heavy rain that washes the mountain soil rich in minerals downstream to the Delta region through the river system. 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
-After each flood season, the delta plains are soaked with water and rich minerals again for next crop seasons. Rice and other staple crops like Corns, Soil Beans, Potatoes would grow quickly in the nature-prepared field full of water and minerals. These staple crops then could be used to feed human and animals of farm.
+After each harvest season, the crops of the delta use up minerals and waters from the soil but here comes the monsoon season. The Monsoon season brings the month-long heavy rain that washes the mountain soil rich in minerals downstream to the Delta region through the river system. After each flood season, the delta plains are soaked with water and rich minerals again for next crop seasons. Rice and other staple crops like Corns, Soil Beans, Potatoes would grow quickly in the nature-prepared field full of water and minerals. These staple crops then could be used to feed human and animals of farm.
+
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
 The Mekong river is one of the longest rivers in Asia, only behind the Yangtze and Yellow rivers of China. Mekong in underground Vietnamese means the Offensive Obesssion river. Mekong’s 4350 kilometer long and its watershed serves as the nature-made supply lines of waters and minerals to hydrate and feed the cities of ten millions of human in the Laos and the delta of Cambodia and Vietnam. Without the Mekong rivers, Bangkok would face severe food shortage and Ho Chi Minh city and its millions of people would quickly die from lack of water and food. 
 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+
 ### Yunnan, The Land of Southern Clouds
-![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
 
 Upstream of the Mekong rivers and its tributaries is the Yunnan mountainous area of China. The Land of Southern Clouds, Yunnan, is the sources of all three largest rivers in Asia: Mekong, Yangzte and Yellow rivers. The high mountains of more than 2000 meters stopped the tropical clouds full of water from advancing further inland with the Monsoon winds and pouring all its water downstream through Yangzte, Yellow and Mekong. 
 
+![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
+
 The capital city of Yunnan is Kun Minh, meaning the Bright Dog in underground Vietnamese. To power the city of Kun Minh of 8.4 million people, same size as Ho Chi Minh city, is 33 hydroelectric dams with 11 being built directly on the Mekong river. Kunming and the mega tech cites of of Guangdong and Chengdu is being powered at the cost of lower agriculture production and higher food, electricity and water cost of Hanoi, Ho Chi Minh, Phnompeng and Bangkok. 
 
-Beijing is giving Hanoi and Bangkok a dilemma. Beijing 33 hydroelectric dams in the Yunnan are stopping minerals and waters from flowing down the Red river and Mekong river of Vietnam, Thailand. 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
-They will either have to build up their militaries and take the extremely difficult terrain mountains of Yunnan by force to secure their upstream rivers and maybe even control the Yangzte, Yellow rivers and entire China. 
+Beijing is giving Hanoi and Bangkok a dilemma. Beijing 33 hydroelectric dams in the Yunnan are stopping minerals and waters from flowing down the Red river and Mekong river of Vietnam, Thailand. They will either have to build up their militaries and take the extremely difficult terrain mountains of Yunnan by force to secure their upstream rivers and maybe even control the Yangzte, Yellow rivers and entire China. 
+
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
 Or they have to build up their scientific capabilities to artificially trigger the Southern clouds full of milk to start raining early before reaching the Yunnan mountains as well as clearing the forrests of their mountainous regions to trigger more land falls to increase mineral in their rivers. 
 
 ![Rain Triggers](/content/posts/01-25/rain_triggers.png)
 
 ### Bangkok, the Buddhist Hedgefund Managers
+
 Hanoi plans and decisions were always made in secret with great deliberations because the capital proximity to China borders. Bangkok is already hedging their Mekong river risk since the Rama IX era by building a seperate water supplies system for Bangkok and central Thailand via the Chao Prayha river. 
 
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+
 In the worse case scenerio that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
+
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
 Bangkok is able to lobby the United States to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
 
 ![Micro Reactors](/content/posts/01-25/micro_reactors.png)
 
 The easiest way to win the war without fighting is to cut the enemy supplylines. And the seem to be perpetual supplylines of Mekong nations is being cut. Bangkok and Hanoi will have to have to find a way to shortern their supplylines via weather and forrest modification or have to make the huge military gamble by taking the Land of Southern Clouds, Yunnan. Either ways, doing nothing and lets Bangkok and Ho Chi Minh city to die slowly is not a hedgefund manager approach. 
+
+![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
 
 
 
