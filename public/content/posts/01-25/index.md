@@ -244,7 +244,7 @@ After each harvest season, the crops of the delta use up minerals and waters fro
 
 The Mekong river is one of the longest rivers in Asia, only behind the Yangtze and Yellow rivers of China. Mekong in underground Vietnamese means the Offensive Obesssion river. Mekong’s 4350 kilometer long and its watershed serves as the nature-made supply lines of waters and minerals to hydrate and feed the cities of ten millions of human in the Laos and the delta of Cambodia and Vietnam. Without the Mekong rivers, Bangkok would face severe food shortage and Ho Chi Minh city and its millions of people would quickly die from lack of water and food. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Thailand Extra Salt Man In the Middle Attack](https://storage.googleapis.com/spykman-world/thailand-extra-salt-man-in-the-middle-attack.png)
 
 ### Yunnan, The Land of Southern Clouds
 
