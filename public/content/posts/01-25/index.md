@@ -250,7 +250,7 @@ The Mekong river is one of the longest rivers in Asia, only behind the Yangtze a
 
 Upstream of the Mekong rivers and its tributaries is the Yunnan mountainous area of China. The Land of Southern Clouds, Yunnan, is the sources of all three largest rivers in Asia: Mekong, Yangzte and Yellow rivers. The high mountains of more than 2000 meters stopped the tropical clouds full of water from advancing further inland with the Monsoon winds and pouring all its water downstream through Yangzte, Yellow and Mekong. 
 
-![The White Seed Encirlement](https://storage.googleapis.com/spykman-world/the-white-seed-encirlement.png)
+![The White Seed Encirlement](https://storage.googleapis.com/spykman-world/whiteSeed_whiteCop_encirclement.png)
 
 The capital city of Yunnan is Kun Minh, meaning the Bright Dog in underground Vietnamese. To power the city of Kun Minh of 8.4 million people, same size as Ho Chi Minh city, is 33 hydroelectric dams with 11 being built directly on the Mekong river. Kunming and the mega tech cites of of Guangdong and Chengdu is being powered at the cost of lower agriculture production and higher food, electricity and water cost of Hanoi, Ho Chi Minh, Phnompeng and Bangkok. 
 
@@ -268,11 +268,11 @@ Or they have to build up their scientific capabilities to artificially trigger t
 
 Hanoi plans and decisions were always made in secret with great deliberations because the capital proximity to China borders. Bangkok is already hedging their Mekong river risk since the Rama IX era by building a seperate water supplies system for Bangkok and central Thailand via the Chao Prayha river. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Thai River Settlement](https://storage.googleapis.com/spykman-world/thai_river_settlements.png)
 
-In the worse case scenerio that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
+In the worse case scenario that the Mekong river went dry and the Mekong delta become a desert, Bangkok would survive at huge lost to their fertile North East regions. Thailand is also building up their renewable and nuclear power plants to stop putting more strain on their Chaos Prayha river and its tributeries via the hydroelectric dams. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![High Drought Probability Region](https://storage.googleapis.com/spykman-world/high-drough-probability-region.png)
 
 Bangkok is able to lobby the United States to help it build small nuclear reactors and become the first nuclear power nation in South East Asia. 11% of Thai population is Chinese descendants so Bangkok was also be able to leverage this to buy military submarines from China.
 
@@ -280,7 +280,7 @@ Bangkok is able to lobby the United States to help it build small nuclear reacto
 
 The easiest way to win the war without fighting is to cut the enemy supplylines. And the seem to be perpetual supplylines of Mekong nations is being cut. Bangkok and Hanoi will have to have to find a way to shortern their supplylines via weather and forrest modification or have to make the huge military gamble by taking the Land of Southern Clouds, Yunnan. Either ways, doing nothing and lets Bangkok and Ho Chi Minh city to die slowly is not a hedgefund manager approach. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Yunnan Source of All East Asia Rivers](https://storage.googleapis.com/spykman-world/sources-of-all-east-asia-river.png)
 
 
 
