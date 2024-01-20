@@ -250,15 +250,15 @@ The Mekong river is one of the longest rivers in Asia, only behind the Yangtze a
 
 Upstream of the Mekong rivers and its tributaries is the Yunnan mountainous area of China. The Land of Southern Clouds, Yunnan, is the sources of all three largest rivers in Asia: Mekong, Yangzte and Yellow rivers. The high mountains of more than 2000 meters stopped the tropical clouds full of water from advancing further inland with the Monsoon winds and pouring all its water downstream through Yangzte, Yellow and Mekong. 
 
-![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
+![The White Seed Encirlement](https://storage.googleapis.com/spykman-world/the-white-seed-encirlement.png)
 
 The capital city of Yunnan is Kun Minh, meaning the Bright Dog in underground Vietnamese. To power the city of Kun Minh of 8.4 million people, same size as Ho Chi Minh city, is 33 hydroelectric dams with 11 being built directly on the Mekong river. Kunming and the mega tech cites of of Guangdong and Chengdu is being powered at the cost of lower agriculture production and higher food, electricity and water cost of Hanoi, Ho Chi Minh, Phnompeng and Bangkok. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![12 Dams on the Mekong](/content/posts/01-25/12_dams_vs_9_dragons.png)
 
 Beijing is giving Hanoi and Bangkok a dilemma. Beijing 33 hydroelectric dams in the Yunnan are stopping minerals and waters from flowing down the Red river and Mekong river of Vietnam, Thailand. They will either have to build up their militaries and take the extremely difficult terrain mountains of Yunnan by force to secure their upstream rivers and maybe even control the Yangzte, Yellow rivers and entire China. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Yiet Nam New Map](https://storage.googleapis.com/spykman-world/YIET_NAM.png)
 
 Or they have to build up their scientific capabilities to artificially trigger the Southern clouds full of milk to start raining early before reaching the Yunnan mountains as well as clearing the forrests of their mountainous regions to trigger more land falls to increase mineral in their rivers. 
 

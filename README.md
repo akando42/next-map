@@ -50,8 +50,6 @@ yarn dev
 ```
 $ sudo killall node
 $ find . -name '*.DS_Store' -delete
-
-
 ```
 
 c7ffb02..393ded3
