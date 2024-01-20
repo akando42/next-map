@@ -232,15 +232,15 @@ Wet rice of the monsoon area has the highest calories per square meter of cultiv
 
 The floodplains of the Mekong delta would be too much water for most plants but a perfect environment for the wet rice of Asia. Maybe the first humans who learned to walk upright were eating the floodplain rice of Asia to survive and evolve. While high Nitrogen food sources like beef or salmon would help you to grow muscles and rebuild cells faster, high Hydrogen food sources like wet rice would provide direct energy to the brain and muscles for human activities. 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Modern Rice Farming in Shallow Water](https://storage.googleapis.com/spykman-world/modern-rice-in-shallow-water.png)
 
 The early humans did not know how to raise animals of farm, so they would probably only need rice to be able to stay awake and active for hunting other animals in their surrounding environments as well as traveling on foot to neighboring tribes for trading and mates. The high Hydrogen low Nitrogen diet of the Wet rice cultures in India, Southeast Asia, China, Korea and Japan results in human tribes with smaller builds but much larger numbers. Did the high Hydrogen diet result in higher APM - actions per minute for Korean starcraft gamers? 
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Ancient Wild Rice in Deep Water](https://storage.googleapis.com/spykman-world/ancient-wild-rice-in-deep-water.png)
 
 After each harvest season, the crops of the delta use up minerals and waters from the soil but here comes the monsoon season. The Monsoon season brings the month-long heavy rain that washes the mountain soil rich in minerals downstream to the Delta region through the river system. After each flood season, the delta plains are soaked with water and rich minerals again for next crop seasons. Rice and other staple crops like Corns, Soil Beans, Potatoes would grow quickly in the nature-prepared field full of water and minerals. These staple crops then could be used to feed human and animals of farm.
 
-![Moscow Washington Guard Dog](https://storage.googleapis.com/spykman-world/moscow-washington-guard-dog.png)
+![Red River Delta Flood Plane](https://storage.googleapis.com/spykman-world/red-river-delta-flood-plane.png)
 
 The Mekong river is one of the longest rivers in Asia, only behind the Yangtze and Yellow rivers of China. Mekong in underground Vietnamese means the Offensive Obesssion river. Mekong’s 4350 kilometer long and its watershed serves as the nature-made supply lines of waters and minerals to hydrate and feed the cities of ten millions of human in the Laos and the delta of Cambodia and Vietnam. Without the Mekong rivers, Bangkok would face severe food shortage and Ho Chi Minh city and its millions of people would quickly die from lack of water and food. 
 
