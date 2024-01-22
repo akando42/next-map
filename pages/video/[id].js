@@ -172,53 +172,79 @@ export default class Video extends Component {
 		return (
 			<div className={Styles.main}>
 				<Head></Head>
-				<h1> {this.props.postsData.title} </h1>
 
 				<div className={Styles.videoContainer}>
+					<div className={Styles.text}> 
+						{this.state.activeThought.text.content} 
+					</div>
+
 					<div className={Styles.slide}>
+
+						<h1> {this.props.postsData.title} </h1>
+
 						<div className={Styles.card} onClick={this.nextSlide}>
 							{ 
 								this.state.activeThought ?
-								<div 
-									className={Styles.image}
-									style={{backgroundImage: `url(${this.state.activeThought.image.link})`}} 
-								>
+								<div className={Styles.slideContainer}>
 									<div className={Styles.idContainer}>  
-										<div className={Styles.id}>{this.state.activeThought.id} </div>
+										<div className={Styles.id}>
+										    {this.state.activeThought.id} 
+										</div>
 									</div>
-									
+									<div 
+										className={Styles.image}
+										style={{backgroundImage: `url(${this.state.activeThought.image.link})`}} 
+									>	
+									</div>
 								</div>
 								:
 								<div>NO Image</div>
 							}
-							<div className={Styles.text}> 
-								{this.state.activeThought.text.content} 
-							</div>
 						</div>
+
+						{ 
+							this.state.playing 
+								?   <div className={Styles.stopButton} onClick={this.stopPlaying}>
+										STOP
+									</div>
+						  		:  	<div className={Styles.playButton} onClick={this.startPlaying}>
+										PLAY
+									</div>
+						}
 					</div>
 
 					<div className={Styles.slideControl}>
-						{ this.state.thoughts.map(thought => 
-							<div 
-								className={Styles.slideButton} 
-								onClick={this.setActiveSlide}
-								id={`button_${thought.id}`}
-							>
-								{thought.id}
-							</div>
-						)}
+						{   
+							this.state.thoughts.map((thought) => 
+								{
+									return  (
+										<div>
+											<div 
+												className={Styles.slideButton} 
+												onClick={this.setActiveSlide}
+												id={`button_${thought.id}`}
+											>
+												<div className={Styles.buttonID}>
+													{thought.id}
+												</div>
+												<div 
+													className={Styles.image}
+													style={{
+														backgroundImage: `url(${this.state.activeThought.image.link})`
+													}} 
+												>	
+												</div>
+											</div>
+										</div>
+									)
+								}
+							)
+						}
 					</div>
 
+					
 				</div>
-				{ this.state.playing ? 
-					<div className={Styles.stopButton} onClick={this.stopPlaying}>
-						STOP
-					</div>
-				  :
-				  	<div className={Styles.playButton} onClick={this.startPlaying}>
-						PLAY
-					</div>
-				}
+
 				<audio className={Styles.audio}  id="music">
 					<source src="https://storage.googleapis.com/spykman-world/Musics/Stark_Mix.m4a" type="audio/mpeg" />
 					Your browser does not support the audio element.
