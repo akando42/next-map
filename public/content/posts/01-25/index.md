@@ -39,7 +39,6 @@ All rivers in Pakistan, India, South East Asia and China were formed through the
 ![Tibetan Highland Map](/content/posts/01-25/monsoon_02.png)
 
 Tibetan was the birthplace of Buddhism which later on evolved into Indian version of Hinduism, Khmer Buddhism and Japanese-Chinese Buddhism.  
-
 ![Lhasa, Tibet](/content/posts/01-25/lhasa_tibet.png)
 
 Before the age of the global position system and detailed printed map, you could easily get lost and die when you venture too far away from your birthplace. The benefit of cross-region travel is only available to the kings and generals with their hundred helpers. 
@@ -76,7 +75,10 @@ And the Chinese - Japanese Buddhist temples look totally Taoism with little rese
 
 There could be the Salt-trade between Tibetan regions and the lower stream to sustain the religious trips of monks and their workshippers up and down the major rivers. The buddhist monks did not seem to be long sea voyagers so we do not find their marks outside of major river systems in the islands of Indonesia, Australia or the American continents but only in coastal islands like Sri Lanka, Singapore, Taiwan and Japan. 
 
+![Himalaya Salts](https://storage.googleapis.com/spykman-world/himalaya-salts.png)
+
 ### The making of Thai alphabet and its Hydroelectric Dam
+
 In 1930, at the beginning of the American Great Depression, the Hoover Dam, the largest Lake of Lights in the world was built on the Colorado river of the United States. The Hoover Dam, the world largest Hydroelectric Dam and Water Reservoir, turns the natural downstream gravitational force of the Colorado river into irrigation channels and electricity that feed and power millions of homes in California, Nevada, Arizona and New Mexico states. 
 
 ![The Hoover Dam](/content/posts/01-25/hoover_dam.png)
@@ -130,6 +132,7 @@ However, since 1988 Thai population growth has been slowed and not a lot of new 
 ![5000](/content/posts/01-25/tri_an_hydro_electric_dam.png)
 
 ## Muay Thai and The Mixing of East and West
+
 ### The Mixing and Adaption of Thai to Outside Influences
 
 The boxing rebellion under the Qing dynasty marked the height of tension between China and the West. The capital Beijing or The Northern Capital was overrun by the coalition of England, France, Russia, Germany, United States, France, Italy, Austria-Hungary and Japan. The largest and most powerful nation in the East was just chewed through by 7 small nations of the West and the tiny island of Japan. 
@@ -153,6 +156,8 @@ The Thai King and their leadership made a choice that it is ok to share Thai wom
 ![Mixing of Thai and Western Genes](https://storage.googleapis.com/spykman-world/thailand-flag.png)
 
 The end result of Thai negotiation is a highest GDP per capita in Indochina of 8000 USD per year, the brightest capital in South East Asia and almost triple their population from 26 million in 1960 before the Bhumibol dam to 71 million nowaday. However, did Thai people evolve or be replaced ? Did the grandfather of Thailand in 1945 have any biological grandkids and great grandkids? Only an old Thai doctor or the just passed way Rama IX would know. 
+
+![Thai Red White Blue](https://storage.googleapis.com/spykman-world/thai-red-white-blue.png)
 
 ### Fighting for Money, Fame and Access to Western Girls.
 

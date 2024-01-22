@@ -104,7 +104,7 @@ export default class Video extends Component {
 			activeIndex: 0,
 		})
 
-		// console.log("THOUGHTS", this.state.thoughts)
+		console.log("THOUGHTS", this.state.thoughts)
 	}
 
 	async setActiveSlide(event){
@@ -167,7 +167,7 @@ export default class Video extends Component {
 
 	render(){
 		let thought = this.state.activeThought
-		console.log(thought)
+		
 
 		return (
 			<div className={Styles.main}>
