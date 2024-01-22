@@ -24,6 +24,8 @@ Random chemical elements continue to expand rapidly at near speed of light to fo
 
 Among millions of solar systems, there is our solar system with a random planet that cools down to the right temperature and has the right un-pured combination of  Hydrogen, Oxygen, Nitrogen and Carbon to form air, water, and complex life forms.  Water is essential for all biological forms on earth. It is the catalyst for all biochemical processes that create complex Carbon-based compounds that form cells, tissues and muscles. The abundance of water is the deciding factor behind the abundances of life. Where there is plenty of water then there is a massive number of  humans, animals and plants while where there is water scarcity then life is difficult and it is always a struggle for all biological life forms. 
 
+![Most Abundance Elements on Earth](https://storage.googleapis.com/spykman-world/most-abundance-elements-on-earth.png)
+
 ### Rivers, the natural channels for religions and genetic influences
 
 Earth at first was a calm water ball with little wind or weather system. After the initial cooling down of earth surfaces, the earth core was still a hot ball of constant nuclear fission explosions. These constant expansion and contraction of the earth core causes the earth's surface plates to move around, collide against each others forming mountains, continents and deep ocean. The different elevation in earth surfaces cause the uneven heat distribution among earth's surface. Air starts to move from high pressure colder regions of the earth to low pressure hotter regions of the earth. 
@@ -38,7 +40,8 @@ All rivers in Pakistan, India, South East Asia and China were formed through the
 
 ![Tibetan Highland Map](/content/posts/01-25/monsoon_02.png)
 
-Tibetan was the birthplace of Buddhism which later on evolved into Indian version of Hinduism, Khmer Buddhism and Japanese-Chinese Buddhism.  
+Tibetan was the birthplace of Buddhism which later on evolved into Indian version of Hinduism, Khmer Buddhism and Japanese-Chinese Buddhism. 
+
 ![Lhasa, Tibet](/content/posts/01-25/lhasa_tibet.png)
 
 Before the age of the global position system and detailed printed map, you could easily get lost and die when you venture too far away from your birthplace. The benefit of cross-region travel is only available to the kings and generals with their hundred helpers. 

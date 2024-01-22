@@ -217,23 +217,29 @@ export default class Video extends Component {
 						{   
 							this.state.thoughts.map((thought) => 
 								{
+									let thumb
+									if (thought.image){
+										thumb = thought.image.link
+									} else {
+										thumb = ""
+									}
 									return  (
-										<div>
+										<div 
+											className={Styles.slideButton} 
+										>
 											<div 
-												className={Styles.slideButton} 
+												className={Styles.buttonID}
 												onClick={this.setActiveSlide}
 												id={`button_${thought.id}`}
 											>
-												<div className={Styles.buttonID}>
-													{thought.id}
-												</div>
-												<div 
-													className={Styles.image}
-													style={{
-														backgroundImage: `url(${this.state.activeThought.image.link})`
-													}} 
-												>	
-												</div>
+												{thought.id}
+											</div>
+											<div 
+												className={Styles.buttonThumbnail}
+												style={{
+													backgroundImage: `url(${thumb})`
+												}} 
+											>	
 											</div>
 										</div>
 									)
