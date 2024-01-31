@@ -186,7 +186,7 @@ export default class Video extends Component {
 							{ 
 								this.state.activeThought ?
 								<div className={Styles.slideContainer}>
-								
+
 									<div className={Styles.idContainer}>  
 										<div className={Styles.id}>
 										    {this.state.activeThought.id} 
@@ -250,15 +250,12 @@ export default class Video extends Component {
 							)
 						}
 					</div>
-
-					
 				</div>
 
 				<audio className={Styles.audio}  id="music">
 					<source src="https://storage.googleapis.com/spykman-world/Musics/Stark_Mix.m4a" type="audio/mpeg" />
 					Your browser does not support the audio element.
 				</audio>
-				
 			</div>
 		)
 	}

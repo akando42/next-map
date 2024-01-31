@@ -92,17 +92,22 @@ The Mongol combined range and mobility via their mounted archors to outperform o
 
 ![The Mobile Archor One](/content/posts/02-02/mobility_and_range.png)
 
-The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
+The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia, Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
 
-![The Nano Kill Chain](/content/posts/02-02/nano_kill_chain.png)
 
-With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
+With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. 
+
+![The Medical Tools](/content/posts/02-02/19_century_medical_tools.png)
+
+While the Chinese herbal medicine of the East is not an exact-method to create mixture of chemical compounds, the West with its precise weight, thermometer scales and the periodic tables were able to extract precise compound for medical purposes. So by year of 2000s, modern day medicine in the East is mostly Western imported technology and experts. 
 
 ![The Periodic Table](/content/posts/02-02/the_periodic_table.png)
 
+However, each cycle of heavy industry innovation is taking much longer while software and biologial experiment could take just few days or weeks. How nation chooses to invest their surplus today could result in a leap forward in software and biotech in just few years or decades not centuries like the case of heavy industry innovation. Software and Biotech breakthrough is also much easier to keep in secret than other industrial innovation. 
+
+![The Nano Kill Chain](/content/posts/02-02/nano_kill_chain.png)
 
 ### Combat Medic - The Secret to Winning War
-![The Medical Tools](/content/posts/02-02/19_century_medical_tools.png)
 
 ![The Machine Gun](/content/posts/02-02/rapid_saturating_rate_of_fire.png)
 
