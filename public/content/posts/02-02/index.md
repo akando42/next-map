@@ -88,31 +88,23 @@ The Roman soldiers with better armors started to outperform the Egyptian empire,
 
 ![The Qin Crossbow](/content/posts/02-02/qin_cross_bow.png)
 
-The Mongol combined range and mobility via their mounted archors to outperform other more static armor formation in China and Europe in 13 centuries. A fast moving mobile target is very difficult to hit so the risk of death and injuries for the horsemans is much lower. A mounted anchor also can target and fire at multiple enemy combatants from a distance then maneuver without letting the enemies to close the distance. 
+The Mongol combined range and mobility via their mounted archors to outperform other more static armor formation in China and Europe in 13 centuries. A fast moving mobile target is very difficult to hit so the risk of death and injuries for the horsemans is much lower. A mounted anchor also can target and fire at multiple enemy combatants from a distance then maneuver without letting the enemies to close the distance. A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. 
 
 ![The Mobile Archor One](/content/posts/02-02/mobility_and_range.png)
 
-A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  
-
-![]()
-
-However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
-
-![]()
-
-With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. 
-
-![The Medical Tools](/content/posts/02-02/19_century_medical_tools.png)
-
-While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
-
-![The Periodic Table](/content/posts/02-02/the_periodic_table.png)
-
-![The Machine Gun](/content/posts/02-02/rapid_saturating_rate_of_fire.png)
+The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
 
 ![The Nano Kill Chain](/content/posts/02-02/nano_kill_chain.png)
 
+With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. While the Chinese herbal medicine of the East is a not exact-method to create mixture of chemical compounds, the Western with its precise weight and thermometer scales and the periodic tables were able to extract precise compound for medical purposes. 
+
+![The Periodic Table](/content/posts/02-02/the_periodic_table.png)
+
+
 ### Combat Medic - The Secret to Winning War
+![The Medical Tools](/content/posts/02-02/19_century_medical_tools.png)
+
+![The Machine Gun](/content/posts/02-02/rapid_saturating_rate_of_fire.png)
 
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
 
