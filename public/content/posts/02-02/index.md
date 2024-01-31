@@ -5,7 +5,7 @@ lng: 8.542570363758998
 path: "/military-medicine-and-the-innovator-of-medical-industry"
 cover: "content/posts/02-02/swiss.png"
 date: "02-02"
-summary: ""
+summary: "War was a chaotic endeavor until the Swiss doctors of the Alps was able to draw the clear line between friends and foes and give a single directional grand global strategy for all Western economic, social and military activities."
 title: "Military Medicine - The Innovator of the Medical Industry"
 tags: ['Japan', 'Soviet', 'Germany', 'Army Nurses', 'Combat Medic', 'Vietnam','Spykman World','Nicholas Spykman']  
 published: true
