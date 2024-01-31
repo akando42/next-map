@@ -50,43 +50,35 @@ Even with the healers, the recovery process of sick and injured men of the ancie
 
 Human is only capable of memorizing in detail around 50 faces of their regular acquaintance. And it is also kinda of the limit of how many people one single organizer can manage directly. Organizing human tribes of more than 100 people are super challenging and require advanced human organization skills. 
 
-![]()
+![Human Tribe Classroom](https://storage.googleapis.com/spykman-world/human-tribe.png)
 
-The Egyptian contruction workers probably built a big ARC dam on the Niles to turn the area around Cairo into a large lake. The hydralic lift forces of the water inside the lake will then could be used to move large stone blocks with ease and build up the 150 meters tall pyramid, an equivelant of a 50 floor modern apartment building.
-
-![]()
-
-The course of the Nile river was probably changed during the Pyramid construction to create the Sahara desert as a natural barrier between Central African population and the European population. After the Pyramid construction was finished, the dam was destroyed hence the story about a massive flood in the Jewish and Christian bible. 
+The Egyptian contruction workers probably built a big ARC dam on the Niles to turn the area around Cairo into a large lake. The hydralic lift forces of the water inside the lake will then could be used to move large stone blocks with ease and build up the 150 meters tall pyramid, an equivelant of a 50 floor modern apartment building. The course of the Nile river was probably changed during the Pyramid construction to create the Sahara desert as a natural barrier between Central African population and the European population. After the Pyramid construction was finished, the dam was destroyed hence the story about a massive flood in the Jewish and Christian bible. 
 
 ![The Swiss DAM of Niles and Africa](/content/posts/02-02/the_swiss_dam_of_africa.png)
 
 If you can supply million men with with food and sex then you can command a million men. To build the three great pyramids of Giza would require the coordination of million workers, guards and other support units. The Egyptian healers and the Pharaoh probably figure this out and start developing mass XO population to be used as middle managers to manage their empires. Maybe the Jewish baby boys were not killed but got turned into XO instead.
 
-![]()
+![Worker Ant Population Only Needs Food and Sex to Stay Motivated](https://storage.googleapis.com/spykman-world/sex_and_food.png)
 
-Men are still biological animals driven by two main needs: more energy via food for activities and sex for endorphine and procreation. With the XO serving as endorphine sources and middle managers, The Egyptian pharaohs would have highly motivated workers whose population would only grow according to plans and too happy for any chances of rebellions. 
+Men are still biological animals driven by two main needs: more energy via food for activities and sex for endorphine and procreation. With the XO serving as endorphine sources and middle managers, The Egyptian pharaohs would have highly motivated workers whose population would only grow according to plans and too happy for any chances of rebellions. Maybe Moses was not just an Egyptian prince but also a healer felt sorry for the Jew slaves, liberated them from the Pharaohs after pyramids and desert construction was finished and wrote Myths about Moses, Jesus and others. 
 
 ![Baby boys turned into Ca Sau](/content/posts/02-02/jewish_baby_boys.png)
 
-Maybe Moses was not just an Egyptian prince but also a healer felt sorry for the Jew slaves, liberated them from the Pharaohs after pyramids and desert construction was finished and wrote Myths about Moses, Jesus and others. 
-
-The scale of this water dam, river course change and pyramids would require millions of workers. This project was too advanced for its time so maybe the Ancient Egyptian pyramids was actually built by the Swiss and other European planners to mark the feature of local North African women and built a common identity and culture for the North Africa and Middle East tribes. 
-
-There is another pyramid in the east, the Qin Shi Huang pyramid in Xian but it was much flatter than the Egyptian pyramids just like East Asian women vs Western women.
+The scale of this water dam, river course change and pyramids would require millions of workers. This project was too advanced for its time so maybe the Ancient Egyptian pyramids was actually built by the Swiss and other European planners to mark the feature of local North African women and built a common identity and culture for the North Africa and Middle East tribes. There is another pyramid in the east, the Qin Shi Huang pyramid in Xian but it was much flatter than the Egyptian pyramids just like East Asian women vs Western women.
 
 ![Giza vs Qin pyramid](/content/posts/02-02/giza_vs_qin.png)
 
 During this early human history, city states along major rivers like the Niles and the Yangzte rivers with better agrrigation lands were able to provide better nutrition via mass farming for the average human within the empire and as the result better health and faster population growth. 
 
-With better nutrition, hunger is no longer a concern for the citizens of ancient Egypt and ancient China, the minds of human societies in these early empires can focus on something else besides hunting and food. Human started to develop a writing system to record history and knowlege. 
+![Egyptian Farmers](https://storage.googleapis.com/spykman-world/egyptian-farmer.png)
 
-With a same writing system used by hundred thousands of healers, ancient Egyptian and ancient Chinese healers were probably be able to develop a medical wikipedia and achieve exponential growth in medical knowledge via network effects. 
+With better nutrition, hunger is no longer a concern for the citizens of ancient Egypt and ancient China, the minds of human societies in these early empires can focus on something else besides hunting and food. Human started to develop a writing system to record history and knowlege. With a same writing system used by hundred thousands of healers, ancient Egyptian and ancient Chinese healers were probably be able to develop a medical wikipedia and achieve exponential growth in medical knowledge via network effects. 
 
-While we are much more advanced than all other animals in our planet, the human societies are just like animals whose every daily objectives is to take actions to:
+![]()
 
-- maximize genetic footprints via competition. 
-- minimize risk of death. 
-- optimize healing for occasional sick and injuries. 
+While we are much more advanced than all other animals in our planet, the human societies are just like animals whose every daily objectives is to take actions to: maximize genetic footprints via competition, minimize risk of death, optimize healing for occasional sick and injuries. 
+
+![]()
 
 Human civilizations started to develop Armors to give the male adults advantanges in the genetic competitions to cover major arteries during the inevitable battles for the female eggs and resources to raise his family. Civilizations with better war tools and healing techniques started to outperform civilizations that relying only on farming and numerical superiority. 
 
@@ -98,11 +90,14 @@ The Roman soldiers with better armors started to outperform the Egyptian empire,
 
 The Mongol combined range and mobility via their mounted archors to outperform other more static armor formation in China and Europe in 13 centuries. A fast moving mobile target is very difficult to hit so the risk of death and injuries for the horsemans is much lower. A mounted anchor also can target and fire at multiple enemy combatants from a distance then maneuver without letting the enemies to close the distance. 
 
-A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  
-
 ![The Mobile Archor One](/content/posts/02-02/mobility_and_range.png)
 
+A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  
+
+
 However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
+
+![]()
 
 With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. 
 
