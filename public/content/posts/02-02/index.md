@@ -74,11 +74,11 @@ During this early human history, city states along major rivers like the Niles a
 
 With better nutrition, hunger is no longer a concern for the citizens of ancient Egypt and ancient China, the minds of human societies in these early empires can focus on something else besides hunting and food. Human started to develop a writing system to record history and knowlege. With a same writing system used by hundred thousands of healers, ancient Egyptian and ancient Chinese healers were probably be able to develop a medical wikipedia and achieve exponential growth in medical knowledge via network effects. 
 
-![]()
+![The Egyptian Alphabets](https://storage.googleapis.com/spykman-world/egyptian-alphabets.png)
 
 While we are much more advanced than all other animals in our planet, the human societies are just like animals whose every daily objectives is to take actions to: maximize genetic footprints via competition, minimize risk of death, optimize healing for occasional sick and injuries. 
 
-![]()
+![Compete Survive Heal](https://storage.googleapis.com/spykman-world/compete-survive-heal.png)
 
 Human civilizations started to develop Armors to give the male adults advantanges in the genetic competitions to cover major arteries during the inevitable battles for the female eggs and resources to raise his family. Civilizations with better war tools and healing techniques started to outperform civilizations that relying only on farming and numerical superiority. 
 
@@ -94,6 +94,7 @@ The Mongol combined range and mobility via their mounted archors to outperform o
 
 A horse for everyman, a meal everyday via practicing archory enabled every male adult of the Mongolian society to become a highly skilled mounted archor. The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  
 
+![]()
 
 However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia and Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
 
