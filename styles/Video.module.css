@@ -108,8 +108,8 @@
 
 .image {
 	border: 1px solid white;
-	height: 675px;
-	width: 1200px;
+	height: calc(675/1200*55vw);
+	width: 55vw;
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-color: black;
@@ -168,7 +168,7 @@
 .text {
 	color: black;
 	padding: 0 1vw;
-	font-size: 31px;
+	font-size: 26px;
 	width: 20vw;
 	height: 100vh;
 	display: flex;

@@ -186,16 +186,19 @@ export default class Video extends Component {
 							{ 
 								this.state.activeThought ?
 								<div className={Styles.slideContainer}>
+								
 									<div className={Styles.idContainer}>  
 										<div className={Styles.id}>
 										    {this.state.activeThought.id} 
 										</div>
 									</div>
+
 									<div 
 										className={Styles.image}
 										style={{backgroundImage: `url(${this.state.activeThought.image.link})`}} 
 									>	
 									</div>
+
 								</div>
 								:
 								<div>NO Image</div>
