@@ -12,13 +12,17 @@ published: true
 ---
 ### The Art of Healing and Its Brief History
 
-Humans like other animals still follow the same patterns of genetic evolution through competition and creation. However, humans are the only animals who deeply understand ourselves. 
+Humans like other animals still follow the same patterns of genetic evolution through competition and creation. However, humans are the only animals who deeply understand ourselves. From the first time a human looks into his reflection in the water and becomes self aware, human knowledge about the human body and mind have grown exponentially. 
 
-From the first time a human looks into his reflection in the water and becomes self aware, human knowledge about the human body and mind have grown exponentially. We started to build tools and processes to extend our biological limits. Within a tribe, there will be at least one healer with focus on reducing the chance of death and injuries for other tribe members. 
+![Monkey Looking Into Mirror Everyday](https://storage.googleapis.com/spykman-world/monkey-looking-into-mirror-everyday.png)
 
-From the small human tribes with 10 or so families with basic tools and clothings, human tribes with superior organizational skills started to absorb other human tribes and develop larger settlements and form city states along major rivers.
+We started to build tools and processes to extend our biological limits. Within a tribe, there will be at least one healer with focus on reducing the chance of death and injuries for other tribe members. 
 
-With a large human settlement of thousands of families, we start to see the numerical superior effects. Large enough settlements will simply scare other predatory animals away as well as smaller competing tribes. 
+![Healer performing his task](https://storage.googleapis.com/spykman-world/healer.png)
+
+From the small human tribes with 10 or so families with basic tools and clothings, human tribes with superior organizational skills started to absorb other human tribes and develop larger settlements and form city states along major rivers. With a large human settlement of thousands of families, we start to see the numerical superior effects. Large enough settlements will simply scare other predatory animals away as well as smaller competing tribes. 
+
+![Human Camping in The Forrest](https://storage.googleapis.com/spykman-world/human-camping-in-the-forrest.png)
 
 Even with a larger settlement of 1000 families, the risk of injuries from large animals have greatly declined, human tribe members’ sickness and injuries are still part of the harsh reality of existence. And while big animals are no longer a threat, wars with other competing tribes are still the main causes of death and injuries to the tribe members. 
 
@@ -26,7 +30,11 @@ Even with a larger settlement of 1000 families, the risk of injuries from large 
 
 The ancient Egyptian empire could be the apex development of this numerical superiority era. The Egyptian pharaoh was able to build a massive settlement around Cairo and the Nile rivers. The large settlement always allowed the Egyptian armies to have numerical superiority in any battles against smaller competing tribes around the Nile. 
 
-Large city states like Cairo always had at least a 10 to 1 ratio in local battles along the Niles and were able to capture prisoners of war as slaves from smaller tribes. This numerical superiority also greatly reduces the risk of death and injuries for the Egyptian guards and its citizens as well as reducing the workload for the healers.
+![The Egyptian Chariot](https://storage.googleapis.com/spykman-world/the-egyptian-chariot.png)
+
+Large city states like Cairo always had at least a 10 to 1 ratio in local battles along the Niles and were able to capture prisoners of war as slaves from smaller tribes as well as turning children of the slaves into XO. Achieve and maintain numerical superiority also greatly reduces the risk of death and injuries for the Egyptian guards and its citizens as well as reducing the workload for the healers.
+
+![Egyptian Army Turning Jewish Babies into Crocodile Feed](https://storage.googleapis.com/spykman-world/egyptian-turning-babies-into-crocodiles-feed.png)
 
 In order to reduce the risk of death and injuries to the Egyptian guards, the Egyptian healers were also developing snake poision arrows as offensive tools to quickly take out the enemies of Egypt. So since the Egyptian era, we started to see snakes as the symbol of healers and the healers have been developing their abilities to both cure and kill with biological and chemical means. 
 
@@ -34,21 +42,27 @@ In order to reduce the risk of death and injuries to the Egyptian guards, the Eg
 
 During the Egyptian era, we also see major stone structures being built as homes and monuments. Before man became a stone mason master, the health of himself and his family members were always at the mercy of the weather. The Egyptian mastery of stonemason skills enabled much better health for both the Egyptian rulers and their slaves. 
 
+![The Egytian Worker Home](/content/posts/02-02/egyptian_homes.png)
+
 Even with the healers, the recovery process of sick and injured men of the ancient era was probably mainly through the self-healing ability of the human biological cells.  Large settlements with durable structures also allowed the sick and injured to recover via water and food rationing from other settlers in a much less volatile environment. 
 
-![The Egytian Worker Home](/content/posts/02-02/egyptian_homes.png)
+![Regenerative Stem Cells](https://storage.googleapis.com/spykman-world/regenerative-stem-cells.png)
 
 Human is only capable of memorizing in detail around 50 faces of their regular acquaintance. And it is also kinda of the limit of how many people one single organizer can manage directly. Organizing human tribes of more than 100 people are super challenging and require advanced human organization skills. 
 
+![]()
+
 The Egyptian contruction workers probably built a big ARC dam on the Niles to turn the area around Cairo into a large lake. The hydralic lift forces of the water inside the lake will then could be used to move large stone blocks with ease and build up the 150 meters tall pyramid, an equivelant of a 50 floor modern apartment building.
+
+![]()
 
 The course of the Nile river was probably changed during the Pyramid construction to create the Sahara desert as a natural barrier between Central African population and the European population. After the Pyramid construction was finished, the dam was destroyed hence the story about a massive flood in the Jewish and Christian bible. 
 
 ![The Swiss DAM of Niles and Africa](/content/posts/02-02/the_swiss_dam_of_africa.png)
 
-If you can supply million men with with food and sex then you can command a million men. To build the three great pyramids of Giza would require the coordination of million workers, guards and other support units. 
+If you can supply million men with with food and sex then you can command a million men. To build the three great pyramids of Giza would require the coordination of million workers, guards and other support units. The Egyptian healers and the Pharaoh probably figure this out and start developing mass XO population to be used as middle managers to manage their empires. Maybe the Jewish baby boys were not killed but got turned into XO instead.
 
-The Egyptian healers and the Pharaoh probably figure this out and start developing mass XO population to be used as middle managers to manage their empires. Maybe the Jewish baby boys were not killed but got turned into XO instead.
+![]()
 
 Men are still biological animals driven by two main needs: more energy via food for activities and sex for endorphine and procreation. With the XO serving as endorphine sources and middle managers, The Egyptian pharaohs would have highly motivated workers whose population would only grow according to plans and too happy for any chances of rebellions. 
 
