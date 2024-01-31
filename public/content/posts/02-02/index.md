@@ -117,7 +117,11 @@ While the Chinese herbal medicine of the East is a not exact-method to create mi
 ![The Nano Kill Chain](/content/posts/02-02/nano_kill_chain.png)
 
 ### Combat Medic - The Secret to Winning War
+
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
 
 ### War - The Stressors for Medical Advancement
+
 ![Hanoi Military Hospitals](/content/posts/02-02/hanoi_military_hospitals.png)
+
+![The Military Decoys](https://storage.googleapis.com/spykman-world/108-mlt-103-mlb.png)
