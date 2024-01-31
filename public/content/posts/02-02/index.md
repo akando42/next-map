@@ -92,8 +92,9 @@ The Mongol combined range and mobility via their mounted archors to outperform o
 
 ![The Mobile Archor One](/content/posts/02-02/mobility_and_range.png)
 
-The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day.  However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia, Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
+The Mongolian empire with million of horse archors quickly overran entire China, Central Asia and Eastern Europe and left the Genetic footprint until modern day. However, the climate is still a major obstacle of the horse archors of Mongolian. While they dominated Asia, Europe and only stopped by the sea, the Mongolian armies did not develop immunne system and adaption to the tropical climate of South East Asia. So the Mongolian mounted archors attempted three times but fail to conquer Vietnam attrition war strategies. The world conquering armies will need to wait for the development of vaccines in 19 century to extend their influence beyond the climate lines.
 
+![Rain Forrest](https://storage.googleapis.com/spykman-world/rain-forrest.png)
 
 With the industralization, the Western civilizations made a major leap forward in understanding of our body and our enviroment. With the invention of the microscope, the thermostats and the stethoscope for every individual doctors in 19 centuries, scientists of Europe were able make major leap forward in Western medicine. 
 
