@@ -110,7 +110,13 @@ However, each cycle of heavy industry innovation is taking much longer while sof
 
 ### Combat Medic - The Secret to Winning War
 
+![Contested Zone Vietnam War](https://storage.googleapis.com/spykman-world/contested-zone-vietnam-war.png)
+
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
+
+![The TET Offensive](https://storage.googleapis.com/spykman-world/tet-offensive.png)
+
+![Fall of Saigon](https://storage.googleapis.com/spykman-world/fall-of-saigon.png)
 
 ![1988 and 2018 Maybe](https://storage.googleapis.com/spykman-world/what-happened-in-1988-and-today.png)
 
