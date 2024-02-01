@@ -118,6 +118,8 @@ Understanding of the animal and human behavior would sometimes allowed the plann
 
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
 
+The TET offensive resulted in massive losses of man power in the North and made spaces for fresh troops from China mountainous region of Kunming and Chengdu to migrate to Vietnam and replace the Northern native local males population. Tet offensive also resulted in the change of leadership in the North with Blood type A and O group within the mostly blood type B population in the North to gain all major military and economic decision making powers. 
+
 ![The TET Offensive](https://storage.googleapis.com/spykman-world/tet-offensive.png)
 
 ![Fall of Saigon](https://storage.googleapis.com/spykman-world/fall-of-saigon.png)
