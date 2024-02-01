@@ -110,12 +110,23 @@ However, each cycle of heavy industry innovation is taking much longer while sof
 
 ### Combat Medic - The Secret to Winning War
 
-![The Machine Gun](/content/posts/02-02/rapid_saturating_rate_of_fire.png)
-
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
+
+![1988 and 2018 Maybe](https://storage.googleapis.com/spykman-world/what-happened-in-1988-and-today.png)
+
+![French Doctors Used Thai Secret Police to Spread Viruses in Hanoi](https://storage.googleapis.com/spykman-world/french-doctor-use-thai-police-spread-viruses.png)
+
+![Patients Got Turned into Food](https://storage.googleapis.com/spykman-world/latin-french-army-doctor-social-control-via-medical-tools.png)
 
 ### War - The Stressors for Medical Advancement
 
 ![Hanoi Military Hospitals](/content/posts/02-02/hanoi_military_hospitals.png)
 
 ![The Military Decoys](https://storage.googleapis.com/spykman-world/108-mlt-103-mlb.png)
+
+![TP Bank French Technician and Thai Police Social Control](https://storage.googleapis.com/spykman-world/tienphong-bank.png)
+
+![HikVision used as Targeting Tools for Viruses](https://storage.googleapis.com/spykman-world/hikvision.png)
+
+![Dahua used as Marker of Infected Targets](https://storage.googleapis.com/spykman-world/dahua-done-with-tpbank.png)
+
