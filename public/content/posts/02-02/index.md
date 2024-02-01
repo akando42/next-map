@@ -114,6 +114,8 @@ War is such a chaotic messy endeavor with so many players that countless kings, 
 
 ![Contested Zone Vietnam War](https://storage.googleapis.com/spykman-world/vietnam-war-genetics-balance-at-the-beginning.png)
 
+Understanding of the animal and human behavior would sometimes allowed the planners to make the human animals to act against their own long term interest by following an alpha blindlessly. In the case of the Vietnam War, the Swiss doctors were able to plan their agents in all three sides of the wars within the Northern, Southern and Cambodian leadership to lead the Vietnamese and Cambodians into attacking their own genetic groups in order to make spaces for the newly introduced Genetics group selected by the West in Indochina. 
+
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
 
 ![The TET Offensive](https://storage.googleapis.com/spykman-world/tet-offensive.png)
