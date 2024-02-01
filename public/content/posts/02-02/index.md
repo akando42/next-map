@@ -110,6 +110,8 @@ However, each cycle of heavy industry innovation is taking much longer while sof
 
 ### Combat Medic - The Secret to Winning War
 
+War is such a chaotic messy endeavor with so many players that countless kings, generals and politicans got carried away with short term gains and lost sight of what is really important. The widely broadcasted goals of war was always territorial gains, numbers of troops casualty on each sides and number of accidental collateral damages. However, the Western planners and doctors have always known what really matter is the genetic balance of the ecosystem and choose to start and end war to adjust this balance. 
+
 ![Contested Zone Vietnam War](https://storage.googleapis.com/spykman-world/vietnam-war-genetics-balance-at-the-beginning.png)
 
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
