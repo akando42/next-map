@@ -122,11 +122,19 @@ The TET offensive resulted in massive losses of man power in the North and made 
 
 ![The TET Offensive](https://storage.googleapis.com/spykman-world/tet-offensive.png)
 
+With fresh troops and new heavy equipments from China as well as the secret handshakes between the United States and China, the Northern Vietnamese military composing of mostly Chinese troops was able to quickly overrun the abandoned Southern Vietnamese army. The seem-to-be-shocking victory of the Vietnam Communist Army in the North resulted in the collapsing a barrier between genetic groups of the North and the South. Swiss doctors sperms from the South now can move freely to the North as well as have the controlling power of the entire Vietnam. 
+
 ![Fall of Saigon](https://storage.googleapis.com/spykman-world/fall-of-saigon.png)
+
+The Swiss doctor sperms in the North and South gradually replaces the Northern population after 1975 quietly with the cover of endless construction projects in the country. To make it faster, the US embargo following 1975 Fall of Saigon and the Chinese withdrawal of Aids after 1979 resulted in famine in the North. Famine and the spreading of French viruses with the help from Thai infiltrating agents eventually led to the collapse of Hanoi leadership in 1988 and the openning up of Vietnamese economy in 1990.
 
 ![1988 and 2018 Maybe](https://storage.googleapis.com/spykman-world/what-happened-in-1988-and-today.png)
 
+After 1988, Hanoi control is falling under the Thailand secret polices and Western doctors while it still keep its Communist name. The Vietnamese military was gradually disarmed with little to none new military equipments being produced locally or imported from the West. The Northern Vietnam from Thai Nguyen to Nghe An became the Hoa Lo prison for Blood type B with the local polices and governments being run by Thai and French secret polices from behind the curtain. 
+
 ![French Doctors Used Thai Secret Police to Spread Viruses in Hanoi](https://storage.googleapis.com/spykman-world/french-doctor-use-thai-police-spread-viruses.png)
+
+While the televised images and pictures of Vietnamese leadership still seem to be quite Northern Vietnam, the statue of 1988 horror are still being posted right behind the top leaders of Vietnam to remind them that French polices is actually in control of Vietnam and they could come back anytimes with more horror diseases.
 
 ![Patients Got Turned into Food](https://storage.googleapis.com/spykman-world/latin-french-army-doctor-social-control-via-medical-tools.png)
 
