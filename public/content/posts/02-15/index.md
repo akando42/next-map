@@ -88,7 +88,11 @@ Like in the case of KKR investment in Vinhomes, the largest property developer i
 
 The KKR-Vinhomes deal will probably give the firm little competition at home and little expected profits from reselling its shares. However with Vinhomes being the most famous luxury housing brand in Vietnam, the American governments and the American military will be able to capture key command control nodes of Hanoi, make double of them or remote control them.
 
-With 650 million USD investment, the American and Singaporian governments can have access to all Vinhomes properties across Vietnam. Through the due diligence process post investments, KKR and the Singaporian advisors probably can: inspect all Locks, Security Cameras, Building Management equipments and procedures, inspect all financial data of Vinhomes properties across Vietnam, access to the databases of all Vinhomes residents and all Vinhomes employees, all driver licenses, VIN vehicle identification numbers and license plates of all residents living in Vinhomes properties.  
+![UN Double Hospital](https://storage.googleapis.com/spykman-world/united-nation-double-hospital.png)
+
+With 650 million USD investment, the American and Singaporian governments can have access to all Vinhomes properties across Vietnam. Through the due diligence process post investments, KKR and the Singaporian advisors probably can: inspect all Locks, security Cameras, building management equipments and procedures, inspect all financial data of Vinhomes properties across Vietnam, access to the databases of all Vinhomes residents and all Vinhomes employees, all driver licenses, VIN vehicle identification numbers and license plates of all residents living in Vinhomes properties.  
+
+![Vinhomes Lock is Remote Control with HikVision Camera](https://storage.googleapis.com/spykman-world/vinhome-camera-and-lock.png)
 
 Without the Singaporian knowledge about the Vietnamese leadership inner circle, it is probably not possible for the American governments and militaries to fully control Vietnam long after their withdrawal from Saigon in 1975. 
 
