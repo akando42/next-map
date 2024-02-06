@@ -114,15 +114,27 @@ War is such a chaotic messy endeavor with so many players that countless kings, 
 
 ![Contested Zone Vietnam War](https://storage.googleapis.com/spykman-world/vietnam-war-genetics-balance-at-the-beginning.png)
 
+Understanding of the animal and human behavior would sometimes allowed the planners to make the human animals to act against their own long term interest by following an alpha blindlessly. In the case of the Vietnam War, the Swiss doctors were able to plan their agents in all three sides of the wars within the Northern, Southern and Cambodian leadership to lead the Vietnamese and Cambodians into attacking their own genetic groups in order to make spaces for the newly introduced Genetics group selected by the West in Indochina. 
+
 ![General or Maybe Real Dad](/content/posts/02-02/general_and_maybe_real_dad.png)
+
+The TET offensive resulted in massive losses of man power in the North and made spaces for fresh troops from China mountainous region of Kunming and Chengdu to migrate to Vietnam and replace the Northern native local males population. Tet offensive also resulted in the change of leadership in the North with Blood type A and O group within the mostly blood type B population in the North to gain all major military and economic decision making powers. 
 
 ![The TET Offensive](https://storage.googleapis.com/spykman-world/tet-offensive.png)
 
+With fresh troops and new heavy equipments from China as well as the secret handshakes between the United States and China, the Northern Vietnamese military composing of mostly Chinese troops was able to quickly overrun the abandoned Southern Vietnamese army. The seem-to-be-shocking victory of the Vietnam Communist Army in the North resulted in the collapsing a barrier between genetic groups of the North and the South. Swiss doctors sperms from the South now can move freely to the North as well as have the controlling power of the entire Vietnam. 
+
 ![Fall of Saigon](https://storage.googleapis.com/spykman-world/fall-of-saigon.png)
+
+The Swiss doctor sperms in the North and South gradually replaces the Northern population after 1975 quietly with the cover of endless construction projects in the country. To make it faster, the US embargo following 1975 Fall of Saigon and the Chinese withdrawal of Aids after 1979 resulted in famine in the North. Famine and the spreading of French viruses with the help from Thai infiltrating agents eventually led to the collapse of Hanoi leadership in 1988 and the openning up of Vietnamese economy in 1990.
 
 ![1988 and 2018 Maybe](https://storage.googleapis.com/spykman-world/what-happened-in-1988-and-today.png)
 
+After 1988, Hanoi control is falling under the Thailand secret polices and Western doctors while it still keep its Communist name. The Vietnamese military was gradually disarmed with little to none new military equipments being produced locally or imported from the West. The Northern Vietnam from Thai Nguyen to Nghe An became the Hoa Lo prison for Blood type B with the local polices and governments being run by Thai and French secret polices from behind the curtain. 
+
 ![French Doctors Used Thai Secret Police to Spread Viruses in Hanoi](https://storage.googleapis.com/spykman-world/french-doctor-use-thai-police-spread-viruses.png)
+
+While the televised images and pictures of Vietnamese leadership still seem to be quite Northern Vietnam, the statue of 1988 horror are still being posted right behind the top leaders of Vietnam to remind them that French polices is actually in control of Vietnam and they could come back anytimes with more horror diseases.
 
 ![Patients Got Turned into Food](https://storage.googleapis.com/spykman-world/latin-french-army-doctor-social-control-via-medical-tools.png)
 
