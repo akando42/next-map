@@ -80,9 +80,13 @@ All money flowing from Europe, the Middle East and the United States to investme
 
 Money invested in this region needs to serve one of three purposes: give the American and European companies more competitive advantages at home via cheaper labors or better talents, give the American and European governments more influence over the decision making process of SouthEast Asian and China leaderships, give the American and European military bases for covert intelligence collecting and advantages in any war scenarios. 
 
+![KKR Invest in Vinhomes](https://storage.googleapis.com/spykman-world/kkr-invest-in-vinhomes.png)
+
 Like in the case of KKR investment in Vinhomes, the largest property developer in Vietnam in June 2020 at the height of the COVID-19 pandemics. 650 million USD or 0.5% of Vietnam Annual GDP was invested in exchange for 6% of Vinhomes shares. The deal between Vietnam Vinhomes and the American notorious Leverage Buyout investment bank KKR was closed under the advisory of Singapore financial advisors. 
 
-The KKR-Vinhomes deal will probably give the firm little competition at home and little expected profits from reselling its shares. However with Vinhomes being the most famous luxury housing brand in Vietnam, the American governments and the American military will gain major influences and intelligence on the elite circle of Vietnamese leaderships.  
+![El Gau Cho](https://storage.googleapis.com/spykman-world/steak-of-vinhome-residents.png)
+
+The KKR-Vinhomes deal will probably give the firm little competition at home and little expected profits from reselling its shares. However with Vinhomes being the most famous luxury housing brand in Vietnam, the American governments and the American military will be able to capture key command control nodes of Hanoi, make double of them or remote control them.
 
 With 650 million USD investment, the American and Singaporian governments can have access to all Vinhomes properties across Vietnam. Through the due diligence process post investments, KKR and the Singaporian advisors probably can: inspect all Locks, Security Cameras, Building Management equipments and procedures, inspect all financial data of Vinhomes properties across Vietnam, access to the databases of all Vinhomes residents and all Vinhomes employees, all driver licenses, VIN vehicle identification numbers and license plates of all residents living in Vinhomes properties.  
 
