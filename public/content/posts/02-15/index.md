@@ -36,7 +36,7 @@ Singapore is the modern day capital of the Malay sea faring people and Hong Kong
 
 A daily routine of a modern human living in a city state like Singapore, Ho Chi Minh city or Shenzhen is like this. In the morning, he made his first purchases of breakfast and coffee using Credit or Debit cards. He might then buy some gas to fill up his personal vehicle to commute to work. Later that morning, he will have some conference calls with clients and coworkers. In the evening after work, he might have a phone call or send some messages to his friends and family members. 
 
-![Credit Card Usages is Fully Trackable by Vendors](https://storage.googleapis.com/spykman-world/credit-card-usages-make-users-more-vulnerable-to-poisoning.png)
+![Credit Card Usages is Fully Trackable by Vendors](https://storage.googleapis.com/spykman-world/credit-card-usages-make-user-vulnerable-to-poisoning.png)
 
 It does not matter if he is a criminal, a foreign agent or a regular office worker, his routine still contains the act of credit card payments, energy purchase, and sending communication messages to his networks. And Singapore was somehow built to be able to monitor all of those three essential channels: communication, energy and banking transactions.
 
