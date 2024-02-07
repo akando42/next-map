@@ -24,12 +24,12 @@ Boneo is the third largest island in the world, two times the size of Japan and 
 
 ![Borneo Pirates](/content/posts/02-15/pirate_empires.png)
 
-Boneo island with the shape of a human heart was very likely the capital of a Pirate Sea Faring civilization of the Malay people. 
-Boneo in underground Vietnamese means Place to Anchor. After the colonization of the Dutch and British in the 1500s,  the pirates' capital of Boneo was demolished and turned into a palm oil cultivation. The police stations of Singapore were installed near Boneo to watch over any Malay or Chinese rebellions. Boneo island then divided into three parts that belong to the modern day kingdom of Brunei, Malaysia and Indonesia. 
+Boneo island with the shape of a human heart was very likely the capital of a Pirate Sea Faring civilization of the Malay people. Boneo in underground Vietnamese means Place to Anchor. After the colonization of the Dutch and British in the 1500s,  the pirates' capital of Boneo was demolished and turned into a palm oil cultivation. The police stations of Singapore were installed near Boneo to watch over any Malay or Chinese rebellions. Boneo island then divided into three parts that belong to the modern day kingdom of Brunei, Malaysia and Indonesia. 
 
 ![Place of Anchor](/content/posts/02-15/boneo.png)
 
 ### The Secret Police Capital of British Empire
+
 Singapore is the modern day capital of the Malay sea faring people and Hong Kong is the modern day capital of the Southern Chinese sea faring people. Interestingly enough, the capital of these two seafaring empires are still extremely bright at night today.
 
 ![Singapore and Hong Kong](/content/posts/02-15/payment_gateways.png)
@@ -70,7 +70,9 @@ Singapore is very multi-cultural with 4 official languages: English, Mandarin, M
 
 ![Multi-cultures faces of Singapore](/content/posts/02-15/faces_of_singapore.png)
 
-This explains why the TSA of Asia, Singapore has the highest Income per Capital in the Wet Rice circle of $72,000 USD per year, 2 times the average income of a Japanese citizen, 6 times the average income of a Chinese citizen and 30 times the average income of an Indian citizen. Singapore, SING_APO_RE, stands for SING and Asian Public Order and Rabbit Egg managment.  
+This explains why the TSA of Asia, Singapore has the highest Income per Capital in the Wet Rice circle of $72,000 USD per year, 2 times the average income of a Japanese citizen, 6 times the average income of a Chinese citizen and 30 times the average income of an Indian citizen. Singapore, SING_APO_RE, stands for SING and Asian Public Order and Rabbit Egg managment. One Singaporian police would be able to vector and manage thounsands of Grab Drivers in South East Asia.
+
+![Singaporian Secret Services](https://storage.googleapis.com/spykman-world/secret-services.png)
 
 ### The Gateway between East Asia and English speaking world
 
@@ -100,15 +102,23 @@ Without the Singaporian knowledge about the Vietnamese leadership inner circle, 
 
 All containers ship passing through the Strait of Malacca and Singapore will need to make radio contacts with the Singaporian authority or being inspected by the Singaporean coastal guards. The narrow Strait of Singapore with some point being only 3 kilometers makes the policing of these highly valuable water way relatively easy. 
 
+![Tankers and Ship Transiting Through Singapore](https://storage.googleapis.com/spykman-world/the-narrow-stroke-point-of-singapore.png)
+
 As a secret police city state, the Singaporian arm force is relatively small and serving as the support forces for the US and European Navy. All Singaporian submarines and torpedoes are made in Europe with Sweden and Germany being the two main vendors. Singaporean surfaces ships and its radar system are either made in France or in collaboration with French defense contractors.
+
+![Singaporian Naval Ships](https://storage.googleapis.com/spykman-world/singaporian-naval-ships.png)
 
 Swedish and German submarines for Singapore are all AIP air-independent-propulsant that allows a diesel submarine to stay underwater for up to 1 month without surfacing. These highly efficient and quiet AIP submarine design would allow a Diesel-powered submarine to perform as good a nuclear-powered submarines in regional ocean. 
 
+![AIP Air Independent Submarine](https://storage.googleapis.com/spykman-world/singaporian-aip-submarine.png)
+
 A fleet of 4-6 Singaporian AIP submarines would be enough to patrol the narrow strait of Malacca and surrounding area without letting the Chinese submarines to sneak through to Indian ocean without detection or be able to attack US carriers when it is parking in Singapore. 
+
+![US Carrier Parking in Singapore]()
 
 Singaporean airforces compromises of mainly American-made aircrafts with Singapore being among the few in East Asia who are part of the F35 programs along side with Korea and Japan. 
 
-![Container Ship Map](/content/posts/02-15/ships_through_singapore.png)
+![Singaporian Changi West Airbase](https://storage.googleapis.com/spykman-world/singaporian-airforce-base.png)
 
 
 
