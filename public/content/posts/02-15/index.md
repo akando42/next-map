@@ -114,7 +114,7 @@ Swedish and German submarines for Singapore are all AIP air-independent-propulsa
 
 A fleet of 4-6 Singaporian AIP submarines would be enough to patrol the narrow strait of Malacca and surrounding area without letting the Chinese submarines to sneak through to Indian ocean without detection or be able to attack US carriers when it is parking in Singapore. 
 
-![US Carrier Parking in Singapore]()
+![Changyi Naval Base](https://storage.googleapis.com/spykman-world/singporian-naval-base.png)
 
 Singaporean airforces compromises of mainly American-made aircrafts with Singapore being among the few in East Asia who are part of the F35 programs along side with Korea and Japan. 
 
