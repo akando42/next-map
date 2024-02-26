@@ -77,7 +77,10 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 
 2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.
 
-2003 ⇒ first SAR-COVID variant pandemic in Yunnan and Hong Kong region.  
+2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population. 
+
+![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)
+2020 ⇒ Mass Replacement of Southern Chinese and South East Asia population. 
 
 
 ### Donald Trump and The US-Russia Alliance

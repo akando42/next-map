@@ -6,7 +6,7 @@ path: "/an-island-nation-and-the-constraint-that-trigger-evolution"
 cover: "content/posts/02-15/spykman-world-island-nation.jpg"
 date: "02-15"
 title: "Singapore - The Asia Secret Police Capital"
-summary: ""
+summary: "Water from high mountain of the Himalaysia enables the Tibetan East Asian people to expand across the globe via the river and ocean highway until they were stopped by the British Naval Power. Since WW2, Tibetan East Asian is always contained and monitored by the Five Eyes Surveilance network. "
 tags: ['Singapore', 'China', 'Japan', 'England', 'Dutch', 'Malaysia', 'Indonesia', 'Brunei', 'Island Nation', 'Stroke Point', 'Spykman World','Nicholas Spykman']  
 published: true
 ---
