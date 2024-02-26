@@ -93,6 +93,7 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 2015 ⇒ Nguyen Phu Trong visited the United States and got the miracle technology of nanobots or he was chipped on the visit. 
 
 ![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
+
 2016 
 ⇒ Donald Trump became US President on a harsh anti-China agenda
 ⇒ Donald Trump DT is a loud mouth to distract the world's attention from the real actions of American DT dark-templar CIA agents and their criminal gangs in China and Vietnam.
