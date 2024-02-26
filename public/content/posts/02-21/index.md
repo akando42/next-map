@@ -6,15 +6,14 @@ path: "/richard-nixon-and-the-art-of-manipulation"
 cover: "content/posts/02-21/spykman-world-permanent.jpg"
 date: "02-21"
 title: "Richard Nixon and The Art of Manipulation"
+summary: "The Chinese American alliance has been a difficult journey with very few Chinese-Caucasian babies being born that could influence the American society while the casualties of both American and Chinese has been high through their proxy wars."
 tags: ['Russia', 'China', 'United States', 'Richard Nixon', 'Vietnam', 'Spykman World','Nicholas Spykman']  
 published: true
 ---
 ### Politics is Temporary, Genetics and Geography is Permanent
 ![EU](content/posts/02-21/eu.png)
 
-What would you do if you can travel anywhere on earth within a week and possess personal arms advanced enough to deal with any potential threats on your journey with little risk of death and injuries to your crews. 
-
-At the beginning of 1900, the Western world already mastered ocean fairing and air travel with the inventions of the combustion engines.
+What would you do if you can travel anywhere on earth within a week and possess personal arms advanced enough to deal with any potential threats on your journey with little risk of death and injuries to your crews. At the beginning of 1900, the Western world already mastered ocean fairing and air travel with the inventions of the combustion engines.
 
 Since humans are land animals with advanced organization skills, if a crew from Europe traveled on land into a highly populated area of a foreign tribe, they would risk triggering a hostile response from the local tribes when the tribes suddenly met a group of strangely looking foreigners. Even with modern guns, if they are outnumbered or caught in an ambush, there is nothing to ensure their safety. 
 
@@ -79,7 +78,7 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 
 2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population. 
 
-![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)
+![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
 2020 ⇒ Mass Replacement of Southern Chinese and South East Asia population. 
 
 
