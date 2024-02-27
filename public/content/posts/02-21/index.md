@@ -106,4 +106,9 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 2022 
 ⇒ Russian War in Ukraine to finish the cleaning of Red elements in Russia by sending them to the front to die.
 
+2024
+⇒ Massing of Russian controlled Cameras in South East Asia that is manufactured in China.
+
+
+
 
