@@ -80,7 +80,6 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 1975 ⇒ The dividing line between North Vietnamese gene and Southern Vietnamese gene is being lifted, type A, O and AB from Vietnam started to infiltrate into mainland China. 
 
 #### American pursuaded China into attacking their ally in the South.
-1975 ⇒ Vietnamese and Laos allies conquered Vientien and built the Patuxay
 
 1979 ⇒ First border war with China and Vietnam war with Cambodia.   
 
