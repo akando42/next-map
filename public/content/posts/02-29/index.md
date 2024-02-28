@@ -70,4 +70,8 @@ The Japanese are falling behind in the Applied Physics and hardware development 
 
 Taiwan is a small chip in the end, to draw in China for a poker game that could quickly escalate to All-in game and All-out war between China and US. However, if the US and the West have controlled Chengdu and Xian since after WW2 and the founding of the Chinese communist party then why does the US need to go to war with China at all.
 
-It seems like China leadership saw through US Taiwan gambit and made big bet on the land route into South East Asia instead with their high speed rail way and highway project into Laos, Cambodia and Thailand. However, this land-based gambit met heavy resistance from the West air-travel transmitted diseases. Chinese villas and offices in South East Asia are being abandoned because of viral diseases and criminal gang members in Laos, Cambodia and Thailand.
+![Real Balance of Naval Power between Taiwan and China](https://storage.googleapis.com/spykman-world/real-balance-of-power-between-taiwan-and-china.png)
+
+It seems like China leadership saw through US Taiwan gambit and made big bet on the land route into South East Asia instead with their high-speed rail and highway project into Laos, Cambodia and Thailand. However, this land-based gambit met heavy resistance from the West air-travel transmitted diseases. Chinese villas and offices in South East Asia are being abandoned because of viral diseases and criminal gang members funded by CIA in Laos, Cambodia and Thailand.
+
+![Kunming Vientiane Rail Station](https://storage.googleapis.com/spykman-world/kunming-vientiane-railstation.png)
