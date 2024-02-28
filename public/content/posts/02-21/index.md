@@ -80,6 +80,8 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 1975 ⇒ The dividing line between North Vietnamese gene and Southern Vietnamese gene is being lifted, type A, O and AB from Vietnam started to infiltrate into mainland China. 
 
 #### American pursuaded China into attacking their ally in the South.
+1975 ⇒ Vietnamese and Laos allies conquered Vientien and built the Patuxay
+
 1979 ⇒ First border war with China and Vietnam war with Cambodia.   
 
 1986 ⇒ Irregular warfare using criminal gangs and US Dollars against the Vietnamese urban centers.    
@@ -99,6 +101,8 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 ![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
 
 2020 ⇒ XO population working as protector for family with Children in South East Asia and Southern China became public property. 
+
+![The XO Protector of Chinese families](https://storage.googleapis.com/spykman-world/xo-protector-of-asian-families.png)
 
 ### Donald Trump and The US-Russia Alliance
 ![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
