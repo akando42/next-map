@@ -46,15 +46,30 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 ![China and Vietnam Flag](content/posts/02-21/truong_du.png)
 
 ### Richard Nixon and The US-China Alliance
-1944 ⇒ US Dollar became the de-facto world currency backed by US Gold Reserves
 
-1950 ⇒ The End of Chinese Civil War with Chinese Communist Party emerged as the victor. 
+While American looks mostly Caucasian just like European, they are much more inventive and persuasive than European. Since the American independence, the American economy has gradually surpassed European economy via American countless technological inventions as well as their ability to sell their ideas and products to the world. 
 
-1954 ⇒ Vietnam is divided into Northern Vietnam and Southern Vietnam
+![American sales of American surveilance tool to the World](https://storage.googleapis.com/spykman-world/iphone-the-mass-surveilance-tool.png)
 
-1968 ⇒ Tet Offensive with large Vietcong casualties persuaded American voters to end the war in Vietnam
+Once of the American greatest pitch of 20 century was the promotion of US Dollar as the De-Facto world currency backed by US Gold Reserves at the ending phase of World War 2 in 1944. While every countries in Europe and Asia was still shocked from the blood bath and destruction of World War 2 explosive weapons, the American was able to sit every presidents of all major European and Asian powers down at the negotiating table for their signature at the new American World Order document.
 
-1969 ⇒ Richard Nixon became president
+![Signing of Document in Distress State by Unarmed Presidents](https://storage.googleapis.com/spykman-world/the-brenton-wood-international-agreement.png)
+
+#### American, Britain and Russian redraw East Asia map to their advantages
+
+1950 ⇒ The End of Chinese Civil War with Chinese Communist Party emerged as the victor, China Northern border is redrawn between Soviet Union and China
+
+1953 ⇒ Korea is divided into Northern and Southern Korea with Southern population being subject of Gene experiment. 
+
+1954 ⇒ Vietnam is divided into Northern Vietnam and Southern Vietnam with Southern population being subject of Gene experiment. 
+
+1965 ⇒ American bombing of Northern Vietnam to eliminate Northern native blood type B.   
+
+1968 ⇒ Tet Offensive with large Vietcong blood type B casualties persuaded American planners that Southern newly introduced type A, O and AB can overtake the North now. 
+
+#### American charmed China into a short-term alliance, open up their economy and port just like in the Qing era and attacked their Russian ally in the North.
+
+1969 ⇒ Richard Nixon became American president and this American president persuasion and charm is once again persuading China into an alliance against their formal Soviet best friend. 
 
 1971 ⇒ American ping pong team visited China
 
@@ -62,25 +77,28 @@ After China was fully submitted to Joseph Stalin and the Soviet Union and Japan 
 
 1973 ⇒ USD is now the official world currency, no longer needing to be backed by GOLD.
 
-1975 ⇒ Americans withdraw from Vietnam and  left some gifts in the South
+1975 ⇒ The dividing line between North Vietnamese gene and Southern Vietnamese gene is being lifted, type A, O and AB from Vietnam started to infiltrate into mainland China. 
 
-1979 ⇒ First border war with China and Vietnam war with Cambodia. 
+#### American pursuaded China into attacking their ally in the South.
+1979 ⇒ First border war with China and Vietnam war with Cambodia.   
 
-1986 ⇒ Irregular warfare using criminal gangs and US Dollars against the Vietnamese urban centers
+1986 ⇒ Irregular warfare using criminal gangs and US Dollars against the Vietnamese urban centers.    
 
-1988 ⇒ Second border war with China and the building of Ho Chi Minh Museum afterward. 
+1988 ⇒ Second border war with China and the building of Ho Chi Minh Museum afterward.  
 
-1989 ⇒ Vietnam withdrawn from Cambodia completely and open door to foreign trades
+1989 ⇒ Vietnam withdrawn from Cambodia completely and open door to foreign trades.  
 
-1990 ⇒ CHXHCNVN ⇒ The criminal gangs of American Republicans murdered the Vietnamese. 
+1990 ⇒ CHXHCNVN ⇒ The criminal gangs of American Republicans murdered the Vietnamese.
 
-2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.
+#### American mass surveilance of the world to uncover all foreign agents and the defensive system of East Asia.
 
-2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population. 
+2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.  
+
+2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population.   
 
 ![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
-2020 ⇒ Mass Replacement of Southern Chinese and South East Asia population. 
 
+2020 ⇒ XO population working as protector for family with Children in South East Asia and Southern China became public property. 
 
 ### Donald Trump and The US-Russia Alliance
 ![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
