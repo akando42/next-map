@@ -95,6 +95,8 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 
 2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.  
 
+![Body Scanner for XO Detection masking as Terrorist Detection Device](https://storage.googleapis.com/spykman-world/9-11-excuses.png)
+
 2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population.   
 
 ![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
