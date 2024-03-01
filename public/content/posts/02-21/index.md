@@ -16,7 +16,7 @@ At some point after the collapse of the Roman Empire, the superior Roman planner
 
 ![The Republics of Europe](https://storage.googleapis.com/spykman-world/The_Republics_of_United_Kings.png)
 
-European continent was transformed from a fragmented highland region into an all knowing Federation whose polices stole the top secrets from the East and engineers created the cutting technology in secret on the Island of United Kingdom. 
+European continent was transformed from a fragmented highland region into an all knowing Federation whose polices stole the top secrets from the East and engineers created the cutting edge technology in secret on the Island of United Kingdom. 
 
 ![Marco Polo Military Police Spy](https://storage.googleapis.com/spykman-world/marco-polo-military-police-spy.png)
 
@@ -40,7 +40,7 @@ By moving core leadership components behind natural barriers like mountains and 
 
 ![The Castle of North America](content/posts/02-21/us_castle.png)
 
-Before WW1 and WW2, most of the earth surfaces were still empty with no major road networks or borders. By deporting and reshuffling tribes and kingdoms of people from the Caucasus to Central Asia as well as from China and Korea to Vietnam, European colonial powers can redraw the chessboard of earth surfaces to put enemy tribes into conflicts and friendly tribes behind major geographical anchors like in the case of Kazahstan and Japan.
+Before WW1 and WW2, most of the earth surfaces were still empty with no major road networks or borders. By deporting and reshuffling tribes and kingdoms of people from the Caucasus to Central Asia as well as from China and Korea to Vietnam, European colonial powers can redraw the chessboard of earth surfaces to put enemy tribes into conflicts and friendly tribes behind major geographical anchors like in the case of Kazakhstan and Japan.
 
 ![Great Walls of China](content/posts/02-21/great_walls_of_china.png)
 
@@ -56,11 +56,11 @@ Did Pearl Harbor ever happen for real or just a movie set like in the case of th
 
 ![Pearl Harbor](content/posts/02-21/pearl_harbor.png)
 
-After China was fully submitted to Joseph Stalin and the Soviet Union and Japan surrendered to the United States, all citizens of the most populous empire in the world, the Qing dynasty, had been boxed in from all 3 directions North by Russia, West by Kazahstan and East by Japan and South Korea. The only way out is to go South to South East Asia. 
+After China was fully submitted to Joseph Stalin and the Soviet Union and Japan surrendered to the United States, all citizens of the most populous empire in the world, the Qing dynasty, had been boxed in from all 3 directions North by Russia, West by Kazahstan and East by Japan and South Korea. The only way out is to go South to South East Asia or negotiate an impossible Siberia migration and weather modification deal with Russia.
 
-![Leonardo Da Vinci](https://storage.googleapis.com/spykman-world/leonardo-da-vinci-inventions.png)
+![Leonardo Da Vinci](https://storage.googleapis.com/spykman-world/blood-type-b-encirclement.png)
 
-By moving Chinese lineages South every 10 years via staged military campagins and inserting new genetics lineages from Chengdu, the West can make the modern Chinese looking increasing more like them just like the Christian god mission of creating men after his own image. Hence there are major military operations every 10 year since 1950 after China Civil War concluded with 1st Gen in 1968, 2nd in Gen 1978, 3 in Gen 1988, 4th Gen in 1998, 5th in Gen 2008, 6th Gen in 2018. We will probably see major wars or pandemics again in 2028-2030.
+By moving Chinese lineages South every 10 years via staged military campaigns and inserting new genetics lineages from Chengdu, the West can make the modern Chinese looking increasing more like them just like the Christian God mission of creating men after his own image. Hence there are major military operations every 10 year since 1950 after China Civil War concluded with 1st Gen in 1968, 2nd in Gen 1978, 3 in Gen 1988, 4th Gen in 1998, 5th in Gen 2008, 6th Gen in 2018. We will probably see major wars or pandemics again in 2028-2030.
 
 ![China and Vietnam Flag](content/posts/02-21/truong_du.png)
 
