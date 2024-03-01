@@ -74,29 +74,19 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 
 ![Signing of Document in Distress State by Unarmed Presidents](https://storage.googleapis.com/spykman-world/the-brenton-wood-international-agreement.png)
 
-#### American, Britain and Russian redraw East Asia map to their advantages
+The Washington-Moscow aka Women-Men of the North deal has successfully funded and armed the British and Russian armies to overpower Continental Europe and Continental Asian powers of Germany, China and Japan. Now the World Map would be redrawn to American, British and Russian allies advantages. Any near pear competitors would be split up into smaller fragmented states or absorbed into Russia as part of the Soviet Union. 
 
-1950 ⇒ The End of Chinese Civil War with Chinese Communist Party emerged as the victor, China Northern border is redrawn between Soviet Union and China
+The powerful Blood type B Empire of Europe, Austria-Hungary, was splited up into smaller Balkan states of Bulgaria, Yugoslovakia or absorbed partly into the Soviet Union. The powerful Mongolian Empire with Blood type B and D dominance was also splited up, with Kazahstan became part of Soviet Union, Mongolia border will severely shrink in size with the Lake Baika of Mongolia became part of the Soviet Union. 
 
-1953 ⇒ Korea is divided into Northern and Southern Korea with Southern population being subject of Gene experiment. 
+China naval capabaility was also crippled by the dividing line between the Industrialist Island of Taiwan and the Farming Communist Majority of China. The Japanese naval capability was also forever contained by American military bases next to Tokyo and in Okinawa. 
 
-1954 ⇒ Vietnam is divided into Northern Vietnam and Southern Vietnam with Southern population being subject of Gene experiment. 
+To further detering any China naval capability to forever keep the Island of North America an ocean too far away from any threats abroad, the American planners divide Vietnam and Korea into half, with Southern Vietnam and Southern Korea became subject of gene modification. The newly introduced Southern Vietnamese and Southern Korean genes will serve as the guards of the South China Sea and Yellow Sea for any Blood type B expedition beyond their coast line. 
 
-1965 ⇒ American bombing of Northern Vietnam to eliminate Northern native blood type B.   
+Blood type B in North Vietnam was severely reduced in numbers through the American Bombing campaign of Red River Delta as well as the high casualty Truong Son mountain campaign that eventually ended with 1968 Tet Offensive with large Viet Cong Blood type B casualties. The initial "MAO" or "BAC" settings with blood type B leading newly introduced blood type A and O in the Communist Era for a more beautiful and advanced future of East Asia eventually led to the PANDA blood type A and O coup of East Asia. 
 
-1968 ⇒ Tet Offensive with large Vietcong blood type B casualties persuaded American planners that Southern newly introduced type A, O and AB can overtake the North now. 
+After 1969 when Richard Nixon became the US President, blood type A and O of Southern Vietnam as well as of South Korea has became much stronger and more advanced than their Northern blood type B ecosystem competitor. Now it is time to charm Chinese Communist leadership into openning their doors to these new Asian looking blood type A and O male and female agents of the West. So Richard Nixon visited China after a friendly Ping Pong match between the Chinese and American team and somehow normalized the relationship between United States and Communist China.  
 
-#### American charmed China into a short-term alliance, open up their economy and port just like in the Qing era and attacked their Russian ally in the North.
-
-1969 ⇒ Richard Nixon became American president and this American president persuasion and charm is once again persuading China into an alliance against their formal Soviet best friend. 
-
-1971 ⇒ American ping pong team visited China
-
-1972 ⇒ Richard Nixon visited China and normalized relations.
-
-1973 ⇒ USD is now the official world currency, no longer needing to be backed by GOLD.
-
-1975 ⇒ The dividing line between North Vietnamese gene and Southern Vietnamese gene is being lifted, type A, O and AB from Vietnam started to infiltrate into mainland China. 
+American agents abroad needs to get paid and USD standing for US-Dick needs to be a Globally Accepted currency across the World and especially in East Asia. So 1973, Richard Nixon tricked the world by claming to remove USD from the Gold Standard temporary but actually promoting the USD to a World Currency status by forever remove the USD from the Gold Standard. The dividing line between North and South Vietnam was lifted in 1975 and blood type A and O started to capture major resources and key power positions in the North and infiltrate into Chinese delta region in the South. 
 
 #### American pursuaded China into attacking their ally in the South.
 
