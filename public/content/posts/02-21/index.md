@@ -86,35 +86,13 @@ Blood type B in North Vietnam was severely reduced in numbers through the Americ
 
 After 1969 when Richard Nixon became the US President, blood type A and O of Southern Vietnam as well as of South Korea has became much stronger and more advanced than their Northern blood type B ecosystem competitor. Now it is time to charm Chinese Communist leadership into openning their doors to these new Asian looking blood type A and O male and female agents of the West. So Richard Nixon visited China after a friendly Ping Pong match between the Chinese and American team and somehow normalized the relationship between United States and Communist China.  
 
-American agents abroad needs to get paid and USD standing for US-Dick needs to be a Globally Accepted currency across the World and especially in East Asia. So 1973, Richard Nixon tricked the world by claming to remove USD from the Gold Standard temporary but actually promoting USD to a World Currency status forever. The dividing line between North and South Vietnam was lifted in 1975 and blood type A and O started to capture major resources and key power positions in the North and infiltrate into Chinese delta region in the South. 
+American agents abroad needs to get paid and USD standing for US-Dick needs to be a Globally Accepted currency across the World and especially in East Asia. So 1973, Richard Nixon tricked the world by claming to remove USD from the Gold Standard temporary but actually promoting USD to a World Currency status forever. The dividing line between North and South Vietnam was lifted in 1975 and blood type A and O major cities and towns in the North as well as Chinese delta region in the South. 
 
 To further ensure a permanent position for Blood type A and O within East Asian society, in 1978, Deng Xiaoping, first blood type AB, mixed of Blood type B and A and O, became the leader of China. Blood type AB naturally wants more blood type A and O in the mix to create more of themselves so Deng Xiaoping naturally developed an anti-bloodtype B policy and attacking Le Duan type B in Vietnam via the Chinese-Vietnam 1979 border war. 
 
-#### American charmed China into a short-term alliance, open up their economy and port just like in the Qing era and attacked their Russian ally in the North.
+To give more access to blood type B eggs for blood type A and O in Indochina, first a genocide was triggered to remove blood type B males in Cambodia and then the Vietnamese invasion of Cambodia was triggered to introduce more Blood type A and O from Southern Vietnam into Cambodia ecosystem from 1979 to 1986. 
 
-1969 ⇒ Richard Nixon became American president and this American president persuasion and charm is once again persuading China into an alliance against their formal Soviet best friend. 
-
-1971 ⇒ American ping pong team visited China
-
-1972 ⇒ Richard Nixon visited China and normalized relations.
-
-1973 ⇒ USD is now the official world currency, no longer needing to be backed by GOLD.
-
-1975 ⇒ The dividing line between North Vietnamese gene and Southern Vietnamese gene is being lifted, type A, O and AB from Vietnam started to infiltrate into mainland China. 
-
-1978 ⇒ Deng Xiaoping, first blood type AB, mixed of Blood type B and A and O, became the leader of China
-
-#### American pursuaded China into attacking their ally in the South.
-
-1979 ⇒ First border war with China and Vietnam war with Cambodia.   
-
-1986 ⇒ Irregular warfare using criminal gangs and US Dollars against the Vietnamese urban centers.    
-
-1988 ⇒ Second border war with China and the building of Ho Chi Minh Museum afterward.  
-
-1989 ⇒ Vietnam withdrawn from Cambodia completely and open door to foreign trades.  
-
-1990 ⇒ CHXHCNVN ⇒ The criminal gangs of American Republicans murdered the Vietnamese.
+After securing safe spaces and supply routes between Cambodia and Southern Vietnam, blood type A and O from Cambodia and Southern Vietnam took off their police and military uniform, became unidentified criminal gangs members and started to take over key resources and power positions within the Red River delta of Northern Vietnam. The final collapse of blood type B leadership in Red River delta was triggered by the mass transportation of agents from Da Nang to Hai Phong via the sea route in 1988. Vietnam name was changed from the People Democratic Republic of Vietnam to Social Republic of Vietnam in 1990 to mark the complete take over of Hanoi by blood type A and O. 
 
 #### American mass surveilance of the world to uncover all foreign agents and the defensive system of East Asia.
 
