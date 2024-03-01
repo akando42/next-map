@@ -76,7 +76,7 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 
 The Washington-Moscow aka Women-Men of the North deal has successfully funded and armed the British and Russian armies to overpower Continental Europe and Continental Asian powers of Germany, China and Japan. Now the World Map would be redrawn to American, British and Russian allies advantages. Any near pear competitors would be split up into smaller fragmented states or absorbed into Russia as part of the Soviet Union. 
 
-The powerful Blood type B Empire of Europe, Austria-Hungary, was splited up into smaller Balkan states of Bulgaria, Yugoslovakia or absorbed partly into the Soviet Union. The powerful Mongolian Empire with Blood type B and D dominance was also splited up, with Kazahstan became part of Soviet Union, Mongolia border will severely shrink in size with the Lake Baika of Mongolia became part of the Soviet Union. 
+The powerful Blood type B Empire of Europe, Austria-Hungary, was splited up into smaller Balkan states of Bulgaria, Yugoslovakia or absorbed partly into the Soviet Union. The powerful Mongolian Empire with Blood type B and AB dominance was also splited up, with Kazahstan became part of Soviet Union, Mongolia border will severely shrink in size with the Lake Baika of Mongolia became part of the Soviet Union. 
 
 China naval capabaility was also crippled by the dividing line between the Industrialist Island of Taiwan and the Farming Communist Majority of China. The Japanese naval capability was also forever contained by American military bases next to Tokyo and in Okinawa. 
 
