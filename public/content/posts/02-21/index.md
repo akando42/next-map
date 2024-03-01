@@ -102,23 +102,9 @@ Recognizing sudden decline in fertility rate among blood type A and O in East As
 
 ![Body Scanner for XO Detection masking as Terrorist Detection Device](https://storage.googleapis.com/spykman-world/9-11-excuses.png)
 
-After identified all XO in America, Europe and Australia, these XO and their cover husband  would be cloned and returned back to East Asia to further photo tagging and uncovering more XO in East Asian countries. Security cameras Made in China but controlled by American programmers are being mass-installed everywhere private and public in East Asia to identify all XO in East Asian cities. After XOs in East Asia was identified, they will then be marked and controlled via their Bank accounts and VIN Vehicle Identification Numbers
+After identified all XO in America, Europe and Australia, these XO and their cover husband would be cloned and returned back to East Asia to further photo tagging and uncovering more XO in East Asian countries. Security cameras Made in China but controlled by American programmers are being mass-installed everywhere private and public in East Asia to identify all XO in East Asian cities. After XOs in East Asia was identified, they will then be marked and controlled via their Bank accounts and VIN Vehicle Identification Numbers
 
 ![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
-
-#### American mass surveilance of the world to uncover all foreign agents and the defensive system of East Asia.
-
-2001 ⇒ War on Terrors after 9/11, Wars in Afghanistan and Iraq.  
-
-
-
-2003 ⇒ first SAR-COVID variant experiment against the Yunnan and Hong Kong Southern Chinese population.   
-
-
-
-2020 ⇒ XO population working as protector for family with Children in South East Asia and Southern China became public property. 
-
-
 
 ### Donald Trump and The US-Russia Alliance
 ![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
