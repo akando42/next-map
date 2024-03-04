@@ -116,9 +116,11 @@ The Prussian armies new innovative weapon helped to unite Germanic tribes and fo
 ⇒ The European colonial powers conquered Beijing, colonized Indochina and India, blocking the Ottoman Empire out of their 1400s suppliers using highly advanced firearms after 500 years of continuous research and innovation. 
 
 ***2000s***
-The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
-![Little girl shooting well-design gun](content/posts/03-13/little_girl_shooting_gun.png)
+The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. A G-Lock made in Austria is less than 1 kilogram and could easily be handled by even a young girl. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
+
+![GLock made in Austria](https://storage.googleapis.com/spykman-world/975G-glock.png)
+
 
 ##  The Defense Industries and World Wars
 Before WW2, every major advanced economies like Britain, France, Germany, Japan, Russia and China have a war industry. After WW2, only two countries left with a defense manufactering industries: United States and Russia. UK, France, Germany and China industrial bases were all destroyed and Japan were disarmed. The world switched from a Multi-polar world into a Bi-Polar world with Russia commanding Euro Asia and US commanding the Sea and the American continents. 
