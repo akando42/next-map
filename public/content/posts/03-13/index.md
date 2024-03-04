@@ -121,7 +121,6 @@ The American and Swiss turned handgun shooting into a standardized skill. So no 
 
 ![GLock made in Austria](https://storage.googleapis.com/spykman-world/975G-glock.png)
 
-
 ##  The Defense Industries and World Wars
 Before WW2, every major advanced economies like Britain, France, Germany, Japan, Russia and China have a war industry. After WW2, only two countries left with a defense manufactering industries: United States and Russia. UK, France, Germany and China industrial bases were all destroyed and Japan were disarmed. The world switched from a Multi-polar world into a Bi-Polar world with Russia commanding Euro Asia and US commanding the Sea and the American continents. 
 
@@ -131,20 +130,13 @@ So after WW2, the map has been redrawn and the world have submitted to the two m
 
 ![Operation Castor](https://storage.googleapis.com/spykman-world/thuong-mai-hanoi-to-vien-trang.png)
 
-Originally, the planned Việt Minh attack was based on the Chinese “Fast Strike, Fast Victory” model, which aimed to use all available power to thrust into the command center of the base to secure victory, but this was changed to the “Steady Fight, Steady Advance” model of siege tactics. Vo Nguyen Giap, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu. 
+Originally, the planned Việt Minh attack was based on the Chinese “Fast Strike, Fast Victory” model, which aimed to use all available power to thrust into the command center of the base to secure victory, but this was changed to the “Steady Fight, Steady Advance” model of siege tactics. Vo Nguyen Giap, meaning The Shield of Nguyen, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu. 
 
 ![Do Nguyen Giap](https://storage.googleapis.com/spykman-world/do-nguyen-giap.png)
 
-Nguyen Chi Thamh, "Fast Strike Fast Victory" sacrifised the delta population and left Hanoi and the Red River delta with many desperate widows. Another plan made by Nguyen Chi Thanh, the Tet Offensive, also sacrifired even more Northern troops. Maybe Nguyen Chi Thanh never died in battle but just faked his death and disappeared like a spy movie.
+Nguyen Chi Thanh, meaning Nguyen Paying by Qing Blood, "Fast Strike Fast Victory" sacrifised the delta population and left Hanoi and the Red River delta with many desperate widows. Another plan made by Nguyen Chi Thanh, the Tet Offensive, also sacrifired even more Northern troops. Maybe Nguyen Chi Thanh never died in battle but just faked his death and disappeared like a spy movie.
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
-
-## The Monopoly of World Defense Industry after WW2.
-Vietnam is disarmed while Laos still have guns. 
-Is Chinese military in Pearl River Delta have gun ? 
-
-Or Laos, Cambodia, Chengdu and Russia are prison guards 
-of Chinese in the Yangzte and Pearl River Delta ?
 
 ### Future of Flying Projectiles
 
