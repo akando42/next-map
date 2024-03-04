@@ -98,7 +98,7 @@ Blood type B of China and Vietnam recognized how these new Asian genes of the We
 
 ![The XO Protector of Chinese families](https://storage.googleapis.com/spykman-world/xo-protector-of-asian-families.png)
 
-Recognizing sudden decline in fertility rate among blood type A and O in East Asia countries like Japan, South Korea, Thailand and Vietnam, American leadership triggered the 9/11 event as execuses for mass surveilance tools to be developed to uncover the final defense of East Asian blood type B. Facebook, iPhone and the Airport fullbody microwave scanner was introduced to identify all XO in United States, Europe and Australia.
+Recognizing sudden decline in fertility rate among blood type A and O in East Asia countries like Japan, South Korea, Thailand and Vietnam, American leadership triggered the 9/11 event as execuses for mass surveilance tools to be developed to uncover the final defense of East Asian blood type B. Facebook, iPhone and the Airport fullbody MiliMeter wave scanner was introduced to identify all XO in United States, Europe and Australia.
 
 ![Body Scanner for XO Detection masking as Terrorist Detection Device](https://storage.googleapis.com/spykman-world/9-11-excuses.png)
 
