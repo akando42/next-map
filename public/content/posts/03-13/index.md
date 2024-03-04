@@ -130,11 +130,11 @@ So after WW2, the map has been redrawn and the world have submitted to the two m
 
 ![Operation Castor](https://storage.googleapis.com/spykman-world/thuong-mai-hanoi-to-vien-trang.png)
 
-Originally, the planned Việt Minh attack was based on the Chinese “Fast Strike, Fast Victory” model, which aimed to use all available power to thrust into the command center of the base to secure victory, but this was changed to the “Steady Fight, Steady Advance” model of siege tactics. Vo Nguyen Giap, meaning The Shield of Nguyen, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu. 
+Originally, the planned Việt Minh attack was based on the Chinese “Fast Strike, Fast Victory” model, which aimed to use all available power to thrust into the command center of the base to secure victory, but this was changed to the “Steady Fight, Steady Advance” model of siege tactics. Vo Nguyen Giap, whose name means The Armor of Nguyen, "Steady Fight, Steady Advances", won the battle of Dien Bien Phu. 
 
 ![Do Nguyen Giap](https://storage.googleapis.com/spykman-world/do-nguyen-giap.png)
 
-Nguyen Chi Thanh, meaning Nguyen Paying by Qing Blood, "Fast Strike Fast Victory" sacrifised the delta population and left Hanoi and the Red River delta with many desperate widows. Another plan made by Nguyen Chi Thanh, the Tet Offensive, also sacrifired even more Northern troops. Maybe Nguyen Chi Thanh never died in battle but just faked his death and disappeared like a spy movie.
+Nguyen Chi Thanh, whose name means Nguyen Paying by Qing Blood, "Fast Strike Fast Victory" sacrifised the delta population and left Hanoi and the Red River delta with many desperate widows. Another plan made by Nguyen Chi Thanh, the Tet Offensive, also sacrifired even more Northern troops. Maybe Nguyen Chi Thanh never died in battle but just faked his death and disappeared like a spy movie.
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
 
