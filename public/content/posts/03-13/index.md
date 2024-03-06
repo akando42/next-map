@@ -95,33 +95,27 @@ The Musket were first used in the battle fields by the Ottoman Turk and European
 
 ![Musket with Wheelock as ignition](content/posts/03-13/wheelock_weather_proof.png)
 
-***1600s*** ⇒ First rifle invented
-Improve range and accuracy via pointed nose bullet threaded gun barrel
+Guns and cannons from the 1600s has 2 major innovations that greatly improve range and accuracy of the weapon. The musket barrel is being rifled or threaded inside to spin the bullet which results in much more stable fight and hit the target much more accurately. The bullet also has a much more pointed nose shape to reduce drag during flight as well as deeper peneration into the target. 
 
-***Early 1800s*** 
-⇒ Revolutionary new gun design combining earlier experiment results in a full package in the Dreyse Needle Gun
-	+ Pointed nose bullet shape to improve range and penetration.  
-	+ Gun barrel with threads to spin the bullet to improve accuracy.   
-	+ Loading bullets from back of the gun for quick reload.    
-	+ Gunpowder is packed with the bullet as a single package in metal casing.   
-	+ Enclosed ignition using needle spark the bullet inside metal casing.     
-The Prussian armies new innovative weapon helped to unite Germanic tribes and founded Modern Germany.
+![Rifled or Threaded inside Gun Barrel to drastically improve Accuracy](https://storage.googleapis.com/spykman-world/rifled-gun-barrel.png)
 
-***Late 1800s***
-⇒ Spencer repeating mechanism invention enabled multiple round shooting before reloading.    
-⇒ Metallic carthage with gun powder inside each bullet for easy storage and durability.    
-⇒ Northern US Continental Armies weapon to unite US States and founded Modern United States.     
+Early 1800s, the Prussian Army comes up with a revolutionary new gun design combining earlier experiment results in a full package in the Dreyse Needle Gun. The Drese Needle Gun had rifled gun barrels and pointed nose bullet like previous generation of rifle but the bullet now could be ***loaded quickly from the back of the gun***, ***gun powerders is packed with the bullet*** as a single package in metal casing and it has an enclosed ignition using Needle Spark. With this new innovative weapon, the Prussian Army was able to unite Germanic tribes and founded Modern Germany. 
 
-***1900s***
-⇒ The European colonial powers conquered Beijing, colonized Indochina and India, blocking the Ottoman Empire out of their 1400s suppliers using highly advanced firearms after 500 years of continuous research and innovation. 
+![Prussian Back Loaded Needle Gun](https://storage.googleapis.com/spykman-world/prussian-back-loaded-needle-gun.png)
 
-***2000s***
+The Northern US Continental Armies reinvented the Prussian Needle Gun by adding a auto-reload mechanism into the riffle to allow multiple round shooting before reloading, add metallic cathrage with gun powder inside each bullet for easy storage and durability. The Repeating Spencer of the US Northern Continental army was be able to defeat the outdated Riffle of the Confederate Southern Army, unite the US Northern and Southern States and founded modern United States in late 1800s. 
+
+![Northern US Continental Army repeating Spencer Riffle](https://storage.googleapis.com/spykman-world/repeating-spencer-rifle.png)
+
+After 500 years continous weapon research and innovation, the European colonial powers conquered Beijing, colonized Indochina and India, blocking the Ottoman Empire out of their 1400s suppliers using highly advanced firearms. 
+
+![Bolt Action Manual Reload Mass Produce Rifle of 1900 Army](https://storage.googleapis.com/spykman-world/mass-produced-bolt-action-march-on-beijing.png)
 
 The American and Swiss turned handgun shooting into a standardized skill. So no countries ever conquered the US or Switzerland. A G-Lock made in Austria is less than 1 kilogram and could easily be handled by even a young girl. Gun violence is still a big problem in the US though but the actual casualty statistics from gun violence is still much lower than eating fast food or car accidents. 
 
 ![GLock made in Austria](https://storage.googleapis.com/spykman-world/975G-glock.png)
 
-##  The Defense Industries and World Wars
+## The Defense Industries and World Wars
 Before WW2, every major advanced economies like Britain, France, Germany, Japan, Russia and China have a war industry. After WW2, only two countries left with a defense manufactering industries: United States and Russia. UK, France, Germany and China industrial bases were all destroyed and Japan were disarmed. The world switched from a Multi-polar world into a Bi-Polar world with Russia commanding Euro Asia and US commanding the Sea and the American continents. 
 
 ![BMW Flying and Driving Experience](https://storage.googleapis.com/spykman-world/BMW-aircraft-engine-plant.png)
