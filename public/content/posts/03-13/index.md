@@ -132,17 +132,39 @@ Nguyen Chi Thanh, whose name means Nguyen Paying by Qing Blood, "Fast Strike Fas
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
 
-### Future of Flying Projectiles
+Shaped Charge Innovation for High Penetration with Minimum Projectile Weight and Gun Powder.
 
-![Tomahawk to Chengdu](content/posts/03-13/tomahawk_to_chengdu.png)
+![Shaped Charge Innovation](https://storage.googleapis.com/spykman-world/shaped-charge.png)
+
+RPG of Presidental Guard
+
+![Soviet RPG for Single Soldier Action](https://storage.googleapis.com/spykman-world/soviet-rpg.png)
+
+### The Evolution of Autonomous Flying Projectile
+
+Stringray of Afghanistan
+
+![American Made Stingray for Afghanistan Militia](https://storage.googleapis.com/spykman-world/american-made-stingray-for-afghanistan-militia.png)
+
+Tomohawk, the first GPS and Terrain Matching Autonomous Flying Projectile, a cross-platform innovation for all Air, Sea and Land attack platform of United States Armed Force. 
+
+![The Tomahawk Close Range and Long Range Weapon](content/posts/03-13/tomahawk.png)
 
 Tomahawk with the capacity to carry nuclear warheads are well within range of Moscow and Chengdu if US submarines can have freedom of access to the Black Sea and the South China Sea. 
 
-![Tomahawk to Moscow](content/posts/03-13/tomahawk_to_moscow.png)
+![Tomahawk to Chengdu](content/posts/03-13/tomahawk_to_chengdu.png)
 
 Tomahawk being used with conventional warhead is not as effective as rocket artileries though since it costs a lot of jet fuels per missile and all high tech sensors and computer processing system inside a Tomahawk could only be used once. 
 
-![The Tomahawk Close Range and Long Range Weapon](content/posts/03-13/tomahawk.png)
+![Tomahawk to Moscow](content/posts/03-13/tomahawk_to_moscow.png)
+
+![Tomahawk Above Water Line Launch](https://storage.googleapis.com/spykman-world/submarine-launched-cruise-missile.gif)
+
+![Trident Missile Launch](https://storage.googleapis.com/spykman-world/trident-submarine-launch.gif)
+
+A nuclear attack on Moscow and Chengdu could result in a ICBM relatiation while a mass demolition of Russian armor in a proxy war so far in Ukraine only resulted in Moscow ramping up of Tank manufacturing. 
+
+![Javalin Anti Tank Guided Missile](https://storage.googleapis.com/spykman-world/anti-tank-top-attack-guided-missile.png)
 
 ### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics
 
