@@ -135,6 +135,7 @@ Nguyen Chi Thanh, whose name means Nguyen Paying by Qing Blood, "Fast Strike Fas
 ### Future of Flying Projectiles
 
 ![Tomahawk to Chengdu](content/posts/03-13/tomahawk_to_chengdu.png)
+
 Tomahawk with the capacity to carry nuclear warheads are well within range of Moscow and Chengdu if US submarines can have freedom of access to the Black Sea and the South China Sea. 
 
 ![Tomahawk to Moscow](content/posts/03-13/tomahawk_to_moscow.png)
