@@ -132,13 +132,13 @@ Nguyen Chi Thanh, whose name means Nguyen Paying by Qing Blood, "Fast Strike Fas
 
 ![Dien Bien Phu](content/posts/03-13/dien_bien_phu_1954.png)
 
-Shaped Charge Innovation for High Penetration with Minimum Projectile Weight and Gun Powder.
-
-![Shaped Charge Innovation](https://storage.googleapis.com/spykman-world/shaped-charge.png)
-
-RPG of Presidental Guard
+The mountainous campaign of Dien Bien Phu and Truong Son with walking infantries dragging heavy artilery cannons and shells up the high mountains of Lao Cai and Truong Son probably costed more lifes in transit than the actual casualty during the Battle of Dien Bien Phu and battle of Khe Sanh. These "Đội Bộ" of Vietnam will have to wait for the invention and mass-produced of Soviet RPGs in the 1970s to reduce their casualty in transit.
 
 ![Soviet RPG for Single Soldier Action](https://storage.googleapis.com/spykman-world/soviet-rpg.png)
+
+These Soviet RPG come with the Shaped Charge innovation to turn the random hot gas explosion into a sharp pointy 2000 degree celcius jet stream that melts through metal armor in few miliseconds. This light weight RPG now could be carried around and used by a single soldier to take out fortified bunkers and armor tank unit.
+
+![Shaped Charge Innovation](https://storage.googleapis.com/spykman-world/shaped-charge.png)
 
 ### The Evolution of Autonomous Flying Projectile
 
@@ -166,9 +166,7 @@ A nuclear attack on Moscow and Chengdu could result in a ICBM relatiation while 
 
 ![Javalin Anti Tank Guided Missile](https://storage.googleapis.com/spykman-world/anti-tank-top-attack-guided-missile.png)
 
-### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics
-
-### Guidance Systems
+### Gun Powder vs Jet Fuel vs Rocket Fuel vs Electromagnetics Cost
 
 ### HyperSonic Design
 
