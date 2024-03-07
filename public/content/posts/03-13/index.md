@@ -7,7 +7,7 @@ cover: "content/posts/03-13/spykman-world-going-forward-to-keep-balance.jpg"
 date: "03-13"
 summary: "Human is the only animal who know how to use range weapons. Through out human history of wars, the range soldiers can take out more enemy combatants and have higher chances of passing down his genes to next generations."
 title: "The Evolution of Fire Powder, Gun Barrel and the Reload Mechanism"
-tags: ['Indochina', 'France', 'Vietnam', 'Vo Nguyen Giap', 'Nguyen Chi Thanh','Spykman World','Nicholas Spykman'
+tags: ['Indochina', 'France', 'Vietnam', 'Vo Nguyen Giap', 'Nguyen Chi Thanh','Spykman World','Nicholas Spykman']
 published: true
 ---
 ## The Physics of Flying Projectiles
