@@ -96,17 +96,23 @@ Blood type B in North Vietnam was severely reduced in numbers through the Americ
 
 After 1969 when Richard Nixon became the US President, blood type A and O of Southern Vietnam as well as of South Korea has became much stronger and more advanced than their Northern blood type B ecosystem competitor. Now it is time to charm Chinese Communist leadership into openning their doors to these new Asian looking blood type A and O male and female agents of the West. So Richard Nixon visited China after a friendly Ping Pong match between the Chinese and American team and somehow normalized the relationship between United States and Communist China.  
 
-![]()
+![1971 First Ping Between Califonia and Shenzhen](https://storage.googleapis.com/spykman-world/1971-first-ping.png)
 
 American agents abroad needs to get paid and USD standing for US-Dick needs to be a Globally Accepted currency across the World and especially in East Asia. So 1973, Richard Nixon tricked the world by claming to remove USD from the Gold Standard temporary but actually promoting USD to a World Currency status forever. The dividing line between North and South Vietnam was lifted in 1975 and blood type A and O started to infiltrate major cities and towns in the North as well as Chinese delta region in the South. 
 
-![]()
+![Suspend Gold Standard Forever](https://storage.googleapis.com/spykman-world/suspend_gold_standard_temporary_maybe.gif)
 
 To further ensure a permanent position for Blood type A and O within East Asian society, in 1978, Deng Xiaoping, first blood type AB, mixed of Blood type B and A and O, became the leader of China. Blood type AB naturally wants more blood type A and O in the mix to create more of themselves so Deng Xiaoping naturally developed an anti-bloodtype B policy and attacking Le Duan type B in Vietnam via the Chinese-Vietnam 1979 border war. 
 
+![Young DTB](https://storage.googleapis.com/spykman-world/young-dtb.png)
+
 To give more access to blood type B eggs for blood type A and O in Indochina, first a genocide was triggered to remove blood type B males in Cambodia and then the Vietnamese invasion of Cambodia was triggered to introduce more Blood type A and O from Southern Vietnam into Cambodia ecosystem from 1979 to 1986. 
 
+![The Generals Looks Like Brothers](https://geogenetics.dystillvision.com/content/posts/02-02/general_and_maybe_real_dad.png)
+
 After securing safe spaces and supply routes between Cambodia and Southern Vietnam, blood type A and O from Cambodia and Southern Vietnam took off their police and military uniform, became unidentified criminal gangs members and started to take over key resources and power positions within the Red River delta of Northern Vietnam. The final collapse of blood type B leadership in Red River delta was triggered by the mass transportation of agents from Da Nang to Hai Phong via the sea route in 1988. Vietnam name was changed from the People Democratic Republic of Vietnam to Social Republic of Vietnam in 1990 to mark the complete take over of Hanoi by blood type A and O. 
+
+![Dicease Spreading via XO and Gay Thai Agents and Residents](https://storage.googleapis.com/spykman-world/men-holding-hand.png)
 
 Blood type B of China and Vietnam recognized how these new Asian genes of the West are taking away their safe spaces, becoming increasing more powerful and influential both in real life as well as the television. So blood type B elites switched on the 1000s year Chinese defensive system by massing the XO population in Chinese southern Cities and Hanoi. These great looking XO with no uterus served both as decoys for US-Dicks as well as super spreaders of STDs among type A and O males. 
 
