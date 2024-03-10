@@ -76,17 +76,31 @@ Once of the American greatest pitch of 20 century was the promotion of US Dollar
 
 The Washington-Moscow aka Women-Men of the North deal has successfully funded and armed the British and Russian armies to overpower Continental Europe and Continental Asian powers of Germany, China and Japan. Now the World Map would be redrawn to American, British and Russian allies advantages. Any near pear competitors would be split up into smaller fragmented states or absorbed into Russia as part of the Soviet Union. 
 
+![American subsidying Soviet Union, UK and France during WW2](https://storage.googleapis.com/spykman-world/american-lend-lease-program-to-soviet-and-europe.png)
+
 The powerful Blood type B Empire of Europe, Austria-Hungary, was splited up into smaller Balkan states of Bulgaria, Yugoslovakia or absorbed partly into the Soviet Union. The powerful Mongolian Empire with Blood type B and AB dominance was also splited up, with Kazahstan became part of Soviet Union, Mongolia border will severely shrink in size with the Lake Baika of Mongolia became part of the Soviet Union. 
+
+![Lake Bai Kar of Mongolian Empire](https://storage.googleapis.com/spykman-world/lake-bai-kar.png)
 
 China naval capabaility was also crippled by the dividing line between the Industrialist Island of Taiwan and the Farming Communist Majority of China. The Japanese naval capability was also forever contained by American military bases next to Tokyo and in Okinawa. 
 
+![American Containment of East Asia](https://storage.googleapis.com/spykman-world/american-navy-containment.png)
+
 To further detering any China naval capability to forever keep the Island of North America an ocean too far away from any threats abroad, the American planners divide Vietnam and Korea into half, with Southern Vietnam and Southern Korea became subject of gene modification. The newly introduced Southern Vietnamese and Southern Korean genes will serve as the guards of the South China Sea and Yellow Sea for any Blood type B expedition beyond their coast line. 
+
+![South Korea Thailand ACB Mixing](https://storage.googleapis.com/spykman-world/south-korea-thai-land-acb.png)
 
 Blood type B in North Vietnam was severely reduced in numbers through the American Bombing campaign of Red River Delta as well as the high casualty Truong Son mountain campaign that eventually ended with 1968 Tet Offensive with large Viet Cong Blood type B casualties. The initial "MAO" or "BAC" settings with blood type B leading newly introduced blood type A and O in the Communist Era for a more beautiful and advanced future of East Asia eventually led to the PANDA blood type A and O coup of East Asia. 
 
+![MAO BAC BAO](https://storage.googleapis.com/spykman-world/MAO_BAC_BAO.png)
+
 After 1969 when Richard Nixon became the US President, blood type A and O of Southern Vietnam as well as of South Korea has became much stronger and more advanced than their Northern blood type B ecosystem competitor. Now it is time to charm Chinese Communist leadership into openning their doors to these new Asian looking blood type A and O male and female agents of the West. So Richard Nixon visited China after a friendly Ping Pong match between the Chinese and American team and somehow normalized the relationship between United States and Communist China.  
 
+![]()
+
 American agents abroad needs to get paid and USD standing for US-Dick needs to be a Globally Accepted currency across the World and especially in East Asia. So 1973, Richard Nixon tricked the world by claming to remove USD from the Gold Standard temporary but actually promoting USD to a World Currency status forever. The dividing line between North and South Vietnam was lifted in 1975 and blood type A and O started to infiltrate major cities and towns in the North as well as Chinese delta region in the South. 
+
+![]()
 
 To further ensure a permanent position for Blood type A and O within East Asian society, in 1978, Deng Xiaoping, first blood type AB, mixed of Blood type B and A and O, became the leader of China. Blood type AB naturally wants more blood type A and O in the mix to create more of themselves so Deng Xiaoping naturally developed an anti-bloodtype B policy and attacking Le Duan type B in Vietnam via the Chinese-Vietnam 1979 border war. 
 
