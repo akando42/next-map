@@ -131,6 +131,9 @@ After identified all XO in America, Europe and Australia, these XO and their cov
 
 2008 ⇒ World Financial Crisis 
 
+2009 ⇒ Bitcoin was invented 
+![Switching from GOLD to Electricity Cost as Anchor of Value](https://storage.googleapis.com/spykman-world/bitcoin-invention.png)
+
 2013 ⇒ Xi-Jinping became China's premier. 
 
 2015 ⇒ Nguyen Phu Trong visited the United States and got the miracle technology of nanobots or he was chipped on the visit. 
