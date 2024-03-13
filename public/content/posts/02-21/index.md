@@ -127,34 +127,54 @@ After identified all XO in America, Europe and Australia, these XO and their cov
 ![Public Bank System for Mass Succide or Hong Kong Money Infusion](https://storage.googleapis.com/spykman-world/PublicBank.png)  
 
 ### Donald Trump and The US-Russia Alliance
-![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
 
 2008 ⇒ World Financial Crisis 
 
+![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
+
 2009 ⇒ Bitcoin was invented 
+
 ![Switching from GOLD to Electricity Cost as Anchor of Value](https://storage.googleapis.com/spykman-world/bitcoin-invention.png)
 
 2013 ⇒ Xi-Jinping became China's premier. 
 
+![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
+
 2015 ⇒ Nguyen Phu Trong visited the United States and got the miracle technology of nanobots or he was chipped on the visit. 
 
-![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
+![Mr Trong 2015 Visit](https://storage.googleapis.com/spykman-world/2015-white-house-visit.png)
 
 2016 
 ⇒ Donald Trump became US President on a harsh anti-China agenda
 ⇒ Donald Trump DT is a loud mouth to distract the world's attention from the real actions of American DT dark-templar CIA agents and their criminal gangs in China and Vietnam.
 
-2020
+![FLC and other Real Estate prison in East Asia](https://storage.googleapis.com/spykman-world/the-real-estate-craze.png)
+
+2019
 ⇒ second SAR-COVID variant and a global pandemic originated from Wuhan, China
+
+![Vaccine to Chip people in East Asia](https://storage.googleapis.com/spykman-world/vaccine-to-chip-people.png)
+
+2020
+⇒ France, UK, Russia and US nuked Manchurian China, caused Chinese goverment to surrender and then clone Xi Jinping by sewing hand and faces of Xi on his doubles. 
+
+![4 UN Security Council Member Bully The TEA people](https://storage.googleapis.com/spykman-world/double-with-matching-faces-voice-and-fingerprints.png)
+
 
 2021
 ⇒ Joe Biden BJ became US president on a diplomatic strategy against defeated China 
 
+![Superspreading of STD](https://storage.googleapis.com/spykman-world/ma-xa-thai.png)
+
 2022 
 ⇒ Russian War in Ukraine to finish the cleaning of Red elements in Russia by sending them to the front to die.
 
+![Red Russian being sacrified in Ukrainian battlefields](https://storage.googleapis.com/spykman-world/white-russian-red-russian-friendship.png)
+
 2024
-⇒ Massing of Russian controlled Cameras in South East Asia that is manufactured in China.
+⇒ Massing of American controlled cameras in South East Asia that is manufactured in China to remote control the Vichy governments of East Asia.
+
+![Remote Controlled Humans with Nanobots](https://storage.googleapis.com/spykman-world/hikvision-hq.png)
 
 
 
