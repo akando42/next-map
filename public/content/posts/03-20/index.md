@@ -44,7 +44,7 @@ Orthodox is a version of Christianity dedicated to the hostile Roman colonies of
 
 ![Golden One](content/posts/03-20/golden_one.png)
 
-Judah and Judaism in Latin meaning JUDging AssHole Adolf Hitler version and in Vietnamese meaning the Measuring Infant Potential version and in English meaning the Trojan people. JEWS is the abbreviation of Joker East Wife Sons hence the large Jews population in Eastern part of Europe like East Germany, Ukraine, Russia and Israel. Judaism is an attempt of Western Christian planners to unite Christian kingdoms in the West by creating a BAD guy image of Adoft Hitler or the Muslim brotherhood and the un-essential Western men would be sent East to liberate and marry the local women there.  
+Judah and Judaism in Latin meaning JUDging AssHole Adolf Hitler version and in Vietnamese meaning the Windy Pregnant Women version and in English meaning the Trojan people. JEWS is the abbreviation of Joker East Wife Sons hence the large Jews population in Eastern part of Europe like East Germany, Ukraine, Russia and Israel. Judaism is an attempt of Western Christian planners to unite Christian kingdoms in the West by creating a BAD guy image of Adoft Hitler or the Muslim brotherhood and the un-essential Western men would be sent East to liberate and marry the local women there.  
 
 ![Social Network Jewish Founders](content/posts/03-20/jews_like_asian_chicks.png)
 
@@ -53,6 +53,7 @@ Muslim is also a highly polished script for religious practice in the Middle Eas
 ![Fertilizer Blast by Israel](content/posts/03-20/beirut_blast.png)
 
 ## Jewish Global Influences in Science, Technology and Finance
+
 The advances in Science are the main driving force that propel the Christian nations so far ahead after the fall of Constantinople. Maybe the story of Moses and his adoption into the Egyptian royal family is the reflection of Christian open mindset to strangeness, differences and its constant search for exotic cultures, know-hows and secrets in the far foreign lands. 
 
 ![European Backpacker](https://storage.googleapis.com/spykman-world/european-backpackers.png)
@@ -100,9 +101,15 @@ While China's military never engaged in real combat since the Korean war, the We
 
 Maybe it is not a coincidence that the Israel 6 days Wars of 1967 and the Vietnam Tet Offensive of 1968 happened only 1 year apart. The large casualty of Egyptian Armies and the Northern Vietnamese armies both created a lot of vacancies in Cairo and Hanoi and eventually turned Egypt and Vietnam into US major allies 30 years later.
 
+![Airsupremacy on First Day of War](https://storage.googleapis.com/spykman-world/israel-achieved-air-supremacy-after-bombing-egyptian-fighters-while-it-parking.png)
+
 If we look at the world map as a chessboard then Israel and Kaliningrad are very similar chess moves with Israel being in proximity to the ancient Persian capital of Babylon, modern day Baghdad,  Iraq and Kaliningrad in proximity to the former capital of Prussia , modern day Berlin, Germany. 
 
 ![Washington-Geneva-Moscow](/content/posts/03-20/g.png)
+
+Israel long-term genetics mission is probably to keep the Middle East in chaos and constant civil wars among different nations and ethnic groups, a steady migration of North African tribes from their safe homelands to European nations and gradually change the genetics mix of North Africa to an European Caucasian.
+
+![African migrations to European nations](https://storage.googleapis.com/spykman-world/african-migrations-to-european-nations.png)
 
 
 
