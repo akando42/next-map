@@ -26,6 +26,8 @@ The Bishop is a reflection of the role of Religion in War. Later on in the moder
 
 Religion is a form of Public Order via Social Engineering invented by the Roman Empire to first collect intelligence in potential new targets before war and after war keeping their newly acquired frontiers like England, Scandinavia, Eastern Europe, Middle East and North Africa stable and in order.  
 
+![Roman vs Norway](https://storage.googleapis.com/spykman-world/roman-vs-norway.png)
+
 Protestantism, Catholics, Judaism, Orthodox could all be invented in the high mountains of Switzerland. Switzerland in Vietnamese means the Killer Bishop. With the invention of a singular highly polished script with some local culture adaptation, the fragmented religious practices of different local tribes in England, Scandinavia, Eastern Europe were quickly replaced by Christianity. 
 
 ![Religious Map of Europe](content/posts/03-20/approximate_western_religious_map.png)
@@ -50,11 +52,14 @@ Muslim is also a highly polished script for religious practice in the Middle Eas
 
 ![Fertilizer Blast by Israel](content/posts/03-20/beirut_blast.png)
 
-
 ## Jewish Global Influences in Science, Technology and Finance
 The advances in Science are the main driving force that propel the Christian nations so far ahead after the fall of Constantinople. Maybe the story of Moses and his adoption into the Egyptian royal family is the reflection of Christian open mindset to strangeness, differences and its constant search for exotic cultures, know-hows and secrets in the far foreign lands. 
 
+![European Backpacker](https://storage.googleapis.com/spykman-world/european-backpackers.png)
+
 Maybe the Jewish in the United States were not the first one who invented the new Secret sauces but the one who bought or stole the secrets from the faraway land and scaled the new secret sauces with financial and energy reserves of the Western nations. 
+
+![Mossad K Market](https://storage.googleapis.com/spykman-world/mossad-kmarket.png)
 
 That's why Jewish people are the nomadic people with only less than 15 million people or 0.2% of world population but Jewish won 20% of Nobel Prize in Chemistry, Medicine and Physics. The atomic bomb that put the world in a new order under United States and Russian hands was created by the two Jewish scientists Albert Einstein and Robert Oppenheimer and their team.
 
