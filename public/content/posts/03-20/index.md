@@ -14,6 +14,8 @@ published: true
 
 Western Chess is a reflection of Western thought on wars with fours driving forces: the Queen of highly attractive women lineage that could travel anywhere and approach anyone,  the Bishop religious influences via worshiping sites, the Knight of highly Mobile fighting forces of Calvary and Naval ships and the Rook of heavily fortified castles and city walls. 
 
+![Western Thoughts on War](https://storage.googleapis.com/spykman-world/joker-of-the-west.png)
+
 A checkmate could be a treaty of alliance or a total destruction. Four steps in Western war are: first send the attractive women, then send the religious teacher, then send the army to capture the land and finally build a fortified castle on the newly acquired land. 
 
 ![The Bishop](content/posts/03-20/the_bishop.jpeg)
