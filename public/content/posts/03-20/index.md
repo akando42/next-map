@@ -3,7 +3,7 @@ zoom: 10
 lat: 32.08574509735867 
 lng: 34.77046631494252
 path: "/the_power_of_imagination_and_the_jewish_secrets"
-cover: "content/posts/03-20/spykman-world-gravitational_lensing.jpg"
+cover: "content/posts/03-20/geogenetics-trojan-horse-baby-of-windy-mother.png"
 summary: "Trapping, attracting and luring targets to Western European strong points have been a highly effective strategies to conquer and convert entire Siberia and North Africa population into their orbit."
 date: "03-20"
 title: "The Power of Imagination and the Jewish Secrets"
@@ -108,7 +108,7 @@ If we look at the world map as a chessboard then Israel and Kaliningrad are very
 
 ![Washington-Geneva-Moscow](/content/posts/03-20/g.png)
 
-Israel long-term genetics mission is probably to keep the Middle East in chaos and constant civil wars among different nations and ethnic groups, a steady migration of North African tribes from their safe homelands to European nations and gradually change the genetics mix of North Africa to European Caucasian.
+Israel long-term genetics mission is probably to keep the Middle East in chaos and constant civil wars among different nations and ethnic groups, a steady migration of North African tribes from their safe homelands to European nations and gradually change the genetics mix of North Africa to European Caucasian via trojan babies and windy only single mothers.
 
 ![African migrations to European nations](https://storage.googleapis.com/spykman-world/african-migrations-to-european-nations.png)
 
