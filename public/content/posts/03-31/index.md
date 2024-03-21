@@ -22,13 +22,15 @@ At the beginning of the 1900s, East Asian culture was too sophisticated and diff
 
 The bible and the bishop’s stories about some distant desert and resurrection did not appeal to East Asian commoners who already had their ritual teachers and heard plenty of highly scripted stories about ghost, fairy and supernatural phenomenons. 
 
+![Shandong Confucianism](https://storage.googleapis.com/spykman-world/shandong-confucianism.png)
+
 The high priests of the Swiss Alps need to invent a new story that is more appealing to all the common man and women across cultures outside of Europe and the Mediterrians. The stories need to be able to erase all cultures, social and government structures of the Eastern civilizations and rebuild it with Western thoughts and influences.Hence Capitalism, Facism and Communism just like Catholics, Protestants and Orthodox was invented and Lenin was sent to the Kremlin with a new script to forever change the societies in Central and East Asia. 
 
 ![Russia Kremlin](content/posts/03-31/russia_kremlin_redsquare.png)
 
 East Asian societies trade for good with currencies, build armies for war and organize large worker groups to build castles and cannals long before the invention of Capitalism, Facism and Communism. However, these new Western thoughts and their own bibles, somehow direct East Asian societies to destroy their own cultures, religious temples and castles and become extremely dependent on Western technology, firearms and medicine. That is why the Kremlin, meaning fortress in Russian, is still standing to the modern day while the 10,000s kilometer Great Walls of China were reduced to less than 100 kilometers and Vietnam capital Thang Long walls no longer exist.
 
-![Thang Long castles and its present](content/posts/03-31/fish_pond_and_workspace.png)
+![Thang Long castles and its present](https://storage.googleapis.com/spykman-world/ballistic-missile-silos.png)
 
 ### Mommy-Fication and The Reshuffling of Asian Genetics
 The first big challenge to Roman Empire and Christianity expansion outside of Western Europe were the North African and Middle East civilizations in Cairo and Babylon, modern day Egypt and Iraq. By using attractive European women and religious teachers to infiltrate the North Africa and Middle East elite circles, the Roman Empire was able to build a large spy network to gain initial important intelligence and finally capture and subdue Egypt and Persia. 
