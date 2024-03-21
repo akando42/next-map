@@ -11,13 +11,14 @@ published: true
 ---
 
 ### Christianity and Its Lack of Adoption in The East
-![Communism](content/posts/03-31/reinvention_of_god.png)
 
-While Christianity and its various variants were quickly adopted by European tribes in England, Scandinavia and Eastern Europe who lacked sophisticated rituals, architectural monuments and government structures, Christianity met heavy resistance among East Asian civilizations.
+While Christianity and its various variants were quickly adopted by European tribes in England, Scandinavia and Eastern Europe who lacked sophisticated rituals, architectural monuments and government structures, Christianity met heavy resistance among East Asian civilizations. Even after The West had conquered Beijing, the apex of East Asian culture expression, during the Boxer rebellion in 1899 with the cutting edge firearm and ship building technology, the Christian missionaries were still not able to convert Chinese, Vietnamese, Korean, Japanese or Thai into Christianity.
 
-Even after The West had conquered Beijing,  the apex of East Asian culture expression, during the Boxer rebellion in 1899 with the cutting edge firearm and ship building technology, the Christian missionaries were still not able to convert Chinese, Vietnamese, Korean, Japanese or Thai into Christianity. 
+![Communism](content/posts/03-31/reinvention_of_god.png) 
 
 At the beginning of the 1900s, East Asian culture was too sophisticated and different with their own unique fortified castles, religious temples, military and social structures. There are not enough bullets or trained army personnels for the sheer amount of East Asian population. If the West can not subdue the minds of these Far East people with religion, they can not make the East Asian population become an obedient worker ants population. 
+
+![Unique Product Made for the First King of Yiet](https://storage.googleapis.com/spykman-world/sword-of-first-yiet-king.png)
 
 The bible and the bishop’s stories about some distant desert and resurrection did not appeal to East Asian commoners who already had their ritual teachers and heard plenty of highly scripted stories about ghost, fairy and supernatural phenomenons. 
 
