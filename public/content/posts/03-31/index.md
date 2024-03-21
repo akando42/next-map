@@ -6,7 +6,8 @@ path: "/one_single_god_and_its_poweful_magnetism"
 cover: "content/posts/03-31/spykman-world-ho-chi-minh-statue.jpg"
 date: "03-31"
 title: "Communism and the Reinvention of God"
-tags: ['Ho Chi Minh', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel','India', 'Spykman World','Nicholas Spykman'] 
+summary: "Modern East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West."
+tags: ['Ho Chi Minh', 'Mao Zedong', 'Communism', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel','India', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
 
