@@ -1,9 +1,9 @@
 ---
-zoom: 10
-lat: 10.38509580601526
-lng: 107.05232388188348
+zoom: 16
+lat: 21.024291845785438
+lng: 105.84105949524307
 path: "/one_single_god_and_its_poweful_magnetism"
-cover: "content/posts/03-31/spykman-world-ho-chi-minh-statue.jpg"
+cover: "content/posts/03-31/geogenetics-communism-and-the-reinvention-of-god-6-le-minus-6.png"
 date: "03-31"
 title: "Communism and the Reinvention of God"
 summary: "Modern East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West."
