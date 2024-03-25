@@ -101,6 +101,14 @@ To break out of their genetic encirlement, the Wet Rice circles will need both i
 
 ![The Wet Rice Circle](/content/posts/03-31/Wet_Rice_Circle.png)
 
+Both the South Sea and Bay of Bengal possess large reserves of oil and gas that will serve well as a stop gap before the Wet Rice circle can fully transition into Solar and Nuclear power. Currently most oil exploration technologies and licenses are monopolied by American and British big oils. If India, South East Asia and China can collaboratively extract oil and gas from their ocean without internal territorial dispute then Wet Rice will have a small chance of cutting their dependence on Western oil import.
+
+![Oil and Gas Map of South East Asia](https://storage.googleapis.com/spykman-world/energy-indepedence-from-backyard-oilfield.png) 
+
+Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnam at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy dependence as well as higher energy per capital.
+
+![Haiyang Thorium 232 Nuclear Power Plant](https://storage.googleapis.com/spykman-world/haiyang-thorium-nuclear-power-plant.png)
+
 
 
 
