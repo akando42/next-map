@@ -6,7 +6,7 @@ path: "/one_single_god_and_its_poweful_magnetism"
 cover: "content/posts/03-31/geogenetics-communism-and-the-reinvention-of-god-6-le-minus-6.png"
 date: "03-31"
 title: "Communism and the Reinvention of God"
-summary: "Modern East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West."
+summary: "Tibetan East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West."
 tags: ['Ho Chi Minh', 'Mao Zedong', 'Communism', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel','India', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
@@ -100,6 +100,14 @@ The foreign-introduced genetic groups have control over major infrastructures li
 To break out of their genetic encirlement, the Wet Rice circles will need both internal strength via energy independence and defense capability and external supports from the global communities via trading and diplomacy. However, at the present day, Wet rice circle only produces less than 10% of their energy need, do not have an advanced defense industry, barely possess any nuclear weapons and have strong diplomatic tie on average to only less than 15% of global community.
 
 ![The Wet Rice Circle](/content/posts/03-31/Wet_Rice_Circle.png)
+
+Both the South Sea and Bay of Bengal possess large reserves of oil and gas that will serve well as a stop gap before the Wet Rice circle can fully transition into Solar and Nuclear power. Currently most oil exploration technologies and licenses are monopolied by American and British big oils. If India, South East Asia and China can collaboratively extract oil and gas from their ocean without internal territorial dispute then Wet Rice will have a small chance of cutting their dependence on Western oil import.
+
+![Oil and Gas Map of South East Asia](https://storage.googleapis.com/spykman-world/energy-indepedence-from-backyard-oilfield.png) 
+
+Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnam at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy dependence as well as higher energy per capital.
+
+![Haiyang Thorium 232 Nuclear Power Plant](https://storage.googleapis.com/spykman-world/haiyang-thorium-nuclear-power-plant.png)
 
 
 
