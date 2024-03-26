@@ -31,7 +31,7 @@ The high priests of the Swiss Alps need to invent a new story that is more appea
 
 East Asian societies trade for good with currencies, build armies for war and organize large worker groups to build castles and cannals long before the invention of Capitalism, Facism and Communism. However, these new Western thoughts and their own bibles, somehow direct East Asian societies to destroy their own cultures, religious temples and castles and become extremely dependent on Western technology, firearms and medicine. That is why the Kremlin, meaning fortress in Russian, is still standing to the modern day while the 10,000s kilometer Great Walls of China were reduced to less than 100 kilometers and Vietnam capital Thang Long walls no longer exist.
 
-![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/ballistic-missile-silos.png)
+![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/vietnam-new-genes-introduced-from-the-ocean-ports.png)
 
 ### Mommy-Fication and The Reshuffling of Asian Genetics
 
@@ -65,7 +65,7 @@ So after WW1 and WW2, the Tzar of Russia, the Qing Emperor of China, Nguyen Empe
 
 Tatar tribes living in Eastern European being deported from their homeland into the new strange regions of Central Asia. Many Tatar baby boys being turned into XO, Tatar fertile women would marry Eastern European men and the Tatar elites would marry Eastern European women XO. So after just one generation, the Tatar nations would look very Eastern European, live in a newly relocated home of Kazkhstan, Uzeberkistan, Turkmenistan and fully comply to the guidances from the West. 
 
-![Mommyfication of Chinese Babyboys](/content/posts/03-31/mommyfication_of_chinese_babyboys.png)
+![Mommyfication of Chinese Babyboys](https://storage.googleapis.com/spykman-world/chinese-imperial-palace-newly-renovated-by-communist-propagandists.png)
 
 The North Asia genetic groups living around Mongolia, Manchuria, North Korea also were reshuffled and deported South via the railways to Southern China and Vietnam and the Southern China and Northern Vietnam genetic groups were also relocated to Southern Vietnam in the Mekong Delta regions. Million of Chinese and Vietnamese baby boys would be turned into XO, the local ruling elites would marry XO from the more North West genetic groups and the local women would marry men from the North West genetic groups. So after each generation, the East and South East Asian would look increasingly like their North Western neighboring tribes. 
 
