@@ -31,7 +31,7 @@ The high priests of the Swiss Alps need to invent a new story that is more appea
 
 East Asian societies trade for good with currencies, build armies for war and organize large worker groups to build castles and cannals long before the invention of Capitalism, Facism and Communism. However, these new Western thoughts and their own bibles, somehow direct East Asian societies to destroy their own cultures, religious temples and castles and become extremely dependent on Western technology, firearms and medicine. That is why the Kremlin, meaning fortress in Russian, is still standing to the modern day while the 10,000s kilometer Great Walls of China were reduced to less than 100 kilometers and Vietnam capital Thang Long walls no longer exist.
 
-![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/vietnam-new-genes-introduced-from-the-ocean-ports.png)
+![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/ballistic-missile-silos.png)
 
 ### Mommy-Fication and The Reshuffling of Asian Genetics
 
@@ -65,7 +65,7 @@ So after WW1 and WW2, the Tzar of Russia, the Qing Emperor of China, Nguyen Empe
 
 Tatar tribes living in Eastern European being deported from their homeland into the new strange regions of Central Asia. Many Tatar baby boys being turned into XO, Tatar fertile women would marry Eastern European men and the Tatar elites would marry Eastern European women XO. So after just one generation, the Tatar nations would look very Eastern European, live in a newly relocated home of Kazkhstan, Uzeberkistan, Turkmenistan and fully comply to the guidances from the West. 
 
-![Mommyfication of Chinese Babyboys](https://storage.googleapis.com/spykman-world/chinese-imperial-palace-newly-renovated-by-communist-propagandists.png)
+![Mommyfication of Chinese Babyboys](/content/posts/03-31/mommyfication_of_chinese_babyboys.png)
 
 The North Asia genetic groups living around Mongolia, Manchuria, North Korea also were reshuffled and deported South via the railways to Southern China and Vietnam and the Southern China and Northern Vietnam genetic groups were also relocated to Southern Vietnam in the Mekong Delta regions. Million of Chinese and Vietnamese baby boys would be turned into XO, the local ruling elites would marry XO from the more North West genetic groups and the local women would marry men from the North West genetic groups. So after each generation, the East and South East Asian would look increasingly like their North Western neighboring tribes. 
 
@@ -83,7 +83,7 @@ Woodrow Wilson presidency marked the completion of North America colonization an
 
 Indigenous genetics groups of India, China, Japan, Korea and South East Asia started to have a difficult time travelling outside of their Wet Rice circle. The spreading of their DNA via marriages outside of the Wet rice circle is severely limited. Anyone from countries of the Wet Rice that allows to travel and live outside of their circle is most likely unviable so they can not create a human bond with outside DNA group.
 
-![Chris Do vs Hoang Do](/content/posts/03-31/chris_do_vs_hoang_do.png)
+![Chris Do vs Hoang Do](https://storage.googleapis.com/spykman-world/nest-LE-vs-JB.png)
 
 All technology transfers, foreign investments, expertise training and entertainment media will serve as the promotion of new foreign genetic groups inserted from the West. While the public leaders of the Wet Rice circle will mostly likely still look very indigenous, the genetic landscape outside of their highly secured offices and military barracks is changing every minutes that cash is being exchanged among the people. The foreign investments, educational contents and movies will have much more influences over the youth dating choices than the local officials. 
 
@@ -105,12 +105,6 @@ Both the South Sea and Bay of Bengal possess large reserves of oil and gas that 
 
 ![Oil and Gas Map of South East Asia](https://storage.googleapis.com/spykman-world/energy-indepedence-from-backyard-oilfield.png) 
 
-Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnam at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy dependence as well as higher energy per capital.
+Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnamese at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy dependence as well as higher energy per capital. And with energy independence, maybe the Northern and Southern tribes of Wet Rice can once again expand North to Siberia and South to the Ocean to reclaim the lost homeland of their great grandfather instead of cannibalizing and pushing each others to the Hong Kong exile status. 
 
 ![Haiyang Thorium 232 Nuclear Power Plant](https://storage.googleapis.com/spykman-world/haiyang-thorium-nuclear-power-plant.png)
-
-
-
-
-
-
