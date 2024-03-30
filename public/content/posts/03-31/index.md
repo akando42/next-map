@@ -31,7 +31,7 @@ The high priests of the Swiss Alps need to invent a new story that is more appea
 
 East Asian societies trade for good with currencies, build armies for war and organize large worker groups to build castles and cannals long before the invention of Capitalism, Facism and Communism. However, these new Western thoughts and their own bibles, somehow direct East Asian societies to destroy their own cultures, religious temples and castles and become extremely dependent on Western technology, firearms and medicine. That is why the Kremlin, meaning fortress in Russian, is still standing to the modern day while the 10,000s kilometer Great Walls of China were reduced to less than 100 kilometers and Vietnam capital Thang Long walls no longer exist.
 
-![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/ballistic-missile-silos.png)
+![Thang Long capital and its hidden joker card](https://storage.googleapis.com/spykman-world/vietnam-new-genes-introduced-from-the-ocean-ports.png)
 
 ### Mommy-Fication and The Reshuffling of Asian Genetics
 
