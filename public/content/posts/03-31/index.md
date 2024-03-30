@@ -93,7 +93,7 @@ Housing and public security were also designed to erase the indigenious group fa
 
 ![Cop Casualty Rate by Color](/content/posts/03-31/cop_casualty_risk_by_color.png)
 
-The foreign-introduced genetic groups have control over major infrastructures like water, electricity and mobility while the indigenous genetic groups become subjects of water, electricty and mobility blackmailing when they live in the Soviet era or newly built highrise apartment buildings.
+The foreign-introduced genetic groups have control over major infrastructures like water, electricity and mobility while the indigenous genetic groups become subjects of water, electricity and mobility blackmailing when they live in the Soviet era or newly built highrise apartment buildings.
 
 ![Soviet-Style or American Style Prison](/content/posts/03-31/soviet_or_american_prison.png)
 
@@ -105,6 +105,6 @@ Both the South Sea and Bay of Bengal possess large reserves of oil and gas that 
 
 ![Oil and Gas Map of South East Asia](https://storage.googleapis.com/spykman-world/energy-indepedence-from-backyard-oilfield.png) 
 
-Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnamese at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy dependence as well as higher energy per capital. And with energy independence, maybe the Northern and Southern tribes of Wet Rice can once again expand North to Siberia and South to the Ocean to reclaim the lost homeland of their great grandfather instead of cannibalizing and pushing each others to the Hong Kong exile status. 
+Even though the Wet Rice circle have 4 billion people, energy per capital for this region is still very low with an American consuming 6 times more energy than an average Vietnamese at 12,983 Kilowatt hours per Year. Thorium 232 Nuclear Power plants being developed by Indian and Chinese engineers could serve well as a clean limitless energy sources to enable Wet Rice circle to achieve energy independence as well as higher energy per capital. And with energy independence, maybe the Northern and Southern tribes of Wet Rice can once again expand North to Siberia and South to the Ocean to reclaim the lost homeland of their great grandfather instead of cannibalizing and pushing each others to the Hong Kong exile status. 
 
 ![Haiyang Thorium 232 Nuclear Power Plant](https://storage.googleapis.com/spykman-world/haiyang-thorium-nuclear-power-plant.png)
