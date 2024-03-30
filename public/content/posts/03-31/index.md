@@ -65,7 +65,7 @@ So after WW1 and WW2, the Tzar of Russia, the Qing Emperor of China, Nguyen Empe
 
 Tatar tribes living in Eastern European being deported from their homeland into the new strange regions of Central Asia. Many Tatar baby boys being turned into XO, Tatar fertile women would marry Eastern European men and the Tatar elites would marry Eastern European women XO. So after just one generation, the Tatar nations would look very Eastern European, live in a newly relocated home of Kazkhstan, Uzeberkistan, Turkmenistan and fully comply to the guidances from the West. 
 
-![Mommyfication of Chinese Babyboys](/content/posts/03-31/mommyfication_of_chinese_babyboys.png)
+![Mommyfication of Chinese Babyboys](https://storage.googleapis.com/spykman-world/chinese-imperial-palace-newly-renovated-by-communist-propagandists.png)
 
 The North Asia genetic groups living around Mongolia, Manchuria, North Korea also were reshuffled and deported South via the railways to Southern China and Vietnam and the Southern China and Northern Vietnam genetic groups were also relocated to Southern Vietnam in the Mekong Delta regions. Million of Chinese and Vietnamese baby boys would be turned into XO, the local ruling elites would marry XO from the more North West genetic groups and the local women would marry men from the North West genetic groups. So after each generation, the East and South East Asian would look increasingly like their North Western neighboring tribes. 
 
