@@ -6,15 +6,22 @@ path: "/kosovo-and-the-powder-keg-region-of-balkan"
 cover: "content/posts/04-09/kosovo-and-the-powder-keg-region-of-balkan.png"
 date: "04-09"
 title: "Kosovo and The Powder Keg Region of Balkan"
-tags: ['Kosovo', 'Balkan', 'Serbia', 'Hungary', 'Macedonia', 'Croatia', 'GeoGenetics','Spykman World']
-published: false
+summary: "Uniting a federation requires a very strong central of power that can extrend its control over all satelite city states. A weak central of power or one too strong satelite city state often result in the collapse of the union."
+tags: ['Kosovo', 'Balkan', 'Yugoslavia', 'Serbia', 'Hungary', 'Macedonia', 'Croatia', 'GeoGenetics','Spykman World']
+published: true
 ---
+
+![Hungarian Valley](https://storage.googleapis.com/spykman-world/Hungarian%20Valley.png)
+
+Uniting a federation requires a very strong central of power that can extrend its control over all satelite city states. A weak central of power or one too strong satelite city state often result in the collapse of the union. History of the Balkan is a story of multiple different central of power gain control and lost control of the Hungarian Valley with the evolution of technology and the mixing of different people group.
 
 ### The Roman Age of Naval Trading and Fortresses
 
 ![High of Roman Empire](https://storage.googleapis.com/spykman-world/High%20of%20Roman%20Empire.png)
 
 ![West East Contested Region](https://storage.googleapis.com/spykman-world/West-East-Contested-Region.png)
+
+![River Map of The Balkan](https://storage.googleapis.com/spykman-world/River%20Map.png)
 
 ![Middle East aka Fuck East In Order of the Director](https://storage.googleapis.com/spykman-world/Macedonia%20Invasion%20of%20Middle%20East%20and%20India.png)
 
