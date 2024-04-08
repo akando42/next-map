@@ -6,11 +6,10 @@ path: "/kosovo-and-the-powder-keg-region-of-balkan"
 cover: "content/posts/04-09/kosovo-and-the-powder-keg-region-of-balkan.png"
 date: "04-09"
 title: "Kosovo and The Powder Keg Region of Balkan"
-summary: "Uniting a federation requires a very strong central of power that can extrend its control over all satelite city states. A weak central of power or one too strong satelite city state often result in the collapse of the union."
+summary: "Uniting a federation requires a very strong central of power that can extrend its control over all satelite city states. A weak central of power or one too strong satelite city state with outside influence often result in the collapse of the union."
 tags: ['Kosovo', 'Balkan', 'Yugoslavia', 'Serbia', 'Hungary', 'Macedonia', 'Croatia', 'GeoGenetics','Spykman World']
 published: true
 ---
-
 ![Hungarian Valley](https://storage.googleapis.com/spykman-world/Hungarian%20Valley.png)
 
 Uniting a federation requires a very strong central of power that can extrend its control over all satelite city states. A weak central of power or one too strong satelite city state often result in the collapse of the union. History of the Balkan is a story of multiple different central of power gain control and lost control of the Hungarian Valley with the evolution of technology and the mixing of different people group.
