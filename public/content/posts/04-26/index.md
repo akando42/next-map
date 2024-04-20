@@ -81,9 +81,15 @@ Human weapons of World Wars had such a high rate of fire and accuracy that the b
 
 Since the fall of Saigon in 1975, national borders around the globe have remained relatively constant and unchanged. 
 
+![Fall of Saigon 1975](https://storage.googleapis.com/spykman-world/fall-of-saigon_1975.png)
+
 The US and NATO prefer to maintain the earth borderline and just redraw the line between allies and enemies through regime change by replacing the people in charge of the exact same territories like in the case of Panama, Iraq, Afghanistan or Ukraine. 
 
+![1989 American Coup of Panama](https://storage.googleapis.com/spykman-world/1989-american-coup-of-panama.png)
+
 China prefers to use trade as a bargaining chip to achieve territorial gains like in the case of Hong Kong and South China Sea islands. The British willingly gave up Hong Kong in exchange for more trades with mainland China while US and ASEAN slowly gave up contesting the Islands in South China Sea to focus on domestic economic issues. 
+
+![Hong Kong Return to China](https://storage.googleapis.com/spykman-world/hong-kong-return-to-china.png)
 
 Russia and the Soviet Union prefer to use the secession movements either through the collapse of the Soviet Union in 1990 or independence movements in Georgia, Crimea and Donetsk to redraw earth borderlines. 
 
@@ -91,7 +97,11 @@ Russia and the Soviet Union prefer to use the secession movements either through
 
 Any attempts to redraw the earth borderline by smaller nations have always failed like in the case of Iraq wars with Kuwait and Iran and the Vietnam war with Cambodia. Israel is the only exception with small incremental gain via settlement building in the West Bank. 
 
+![Israel Settlement Building](https://storage.googleapis.com/spykman-world/settlement-building.png)
+
 It seems like only nations with a domestic defense industry and being able to doge arm embargo can really alter the earth's borderline successfully. Common spoken language is also crucial in the success of any attempts to acquire new territories. Hong Kong citizens use both mainland Mandarin and southern Cantonese. Large percentages of Laos and Thailand citizens speak Mandarin. Palestinians speak both Hebrew and Arabic. Georgian and Ukrainian speak both Russian and Ukrainian. 
+
+![China Town in Bangkok](https://storage.googleapis.com/spykman-world/china-town-in-bangkok.png)
 
 Being able to export your languages and your domestically made weapons are two crucial steps in achieving long lasting territorial gains in modern day. Posessing nuclear weapon is also another crucial factor that allows America, Russia, China and Israel to pressure nations to concede small territorial lost to avoid decapitation strikes on command control nodes. 
 
