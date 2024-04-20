@@ -63,15 +63,19 @@ Assuming two guards with arrows, horses and spears could be stationed 30 meters 
 
 It is an ineffective and unrealistic task of guarding a borderline in the ancient era. So there was no borderline in the pre-World-War era. Human tribes just guard city states or walled garrisons and send messengers to the other smaller tributary city states for help when there is an invading army or combine forces with other tributary city states to invade a rival city state. 
 
-
+![The Horse Messenger](https://storage.googleapis.com/spykman-world/the-horse-messenger.png)
 
 Before the radio-com, combustion engine and machine gun was invented, a country was a cluster of loosely aligned city states with one central city state and the tributary city states. The local city mayors of the ancient era are the kings while the city mayor of a central city state is the emperor. 
+
+![European Major Cities and Its Satelite Cities](https://storage.googleapis.com/spykman-world/amsterdam-milan-moscow.png)
 
 With the invention of machine guns, shield walls and large soldier formations become a massive attack surface that a single gunner with enough bullets can eliminate all at once. A tall city wall could be penetrated or shot over with artillery from a distance. The defensive line now needs to be pushed much further away from the city border and the army needs to dig a trench to get out from the line of fire of machine guns and artillery. 
 
 ![Small Attack Surfaces](content/posts/04-26/small_attack_surface.png) 
 
 Human weapons of World Wars had such a high rate of fire and accuracy that the best strategy is to minimize attack surfaces by laying on the ground or hiding underground behind in a trench. Trench warfare of World War I and II is the beginning of a long battle line and the beginning of national borders.
+
+![World War Invention](https://storage.googleapis.com/spykman-world/world_war_invention_of_border_marker.png)
 
 ### Modern Day Guide to Redraw The Earth Border Lines
 
