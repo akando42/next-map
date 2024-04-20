@@ -6,6 +6,7 @@ path: "/black_sea_the_gate_to_western_civilizations"
 cover: "content/posts/04-26/black_sea_the_gate_to_western_civilizations.png"
 date: "04-26"
 title: "Black Sea - The Gate to Western Civilizations"
+summary: "Only after WW2 that the national borders started to be marked clearly on the map. Since then, only United States and Russia can decisively alter the world border via coups and secessions."
 tags: ['Ukraine', 'Turkey', 'Romania', 'Bulgary', 'Moldova','Russia', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
