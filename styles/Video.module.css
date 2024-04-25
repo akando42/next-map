@@ -127,6 +127,11 @@
 	top: 2vh;
 	width: 60vw;
 	padding: 10px 1vw;
+	background-color: blue;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
 }
 
 .id {
@@ -143,6 +148,10 @@
 	font-size: 21px;
 }
 
+.textStats {
+	color: white;
+	margin: 0 1vw;
+}
 .playButton {
 	margin-top: 20px;
 	background-color: blue;

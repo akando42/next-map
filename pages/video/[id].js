@@ -30,6 +30,9 @@ const getTrunks = function(contents){
 			} else {
 				data.type = 'text'
 				data.content = trunk 
+				let words = trunk.split(/\s+/g)
+				data.wordCount = words.length
+				data.duration = Math.round(100/60 * words.length)
 				data.length = trunk.length
 				tweetText.push(data)
 			}
@@ -191,6 +194,12 @@ export default class Video extends Component {
 										<div className={Styles.id}>
 										    {this.state.activeThought.id} 
 										</div>
+										<div className={Styles.textStats}>
+											{this.state.activeThought.text.wordCount} words 
+										</div>
+										<div className={Styles.textStats}>
+											{this.state.activeThought.text.duration} seconds 
+										</div>
 									</div>
 
 									<div 
@@ -210,7 +219,7 @@ export default class Video extends Component {
 								?   <div className={Styles.stopButton} onClick={this.stopPlaying}>
 										STOP
 									</div>
-						  		:  	<div className={Styles.playButton} onClick={this.startPlaying}>
+						  		: <div className={Styles.playButton} onClick={this.startPlaying}>
 										PLAY
 									</div>
 						}
