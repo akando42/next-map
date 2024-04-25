@@ -22,15 +22,15 @@ While trees could grow their roots deep underground for water sources and bird c
 
 There was not a national border line and clashes happened regularly at the middle points between two major rival settlements. While the modern ground vehicles need to travel on paved roads, the horses are all terrain vehicles that could travel on almost all earth surfaces and allows the mounted archers and calvaries to maneuver around unguarded empty lands between major human settlements.
 
-![River and Empty Land](content/posts/04-26/river_and_empty_land.png)
+![Stalingrad](https://storage.googleapis.com/spykman-world/siege_of_stalingrad.png)
 
 Maybe this is the reason why Moscow and Beijing were both built faraway from nearby water sources and were two tributary city states to the Western Mongol of Golden Hordes and the Eastern Mongol of Yuan. While Russia's modern largest city, Moscow, has the size of around 2,015.59 square km, Vietnam's size is 331,690 square km or 165 times larger than Moscow. 
 
-![Stalingrad](https://storage.googleapis.com/spykman-world/stalingrad.png)
+![Beijing - Formal Mongol Capital](https://storage.googleapis.com/spykman-world/bei%CC%A3ing-first-time-became-chinese-capital-under-the-mongol-empire.png)
 
 So without a modern early warning system, most cities and towns of Eastern Europe and China were probably not able to prepare for a Mongol invasion or mobilize their army fast enough to choose a favorable location of their battlefields. 
 
-![Beijing - Formal Mongol Capital](https://storage.googleapis.com/spykman-world/bei%CC%A3ing-first-time-became-chinese-capital-under-the-mongol-empire.png)
+![River and Empty Land](content/posts/04-26/river_and_empty_land.png)
 
 From the largest freshwater lake on earth, Lake Baikal, the Mongolian genetics lineage first spread along the Orkhon river system then quickly accelerated with the adoption of large horse archers formation in their army and climate changes in the 13th century that expanded the grassland of Central Asia. 
 
