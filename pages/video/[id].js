@@ -32,7 +32,7 @@ const getTrunks = function(contents){
 				data.content = trunk 
 				let words = trunk.split(/\s+/g)
 				data.wordCount = words.length
-				data.duration = Math.round(100/60 * words.length)
+				data.duration = Math.round(60/100 * words.length)
 				data.length = trunk.length
 				tweetText.push(data)
 			}
