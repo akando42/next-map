@@ -49,25 +49,27 @@ And then there are the Japanese that came out of nowhere and dominated Asia from
 
 ![Zen Fish](/content/posts/05-11/east_tibetan_plateau.png)
 
-And then taught them all the advanced technologies of the 19 centuries and enabled them to quickly develop into advanced levels in both culture and engineering. The Island of Japan is like the isolated Jurassic Park where the lab-made dinosaurs of South East Asia suddenly got loose and started to attack everyone from Afghanistan to Hawaii. 
+And then taught them all the advanced technologies of the 19 centuries and enabled them to quickly develop into advanced levels in both culture and engineering. 
 
 ![The Asian Doctor in Every JP Movie](https://storage.googleapis.com/spykman-world/western-doctor-lab-grown-east-asian.png)
 
-Maybe The Japanese were funding and creating Buddhism temples, arts and monks in SouthEast Asia. There were no large-scale naval wars in the Pacifics just footage of Pearl Harbor. Japan was created by collecting Islanders East of Tibetan Plateau by Swiss doctors then handpicking high potential one to seed the Island of Japan. 
+The Island of Japan is like the isolated Jurassic Park where the lab-made dinosaurs of South East Asia suddenly got loose and started to attack everyone from Afghanistan to Hawaii. 
 
 ![Dharma Wheel on Japanese Flag](/content/posts/05-11/spykman-world-japanese-dharma.png)
 
-Japanese first copied Chinese architecture then improved upon it with their own styles. Swiss doctors then sent them weapons and close to the newest weapon and industrial knowledge but 10 years behind the cutting edge in Europe to enable them to take over East Asia.
+Maybe The Japanese were funding and creating Buddhism temples, arts and monks in SouthEast Asia. There were no large-scale naval wars in the Pacifics just footage of Pearl Harbor. Japan was created by collecting Islanders East of Tibetan Plateau by Swiss doctors then handpicking high potential one to seed the Island of Japan. 
 
 ![Japanese Samurai Castle with Chinese Style Roof](https://storage.googleapis.com/spykman-world/japanese-samurai-castle-with-chinese-style-roof.png)
 
-Wherever there are the Buddhist temples, there are Japanese sons living with the locals in Myanmar, Thailand, Vietnam, China, Cambodia, Taiwan, Korea, Mongol as Burmese, Thai, Vietnamese, Chinese, Taiwanese, Koreans and Mongolians. 
+Japanese first copied Chinese architecture then improved upon it with their own styles. Swiss doctors then sent them weapons and close to the newest weapon and industrial knowledge but 10 years behind the cutting edge in Europe to enable them to take over East Asia.
 
 ![Japanese Son Control of World Mobility](https://storage.googleapis.com/spykman-world/japanese-son-control-of-world-mobility.png)
 
-The Japanese sons controlled Western-imported tech. Grandfather of Japanese sons is the Swiss Doctor and Father of Japanese son is the Japanese soldiers seeded in the Island of Japan just like the Jurassic Park. Most Japanese DNA seeding happened during the chaos and confusion of World War 2 and maybe now during and after COVID-19. Maybe the Japanese built the Buddhist temples in Afghanistan to mark the deepest inland that the gasoline planes and cars of WW2 were able to reach from China's East Coast. 
+Wherever there are the Buddhist temples, there are Japanese sons living with the locals in Myanmar, Thailand, Vietnam, China, Cambodia, Taiwan, Korea, Mongol as Burmese, Thai, Vietnamese, Chinese, Taiwanese, Koreans and Mongolians. 
 
 ![Afghanistan Buddha Statue](https://storage.googleapis.com/spykman-world/afghanistan-buddha-statue.png)
+
+The Japanese sons controlled Western-imported tech. Grandfather of Japanese sons is the Swiss Doctor and Father of Japanese son is the Japanese soldiers seeded in the Island of Japan just like the Jurassic Park. Most Japanese DNA seeding happened during the chaos and confusion of World War 2 and maybe now during and after COVID-19. Maybe the Japanese built the Buddhist temples in Afghanistan to mark the deepest inland that the gasoline planes and cars of WW2 were able to reach from China's East Coast. 
 
 ### Emigration and Immigration Patterns of Buddhist Countries
 
@@ -119,11 +121,11 @@ The American gene pool is always upgraded regularly via immigrations. Most of th
 
 The unrival security via geographical and technologial barrier makes the United States of America is the safest place to raise a family and hold your assets. Any presidents and dictators who are friends of the United States always have the options to move his families and assets oversea to United States as the last resort move. While Bitcoin is a much better cross border mean of exchange and Gold is a much better storage of value, US Dollar could be both easily moved via the SWIFT banking network or stored in reserve without losing significant amount of values. 
 
-![Soviet Le Duan](content/posts/05-11/soviet_leduan.png)
+![Soviet Le Duan](/content/posts/05-11/soviet_leduan.png)
 
 While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan meaning The LE with enough Supply DNA clusters survive and prosper longer than the Nguyen Van Thieu aka Sleep Too Well and Lack Supply DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
 
-![Nato Nguyen Van Thieu](content/posts/05-11/nato_nguyenvanthieu.png)
+![Nato Nguyen Van Thieu](/content/posts/05-11/nato_nguyenvanthieu.png)
 
 United States of American is still the safest country on earth with the lowest chances of a civil war or external invasion leading to the collapse of the country and its currency. Americans have a credible reason to believe that they are god favored and god chosen. And this national belief has become part of American identity, reiterated in every presidential speeches and printed on every US dollar bill. 
 
@@ -135,7 +137,7 @@ Unrival security of the American nation allows the American government to issue 
 
 The only potential limit to US Dollar printing spree is a second safe haven that could rival the United States. Is there any other safer place on earth for a human female to settle down, store her egg basket without worrying that her house could be bombed, her saving could evaporated, her children could be kidnnaped? Chengdu, Switzerland, Australia, the Moon? 
 
-![Chengdu highland heaven](content/posts/05-11/chengdu_monks.png)
+![Chengdu highland heaven](/content/posts/05-11/chengdu_monks.png)
 
 After COVID-19, no where looks very safe and the United States of America still seems to be the best place to raise a family. 
 
