@@ -35,17 +35,13 @@ yarn dev
 [X] Mark active slide in the slide controller.  
 [X] Auto Start and Stop Audio. 
 [X] Generate new Site Map every builds.  
+
 [ ] Toggle Full Screen https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API
-
 [ ] Record Audio https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
-
-
 [ ] Screen Recording https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture#examples
-
 [ ] Generate Short Video from Images and Voice Over.
-[ ] Mobile and iPAD CSS for Video page.     
 
-## FUN
+## FUN TWITTER AUTOMATION
 [ ] Create array of timezone, city name, city-zen image.
 [ ] Look up major cities that is currently at NOON.
 [ ] Tag the city and top twitter users of the city.
