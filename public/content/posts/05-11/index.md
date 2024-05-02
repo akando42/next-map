@@ -123,7 +123,7 @@ The unrival security via geographical and technologial barrier makes the United 
 
 ![Soviet Le Duan](/content/posts/05-11/soviet_leduan.png)
 
-While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan meaning The LE with enough Supply DNA clusters survive and prosper longer than the Nguyen Van Thieu aka Sleep Too Well and Lack Supply DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
+While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan meaning The LE with enough Supply DNA clusters survive and prosper longer than the Nguyen Van Thieu aka Sleep Too Well and Lack Supply DNA clusters. The faces on the streets of Vietnam and United States seems to point to the interesting fact that both generals won the genetics compeition in Vietnam while the Vietnamese boat people in United States lost.  
 
 ![Nato Nguyen Van Thieu](/content/posts/05-11/nato_nguyenvanthieu.png)
 
