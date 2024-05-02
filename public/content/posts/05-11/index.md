@@ -103,35 +103,35 @@ The American and the World currency US Dollas was built on the Invicibility God-
 
 US geography is an unfair advantage for the American planners with the largest irrigable landmass on the planet, on par with China and India. While Russia and Canada has a larger landmass, most of their land is too cold for human settlement building and agriculture. 
 
-![]()
+![North America Farmland Area](https://storage.googleapis.com/spykman-world/us-farmland-area.png)
 
 The Island of United States is also a natural fortress that is shielded from all 4 directions with large geographical barriers: North by the North Pole, East by the Pacifics Ocean, West by the Atlantic Oceans and South by the Carribean and the naval stroke point of Mexico and Panama. 
 
-![]()
+![Caucasian Mexican Mission of Guarding Central America](https://storage.googleapis.com/spykman-world/caucasian-mexican-mission-of-guarding-central-america.png)
 
 US geography was initially not this perfect but with only 13 colonies on the East Coast of modern United States. Their unmatched geophgraphical advantages was only shaped gradually through Wars and Infrastructure development from 17 century to 19 century. 
 
-![]()
+![American Reshaping Their Geography Destiny](https://storage.googleapis.com/spykman-world/us_thirteen_colonies_and_the_west.png)
 
 The American gene pool is always upgraded regularly via immigrations. Most of the US population growth comes from importing the best and brightest from all around world via foreign students and researchers, foreign warriors, foreign entrepreneurs filtered through a highly selective immigration pathways. United State itself also develop their world leading genetics and DNA research program. The advantages in gene pool results in huge advantages in technological and art with American products, services and entertainment media dominates every corner of the earth.
 
-![]()
+![East Asian and German Replacing Hispanics and British](https://storage.cloud.google.com/spykman-world/east-asian-and-german-replacing-native-hispanic-and-british.png)
 
 The unrival security via geographical and technologial barrier makes the United States of America is the safest place to raise a family and hold your assets. Any presidents and dictators who are friends of the United States always have the options to move his families and assets oversea to United States as the last resort move. While Bitcoin is a much better cross border mean of exchange and Gold is a much better storage of value, US Dollar could be both easily moved via the SWIFT banking network or stored in reserve without losing significant amount of values. 
 
 ![Soviet Le Duan](content/posts/05-11/soviet_leduan.png)
 
-While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan DNA clusters survive and prosper longer than the Nguyen Van Thieu DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
+While Le Duan beat Nguyen Van Thieu in the battle fields of Vietnam, will the Le Duan meaning The LE with enough Supply DNA clusters survive and prosper longer than the Nguyen Van Thieu aka Sleep Too Well and Lack Supply DNA clusters. The faces on the streets of Vietnam and United States seems to point to Nguyen Van Thieu. 
 
 ![Nato Nguyen Van Thieu](content/posts/05-11/nato_nguyenvanthieu.png)
 
 United States of American is still the safest country on earth with the lowest chances of a civil war or external invasion leading to the collapse of the country and its currency. Americans have a credible reason to believe that they are god favored and god chosen. And this national belief has become part of American identity, reiterated in every presidential speeches and printed on every US dollar bill. 
 
-![]()
+![In God We Trust](https://storage.googleapis.com/spykman-world/in-god-we-trust.png)
 
 Unrival security of the American nation allows the American government to issue unlimited US Dollar and lift the US government debt ceiling to whatever it fell necessary. 
 
-![]()
+![Negative Interest for Highly Wanted Makers](https://storage.googleapis.com/spykman-world/low-interest-for-a-highly-predictable-future.png)
 
 The only potential limit to US Dollar printing spree is a second safe haven that could rival the United States. Is there any other safer place on earth for a human female to settle down, store her egg basket without worrying that her house could be bombed, her saving could evaporated, her children could be kidnnaped? Chengdu, Switzerland, Australia, the Moon? 
 
@@ -139,7 +139,7 @@ The only potential limit to US Dollar printing spree is a second safe haven that
 
 After COVID-19, no where looks very safe and the United States of America still seems to be the best place to raise a family. 
 
-![]()
+![First Time North America Under Real Attack](https://storage.googleapis.com/spykman-world/covid-19-pandemics.png)
 
 
 
