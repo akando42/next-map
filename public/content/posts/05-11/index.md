@@ -6,10 +6,10 @@ path: "/self_determination_and_the_right_to_write_your_own_destiny"
 cover: "content/posts/05-11/spykman-world-japanese-dharma.png"
 date: "05-11"
 title: "Buddhism - The Peace of Mind for Viable Uterus"
-tags: ['Myanmar','Vietnam','China','North Korea','South Korea','Thailand','Laos', 'Cambodia', 'Taiwan','Zen','Spykman World','Nicholas Spykman'] 
+summary: "Only if #TibetanEastAsian people can form a #Federation, redraw the #Northern boundary and build an #AdvancedNavy to push the US out of the #FirstIslandChain that they have a chance of achieving #SafeHeaven status and finally find long lasting #Peace"
+tags: ['Myanmar', 'Vietnam', 'China', 'North Korea', 'South Korea', 'Thailand', 'Laos', 'Cambodia', 'Taiwan','Zen','Spykman World','Nicholas Spykman'] 
 published: true
 ---
-
 ### Buddhism - The Common Identity of Nations East of The Tibetan Plateau
 ![Milan - Venice Delta](/content/posts/05-11/milan_venice.png)
 
