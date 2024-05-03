@@ -18,3 +18,5 @@ published: true
 ![Chinese DongFeng Rocket Program](https://storage.googleapis.com/spykman-world/dongfeng-german-french-chinese-rocket-engineering-program.png)
 
 ![North Korea Ballistic Missile Program](https://storage.googleapis.com/spykman-world/north-korean-french-german-rocket-program.png)
+
+![Lenin Return To Russia from Switzerland to Spread GERMS](https://storage.googleapis.com/spykman-world/lenin-return-from-switzerland-to-russia-to-spread-germs.png)
