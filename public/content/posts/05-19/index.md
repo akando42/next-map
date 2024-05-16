@@ -22,6 +22,10 @@ published: true
 
 ![UBS French German Italian Coalition Bank](https://storage.googleapis.com/spykman-world/UBS.png)
 
+![Zurich Milan World Longest Tunnel](https://storage.googleapis.com/spykman-world/Swiss%20World%20Longest%20Tunnel.png)
+
+![Latin Command Center](https://storage.googleapis.com/spykman-world/Latin_Command_Center.png)
+
 ![Geneva Geniuses Circle](https://storage.googleapis.com/spykman-world/geneva-genius-circle.png) 
 
 ![Vietnamese Geneva Gene Becoming Vietnamese Influencer](https://storage.googleapis.com/spykman-world/french-asian-baby-girl.png)
@@ -41,6 +45,8 @@ published: true
 ![Lottee LeTot](https://storage.googleapis.com/spykman-world/lottee-letot.png)
 
 ![Hanoi Hotel HH Heavy Water Injection](https://storage.googleapis.com/spykman-world/hanoi-heavy-water-injection.png)
+
+![UBS attacks on Nomura](https://storage.googleapis.com/spykman-world/UBS_attack_on_Nomura.png)
 
 ![Viral Skin Dicease VALVE via SHERATON](https://storage.googleapis.com/spykman-world/viral-skin-dicease-valve-via-SHERATON.png)
 
