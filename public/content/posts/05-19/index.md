@@ -32,6 +32,8 @@ published: true
 
 ![GeneEva Flag](https://storage.googleapis.com/spykman-world/Gene-Eva%20Flag.png)
 
+![Kunming High Elevation Lake](https://storage.googleapis.com/spykman-world/Kunming%20High%20Elevation%20Lake.png)
+
 ### The Architecture of Gene Elimination Enviroment
 
 ![Lenin Return To Russia from Switzerland to Spread GERMS](https://storage.googleapis.com/spykman-world/lenin-return-from-switzerland-to-russia-to-spread-germs.png)
