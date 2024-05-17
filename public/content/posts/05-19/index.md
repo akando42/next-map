@@ -12,6 +12,8 @@ published: true
 
 ### The Architecture of Gene Conservation Enviroment
 
+![Latin Settlement with Large Water Reserve](https://storage.googleapis.com/spykman-world/Latin_Settlement_with_Large_Water_Reserves.png)
+
 ![Switzerland - Land of Special Weapon and Tactics](https://storage.googleapis.com/spykman-world/Switzerland.png)
 
 ![Swiss Guard](https://storage.googleapis.com/spykman-world/Swiss%20Guards.png)
@@ -23,8 +25,6 @@ published: true
 ![UBS French German Italian Coalition Bank](https://storage.googleapis.com/spykman-world/UBS.png)
 
 ![Zurich Milan World Longest Tunnel](https://storage.googleapis.com/spykman-world/Swiss%20World%20Longest%20Tunnel.png)
-
-![Latin Command Center](https://storage.googleapis.com/spykman-world/Latin_Command_Center.png)
 
 ![Geneva Geniuses Circle](https://storage.googleapis.com/spykman-world/geneva-genius-circle.png) 
 
