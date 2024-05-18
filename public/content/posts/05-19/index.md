@@ -11,7 +11,6 @@ biological organism will end up dominating its ecosystem."
 tags: ['Italia', 'France', 'United States', 'Switzerland', 'Pakistan', 'India', 'China', 'Vietnam', 'Laos', 'Cambodia', 'North Korea','GeoGenetics', 'Spykman World'] 
 published: true
 ---
-
 ### Stepping Stone for Roman Gene Expansion in Europe
 
 After Rome achieved both food security via farming in the Milan region as well as technological advances via various trading ports in the Mediterranean sea, its engineers and military started to expand across the Alps into the European heartland. 
@@ -44,9 +43,13 @@ The Swiss warriors and their fortified Bunkers also became the trusted Banker fo
 
 After the discovery of bloodtype in 1900 by another Black Hair Blue Eye doctor in the Swiss Alps, the Latin gene once again meet up and devise a plan to expand their Gene beyond Western and Central Europe toward the East. This time instead of just Chocolate and Cheese, they will use a brand new tool developed by their Bio Engineer, GERM. 
 
-![Lenin Return To Russia from Switzerland to Spread GERMS](https://storage.googleapis.com/spykman-world/lenin-return-from-switzerland-to-russia-to-spread-germs.png)
+![Blood Type Inventor](https://storage.googleapis.com/spykman-world/blood_type_inventor.png)
 
 The GERM spreading via the Communist Orgy promoted by LENIN was so effective that most of Ghenis Khan offspings in Eastern Europe was dead by the end of World War 1 and World War 2. And after the Soviet Union took over Berlin and the Baltic states under Stalin, the Communist Orgy is once again popular in Central Europe and most of the Nordic Blonde offsprings also died off from GERM. Hence the term GERM-MANIC or the Fear of Germ was invented by the Latin doctors to label of the people living North of the Swiss Alps.
+
+![Lenin Return To Russia from Switzerland to Spread GERMS](https://storage.googleapis.com/spykman-world/lenin-return-from-switzerland-to-russia-to-spread-germs.png)
+
+While most the weapons of World War 1 and 2 like Riffles, Artilery and Explosion do not instantly kill a soldier, being tranfused with a wrong Blood type,  swallowed a poison pill or injected with poision would cause the most dead in Europe and Asia. Hence the Red Cross has become the most effective tool to kill during the World Wars and after the World Wars.
 
 ![Human Gene Pool Management](https://storage.googleapis.com/spykman-world/human-gene-pool-management.png)
 
@@ -89,6 +92,8 @@ The GERM spreading via the Communist Orgy promoted by LENIN was so effective tha
 ![Dahua Camera](https://storage.googleapis.com/spykman-world/dahua-done-with-tpbank.png)
 
 ![Tien Phong Bank](https://storage.googleapis.com/spykman-world/tienphong-bank.png)
+
+![Pharma City Poison Med](https://thanhnien.mediacdn.vn/Uploaded/dieutrang-qc/2022_03_18/pharmacity-1-9330.jpg)
 
 ![Hanoi Public Security Cop Becoming Salmon Feed](https://storage.googleapis.com/spykman-world/Sapa%20Salmon.png)
 
