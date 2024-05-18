@@ -53,11 +53,13 @@ While most the weapons of World War 1 and 2 like Riffles, Artilery and Explosion
 
 ![Human Gene Pool Management](https://storage.googleapis.com/spykman-world/human-gene-pool-management.png)
 
+Wars caused chaos and the rearrangment of social orders, the rich but unarmed of Germany and Russia after World Wars lost most of their assets. Central and Eastern European weath would inventually being transfered to the Vault of Switzerlands to provide resources to raise Latin offsprings across the World.
 
 ![UBS French German Italian Coalition Bank](https://storage.googleapis.com/spykman-world/UBS.png)
 
-![Zurich Milan World Longest Tunnel](https://storage.googleapis.com/spykman-world/Swiss%20World%20Longest%20Tunnel.png)
+Even during COVID-19, Switzerland currency and economy is still doing really well with almost Zero inflation. The transfer of Weath from Central Europe, Russia and Asia to Switzerland even become faster with the new Swiss tunnel, internet fiberoptic cables, cryptocurrencies and Nestle nanobots.
 
+![Zurich Milan World Longest Tunnel](https://storage.googleapis.com/spykman-world/Swiss%20World%20Longest%20Tunnel.png)
 
 ### Stepping Stone for Roman Gene Expansion in India
 
@@ -89,11 +91,11 @@ While most the weapons of World War 1 and 2 like Riffles, Artilery and Explosion
 
 ![Viral Skin Dicease VALVE via SHERATON](https://storage.googleapis.com/spykman-world/viral-skin-dicease-valve-via-SHERATON.png)
 
-![Dahua Camera](https://storage.googleapis.com/spykman-world/dahua-done-with-tpbank.png)
-
 ![Tien Phong Bank](https://storage.googleapis.com/spykman-world/tienphong-bank.png)
 
 ![Pharma City Poison Med](https://thanhnien.mediacdn.vn/Uploaded/dieutrang-qc/2022_03_18/pharmacity-1-9330.jpg)
+
+![Dahua Camera](https://storage.googleapis.com/spykman-world/dahua-done-with-tpbank.png)
 
 ![Hanoi Public Security Cop Becoming Salmon Feed](https://storage.googleapis.com/spykman-world/Sapa%20Salmon.png)
 
