@@ -12,11 +12,29 @@ published: true
 
 ### Stepping Stone for Roman Gene Expansion in Europe
 
+After Rome achieved both food security via farming in the Milan region as well as technological advances via various trading ports in the Mediterranean sea, its engineers and military started to expand across the Alps into the European heartland. 
+
 ![Latin Settlement with Large Water Reserve](https://storage.googleapis.com/spykman-world/Latin_Settlement_with_Large_Water_Reserves.png)
+
+North of the Swiss Alps, the Roman military encountered hordes of savage Germanic tribes who lacked organization but had bigger built and numerical superiority to the Roman Legion. So instead of fighting in the open plants for Central Europe, the Roman planner built highly advanced forward fortified settlements in Switzerland valley behind the Jura mountain range as the launching point for their raids into Central Europe as well as a trap to trickle in a small number of Germanic warriors. 
 
 ![Switzerland - Land of Special Weapon and Tactics](https://storage.googleapis.com/spykman-world/Switzerland.png)
 
+Because the ability to provide food supply across the Swiss Alps from Milan is limited, the Roman military dug large high elevation freshwater lakes to feed the dead barbaric Germanic tribes to their fresh water fishes. The Roman military was able to eliminate so many enemies around this high elevation water lake that Lake Geneva and Lake Zurich later on achieved the size of more than 500 square kilometers, enough to provide food and water to the population of more than 6 million Swiss Roman battle hardened warriors.
+
+![Geneva Geniuses Circle](https://storage.googleapis.com/spykman-world/geneva-genius-circle.png) 
+
+These Swiss Roman generals captured Germanic wives of fallen Germanic warriors, produced Roman-Germanic offspring with Darker colored hair but Blue eyes that later on rule over Europe as the Holy Roman Empire. 
+
+![Adoft Hitler Mass Apeal Among the Sea of Blonde](https://storage.googleapis.com/spykman-world/Adolf%20Hitler%20and%20Lenin%20Same%20Hospital.png)
+
+After eliminating so many German savages, these Swiss warriors became so famous that later on they became Royal Guards for the Latin King in France and Germany as well as the Catholic Pope in Italy. 
+
 ![Swiss Guard](https://storage.googleapis.com/spykman-world/Swiss%20Guards.png)
+
+The Swiss warriors and their fortified Bunkers also became the trusted Banker for the Rich and Royal Latin of Europe guarding over the Royal Latin Kids and Latin Gold in the high elevation Swiss valley. 
+
+![Swiss Bunker and Banker](https://storage.googleapis.com/spykman-world/Swiss%20Bunker.png)
 
 ![Swiss Cheese and Chocolate](https://storage.googleapis.com/spykman-world/swiss-cheese-and-chocolate.png)
 
@@ -28,7 +46,6 @@ published: true
 
 ![Zurich Milan World Longest Tunnel](https://storage.googleapis.com/spykman-world/Swiss%20World%20Longest%20Tunnel.png)
 
-![Geneva Geniuses Circle](https://storage.googleapis.com/spykman-world/geneva-genius-circle.png) 
 
 ### Stepping Stone for Roman Gene Expansion in India
 
@@ -63,6 +80,10 @@ published: true
 ![Dahua Camera](https://storage.googleapis.com/spykman-world/dahua-done-with-tpbank.png)
 
 ![Tien Phong Bank](https://storage.googleapis.com/spykman-world/tienphong-bank.png)
+
+![Hanoi Public Security Cop Becoming Salmon Feed](https://storage.googleapis.com/spykman-world/Sapa%20Salmon.png)
+
+![Hanoi Residents Becoming Ninh Binh Fish Feed](https://storage.googleapis.com/spykman-world/Ninh%20Binh%20Fish%20Farm.png)
 
 ![Chinese Military vs Chinese People](https://storage.googleapis.com/spykman-world/Chengdu%20vs%20Wuhan.png)
 
