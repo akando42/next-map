@@ -6,6 +6,8 @@ path: "/french-doctor-global-influence-via-gene-selection"
 cover: "content/posts/05-19/Nestle.png"
 date: "05-19"
 title: "Latin Doctor Global Influences via Gene Injection"
+summmary: "When a biological organism be able to find a way to expand its genetics footprint by comsuming their ecosystem competitors, that
+biological organism will end up dominating its ecosystem."
 tags: ['Italia', 'France', 'United States', 'Switzerland', 'Pakistan', 'India', 'China', 'Vietnam', 'Laos', 'Cambodia', 'North Korea','GeoGenetics', 'Spykman World'] 
 published: true
 ---
