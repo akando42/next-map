@@ -85,7 +85,7 @@ Even during COVID-19, Switzerland currency and economy is still doing really wel
 
 ![North Korea Ballistic Missile Program](https://storage.googleapis.com/spykman-world/north-korean-french-german-rocket-program.png)
 
-![UBS attacks on Nomura](https://storage.googleapis.com/spykman-world/UBS_attack_on_Nomura.png)
+![UBS attacks on Nomura](https://storage.googleapis.com/spykman-world/north-korea-heavy-water-injection.png)
 
 ![Hanoi Hotel HH Heavy Water Injection](https://storage.googleapis.com/spykman-world/hanoi-heavy-water-injection.png)
 
