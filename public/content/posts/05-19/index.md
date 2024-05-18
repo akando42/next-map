@@ -26,7 +26,11 @@ Because the ability to provide food supply across the Swiss Alps from Milan is l
 
 ![Geneva Geniuses Circle](https://storage.googleapis.com/spykman-world/geneva-genius-circle.png) 
 
-These Swiss Roman generals captured Germanic wives of fallen Germanic warriors, produced Roman-Germanic offspring with Darker colored hair but Blue eyes that later on rule over Europe as the Holy Roman Empire. 
+The processed food of Cheese and Chocolate was a particular effective weapon via poisoning of the Swiss military. They can just invite the Germanic couple in sitting down for a friendly meal and easily eliminate the fiercest warriors from the tribe.  
+
+![Swiss Cheese and Chocolate](https://storage.googleapis.com/spykman-world/swiss-cheese-and-chocolate.png)
+
+These Swiss Roman generals then captured Germanic wives of fallen Germanic warriors, produced Roman-Germanic offspring with Darker colored hair but Blue eyes that later on rule over Europe as the Holy Roman Empire. 
 
 ![Adoft Hitler Mass Apeal Among the Sea of Blonde](https://storage.googleapis.com/spykman-world/Adolf%20Hitler%20and%20Lenin%20Same%20Hospital.png)
 
@@ -38,11 +42,14 @@ The Swiss warriors and their fortified Bunkers also became the trusted Banker fo
 
 ![Swiss Bunker and Banker](https://storage.googleapis.com/spykman-world/Swiss%20Bunker.png)
 
-![Swiss Cheese and Chocolate](https://storage.googleapis.com/spykman-world/swiss-cheese-and-chocolate.png)
+After the discovery of bloodtype in 1900 by another Black Hair Blue Eye doctor in the Swiss Alps, the Latin gene once again meet up and devise a plan to expand their Gene beyond Western and Central Europe toward the East. This time instead of just Chocolate and Cheese, they will use a brand new tool developed by their Bio Engineer, GERM. 
 
 ![Lenin Return To Russia from Switzerland to Spread GERMS](https://storage.googleapis.com/spykman-world/lenin-return-from-switzerland-to-russia-to-spread-germs.png)
 
+The GERM spreading via the Communist Orgy promoted by LENIN was so effective that most of Ghenis Khan offspings in Eastern Europe was dead by the end of World War 1 and World War 2. And after the Soviet Union took over Berlin and the Baltic states under Stalin, the Communist Orgy is once again popular in Central Europe and most of the Nordic Blonde offsprings also died off from GERM. Hence the term GERM-MANIC or the Fear of Germ was invented by the Latin doctors to label of the people living North of the Swiss Alps.
+
 ![Human Gene Pool Management](https://storage.googleapis.com/spykman-world/human-gene-pool-management.png)
+
 
 ![UBS French German Italian Coalition Bank](https://storage.googleapis.com/spykman-world/UBS.png)
 
