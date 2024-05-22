@@ -10,15 +10,18 @@ tags: ['China','United States','European Union','Age of Empires','Spykman World'
 published: true
 ---
 ### Qin Dynasty and The Founding of United China
-The valley of Xian was the birthplace of modern china. 
 
-![Qin Shi Huang Upstart Delta](content/posts/06-01/qin_shi_huang_startup_delta.png)
+The valley of Xian was the birthplace of modern China. The valley does look like the mother womb with one way in and plenty of water supply from the Weihe River, the largest tributary of the Yellow River but without the high speed current and flooding from the Yellow River. 
 
-The valley does look like the mother womb with one way in and plenty of water supply from the Weihe River, the largest tributary of the Yellow River but without the high speed current and flooding from the Yellow River. (maybe)
+![China Main Delta](https://storage.googleapis.com/spykman-world/China%20Main%20Delta.png)
 
 The geographical position of the Qin dynasty allowed it to have a small advantage at the beginning of the Warring period in consolidating resources and manpowers while only having to fight a single front war. 
 
+![The SiAN Valley](https://storage.googleapis.com/spykman-world/Xian%20Valley.png)
+
 Xian elevation of 405 meters above sea level also gave it major advantages in defending its territory. Sitting on its medium size delta but large enough to feed an upstart nation, Qin Shi Huang exhausts armies after armies at the time of foot soldiers and horses before launching a major offensives taking over the majority of modern China. 
+
+![Qin Shi Huang Upstart Delta](content/posts/06-01/qin_shi_huang_startup_delta.png)
 
 Even though the Qin dynasty only lasted for 15 years, it was able to introduce a single unified currencies, weights, measures and writing systems for newly acquired territories. 
 
