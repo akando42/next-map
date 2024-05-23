@@ -1,7 +1,7 @@
 ---
 zoom: 16
-lat: 21.024291845785438
-lng: 105.84105949524307
+lat: 54.98562761702046
+lng: 82.91369228953161
 path: "/one_single_god_and_its_poweful_magnetism"
 cover: "content/posts/03-31/geogenetics-communism-and-the-reinvention-of-god-6-le-minus-6.png"
 date: "03-31"
