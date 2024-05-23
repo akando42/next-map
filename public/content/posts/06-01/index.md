@@ -23,11 +23,17 @@ Xian elevation of 405 meters above sea level also gave it major advantages in de
 
 ![Qin Shi Huang Upstart Delta](content/posts/06-01/qin_shi_huang_startup_delta.png)
 
-Even though the Qin dynasty only lasted for 15 years, it was able to introduce a single unified currencies, weights, measures and writing systems for newly acquired territories. 
+Even though the Qin dynasty only lasted for 15 years, Qin-invented Injection Molding method has enabled the empire to mass manufacturing its weapons and currency hence unifying the Yellow-Yangzte river delta under a single currency, weight, measure and writing systems. 
+
+![Qin Injection Molding Arrow Head](https://storage.googleapis.com/spykman-world/mass_manufacturing_qin_arrow_head.png)
 
 With a single collaboration protocol, Qin dynasty was able to direct resources across its newly consolidated but fragile empire to go after few single infrastructure projects like the Great Wall of China to fortify the Northern front and the Lingqu Canal connecting Yangtze River and the Pearl River to enable continuous offensive campaigns toward the South. 
 
+![Highway and Territorial Divider](https://storage.googleapis.com/spykman-world/high_way_and_territorial_divider.png)
+
 With existing infrastructures of information and transportation built under Qin Shi Huang, the multi-ethnics and multilingual fragmented warring states of China was replaced by a single concept of Han ethnics and Han language.  
+
+![]()
 
 ### US Dollar and The Founding of United States of America
 
