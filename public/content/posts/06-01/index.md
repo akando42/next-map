@@ -33,7 +33,7 @@ With a single collaboration protocol, Qin dynasty was able to direct resources a
 
 With existing infrastructures of information and transportation built under Qin Shi Huang, the multi-ethnics and multilingual fragmented warring states of China was replaced by a single concept of Han ethnics and Han language.  
 
-![]()
+![Major Delta of Southern China](https://storage.googleapis.com/spykman-world/viet-nhat-han.png)
 
 ### US Dollar and The Founding of United States of America
 
