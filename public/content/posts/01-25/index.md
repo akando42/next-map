@@ -116,7 +116,7 @@ Ho Chi Minh brought knowledge and enlightenment to every Vietnamese by teaching 
 
 Even though the Thai alphabet is basing on a Sanskrit system that is closely related to Cambodia, Laos, Myanmar and Indian alphabet, the strange thing is that it is also a phoenetic alphabet not like Han Chinese and Japanese alphabet which are logogram. A phoenetic alphabet based on sound could be adapted to use in a different spoken languages while the logogram alphabet based on visual diagram could only be used for that inventor of the logogram alphabet. So either Sanskrit alphabet inventors and the Latin alphabet inventors have the same mindsets or Sanskrit and Latin were invented by the same group of people for diffierent purposes. Both India and South East Asian countries were totally colonized while China and Japan were not. So maybe Latin or Sankrit were all invented by the European planners. 
 
-![Bua Sang](/content/posts/01-25/breakfast.png)
+![Bua Toi](https://storage.googleapis.com/spykman-world/chinese_language_is_visual_while_vietnamese_and_thai_is_not.png)
 
 The Bhumibol water reservoirs and six other water reservoirs in the North and South West regions of Thailand offered food, water and energy security for the growth of Thai population while their neighbor in the East, Vietnam experienced constant bombardments and wars from 1945 to 1990. The Bhumibol Dam could also be the last resort military defensive water bomb from any Burmese invading armies from the West just like the Hoover Dam. 
 
