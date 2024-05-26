@@ -43,24 +43,40 @@ With the leading edge advances in shipbuilding, mapping and ocean navigation, th
 
 After the Anglo-Spanish war of 1762, The British and Portugal victory enabled them to have a larger share of the American continent and established the modern day United States in North America and Brazil in South America. 
 
+![British Portugal Ocean Exploration Coalition](https://storage.googleapis.com/spykman-world/British_Portugal_Ocean_Exploration_Coalition.png)
+
 The British navy enabled the British Crown to protect the sea lane connecting the Island of 
 Britain with the North Atlantic coastline of the American continent and establishing shorter and less vulnerable trade routes with its colonies than the Spanish and the French. 
 
+![British Shorter Faster Sail vs Spanish Longer Slower Sail](https://storage.googleapis.com/spykman-world/British_Shorter_Faster_Sail_vs_Spanish_Longer_Slower_Sail.png)
+
 By continuously supplying its 13 colonies with fresh explorers and ammunition as well as establishing a positive cycle of trading with its 13 colonies, the business of colonizing the massive North America landscape became extremely profitable. 
+
+![British Production Trade vs Spanish Resource Trade](https://storage.googleapis.com/spykman-world/British_Production_Trade_vs_Spanish_Resource_Trade.png)
 
 The colonial population grew from about 2,000 to 2.4 million between 1625 and 1775, displacing Native Americans. Large part of this increase in Colonial population comes from African slaves being shipped from Africa to North America for labor. 
 
+![African Slaves Working in Cotton Farm](https://storage.googleapis.com/spykman-world/British_Crave_of_New_Clothes_From_African_Cotton_Trade.png)
+
 The African slaves population separated from their tribes, with little ability to organize and collaborate now working in a strange new land that they have no knowledge of terrain or navigation would make a more obedient worker population than the hostile redskin Native American. 
+
+![Native American War with European Colonial Power](https://storage.googleapis.com/spykman-world/native_american_war_with_european_colonial_power.png)
 
 And then in 1775, with the help from the previously defeated French navy, a British general George Washington started a coup in the yet still far-away 13 colonies of Britain and established the independent United States of America. 
 
-The independence of the United States of America from the British Crown started the decolonization process around the globe and the de-hostilization among non-English speakers in the American colonies. 
+![George Washington Coup in American British Colony](https://storage.googleapis.com/spykman-world/george_washington_face_and_dick.png)
+
+The semi-independence of the United States of America from the British Crown started the English populization as the Colonial languages for all North America, India, Malaysia, Singapore, Philipine and Australia, a human resources first natural resources second hand-off approach to British colonial management. 
+
+![British Hand Off Approach to Colonial Management](https://storage.googleapis.com/spykman-world/English_As_Official_Language_Map.png)
 
 The eloquent piece of American declaration of independence is being copied and reprinted around the globe in English and translated into different languages. American English is now cool even to the defeated Spanishes, the African slaves or the Native American chieftains. 
 
-After the American independence from the British empire, now they can trade with all European colonial powers and accept immigrants from all European countries, not just Britain and her allies. 
+![American Declaration of Independence Hand Writing](https://storage.googleapis.com/spykman-world/American_Declaration_of_Independence.png)
 
-The United State of America with a quiet North Atlantic coastline now can also use its own surplus resources toward its military and infrastructure development instead of sending it back to the British Island and funding British expeditions around the globe. 
+After the American Spin-Off from the British empire, now they can trade with all European colonial powers, accept immigrants from all European countries, not just Britain and her allies. The United State of America with a quiet North Atlantic coastline now can also use its own surplus resources toward its military and infrastructure development to expand toward the West while British Empire expanding toward the East.  
+
+![East Facing Statue of Liberty](https://storage.googleapis.com/spykman-world/east_facing_statue_of_liberty.png)
 
 The expansion of American territorial from 1st first 13 East Coast colonies toward the entire modern United States spanning from the North Atlantic to the North Pacifics go hand in hand with large influx of European migrants, the massive increase in number of Mustang horse population, a single common US currency for all colonies and the construction of the first transcontinental railroad connecting US Eastcoast to San Francisco, California.
 
@@ -68,7 +84,11 @@ The expansion of American territorial from 1st first 13 East Coast colonies towa
 
 Within 150 years or 3 generations of migrants, the US economy would grow from a tributary colony to the largest economy in the world prior to World War 1. During WW1 and WW2, even more talented scientists, doctors and wealthy families fleeing the destruction of wars in Europe, migrating to the United States like Albert Einstein or Nicholas Tesla. 
 
+![World Highest Productivity Federation](https://storage.googleapis.com/spykman-world/world_highest_productivity_federation.png)
+
 And after the defeat of Japan in the battle for the Pacifics, the US currency became the foundation of global modern finance. Every move from the FED chairman would set the rhythm for the entire global economy. 
+
+![FED Control Global Cost of Living](https://storage.googleapis.com/spykman-world/FED_Chairman_Control_Vietnamese_Cost_of_Living.png)
 
 ### The Founding of EU, The EURO and European Central Bank
 
