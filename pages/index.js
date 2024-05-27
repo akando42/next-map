@@ -73,7 +73,6 @@ export default class Main extends Component {
   async zoomOut(){
      console.log("Zooming Out")
   }
-  
  
   componentDidMount(){}
 
