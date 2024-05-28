@@ -110,13 +110,7 @@ Both Napoleon and Hitler were failed at uniting Europe into a single union using
 
 European countries can not erase their thousand year history of conflicts, cultures, languages and traditions like the way Qin Shi Huang did and Hitler tried to do via their book burning campaigns. All European countries can not have a common history and a common identity like the way Han Chinese and Americans have even though a few generations ago they were very distinct ethnics groups. Things were always impossible until it got done the first time.
 
-Even though European have their differences, they were also advanced economies with access to high value products being built using the same common inputs: 
-
-- High density energy sources like coal, oil, gas and nuclear materials. 
-- Highly refined material sources like cotton, steel, carbon fiber. 
-- High protein food sources like beef, salmon and soybean. 
-- Highly clean water and air. 
-- Highly specialized training in Science, Medicine and Finance. 
+Even though European have their differences, they were also advanced economies with access to high value products being built using the same common inputs: high density energy sources like coal, oil, gas and nuclear materials, highly refined material sources like cotton, steel, carbon fiber, high protein food sources like beef, salmon and soybean, highly clean water and air, highly specialized training in Science, Medicine and Finance. 
 
 The cars could have different brands but also run on the same gasoline, the clothes could look different but they are made from cotton, the meat could be cooked differently but they all need to be made from healthy well fed cattles. 
 
@@ -130,7 +124,7 @@ By the 1980, Germany and Japan once again became top economies in the world with
 
 European Union citizens also have access to much more energy per capita than in other areas in the world thanks to their proximity to the Middle East oil fields, and the multi-nations research and development of Nuclear Energy. By 1986, the majority of France's energy production came from Nuclear power plants. 
 
-![EU Bright City States](content/posts/06-01/city_states_of_europe.png)
+![EU Bright City States](/content/posts/06-01/city_states_of_europe.png)
 
 After defeating a common enemy, the SoViet Union in 1990s, European Union become an even stronger Union with the creation of the EURO, a common currency for all EU members in 1992 and the creation of a no-border check Schengen Area. 
 
@@ -144,7 +138,7 @@ The European Union also has their Qin Shi Huang megastructure project type with 
 
 The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
 
-![Large Hadron Collider](content/posts/06-01/geneva_ia.png)
+![Large Hadron Collider](/content/posts/06-01/geneva_ia.png)
 
 However, is the EU a perfect union like the US or China? European councils did not have the same level of control over local economies as the US Fed or China Central Bank so will the EU Bonds will ever be as reliable as the US Treasury Bond or China Real Estate. 
 
