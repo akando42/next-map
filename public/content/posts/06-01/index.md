@@ -112,6 +112,8 @@ European countries can not erase their thousand year history of conflicts, cultu
 
 Even though European have their differences, they were also advanced economies with access to high value products being built using the same common inputs: high density energy sources like coal, oil, gas and nuclear materials, highly refined material sources like cotton, steel, carbon fiber, high protein food sources like beef, salmon and soybean, highly clean water and air, highly specialized training in Science, Medicine and Finance. 
 
+![European Highly Advanced and Refined Input](https://storage.googleapis.com/spykman-world/eu_highly_advanced_refined_input.png)
+
 The cars could have different brands but also run on the same gasoline, the clothes could look different but they are made from cotton, the meat could be cooked differently but they all need to be made from healthy well fed cattles. 
 
 This common high standard of living across majority of European Union did not happen overnight after the carpet bombing and destruction of World War 2. After WW2, West Germany and France led the reconstruction of European countries but this time the tank and plane assembly lines were replaced by the BMW and Mercedes car assembly lines. 
