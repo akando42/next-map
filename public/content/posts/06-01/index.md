@@ -94,15 +94,23 @@ And after the defeat of Japan in the battle for the Pacifics, the US currency be
 
 During WW2, only 3 countries had a functional war economy: Germany, Japan and the United States while every other country was the battlefields or colonial resource extraction sites. 
 
+![Mitsubishi Airplane Assembly Line](https://storage.googleapis.com/spykman-world/1941_Mitsubishi_Assembly_Line.png)
+
 The war economy production of nazi germany for the first time create a large scale multi-countries resource pooling for heavy industry manufacturing from all German occupied countries. 
 
+![BMW Airplane Assembly Line](https://storage.googleapis.com/spykman-world/1942_BMW_Assembly_Line.png)
+
 With the European Coal and Steel Community founded in 1951 and the European Atomic Energy Community in 1957, French and German leaders were trying to recreate the scale of a War Economy during peacetime in Europe. 
+
+![EURO Atomic Energy Treaty](https://storage.googleapis.com/spykman-world/ROME_1957_EURO_ATOM_Treaty.png)
 
 Both Napoleon and Hitler were failed at uniting Europe into a single union using brute force like the way things have always been done over previous centuries. Will the paper and pen contractual approach be able to glue the European Union of multi-ethnics, mult-linguals countries together. 
 
 ![Roman Way of Governing Expansion](content/posts/06-01/1st_2nd_3rd_Roman_Empire.png)
 
 European countries can not erase their thousand year history of conflicts, cultures, languages and traditions like the way Qin Shi Huang did and Hitler tried to do via their book burning campaigns. All European countries can not have a common history and a common identity like the way Han Chinese and Americans have even though a few generations ago they were very distinct ethnics groups. Things were always impossible until it got done the first time.
+
+![Mr Robot Erase All Debts like Hitler and Qin Shi Huang erased all written history and rewrite it](https://storage.googleapis.com/spykman-world/mr_robot_erase_all_debts.png)
 
 Even though European have their differences, they were also advanced economies with access to high value products being built using the same common inputs: 
 
