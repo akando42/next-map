@@ -134,11 +134,17 @@ Goods can travel freely within EU member states with no tariff, and energy can b
 
 Now  university researchers, doctors, engineers and businessmen can use the internet for knowledge sharing and trades. And then meet up in person via a few hours car or train trip to collaborate and close deals. Experimental components could be shipped from one country to another without delays or extra fees. 
 
+![Jason Bourne](https://storage.googleapis.com/spykman-world/jason-bourne-an-a-friend-driving-across-european-union-border.png)
+
 The European Union also has their Qin Shi Huang megastructure project type with the construction of The Large Hadron Collider, the largest machine built by humans on earth. The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
 
 ![Large Hadron Collider](/content/posts/06-01/geneva_ia.png)
 
 However, is the EU a perfect union like the US or China? European councils did not have the same level of control over local economies as the US Fed or China Central Bank so will the EU Bonds will ever be as reliable as the US Treasury Bond or China Real Estate. 
 
+![Hungary Block Military Aid to Ukraine](https://storage.googleapis.com/spykman-world/Hungary_Block_Military_Aid_to_Ukraine.png)
+
 EU member states will not likely invade each others but will they launch nuclear weapons or fight as a well integrated forces in the face of outside aggression. The European paper and pen Union still look quite fragile in the case of member state default or invasion.
+
+![EU Resistance to Russia Look Fragile](https://storage.googleapis.com/spykman-world/EU_Resistance_To_Russia_Look_Fragile_With_Upcoming_US_Election.png)
 
