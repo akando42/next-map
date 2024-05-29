@@ -96,9 +96,7 @@ During WW2, only 3 countries had a functional war economy: Germany, Japan and th
 
 ![Japan Mitsubishi Assembly Line](https://storage.googleapis.com/spykman-world/1941_Mitsubishi_Assembly_Line.png)
 
-The war economy production of nazi germany for the first time create a large scale multi-countries resource pooling for heavy industry manufacturing from all German occupied countries.
-
-With the European Coal and Steel Community founded in 1951 and the European Atomic Energy Community in 1957, French and German leaders were trying to recreate the scale of a War Economy during peacetime in Europe. 
+The war economy production of nazi germany for the first time create a large scale multi-countries resource pooling for heavy industry manufacturing from all German occupied countries. With the European Coal and Steel Community founded in 1951 and the European Atomic Energy Community in 1957, French and German leaders were trying to recreate the scale of a War Economy during peacetime in Europe. 
 
 ![EURO Atomic Energy Treaty](https://storage.googleapis.com/spykman-world/ROME_1957_EURO_ATOM_Treaty.png)
 
@@ -114,31 +112,29 @@ Even though European have their differences, they were also advanced economies w
 
 ![European Highly Advanced and Refined Input](https://storage.googleapis.com/spykman-world/eu_highly_advanced_refined_input.png)
 
-The cars could have different brands but also run on the same gasoline, the clothes could look different but they are made from cotton, the meat could be cooked differently but they all need to be made from healthy well fed cattles. 
+The cars could have different brands but also run on the same gasoline, the clothes could look different but they are made from cotton, the meat could be cooked differently but they all need to be made from healthy well fed cattles. This common high standard of living across majority of European Union did not happen overnight after the carpet bombing and destruction of World War 2. After WW2, West Germany and France led the reconstruction of European countries but this time the tank and plane assembly lines were replaced by the BMW and Mercedes car assembly lines. 
 
-This common high standard of living across majority of European Union did not happen overnight after the carpet bombing and destruction of World War 2. After WW2, West Germany and France led the reconstruction of European countries but this time the tank and plane assembly lines were replaced by the BMW and Mercedes car assembly lines. 
+![Caribbean Sugar From US to EU](https://storage.googleapis.com/spykman-world/Caribbean_Sugar_from_US_to_EU.png)
 
-The Autobahn style highways were adopted across European countries. From 1960 to 1980, we saw an explosion of personal freedom and mobility across US, Western Europe and Japan with the adoption of cars as personal vehicles for every common man and woman. 
+The Autobahn style highways were adopted across European countries. From 1960 to 1980, we saw an explosion of personal freedom and mobility across US, Western Europe and Japan with the adoption of cars as personal vehicles for every common man and woman. High level of personal mobility via highway system and high car ownership helps European nations and US to out maneuver and compete with a more rigid model of the So Viet Union. 
 
-High level of personal mobility via highway system and high car ownership helps European nations and US to out maneuver and compete with a more rigid model of the So Viet Union. 
+![Cheap Car At No Speed Limit](https://storage.googleapis.com/spykman-world/Cheap_Car_At_No_Speed_Limit.png)
 
-By the 1980, Germany and Japan once again became top economies in the world with car brands like BMW, Mercedes, Toyota, Nissan, Suzuki, Mazda and Honda running everywhere on American, European and even Russian highways. 
-
-European Union citizens also have access to much more energy per capita than in other areas in the world thanks to their proximity to the Middle East oil fields, and the multi-nations research and development of Nuclear Energy. By 1986, the majority of France's energy production came from Nuclear power plants. 
+By the 1980, Germany and Japan once again became top economies in the world with car brands like BMW, Mercedes, Toyota, Nissan, Suzuki, Mazda and Honda running everywhere on American, European and even Russian highways. European Union citizens also have access to much more energy per capita than in other areas in the world thanks to their proximity to the Middle East oil fields, and the multi-nations research and development of Nuclear Energy. By 1986, the majority of France's energy production came from Nuclear power plants. 
 
 ![EU Bright City States](/content/posts/06-01/city_states_of_europe.png)
 
-After defeating a common enemy, the SoViet Union in 1990s, European Union become an even stronger Union with the creation of the EURO, a common currency for all EU members in 1992 and the creation of a no-border check Schengen Area. 
+After defeating a common enemy, the SoViet Union in 1990s, European Union become an even stronger Union with the creation of the EURO, a common currency for all EU members in 1992 and the creation of a no-border check Schengen Area. Now EU member citizens can spend their common currency anywhere within the Schengen Area, use the same driver license to travel to other EU member countries, work, buy houses and retire anywhere within the Schengen Area. 
 
-Now EU member citizens can spend their common currency anywhere within the Schengen Area, use the same driver license to travel to other EU member countries, work, buy houses and retire anywhere within the Schengen Area. 
+![Car Driver License Valid Across All EU Member States](https://www.consilium.europa.eu/media/pthlgbqf/schengen-in-focus.png)
 
 Goods can travel freely within EU member states with no tariff, and energy can be optimized via a common electricity grid. 
 
+![EU Common Electricity Grid and Even Connect to Ukraine During Russian Bombing](https://storage.googleapis.com/spykman-world/Russian_Power_Outage_Bombing_of_Ukraine.png)
+
 Now  university researchers, doctors, engineers and businessmen can use the internet for knowledge sharing and trades. And then meet up in person via a few hours car or train trip to collaborate and close deals. Experimental components could be shipped from one country to another without delays or extra fees. 
 
-The European Union also has their Qin Shi Huang megastructure project type with the construction of The Large Hadron Collider, the largest machine built by humans on earth. 
-
-The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
+The European Union also has their Qin Shi Huang megastructure project type with the construction of The Large Hadron Collider, the largest machine built by humans on earth. The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
 
 ![Large Hadron Collider](/content/posts/06-01/geneva_ia.png)
 
