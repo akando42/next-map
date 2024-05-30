@@ -138,7 +138,7 @@ Now  university researchers, doctors, engineers and businessmen can use the inte
 
 The European Union also has their Qin Shi Huang megastructure project type with the construction of The Large Hadron Collider, the largest machine built by humans on earth. The Large Hadron Collider is so massive that it crosses the border of two countries: France and Switzerland and becomes a brain magnet that attracts the best minds in particle physics, engineering and tunnel building from all around the globe to work in Europe. 
 
-![Large Hadron Collider](/content/posts/06-01/geneva_ia.png)
+![All International Arrivals are assumed Infiltrating Agents](https://storage.googleapis.com/spykman-world/Geneva-Infiltrating-Agent.png)
 
 However, is the EU a perfect union like the US or China? European councils did not have the same level of control over local economies as the US Fed or China Central Bank so will the EU Bonds will ever be as reliable as the US Treasury Bond or China Real Estate. 
 
