@@ -6,6 +6,7 @@ path: "/consolidation_the_inevitable_trend"
 cover: "content/posts/06-01/spykman-world-global_nomad.jpeg"
 date: "06-01"
 title: "Consolidation, The Inevitable Trend"
+summary: "Human genetic groups have became connected and intermixed than ever before with air travel, ocean containers and high speed road network. Large diverse gene coaltions formed from this transportation network. Gene groups failed to form strong coalition will end up disappear from human gene pool."
 tags: ['China','United States','European Union','Age of Empires','Spykman World','Nicholas Spykman'] 
 published: true
 ---
