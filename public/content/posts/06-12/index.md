@@ -12,6 +12,8 @@ published: true
 ## The Sunken Continent
 ![Sundaland The Sunken Continent](https://storage.googleapis.com/spykman-world/The%20Sunken%20Sundaland.png)
 
+![Bloodtype B and O Expansion via Sundaland](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20%20and%20O%20Expansion%20via%20Sundaland.png)
+
 ![Compressed Dead Trees Turn Oil and Gas](https://storage.googleapis.com/spykman-world/Compressed%20Dead%20Trees%20Turn%20OIL%20and%20GAS.png)
 
 ## The Master of Ocean Wind
@@ -27,6 +29,8 @@ published: true
 ![Philippine Flag](https://storage.googleapis.com/spykman-world/Philippine%20FLag.png)
 
 ![Three Main Islands](https://storage.googleapis.com/spykman-world/Main%20Island%20and%20Major%20Cities.png)
+
+![American Bases in Philippine](https://storage.googleapis.com/spykman-world/US-Bases-in-Philippine.png)
 
 ![American Airbase](https://storage.googleapis.com/spykman-world/American%20Airbase.png)
 
