@@ -10,11 +10,19 @@ tags: ['Philippine', 'Spain', 'United States', 'GeoGenetics', 'Spykman World', '
 published: true
 ---
 ## The Sunken Continent
+
+Man was born as the only few animals on earth that can walk for hundred of kilometer on our two legs. By walking on two legs, now our hands are free to build and use man-made tools to dominate every earth ecosystem from the high mountain of Everest to the North Pole and Australia. We only get trapped in Australia after the land bridge from Vietnam to Australia was sunken by the random earth tectonic plate movements.
+
 ![Sundaland The Sunken Continent](https://storage.googleapis.com/spykman-world/The%20Sunken%20Sundaland.png)
+
+Before the landbridge of South East Asia was sunken, the early human from Africa and Yellow River delta was able to reach Australia on foot and left many offsprings and genetic mark in this far corner of the Earth. 
+
+![Bloodtype B and O Expansion via Sundaland](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20%20and%20O%20Expansion%20via%20Sundaland.png)
+
+This seems to be misfortune from the almighty nature results in billion barrels of oil and gas reserves burried under the seabed of South East Asia. Now the South East Asian humans will not have to walk for hundred kilometers again but can move around freely on their vehicles and cook their meal cheaply from these tropical forrests compressed by deep ocean water.
 
 ![Compressed Dead Trees Turn Oil and Gas](https://storage.googleapis.com/spykman-world/Compressed%20Dead%20Trees%20Turn%20OIL%20and%20GAS.png)
 
-![Bloodtype B and O Expansion via Sundaland](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20%20and%20O%20Expansion%20via%20Sundaland.png)
 
 ## The Master of Ocean Wind
 
