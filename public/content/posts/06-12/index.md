@@ -14,6 +14,10 @@ published: true
 
 ![Compressed Dead Trees Turn Oil and Gas](https://storage.googleapis.com/spykman-world/Compressed%20Dead%20Trees%20Turn%20OIL%20and%20GAS.png)
 
+![Bloodtype B and O Expansion via Sundaland](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20%20and%20O%20Expansion%20via%20Sundaland.png)
+
+![Australian AB_Original](https://storage.googleapis.com/spykman-world/Australian%20AB_Original.png)
+
 ## The Master of Ocean Wind
 
 ![Trade Wind and Gene Influences](https://storage.googleapis.com/spykman-world/Trade%20Wind%20and%20Gene%20Influence.png)
@@ -29,6 +33,8 @@ published: true
 ![Philippine Flag](https://storage.googleapis.com/spykman-world/Philippine%20FLag.png)
 
 ![Three Main Islands](https://storage.googleapis.com/spykman-world/Main%20Island%20and%20Major%20Cities.png)
+
+![American Bases in Philippine](https://storage.googleapis.com/spykman-world/US-Bases-in-Philippine.png)
 
 ![American Airbase](https://storage.googleapis.com/spykman-world/American%20Airbase.png)
 
