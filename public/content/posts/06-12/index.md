@@ -23,16 +23,25 @@ This seems to be misfortune from the almighty nature results in billion barrels 
 
 ![Compressed Dead Trees Turn Oil and Gas](https://storage.googleapis.com/spykman-world/Compressed%20Dead%20Trees%20Turn%20OIL%20and%20GAS.png)
 
-
 ## The Master of Ocean Wind
+
+Before we invented Gasoline and the Combustion Engine, the early human was already smart enough to invent the sailboats to take advantages of free form of energy from nature to travel across lakes and ocean. Ocean travel is much more dangerous and lower throughput than through the sunken land bridge but few human tribes still make it to their Australia, New Zeland and Haiwaii. 
 
 ![Asiatic Oceanic Voyage to Australia and the Pacifics](https://storage.googleapis.com/spykman-world/Australian_Aboriginal_Sail_Boat.png)
 
+The tropical hurricanes of South East Asia are too strong for the level of ocean trades that we would see in the Mediterranean but still cannot stop the merchants from Yangzte and Yellow river delta to travel South and the merchants from Quy Nhon, Vietnam to travel West to create an ocean trade network across the sunken ocean lake of South East Asia. 
+
 ![Trade Wind and Gene Influences](https://storage.googleapis.com/spykman-world/Trade%20Wind%20and%20Gene%20Influence.png)
+
+With the Mediterranean and Baltic much calmer sea though, the Western explorers was able to develop much more advanced long distances ocean vessel and made the final genetic marks in Australia and other Pacifics islands.
 
 ![Australian AB_Original](https://storage.googleapis.com/spykman-world/Australian%20AB_Original.png)
 
+First the Hispanic Naval Colonial Empire, and later on the American naval colonial empires built mega settlements on these Pacifics Islands with the Philipines and Australia being two largest Western forward military bases in South East Asia.
+
 ![Major Cities at Night](https://storage.googleapis.com/spykman-world/Large%20Metros.png)
+
+Till the modern days, the Chinese merchants and the Hispanic explorers seem to leave the most amount of their genetic marks on the facial features of Philipine city mayors and residents.
 
 ![Major City Mayors](https://storage.googleapis.com/spykman-world/Philippine%20City%20Mayors.png)
 
@@ -56,6 +65,8 @@ This seems to be misfortune from the almighty nature results in billion barrels 
 
 ![Internet Feels like a VM](https://storage.googleapis.com/spykman-world/Internet%20Feels%20like%20a%20VM.png)
 
+![24/7 Call Center other Tracking Services](https://storage.googleapis.com/spykman-world/24_7_Call_Center_other_Tracking_services.png)
+
 ![24/7 Security Camera Monitoring](https://storage.googleapis.com/spykman-world/24_7_Security_Monitoring.jpg)
 
-![24/7 Call Center other Tracking Services](https://storage.googleapis.com/spykman-world/24_7_Call_Center_other_Tracking_services.png)
+![Autonomous Ocean Surveillance and Control Platform](https://storage.googleapis.com/spykman-world/OCEAN%20SURVEILLANCE%20and%20CONTROL%20Platform.png)
