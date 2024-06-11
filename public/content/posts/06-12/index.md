@@ -41,7 +41,7 @@ First the Hispanic Naval Colonial Empire, and later on the American naval coloni
 
 ![Major Cities at Night](https://storage.googleapis.com/spykman-world/Large%20Metros.png)
 
-Till the modern days, the Chinese merchants and the Hispanic explorers seem to leave the most amount of their genetic marks on the facial features of Philipine city mayors and residents.
+Till the modern days, the Vietnamese merchants and the Hispanic explorers seem to leave the most amount of their genetic marks on the facial features of Philipine city mayors and residents.
 
 ![Major City Mayors](https://storage.googleapis.com/spykman-world/Philippine%20City%20Mayors.png)
 
