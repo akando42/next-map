@@ -16,13 +16,13 @@ published: true
 
 ![Bloodtype B and O Expansion via Sundaland](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20%20and%20O%20Expansion%20via%20Sundaland.png)
 
-![Australian AB_Original](https://storage.googleapis.com/spykman-world/Australian%20AB_Original.png)
-
 ## The Master of Ocean Wind
+
+![Asiatic Oceanic Voyage to Australia and the Pacifics](https://storage.googleapis.com/spykman-world/Australian_Aboriginal_Sail_Boat.png)
 
 ![Trade Wind and Gene Influences](https://storage.googleapis.com/spykman-world/Trade%20Wind%20and%20Gene%20Influence.png)
 
-![Asiatic Oceanic Voyage to Australia and the Pacifics](https://storage.googleapis.com/spykman-world/Australian_Aboriginal_Sail_Boat.png)
+![Australian AB_Original](https://storage.googleapis.com/spykman-world/Australian%20AB_Original.png)
 
 ![Major Cities at Night](https://storage.googleapis.com/spykman-world/Large%20Metros.png)
 
