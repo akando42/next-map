@@ -18,6 +18,8 @@ published: true
 
 ![Trade Wind and Gene Influences](https://storage.googleapis.com/spykman-world/Trade%20Wind%20and%20Gene%20Influence.png)
 
+![Asiatic Oceanic Voyage to Australia and the Pacifics](https://storage.googleapis.com/spykman-world/Australian_Aboriginal_Sail_Boat.png)
+
 ![Major Cities at Night](https://storage.googleapis.com/spykman-world/Large%20Metros.png)
 
 ![Major City Mayors](https://storage.googleapis.com/spykman-world/Philippine%20City%20Mayors.png)
