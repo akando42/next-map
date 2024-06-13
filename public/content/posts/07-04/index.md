@@ -12,6 +12,8 @@ published: true
 ### Investing in Arrows is better than investing in Shields
 Attack surface is always huge for a person, a home or a country. Security of a person, a home or a country relies solely on defensive measures is resource intensive and ineffective. The attackers will always eventually find the chink in the armor and break through the defensive lines. 
 
+![Fighting Stance To Reduce Attack Surface](https://storage.googleapis.com/spykman-world/Fighting_Stance_to_Reduce_Attack_Surface.png)
+
 Pre-emptive attack to take out key enemy offensive capability or counter attack after successful defense to disarm or disable the enemy is necessary to have true security for a person, a home or a country.
 
 By distributing the offensive power into many soldiers instead of putting it all in a single miracle machine, military planners can maximize enemy attack surfaces while limiting their own exposure. 
