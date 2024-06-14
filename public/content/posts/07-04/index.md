@@ -16,15 +16,23 @@ Attack surface is always huge for a person, a home or a country. Security of a p
 
 Pre-emptive attack to take out key enemy offensive capability or counter attack after successful defense to disarm or disable the enemy is necessary to have true security for a person, a home or a country.
 
+![Preemptive Attack on Iran Nuclear Program](https://storage.googleapis.com/spykman-world/Securiy%20Camera%20Viruses%20Destroy%20Nuclear%20Program.png)
+
 By distributing the offensive power into many soldiers instead of putting it all in a single miracle machine, military planners can maximize enemy attack surfaces while limiting their own exposure. 
 
+![The Sinking of Yamoto](https://storage.googleapis.com/spykman-world/The%20Sinking%20of%20Yamoto.png)
+
 From the Qin crossbow that puts firepower in the hands of normal, not well trained farmers to the AK47 in Vietnam war to the Manpad Stingray in the Afghan war, history rewards leaders who can empower their common people with the ability to defend themselves and their interests.
+
+![The All Weather AK47](https://storage.googleapis.com/spykman-world/The%20All%20Weather%20AK47%20(1).png)
 
 In the battle for Ukraine, this once again proved to be true with the success of the Javelin, a portable anti-tank missile that enabled a small country like Ukraine to take out one third of all Russian tanks available for combat. 
 
 ![Anti Tank Javelin](content/posts/07-04/the_antitank_javelin.png)
 
 Without enough tanks, Russia could always continue to bombard Ukraine cities from the Air with cruise missiles and bombs but will not be able to secure the ground and capture more Ukrainian cities. 
+
+![Russian Ukranian War Battle Line](https://storage.googleapis.com/spykman-world/Russian-Ukrainian%20Battle%20Line.png)
 
 The Javelin, a Texas-made product via the combined efforts of Lockheed Martin missile division and Texas-Instruments sensors and semiconductor research department, is the Qin crossbow of the 21st century. The Javelin is also not GPS dependent like other NATO missiles so even if Russia could take out all American GPS satellites with their Mig 31 and anti-satellite missiles, the Javelin could still be operational. 
 
@@ -40,12 +48,13 @@ From the 1st research paper on The Increase in Radio Wave Diffraction via Edge C
 
 ![Stealth Technology from Research to Mass Production](content/posts/07-04/stealth_research_to_mass_production.png)
 
-The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: 
-- The Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time 
+The study of Radar wave refraction and diffraction resulted in two breakthrough military innovations: The Phased-Array-Radar mounted at the nose of Modern fighter jets to search and track up to 100 enemy air, ground and sea targets at the same time 
 
-![Active Electrically Scanned Array Radar](content/posts/07-04/scanned_array_radar.png)
+![Active Electrically Scanned Array Radar](https://storage.googleapis.com/spykman-world/Phase%20Array%20Radar.png)
 
-- The Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
+The Low-Radar signature airframe in modern Stealth fighters and bomber. The Low-Radar signature airframe results in significant less weapon payloads that a Fighter aircraft or a Bomber can carry. 
+
+![Radar Testing Facility](https://storage.googleapis.com/spykman-world/Radar%20Testing%20Facility.png)
 
 US mass production capability and its massive annual GDP of 25000 billion dollar allows the F35 to reach their critical mass of 1000 F35 by the year 2024. 
 
@@ -68,6 +77,8 @@ Most of the F35 program Research and Development was initially done in Californi
 ![Stealth Airframe Research Center](content/posts/07-04/lockheed_skunk_works.png)
 
 The entire F35 program spreads out across the United States among 2000 plus vendors in almost every state and employs more than 500,000 American and foreign contractors in allied countries like UK, Turkey and Singapore. 
+
+![F35 Budget and Jobs By States](https://storage.googleapis.com/spykman-world/F35%20Program%20Budget%20an%20Job%20by%20State.png)
 
 However, the only Stealth fighters used offensively was the F-117 Nighthawk to evade enemy radar and take out the air defense to create holes in the air defense networks to allow non stealthy aircraft to attack. While stealth plane is almost invisible to long-range early warning L-band radar, the Yugoslavia air defense commander were able to get the missile lock on F117 using higher frequency X-band and Ku-band radar right after F117 open it weapon bay and dropped its bombs on an expected target. 
 
