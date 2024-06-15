@@ -86,7 +86,11 @@ However, the only Stealth fighters used offensively was the F-117 Nighthawk to e
 
 After the downing of F-117 during the Clinton presidency in Yugoslavia, Stealth aircrafts are no longer being used offensively during high risk missions but only conduct low risk missions, protect the US homeland and provide ground, air, sea intelligence data for US allies like Japan and the United Kingdom. 
 
+![F117 Crash Site](https://storage.googleapis.com/spykman-world/F117_crash_site.png)
+
 Su 57 is not seeing combat because there are only 11 of them, not enough to achieve Air Superiority. Su57 can not win a dogfight at 100% success rate either against older aircrafts. 200 plus Chinese J20 stealth fighters available for combat but never seen real combat, no battle experience, could also be just another weapon poster. The J20 program is part of the Aerospace and High Tech Industrial Zone of Chengdu. 
+
+![J20 Parking in Anshan Airbase](https://storage.googleapis.com/spykman-world/J20_Parking_In_Anshan_Airbase.png)
 
 All Stealth fighters from US, China, Russia are being used defensively and not conducting high risk deep penetrating missions like it was designed for with the exception of the Israel F35i version.  
 
