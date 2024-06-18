@@ -103,7 +103,11 @@ Modern destroyers with Long-range Guided Missiles and saturing surface converage
 ### The Paradigm Shifts in Defense Industry
 America and the West have major advantages in technology through early industrialization in the 17th century. Heavy industry has a slow innovation iteration cycle because of its high cost of material and machinery. It is also very difficult to keep secret any kind of heavy industry invention or innovation. 
 
+![Iran Nataz Nuclear Enrichment Facility](https://storage.googleapis.com/spykman-world/NATANZ%20Nuclear%20Enrichment%20Facility.png)
+
 This is why it is difficult to close the gap in heavy industry with the West and the UK is still holding major advantages accumulated since 1945 in Engine design and manufacturing over even the US, Russia or Asia. 
+
+![Cambridge on Both side of the Atlantics](https://storage.googleapis.com/spykman-world/Cambridge%20on%20Both%20Site%20of%20the%20Atlantics.png)
 
 The most advanced Engine is still being built first in the UK or UK-influenced American North East with the highest thrust-to-weight ratio engines being built by Pratt and Whitney of Connecticut, US for F22 and by Eurojet for the European Typhoon aircraft. 
 
