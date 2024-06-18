@@ -123,3 +123,5 @@ Other post-WW2 brand new technology areas with faster innovation iteration cycle
 
 Practical knowledge is power and the defense industry is not an exception. Weaponization of Biotech, Semiconductor and Artificial Intelligence has been done and will continue to accelerate in this 21 century. Viruses, Nanobot and Information could all become a stealthy invisible form of weapons for homeland defense and territorial expansion for any nations or corporations who hold the leading edge in these brand new paradigms. 
 
+![Nano Bot Swimming Around Human Cells](https://storage.googleapis.com/spykman-world/Nanobot%20Swimming%20Around%20Human%20Cells.png)
+
