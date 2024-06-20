@@ -18,8 +18,76 @@ export default class Map extends Component {
 
 		this.loadMap = this.loadMap.bind(this)
 		this.flyTo = this.flyTo.bind(this)
+		this.startSpinGlobe = this.startSpinGlobe.bind(this)
 
 		this.mapContainer = React.createRef();
+	}
+
+	async startSpinGlobe(myMap){
+		 // The following values can be changed to control rotation speed:
+
+		let map = myMap
+
+	    // At low zooms, complete a revolution every two minutes.
+	    const secondsPerRevolution = 60;
+	    // Above zoom level 5, do not rotate.
+	    const maxSpinZoom = 5;
+	    // Rotate at intermediate speeds between zoom levels 3 and 5.
+	    const slowSpinZoom = 3;
+
+	    let userInteracting = false;
+	    let spinEnabled = true;
+
+	    function spinGlobe() {
+	    	const zoom = map.getZoom();
+	        if (spinEnabled && !userInteracting && zoom < maxSpinZoom) {
+	            let distancePerSecond = 360 / secondsPerRevolution;
+	            if (zoom > slowSpinZoom) {
+	                // Slow spinning at higher zooms
+	                const zoomDif =
+	                    (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
+	                distancePerSecond *= zoomDif;
+	            }
+	            const center = map.getCenter();
+	            center.lng -= distancePerSecond;
+	            // Smoothly animate the map over one second.
+	            // When this animation is complete, it calls a 'moveend' event.
+	            map.easeTo({ center, duration: 1000, easing: (n) => n });
+	        }
+	    }
+        
+
+        map.on('mousedown', () => {
+        	userInteracting = true;
+    	});
+
+	    // Restart spinning the globe when interaction is complete
+	    map.on('mouseup', () => {
+	        userInteracting = false;
+	        spinGlobe();
+	    });
+
+	    // These events account for cases where the mouse has moved
+	    // off the map, so 'mouseup' will not be fired.
+	    map.on('dragend', () => {
+	        userInteracting = false;
+	        spinGlobe();
+	    });
+	    map.on('pitchend', () => {
+	        userInteracting = false;
+	        spinGlobe();
+	    });
+	    map.on('rotateend', () => {
+	        userInteracting = false;
+	        spinGlobe();
+	    });
+
+	    // When animation is complete, start spinning if there is no ongoing interaction
+	    map.on('moveend', () => {
+	        spinGlobe();
+	    });   
+
+	    spinGlobe();
 	}
 
 
@@ -41,7 +109,7 @@ export default class Map extends Component {
 	    });
 
 	    console.log(attractions);
-	    
+ 
 	    if (attractions.length > 1){
 	    	attractions.map(attraction => {
 	    		const long = attraction.lng
@@ -70,10 +138,6 @@ export default class Map extends Component {
 	        	    .addTo(map)
 		    	})
 
-
-
-	    		
-
 	    } else {
 	    	const long = attractions.lng
         	const lat = attractions.lat
@@ -86,6 +150,8 @@ export default class Map extends Component {
         	    .setLngLat([long, lat])
         	    .addTo(map)
 	    }
+
+	    this.startSpinGlobe(map)
 
 	    this.setState({
 	    	myMap: map
