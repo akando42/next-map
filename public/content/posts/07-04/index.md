@@ -6,6 +6,7 @@ path: "/stealth_the_all_eggs_in_one_basket_approach"
 cover: "content/posts/07-04/spykman-world-devil_eggs_in_one_basket.jpg"
 date: "07-04"
 title: "Stealth Technology and The Honey Pot for Foreign Spies and Investors"
+summary: "After mapping #EarthSurfaces and human #GeneGroups, the #Roman planners moved most #ImportantGenes to #IslandFortress of #NorthAmerica and #Preemptively #Attack competing genes at their water sources. With #COVID19, #NorthAmerica is no longer #Invincible."
 tags: ['United States','United Kingdom','Turkey','China','Lockheed Martin','Texas Instrument','Pratt and Whitney','Russia', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---
