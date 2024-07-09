@@ -35,3 +35,23 @@ Early Aug 1905,  they continue their trip West and navigate through the Simpson 
 Today, July 16, 2019, more than 100 years after the first passage by Edmund, the NorthWest passage still have a tremendous potential that have not been tapped into. 
 
 A direct trade route via the Northwest passage would cut distance between Rotterdam to Shanghai to less than 8000 miles instead of 10,500 mile via the Suez Canal or 13500 miles via the Panama Canal.
+
+![Tibetan East Asian In The Artics](https://storage.googleapis.com/spykman-world/artics-tibetan-east-asian-gene-expression.png)
+
+![SVALBARD VISA-FREE Treaty Island](https://storage.googleapis.com/spykman-world/svalbard_treaty_VISA_Free_island.png)
+
+![EU-RUSSIA-CHINA Alliance](https://storage.googleapis.com/spykman-world/eu-russia-china-alliance-trade-route.png)
+
+![Shanghai to Rottersdam](https://storage.googleapis.com/spykman-world/northern-sea-route-from-shanghai-to-rotterdam.png)
+
+![Japan-US-UK Alliance](https://storage.googleapis.com/spykman-world/china-us-uk-alliance-trade-route.png)
+
+![Tokyo to New York](https://storage.googleapis.com/spykman-world/nothern-sea-route-frrom-tokyo-to-newyork.png)
+
+![Russian Floating Nuclear Power Plant](https://storage.googleapis.com/spykman-world/akademik_lomomnosov_floating_nuclear_powerplant.png)
+
+![Yamal Baltics Nuclear Ice Breaker](https://storage.googleapis.com/spykman-world/yamal_nuclear_power_ice_breaker.png)
+
+![Xue Long Chinese Ukraine Ice Breakers](https://storage.googleapis.com/spykman-world/xue_long_chinese_ukrainian_ice_breakers.png)
+
+![Future Russian Pacifics Nuclear Ice Breaker](https://storage.googleapis.com/spykman-world/far_east_russian_developing_nuclear_ice_breaker.png)
