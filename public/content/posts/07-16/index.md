@@ -38,6 +38,8 @@ A direct trade route via the Northwest passage would cut distance between Rotter
 
 ![Tibetan East Asian In The Artics](https://storage.googleapis.com/spykman-world/artics-tibetan-east-asian-gene-expression.png)
 
+![Current Global Container Shipping Lane](https://storage.googleapis.com/spykman-world/current-global-containers-shipping-lanes.png)
+
 ![SVALBARD VISA-FREE Treaty Island](https://storage.googleapis.com/spykman-world/svalbard_treaty_VISA_Free_island.png)
 
 ![EU-RUSSIA-CHINA Alliance](https://storage.googleapis.com/spykman-world/eu-russia-china-alliance-trade-route.png)
