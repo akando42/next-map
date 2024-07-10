@@ -13,6 +13,8 @@ published: true
 ### From An Apple of Knowledge To A Mexican Standoff
 Why do these European countries call Eng-LAND, Switzer-LAND, Fin-LAND and Po-LAND ? And some other Central Asian countries call Turkmeni-STAN, Afghani-STAN, Uzbeki-STAN, Kyrgyz-STAN, Paki-STAN and Kazah-STAN with STAN meaning LAND in Persian. 
 
+![European Land of Specialized Experts](https://storage.googleapis.com/spykman-world/European%20Land%20of%20Specialized%20Experts.png)
+
 It is like a group of Caucasian men sitting down together in the mountain valley of Georgia in the Caucasus region after finishing the discovery of the known world and starting to re-arrange people tribes like Chess pieces into specialized regions of the World.  
 
 ![The Caucasus Secret Conference](https://storage.googleapis.com/spykman-world/the_secret_caucasian_conference.png)
