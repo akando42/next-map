@@ -29,7 +29,7 @@ The most leading edge and up to date Technical Knowledge from Computer, Electric
 
 By recruiting and moving best Scientists and Engineers from Europe and the World first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
 
-![Global Faces of MIT Students](https://storage.googleapis.com/spykman-world/global-faces-of-mit-students.png)
+![Global Faces of MIT Students](https://storage.googleapis.com/spykman-world/mit-global-faces.png)
 
 After 200 years of continuous Engineering innovation, at the beginning of 1900 with Woodrow Wilson as president of United States, two English speaking countries: US and UK, were the number one and number two economies in the world with only 160 million people total but produced 6 times the output of 900 million Indian and Chinese. The process of converting Coal and Oil into output in the Combustion Engine, West of the Caucasus was outpacing the process of converting Food and Water into output in the Human Digest System, East of the Caucasus. 
 
