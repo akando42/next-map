@@ -21,9 +21,15 @@ It is like a group of Caucasian men sitting down together in the mountain valley
 
 There is no absolute evidence that Eng-Land means the Land of Engineer but the best Engine in the World for the F22 was made in collaboration between North East American engineers and British engineers, the Nuclear Bomb was invented by British and American scientists as well as the Digital Computers. Fin-LAND has the largest ocean container fleet in the world, Po-LAND hosts the secret services of Eastern Europe and Switzer-LAND makes baby formula milk, cheese and Glock handgun. 
 
+![British ARM Architecture for All Mobile Devices](https://storage.googleapis.com/spykman-world/british-arm-architecture-for-all-mobile-device.png)
+
 The most leading edge and up to date Technical Knowledge from Computer, Electrical, Material, Chemical and Nuclear Engineering are in English. The French and the Korean Engineers who design and build Nuclear Reactors nowaday all speak English with their colleagues.
 
-By recruiting and moving best Scientists and Engineers first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
+![Internet Content by Languages](https://storage.googleapis.com/spykman-world/Internet%20Contents%20by%20Languages.png)
+
+By recruiting and moving best Scientists and Engineers from Europe and the World first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
+
+![Global Faces of MIT Students](https://storage.googleapis.com/spykman-world/global-faces-of-mit-students.png)
 
 After 200 years of continuous Engineering innovation, at the beginning of 1900 with Woodrow Wilson as president of United States, two English speaking countries: US and UK, were the number one and number two economies in the world with only 160 million people total but produced 6 times the output of 900 million Indian and Chinese. The process of converting Coal and Oil into output in the Combustion Engine, West of the Caucasus was outpacing the process of converting Food and Water into output in the Human Digest System, East of the Caucasus. 
 
