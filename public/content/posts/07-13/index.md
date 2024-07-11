@@ -145,11 +145,9 @@ The Russian & Central Asian aerospace research centers near Lake Baika are no-lo
 
 ![Ulan Ude Spacecom](https://storage.googleapis.com/spykman-world/Ulan_Ude_Space_Com.png)
 
-The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued.
+The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued. Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
 ![ANTONOV Broken Plane](https://storage.googleapis.com/spykman-world/ANTONOV_broken_plane.png)
-
-Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
 
@@ -205,29 +203,35 @@ As long as the ICBM could be intercepted before it reaches the 5 KM altitude in 
 
 The most battle hardened, highest probability of success Missile Defense System in the world is the IRON DOME of Israel. While Israel IRON DOME was not designed to intercept Nuclear ICBM but short-range missiles from their neighboring countries, it uses the same principle of early detection, precision tracking of a missile flying on a conventional ballistic trajectory. The Israel’s Missile Defense System achieved a 90% success rate and intercepted more than 3000 rockets shooting at Israelian’s cities.  
 
-![Israle Iron Dome](https://storage.googleapis.com/spykman-world/israel-iron-dome.png)
+![Israle Iron Dome](https://storage.googleapis.com/spykman-world/iron-dome-israel.png)
 
 Russia also developed and deployed their Missile Defense System around Moscow. The Moscow Missile Defense System includes 360 degree Long Range Early Warning Radar and a battery of Nuclear ICBM interceptors. 
 
 ![Moscow MISSILE DEFENSE](https://storage.googleapis.com/spykman-world/moscow_Missile_Defense.png)
 
-Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators. While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet. 
+Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators. While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet.
 
 ![Iron Dome Fragmentation Interceptor](https://storage.googleapis.com/spykman-world/iron-dome-fragmentation-interceptor.png)
 
-Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
+The American Missile Defense System like American Military Bases are forward deployed and could be used to intercept a small number of ICBMs used in accidental launches, preemptive surprise attacks or nuclear launches from small nuclear states like North Korea. America will then choose to retaliate using conventional or nuclear methods.
 
 ![Flyingdale UK Radar](https://storage.googleapis.com/spykman-world/Fylingdale_UK_Radar.png)
 
-The American Missile Defense System like American Military Bases are forward deployed and could be used to intercept a small number of ICBMs used in accidental launches, preemptive surprise attacks or nuclear launches from small nuclear states like North Korea. America will then choose to retaliate using conventional or nuclear methods.
+All Russia Missile Defense Systems are stationed only around Moscow so if an ICBM would be flying toward Moscow, their likely response would be to launch both Nuclear Interceptors and Nuclear ICBM at their adversary. Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
 
-All Russia Missile Defense Systems are stationed only around Moscow so if an ICBM would be flying toward Moscow, their likely response would be to launch both Nuclear Interceptors and Nuclear ICBM at their adversary.
+![Nuclear Warheads by Countries](https://storage.googleapis.com/spykman-world/israel_vs_major_cities.png)
 
 Besides Russia and the United States, no other nuclear nations possess the ability to detect, track and intercept an Inter Continental Ballistic Missile.  While China, India and Pakistan have many ICBMs, they would not be able to intercept incoming ICBM and will be very likely to take high casualties before they can retaliate. 
 
+![Chinese Nuclear Retaliation Option](https://storage.googleapis.com/spykman-world/jin-class-ballistic-submarine.png)
+
 So while the Missile Defense System of both United States and Russia is at its freshly deployed, simulation tested only stage, at some point in the future, if their Missile Defense System would become as good as a SWAT bullet proof jacket then United States and Russia will have incentives to use their Nuclear Weapons on foreign cities of even a nuclear power like China, India or Pakistan. 
 
+![Destroyer Intercepting Incoming](https://storage.googleapis.com/spykman-world/destroyer-intercepting-income-missile.png)
+
 At the current pace of advances of American space company like Space X, their military Missile Defense System will probably get much more precise and American military will probably can build 1000s of ICBM interceptors. 1000 plus of ICMB interceptors with 90% of more success rate will make the US military become confident enough to launch nuclear ICBM at even Moscow without worrying about American military and civilian casualty.
+
+![Space X Landing Rocket](https://storage.googleapis.com/spykman-world/space-x-landing-rocket.png)
 
 ### The Obsolescence of Nuclear Deterrence
 
@@ -241,20 +245,21 @@ Whether its first strike or second strike, a concerntration of decision making l
 ![Remote Control Human](https://storage.googleapis.com/spykman-world/neutrino_receptor_inside_an_iris.png)
 
 #### The Nuclear Winter Unproven Theory
-The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. 
 
-Without sunlights, the earth climate will become like North Pole. Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. 
-Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
+The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. Without sunlights, the earth climate will become like North Pole. 
 
-![Nuclear Winter Housing](https://storage.googleapis.com/spykman-world/nuclear_winter_housing.png)
+Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
 
 Only polar bears, penguins and the Ekimos will likely to survive the Nuclear Winter. Our civilizations will likely be set back 1000 years of progress. All of our technological development will be lost and the Eskimos will have to start up fresh and rebuild our civilization.
+
+![Nuclear Winter Housing](https://storage.googleapis.com/spykman-world/nuclear_winter_housing.png)
 
 However, the blocking out the sun theory of American scientists is more of a propaganda to threaten the Japanese economy and population  and their sun-like flag than a well grounded scientific theory. In order to recreate the Dinosour extinction event, we will need to produce the explosive power of 72 trillion TON of TNT or 205 million Minute III ICBM. That is hundred thound times larger than the entire nuclear stockpile of human kinds. 
 
 ![Dinasour Astroid Explosion](https://storage.googleapis.com/spykman-world/dinasour_astroid_72trilllion.png)
 
 #### 21 Century Human Capability to Adapt and Rebuild
+
 The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
 
 ![The Nuclear Decoys of United States](https://storage.googleapis.com/spykman-world/faces_of_us_major_cities.png)
