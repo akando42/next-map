@@ -33,15 +33,21 @@ By recruiting and moving best Scientists and Engineers from Europe and the World
 
 After 200 years of continuous Engineering innovation, at the beginning of 1900 with Woodrow Wilson as president of United States, two English speaking countries: US and UK, were the number one and number two economies in the world with only 160 million people total but produced 6 times the output of 900 million Indian and Chinese. The process of converting Coal and Oil into output in the Combustion Engine, West of the Caucasus was outpacing the process of converting Food and Water into output in the Human Digest System, East of the Caucasus. 
 
+![World First Steam Engine Train](https://storage.googleapis.com/spykman-world/1804-world-first-train-invented-in-england.png)
+
+And then in 1930, 10 years before World War 2, The Institute of Advanced Studies was founded in Princeton, New Jersey to host the best scientists in Mathematics, Natural Sciences and Social Sciences immigrated from Europe after the destruction of World War 1. 
+
 ![Institute of Advanced Studies](https://storage.googleapis.com/spykman-world/institute_of_advanced_study.png)
 
-And then in 1930, 10 years before World War 2, The Institute of Advanced Studies was founded in Princeton, New Jersey to host the best scientists in Mathematics, Natural Sciences and Social Sciences immigrated from Europe after the destruction of World War 1. 10 years laters, the three residents of these Advanced Institutes, John Von Newman, Albert Einstein and Oppenhimer contributed greatly to the Manhattan Project and the United States domination of world affairs after World War 2. 
+10 years laters, the three residents of these Advanced Institutes, John Von Newman, Albert Einstein and Oppenhimer contributed greatly to the Manhattan Project and the United States domination of world affairs after World War 2. 
 
 ![Fathers of ICBM](https://storage.googleapis.com/spykman-world/fathers_of_ICBM.png)
 
 #### The Trinity Test and The First Attempt At Manipulating Nature at Sub Atomic Level
 
 The detonation of the first Atom Bomb at the Trinity Test site is a major upgrade of the US Caucasian North Atlantics weapon arsenals in their expansion West toward East Asia and South toward Latin America. 
+
+![Trinity World First Nuclear Test](https://storage.googleapis.com/spykman-world/trinity-world-first-nuclear-test.png)
 
 From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
 
@@ -69,6 +75,8 @@ The Trinity site in New Mexico, a very strategic location, was picked by Oppenhi
 
 From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though because it was done by British and American. Thats why Uranium-based nuclear weapon research was prioritzied over Thorium-based nuclear energy research. The low fertility rate of Caucasian women makes Caucasian men religiously chose to expand their genetic footprints by eliminating males and capturing females from other cultures. Other cultures in Africa, India and Asia only need to expand their genetic footprints by keeping their women well fed and their home well lit. 
 
+![Viet Tri Roman Dome Nuclear Target](https://storage.googleapis.com/spykman-world/viet-tri-roman-dome.png)
+
 Any attempts by Non-Caucasian countries to conduct nuclear energy research and expand nuclear energy generation would be severely disrupted or limited by Caucasian countries. Nuclear power generators are very geographical independent and difficult to throttle. One can put a nuclear power generator on submarine, aircraft carrier and even plane and it would run for years. Oil and gas is concerntrated in the Middle East, Gulf of Mexico and Siberia which could be controlled and throttled by NATO or Russia. 
 
 ![Fukushima Nuclear Accident](https://storage.googleapis.com/spykman-world/Fukushima_Nuclear_Accidents.png)
@@ -81,30 +89,27 @@ Maybe the Fukushima nuclear accident was Russian-made to throttle the growth of 
 
 The V2 of Nazi Germany was the first attempt at building the Intercontinental Ballistic Missile of Caucasian scientists during World War 2. However, the  V2 missile is much more expensive to build and can not carry the same amount of payload that Russian artillery and American long range bombers can deliver on German troop formations, manufacturing facilities and major cities. 
 
-![German V2 Campaign on London](https://storage.googleapis.com/spykman-world/german_v2_campaign_on_london.png)
+![Nazi Germany V2 World First Ballistic Missile](https://storage.googleapis.com/spykman-world/nazi-germany-v2-world-first-ballistic-missile.png)
 
-After the conclusion of World War 2, many Nazi scientists who surrendered were moved to the United States, continuing to work on American weapon development programs and raising their family there. 
+After the conclusion of World War 2, many Nazi scientists who surrendered were moved to the United States, continuing to work on American weapon development programs and raising their family there. The combination of British engineers’ nuclear weapon research and German engineers’ ballistic missile research led to the development and mass production of the Nuclear Intercontinental Ballistic Missile ICBM and nuclear Submarine Launched Ballistic Missile SLBM. 
 
-The combination of British engineers’ nuclear weapon research and German engineers’ ballistic missile research led to the development and mass production of the Nuclear Intercontinental Ballistic Missile or nuclear ICBM. 
+![Polaris A2 World First SLBM](https://storage.googleapis.com/spykman-world/polaris-a2-world-first-SLBM.png)
 
 A nuclear warhead has a much higher explosive power to weight ratio than a conventional warhead and an ICBM has much higher speed and range than conventional ballistic projectiles of artillery and ariel bombers. 
 
 ![Minuteman 3 ICBM](https://storage.googleapis.com/spykman-world/minuteman_3_icbm.png)
 
-An American Minuteman III ICBM can deliver the explosive power equivalent to 350 000 TON of TNT in a 360 Kilogram warhead, can travel up to 15000 KM at the speed of up to 28000 kilometer an hour and close the distance between Hanoi and New York in 30 minutes. 
-
-The combination of explosive power, range and speed in an ICBM outperforms any weapon of war that humans ever invented. Any major city with an area less than 350 square kilometers like  Kiev, Phoenix or Seoul could be wiped out with a one single Minuteman III ICBM.
+An American Minuteman III ICBM can deliver the explosive power equivalent to 350 000 TON of TNT in a 360 Kilogram warhead, can travel up to 15000 KM at the speed of up to 28000 kilometer an hour and close the distance between Hanoi and New York in 30 minutes. The combination of explosive power, range and speed in an ICBM outperforms any weapon of war that humans ever invented. Any major city with an area less than 350 square kilometers like  Kiev, Phoenix or Seoul could be wiped out with a one single Minuteman III ICBM.
 
 ![Phoenix Urban Area](https://storage.googleapis.com/spykman-world/phoenix_urban_area.png)
 
 #### The Cold War and Mutual Assured Destruction Doctrine
+
 Oppenhimer, the father of the Atomic bomb, is a Communist sympathizer according to the FBI agents of the American government. Maybe he realized that Nuclear power and Nuclear weapons are too powerful a leverage that not a single man or a small group of people should have monopoly control of these powers. So Oppenhimer and other researchers in the Manhattan projects once again played the Prometheus role and gave the Nuclear secrets to the Soviet Union first and then France, UK, China and India. 
 
 ![Nuclear Tests Map](https://storage.googleapis.com/spykman-world/nuclear_tests_map.png)
 
-The dangerous nuclear arms race between the United States and the Soviet Union actually prevents the unrestrained usages of Nuclear Weapons by United States Armed Forces and Governments and only resulted in Nuclear Tests and Nuclear Stockpiles. 
-
-Militaries started to put nuclear detonators everywhere they could. The US and the Soviet Union developed Nuclear Bombs, Nuclear-Tipped Ballistic missiles, Nuclear Cruise Missiles, Nuclear Torpedoes, Nuclear artillery cells and even Nuclear grenade launchers.
+The dangerous nuclear arms race between the United States and the Soviet Union actually prevents the unrestrained usages of Nuclear Weapons by United States Armed Forces and Governments and only resulted in Nuclear Tests and Nuclear Stockpiles. Militaries started to put nuclear detonators everywhere they could. The US and the Soviet Union developed Nuclear Bombs, Nuclear-Tipped Ballistic missiles, Nuclear Cruise Missiles, Nuclear Torpedoes, Nuclear artillery cells and even Nuclear grenade launchers.
 
 ![Nuclear grenade launcher](https://storage.googleapis.com/spykman-world/nuclear_grenade_launcher.png)
 
