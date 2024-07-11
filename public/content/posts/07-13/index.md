@@ -155,10 +155,15 @@ Is the Soviet Union secret Endgame is to move majority of Russian abroad to West
 
 Value of an action is the total expected gain of an action based on all available possible actions that other parties in the game could take. NASH EQUILIBRIUM is achieved when all players pick their optimal actions and reach EQUILIBRIUM state when no players can gain more by changing their actions. 
 
-Military planners use NASH EQUILIBRIUM game theory in nuclear war simulation to explore enemy thinking as well as develop their own defensive and offensive plans. During the COLD WAR, the United States and Soviet Union achieved NASH EQUILIBRIUM in their nuclear strategy. 
+![Nash Equalibrium Achieved Between German, Turk and Russ](https://storage.googleapis.com/spykman-world/nash-equalibrium-achieved-between-3-competing-gene-groups.png)
 
-While dropping atomic bombs on Japan allowed the US to gain forward military bases in Asian Pacifics as well as total control of the Pacifics Ocean, nuking the Russian Armed Forces and its territories will only result in Nuclear Retaliation and no significant gains for the United States. 
+Military planners use NASH EQUILIBRIUM game theory in nuclear war simulation to explore enemy thinking as well as develop their own defensive and offensive plans. During the COLD WAR, the United States and Soviet Union achieved NASH EQUILIBRIUM in their nuclear strategy. While dropping atomic bombs on Japan allowed the US to gain forward military bases in Asian Pacifics as well as total control of the Pacifics Ocean, nuking the Russian Armed Forces and its territories will only result in Nuclear Retaliation and no significant gains for the United States.
+
+![US YOKOTA Airbase Next To Tokyo](https://storage.googleapis.com/spykman-world/yokota-airbase.png)
+
 So both the USA and USSR only do nuclear tests near their potential security threats in Central Asia, Asian Pacifics and American West Coasts to deter migrations or enemy military mobilization in these areas of the globe. Demonstration of nuclear capability also allowed the United States and Soviet Union to build their coalition with other non-nuclear nations. 
+
+![Nuclear Tests Map](https://storage.googleapis.com/spykman-world/nuclear_tests_map.png)
 
 The Nuclear Nash Equilibrium state changes when the nuclear capability of players either improves or declines or new players are introduced into the game. With the collapse of the Soviet and the decline in capability of Russian nuclear forces, the Nuclear Nash Equilibrium becomes unstable. 
 
@@ -174,9 +179,9 @@ Without the long history of family bonds and genetic fusion between Pakistan, In
 
 #### The Development of Missile Defense System
 
-The natural outcome of the fact that multiple parties possessing lethal ballistic missiles is that some parties will start to develop shields and evading mechanisms to stay alive in a ballistic missile shoot out. 
+The natural outcome of the fact that multiple parties possessing lethal ballistic missiles is that some parties will start to develop shields and evading mechanisms to stay alive in a ballistic missile shoot out. The US with the technical edges in precision missile guidance and precision radar technology started the Star War program under the Regan administration in the 1980s. The Star War program is the American attempt at intercepting an enemy Ballistic missile with their own ballistic missile. 
 
-The US with the technical edges in precision missile guidance and precision radar technology started the Star War program under the Regan administration in the 1980s. The Star War program is the American attempt at intercepting an enemy Ballistic missile with their own ballistic missile. 
+![Reagan Pitching The American Star Wars Program](https://storage.googleapis.com/spykman-world/reagan-pitching-star-wars-program.png)
 
 While a Ballistic Missile can travel very fast up to 12000 kilometers an hour, its trajectory follows the laws of physics and its path is highly predictable. With large numbers of missile launch satellite detectors orbiting the earth, the North America Aerospace Air Defense (NORAD) could detect the launch location within the first few minutes of a missile launch anywhere on earth. 
 
@@ -192,17 +197,23 @@ The satellites will then send the ICBM location to the nearest high precision gr
 
 These high precision X-Band radars and the Airforce supercomputers in California will then start to track and calculate the expected trajectory of the incoming ICBM. A launch command will be sent from the Supercomputer with human approval and an ICBM interceptor will be launched and collide with the ICBM warhead. 
 
+![Raytheon Missile Defense System](https://storage.googleapis.com/spykman-world/raytheon-missile-defense-system.png)
+
 As long as the ICBM could be intercepted before it reaches the 5 KM altitude in its terminal phase then the Nuclear Warhead will not detonate and 300 kilograms of nuclear material will just scatter in the atmosphere. 
 
+![Missile Kill Vehicle](https://storage.googleapis.com/spykman-world/missile-kill-vehicle.gif)
+
 The most battle hardened, highest probability of success Missile Defense System in the world is the IRON DOME of Israel. While Israel IRON DOME was not designed to intercept Nuclear ICBM but short-range missiles from their neighboring countries, it uses the same principle of early detection, precision tracking of a missile flying on a conventional ballistic trajectory. The Israel’s Missile Defense System achieved a 90% success rate and intercepted more than 3000 rockets shooting at Israelian’s cities.  
+
+![Israle Iron Dome](https://storage.googleapis.com/spykman-world/israel-iron-dome.png)
 
 Russia also developed and deployed their Missile Defense System around Moscow. The Moscow Missile Defense System includes 360 degree Long Range Early Warning Radar and a battery of Nuclear ICBM interceptors. 
 
 ![Moscow MISSILE DEFENSE](https://storage.googleapis.com/spykman-world/moscow_Missile_Defense.png)
 
-Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators.
+Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators. While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet. 
 
-While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles  using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet.
+![Iron Dome Fragmentation Interceptor](https://storage.googleapis.com/spykman-world/iron-dome-fragmentation-interceptor.png)
 
 Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
 
