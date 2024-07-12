@@ -248,11 +248,15 @@ Whether its first strike or second strike, a concerntration of decision making l
 
 The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. Without sunlights, the earth climate will become like North Pole. 
 
+![Blocking Out the Sun](https://storage.googleapis.com/spykman-world/blocking-out-the-sun-scare.png)
+
 Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
+
+![Nuclear Winter Housing](https://storage.googleapis.com/spykman-world/nuclear_winter_housing.png)
 
 Only polar bears, penguins and the Ekimos will likely to survive the Nuclear Winter. Our civilizations will likely be set back 1000 years of progress. All of our technological development will be lost and the Eskimos will have to start up fresh and rebuild our civilization.
 
-![Nuclear Winter Housing](https://storage.googleapis.com/spykman-world/nuclear_winter_housing.png)
+![Russian Artics Base](https://storage.googleapis.com/spykman-world/russian-artics-base.png)
 
 However, the blocking out the sun theory of American scientists is more of a propaganda to threaten the Japanese economy and population  and their sun-like flag than a well grounded scientific theory. In order to recreate the Dinosour extinction event, we will need to produce the explosive power of 72 trillion TON of TNT or 205 million Minute III ICBM. That is hundred thound times larger than the entire nuclear stockpile of human kinds. 
 
