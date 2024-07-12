@@ -3,10 +3,11 @@ zoom: 3
 lat: 11.616576336564476
 lng: 165.37722736729668
 path: "/mutual-assured-destruction-an-outdated-doctrine"
-cover: "https://storage.googleapis.com/spykman-world/spykman-world-new-era.jpg"
+cover: "content/posts/07-13/geo-genetics-new-era.jpg"
 date: "07-13"
 title: "Mutual Assured Destruction - An Outdated Doctrine"
-tags: ['Russia','United States','Israel','Iran','North Korea','Spykman World','Nicholas Spykman'] 
+summary: "Human is the only animals being able to alter and even destroy the entire #EarthEcosystem. However, the more #DangerousTools we created, the higher our #PopulationCount became for some strange reason."
+tags: ['Russia','United States','China', 'Israel','Iran','North Korea', 'Vietnam', 'Japan', 'Spykman World', 'GeoGenenetics'] 
 published: true
 ---
 
