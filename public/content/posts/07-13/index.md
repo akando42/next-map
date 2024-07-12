@@ -270,6 +270,8 @@ The Cold War and the constant nuclear threats altered the genetic makeup of US m
 
 So in the case of a major nuclear war with 100s of ICBM landed on top of American major cities, large part of American population will likely to survive the blasts. American highway networks, high car ownerships and its 90 kilometer speed limit allows Americans to get out the major city centers 60 kilometer radius within 40 minutes. 
 
+![Los Angeles High Throughout Freeway](https://storage.googleapis.com/spykman-world/los-angeles-high-throughout-freeway.png)
+
 If the ICBMs was launched at night after 6 PM Pacifics Time, most of the educated and high income families will be away in their suburban home and will not be effected lethally by the nuclear blasts and could evacuate further to the outskirts and countrysides.
 
 ![Moscow Nuke Resistant Design](https://storage.googleapis.com/spykman-world/moscow_nuke_resistant_design.png) 
