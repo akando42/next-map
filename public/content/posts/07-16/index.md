@@ -12,11 +12,53 @@ published: true
 
 Without the need for modern technological advances, the Tibetan High Mountain gene adaptation was able to allow this gene group to expand into the extreme climate condition of the Far North. Among all modern human gene groups, only the Tibetan Inuit was able to survive and settle in the Artics of Siberia and Canada with only food from Arctic animals as their sources of energy.
 
-![Tibetan East Asian In The Artics](https://storage.googleapis.com/spykman-world/artics-tibetan-east-asian-gene-expression.png)
+![The Inuit Home Land](https://storage.googleapis.com/spykman-world/the-inuit-home-land.png)
 
 However, with both the Norwegian gene adaptation and British engineering, the European High North gene groups were able to not only survive but explore every coordinate of the Arctic Ocean, build large settlements of million inhabitants, dominate the Arctic circles with their cities of light, railroads, airports, natural gas power plants and pipelines. 
 
 ![Artics Nation](https://storage.googleapis.com/spykman-world/artics-nations.png)
+
+![Mestoro Natural Gas City](https://storage.googleapis.com/spykman-world/natural-gas-city-of-mestoro-russia.png)
+
+![Sabetta Natural Gas City](https://storage.googleapis.com/spykman-world/sabetta-natural-gas-settlement.png)
+
+![Natural Gas Pipeline](https://storage.googleapis.com/spykman-world/natural-gas-pipeline.png)
+
+![Russian Floating Nuclear Power Plant](https://storage.googleapis.com/spykman-world/akademik_lomomnosov_floating_nuclear_powerplant.png)
+
+![Seaweed Farming](https://storage.googleapis.com/spykman-world/seaweed-farming.png)
+
+![Kelp Forrest](https://storage.googleapis.com/spykman-world/artics-kelp-forrest.png)
+
+![Salmon Fish Farm](https://storage.googleapis.com/spykman-world/salmon-fish-farm.png)
+
+![Whale Hunting](https://storage.googleapis.com/spykman-world/whale-hunting.png)
+
+![Frozen Fishes](https://storage.googleapis.com/spykman-world/frozen-fishese.png)
+
+![Artics Milk](https://storage.googleapis.com/spykman-world/artics-milk-cow.png)
+
+![Snow Water Pot](https://storage.googleapis.com/spykman-world/snow-water-pot.png)
+
+![Frozen Water Pipe](https://storage.googleapis.com/spykman-world/frozen-pipe.png)
+
+![Tibetan East Asian In The Artics](https://storage.googleapis.com/spykman-world/artics-tibetan-east-asian-gene-expression.png)
+
+![Yakut People](https://storage.googleapis.com/spykman-world/yakut-people.png)
+
+![Yakut City View From Satelite](https://storage.googleapis.com/spykman-world/yakut-city-view-from-satelites.png)
+
+![Snow Ripsaw Tank](https://storage.googleapis.com/spykman-world/snow-ripsaw-tank.png)
+
+![Snow Removal Truck](https://storage.googleapis.com/spykman-world/snow_removal_truck.png)
+
+![Truck Hummer](https://storage.googleapis.com/spykman-world/track_hummer.png)
+
+![Snow Ski Jet](https://storage.googleapis.com/spykman-world/snow_skijet.png)
+
+![Skiing](https://storage.googleapis.com/spykman-world/skiing.png)
+
+![Yakut Horses](https://storage.googleapis.com/spykman-world/yakut-horses.png)
 
 ![Current Global Container Shipping Lane](https://storage.googleapis.com/spykman-world/current-global-containers-shipping-lanes.png)
 
@@ -30,9 +72,9 @@ However, with both the Norwegian gene adaptation and British engineering, the Eu
 
 ![Tokyo to New York](https://storage.googleapis.com/spykman-world/nothern-sea-route-frrom-tokyo-to-newyork.png)
 
-![Russian Floating Nuclear Power Plant](https://storage.googleapis.com/spykman-world/akademik_lomomnosov_floating_nuclear_powerplant.png)
-
 ![Yamal Baltics Nuclear Ice Breaker](https://storage.googleapis.com/spykman-world/yamal_nuclear_power_ice_breaker.png)
+
+![Canadian Ice Breakers](https://storage.googleapis.com/spykman-world/canadian-ice-breakers.png)
 
 ![Xue Long Chinese Ukraine Ice Breakers](https://storage.googleapis.com/spykman-world/xue_long_chinese_ukrainian_ice_breakers.png)
 
