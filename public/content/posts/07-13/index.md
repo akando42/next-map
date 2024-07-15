@@ -174,7 +174,7 @@ Now the United States and NATO have the incentive to use nuclear weapons on RUSS
 
 Without the long history of family bonds and genetic fusion between Pakistan, Indian and Chinese culture with Russian and American culture, the chance of an All Out Nuclear War between Caucasian and Non-Caucasian culture is much higher.
 
-![Nuclear Power Controllers](https://storage.googleapis.com/spykman-world/nuclear_weapon_controllers.png)
+![Nuclear Power Controllers](https://storage.googleapis.com/spykman-world/2024%20Nuclear%20Controllers.png)
 
 #### The Development of Missile Defense System
 
