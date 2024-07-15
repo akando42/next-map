@@ -1,11 +1,11 @@
 ---
 zoom: 3
-lat: 69.19770962885133
-lng: -105.01265031843745
-path: "/melting-ice-is-opening-up-the-fabled-northwest-passage"
+lat: 65.9234427011687  
+lng: -168.39028853010825
+path: "/melting-ice-is-opening-up-the-fabled-arctics-ocean-trade-route"
 cover: "content/posts/07-16/spykman-world-melting-ice-openning-up-northwest-passage.jpg"
 date: "07-16"
-title: "Melting Ice Is Opening Up The Fabled Northwest Passage"
+title: "Melting Ice Is Opening Up The Fabled Arctics Ocean Trade Route"
 tags: ['Roald Amundsen', 'northwest passage', 'arctic', 'north pole', 'norway','canada','russia','climate change','global warming']
 published: true
 ---
@@ -29,6 +29,10 @@ The team first sailed Oslo formally called Kristinia, Norway to Greenland. From 
 Summer August 1905, they continued their trip West and navigated through the Simpson Strait and then West through Cambridge Bay south of the Victoria Island. They cleared the Canadian Northern Coast and completed their North West passage by reaching the Bering Strait on Aug 30, 1905.
 
 ![The 80 Kilometers Being Strait](https://storage.googleapis.com/spykman-world/80-kilometer-bering-strait.png)
+
+A direct trade route via the Northwest Canadian Passage would cut the distance between Rotterdam to Shanghai to less than 8000 miles instead of 10,500 miles via the Suez Canal or 13500 miles via the Panama Canal.
+
+![Canadian North West Passage vs Russian Northern Sea Route](https://storage.googleapis.com/spykman-world/Northern%20Russian%20Route%20vs%20North%20West%20Canadian%20Route.png)
 
 ![Mestoro Natural Gas City](https://storage.googleapis.com/spykman-world/natural-gas-city-of-mestoro-russia.png)
 
