@@ -3,15 +3,18 @@ zoom: 3
 lat: 11.616576336564476
 lng: 165.37722736729668
 path: "/mutual-assured-destruction-an-outdated-doctrine"
-cover: "https://storage.googleapis.com/spykman-world/spykman-world-new-era.jpg"
+cover: "content/posts/07-13/geo-genetics-new-era.jpg"
 date: "07-13"
 title: "Mutual Assured Destruction - An Outdated Doctrine"
-tags: ['Russia','United States','Israel','Iran','North Korea','Spykman World','Nicholas Spykman'] 
+summary: "Human is the only animals being able to alter and even destroy the entire #EarthEcosystem. However, the more #DangerousTools we created, the higher our #PopulationCount became for some strange reason."
+tags: ['Russia','United States','China', 'Israel','Iran','North Korea', 'Vietnam', 'Japan', 'Spykman World', 'GeoGenenetics'] 
 published: true
 ---
 
 ### From An Apple of Knowledge To A Mexican Standoff
 Why do these European countries call Eng-LAND, Switzer-LAND, Fin-LAND and Po-LAND ? And some other Central Asian countries call Turkmeni-STAN, Afghani-STAN, Uzbeki-STAN, Kyrgyz-STAN, Paki-STAN and Kazah-STAN with STAN meaning LAND in Persian. 
+
+![European Land of Specialized Experts](https://storage.googleapis.com/spykman-world/European%20Land%20of%20Specialized%20Experts.png)
 
 It is like a group of Caucasian men sitting down together in the mountain valley of Georgia in the Caucasus region after finishing the discovery of the known world and starting to re-arrange people tribes like Chess pieces into specialized regions of the World.  
 
@@ -19,21 +22,33 @@ It is like a group of Caucasian men sitting down together in the mountain valley
 
 There is no absolute evidence that Eng-Land means the Land of Engineer but the best Engine in the World for the F22 was made in collaboration between North East American engineers and British engineers, the Nuclear Bomb was invented by British and American scientists as well as the Digital Computers. Fin-LAND has the largest ocean container fleet in the world, Po-LAND hosts the secret services of Eastern Europe and Switzer-LAND makes baby formula milk, cheese and Glock handgun. 
 
+![British ARM Architecture for All Mobile Devices](https://storage.googleapis.com/spykman-world/british-arm-architecture-for-all-mobile-device.png)
+
 The most leading edge and up to date Technical Knowledge from Computer, Electrical, Material, Chemical and Nuclear Engineering are in English. The French and the Korean Engineers who design and build Nuclear Reactors nowaday all speak English with their colleagues.
 
-By recruiting and moving best Scientists and Engineers first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
+![Internet Content by Languages](https://storage.googleapis.com/spykman-world/Internet%20Contents%20by%20Languages.png)
+
+By recruiting and moving best Scientists and Engineers from Europe and the World first to England and then the United States in early 1700 and teaching them a common language since early ages, the Caucasian planners can ensure the perpetual leading edge in Productivity via Engineering Innovation over other Asian powers like China and India who were holding advantages in Population counts. 
+
+![Global Faces of MIT Students](https://storage.googleapis.com/spykman-world/mit-global-faces.png)
 
 After 200 years of continuous Engineering innovation, at the beginning of 1900 with Woodrow Wilson as president of United States, two English speaking countries: US and UK, were the number one and number two economies in the world with only 160 million people total but produced 6 times the output of 900 million Indian and Chinese. The process of converting Coal and Oil into output in the Combustion Engine, West of the Caucasus was outpacing the process of converting Food and Water into output in the Human Digest System, East of the Caucasus. 
 
+![World First Steam Engine Train](https://storage.googleapis.com/spykman-world/1804-world-first-train-invented-in-england.png)
+
+And then in 1930, 10 years before World War 2, The Institute of Advanced Studies was founded in Princeton, New Jersey to host the best scientists in Mathematics, Natural Sciences and Social Sciences immigrated from Europe after the destruction of World War 1. 
+
 ![Institute of Advanced Studies](https://storage.googleapis.com/spykman-world/institute_of_advanced_study.png)
 
-And then in 1930, 10 years before World War 2, The Institute of Advanced Studies was founded in Princeton, New Jersey to host the best scientists in Mathematics, Natural Sciences and Social Sciences immigrated from Europe after the destruction of World War 1. 10 years laters, the three residents of these Advanced Institutes, John Von Newman, Albert Einstein and Oppenhimer contributed greatly to the Manhattan Project and the United States domination of world affairs after World War 2. 
+10 years laters, the three residents of these Advanced Institutes, John Von Newman, Albert Einstein and Oppenhimer contributed greatly to the Manhattan Project and the United States domination of world affairs after World War 2. 
 
 ![Fathers of ICBM](https://storage.googleapis.com/spykman-world/fathers_of_ICBM.png)
 
 #### The Trinity Test and The First Attempt At Manipulating Nature at Sub Atomic Level
 
 The detonation of the first Atom Bomb at the Trinity Test site is a major upgrade of the US Caucasian North Atlantics weapon arsenals in their expansion West toward East Asia and South toward Latin America. 
+
+![Trinity World First Nuclear Test](https://storage.googleapis.com/spykman-world/trinity-world-first-nuclear-test.png)
 
 From Trinity test, the first nuclear explosion to the meeting of supreme leader Un and Donald the Duck in Hanoi, we have come a long way. A scientific discovery that has the potential turn thin air into unlimited energy has becoming the potential for a human extinction event. 
 
@@ -61,6 +76,8 @@ The Trinity site in New Mexico, a very strategic location, was picked by Oppenhi
 
 From day 1, nuclear research main focus was to create a super weapon not an infinite energy source though because it was done by British and American. Thats why Uranium-based nuclear weapon research was prioritzied over Thorium-based nuclear energy research. The low fertility rate of Caucasian women makes Caucasian men religiously chose to expand their genetic footprints by eliminating males and capturing females from other cultures. Other cultures in Africa, India and Asia only need to expand their genetic footprints by keeping their women well fed and their home well lit. 
 
+![Viet Tri Roman Dome Nuclear Target](https://storage.googleapis.com/spykman-world/viet-tri-roman-dome.png)
+
 Any attempts by Non-Caucasian countries to conduct nuclear energy research and expand nuclear energy generation would be severely disrupted or limited by Caucasian countries. Nuclear power generators are very geographical independent and difficult to throttle. One can put a nuclear power generator on submarine, aircraft carrier and even plane and it would run for years. Oil and gas is concerntrated in the Middle East, Gulf of Mexico and Siberia which could be controlled and throttled by NATO or Russia. 
 
 ![Fukushima Nuclear Accident](https://storage.googleapis.com/spykman-world/Fukushima_Nuclear_Accidents.png)
@@ -73,30 +90,27 @@ Maybe the Fukushima nuclear accident was Russian-made to throttle the growth of 
 
 The V2 of Nazi Germany was the first attempt at building the Intercontinental Ballistic Missile of Caucasian scientists during World War 2. However, the  V2 missile is much more expensive to build and can not carry the same amount of payload that Russian artillery and American long range bombers can deliver on German troop formations, manufacturing facilities and major cities. 
 
-![German V2 Campaign on London](https://storage.googleapis.com/spykman-world/german_v2_campaign_on_london.png)
+![Nazi Germany V2 World First Ballistic Missile](https://storage.googleapis.com/spykman-world/nazi-germany-v2-world-first-ballistic-missile.png)
 
-After the conclusion of World War 2, many Nazi scientists who surrendered were moved to the United States, continuing to work on American weapon development programs and raising their family there. 
+After the conclusion of World War 2, many Nazi scientists who surrendered were moved to the United States, continuing to work on American weapon development programs and raising their family there. The combination of British engineers’ nuclear weapon research and German engineers’ ballistic missile research led to the development and mass production of the Nuclear Intercontinental Ballistic Missile ICBM and nuclear Submarine Launched Ballistic Missile SLBM. 
 
-The combination of British engineers’ nuclear weapon research and German engineers’ ballistic missile research led to the development and mass production of the Nuclear Intercontinental Ballistic Missile or nuclear ICBM. 
+![Polaris A2 World First SLBM](https://storage.googleapis.com/spykman-world/polaris-a2-world-first-SLBM.png)
 
 A nuclear warhead has a much higher explosive power to weight ratio than a conventional warhead and an ICBM has much higher speed and range than conventional ballistic projectiles of artillery and ariel bombers. 
 
 ![Minuteman 3 ICBM](https://storage.googleapis.com/spykman-world/minuteman_3_icbm.png)
 
-An American Minuteman III ICBM can deliver the explosive power equivalent to 350 000 TON of TNT in a 360 Kilogram warhead, can travel up to 15000 KM at the speed of up to 28000 kilometer an hour and close the distance between Hanoi and New York in 30 minutes. 
-
-The combination of explosive power, range and speed in an ICBM outperforms any weapon of war that humans ever invented. Any major city with an area less than 350 square kilometers like  Kiev, Phoenix or Seoul could be wiped out with a one single Minuteman III ICBM.
+An American Minuteman III ICBM can deliver the explosive power equivalent to 350 000 TON of TNT in a 360 Kilogram warhead, can travel up to 15000 KM at the speed of up to 28000 kilometer an hour and close the distance between Hanoi and New York in 30 minutes. The combination of explosive power, range and speed in an ICBM outperforms any weapon of war that humans ever invented. Any major city with an area less than 350 square kilometers like  Kiev, Phoenix or Seoul could be wiped out with a one single Minuteman III ICBM.
 
 ![Phoenix Urban Area](https://storage.googleapis.com/spykman-world/phoenix_urban_area.png)
 
 #### The Cold War and Mutual Assured Destruction Doctrine
+
 Oppenhimer, the father of the Atomic bomb, is a Communist sympathizer according to the FBI agents of the American government. Maybe he realized that Nuclear power and Nuclear weapons are too powerful a leverage that not a single man or a small group of people should have monopoly control of these powers. So Oppenhimer and other researchers in the Manhattan projects once again played the Prometheus role and gave the Nuclear secrets to the Soviet Union first and then France, UK, China and India. 
 
 ![Nuclear Tests Map](https://storage.googleapis.com/spykman-world/nuclear_tests_map.png)
 
-The dangerous nuclear arms race between the United States and the Soviet Union actually prevents the unrestrained usages of Nuclear Weapons by United States Armed Forces and Governments and only resulted in Nuclear Tests and Nuclear Stockpiles. 
-
-Militaries started to put nuclear detonators everywhere they could. The US and the Soviet Union developed Nuclear Bombs, Nuclear-Tipped Ballistic missiles, Nuclear Cruise Missiles, Nuclear Torpedoes, Nuclear artillery cells and even Nuclear grenade launchers.
+The dangerous nuclear arms race between the United States and the Soviet Union actually prevents the unrestrained usages of Nuclear Weapons by United States Armed Forces and Governments and only resulted in Nuclear Tests and Nuclear Stockpiles. Militaries started to put nuclear detonators everywhere they could. The US and the Soviet Union developed Nuclear Bombs, Nuclear-Tipped Ballistic missiles, Nuclear Cruise Missiles, Nuclear Torpedoes, Nuclear artillery cells and even Nuclear grenade launchers.
 
 ![Nuclear grenade launcher](https://storage.googleapis.com/spykman-world/nuclear_grenade_launcher.png)
 
@@ -132,20 +146,23 @@ The Russian & Central Asian aerospace research centers near Lake Baika are no-lo
 
 ![Ulan Ude Spacecom](https://storage.googleapis.com/spykman-world/Ulan_Ude_Space_Com.png)
 
-The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued.
+The top Eastern European nuclear scientists and aerospace engineers from Ukraine are no longer working for Moscow but working for London and Washington. The Soviet-led Ukrainian engineering projects like Antonov transport plane or Soviet Aircraft Carrier has been discontinued. Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
 ![ANTONOV Broken Plane](https://storage.googleapis.com/spykman-world/ANTONOV_broken_plane.png)
-
-Is the Soviet Union secret Endgame is to move majority of Russian abroad to Western Europe and Central Asia and then use all of their nukes on North America?
 
 #### Nuclear Proliferation and Nash Equilibrium In An 9 or More Players Game
 
 Value of an action is the total expected gain of an action based on all available possible actions that other parties in the game could take. NASH EQUILIBRIUM is achieved when all players pick their optimal actions and reach EQUILIBRIUM state when no players can gain more by changing their actions. 
 
-Military planners use NASH EQUILIBRIUM game theory in nuclear war simulation to explore enemy thinking as well as develop their own defensive and offensive plans. During the COLD WAR, the United States and Soviet Union achieved NASH EQUILIBRIUM in their nuclear strategy. 
+![Nash Equalibrium Achieved Between German, Turk and Russ](https://storage.googleapis.com/spykman-world/nash-equalibrium-achieved-between-3-competing-gene-groups.png)
 
-While dropping atomic bombs on Japan allowed the US to gain forward military bases in Asian Pacifics as well as total control of the Pacifics Ocean, nuking the Russian Armed Forces and its territories will only result in Nuclear Retaliation and no significant gains for the United States. 
+Military planners use NASH EQUILIBRIUM game theory in nuclear war simulation to explore enemy thinking as well as develop their own defensive and offensive plans. During the COLD WAR, the United States and Soviet Union achieved NASH EQUILIBRIUM in their nuclear strategy. While dropping atomic bombs on Japan allowed the US to gain forward military bases in Asian Pacifics as well as total control of the Pacifics Ocean, nuking the Russian Armed Forces and its territories will only result in Nuclear Retaliation and no significant gains for the United States.
+
+![US YOKOTA Airbase Next To Tokyo](https://storage.googleapis.com/spykman-world/yokota-airbase.png)
+
 So both the USA and USSR only do nuclear tests near their potential security threats in Central Asia, Asian Pacifics and American West Coasts to deter migrations or enemy military mobilization in these areas of the globe. Demonstration of nuclear capability also allowed the United States and Soviet Union to build their coalition with other non-nuclear nations. 
+
+![Nuclear Tests Map](https://storage.googleapis.com/spykman-world/nuclear_tests_map.png)
 
 The Nuclear Nash Equilibrium state changes when the nuclear capability of players either improves or declines or new players are introduced into the game. With the collapse of the Soviet and the decline in capability of Russian nuclear forces, the Nuclear Nash Equilibrium becomes unstable. 
 
@@ -157,13 +174,13 @@ Now the United States and NATO have the incentive to use nuclear weapons on RUSS
 
 Without the long history of family bonds and genetic fusion between Pakistan, Indian and Chinese culture with Russian and American culture, the chance of an All Out Nuclear War between Caucasian and Non-Caucasian culture is much higher.
 
-![Nuclear Power Controllers](https://storage.googleapis.com/spykman-world/nuclear_weapon_controllers.png)
+![Nuclear Power Controllers](https://storage.googleapis.com/spykman-world/2024%20Nuclear%20Controllers.png)
 
 #### The Development of Missile Defense System
 
-The natural outcome of the fact that multiple parties possessing lethal ballistic missiles is that some parties will start to develop shields and evading mechanisms to stay alive in a ballistic missile shoot out. 
+The natural outcome of the fact that multiple parties possessing lethal ballistic missiles is that some parties will start to develop shields and evading mechanisms to stay alive in a ballistic missile shoot out. The US with the technical edges in precision missile guidance and precision radar technology started the Star War program under the Regan administration in the 1980s. The Star War program is the American attempt at intercepting an enemy Ballistic missile with their own ballistic missile. 
 
-The US with the technical edges in precision missile guidance and precision radar technology started the Star War program under the Regan administration in the 1980s. The Star War program is the American attempt at intercepting an enemy Ballistic missile with their own ballistic missile. 
+![Reagan Pitching The American Star Wars Program](https://storage.googleapis.com/spykman-world/reagan-pitching-star-wars-program.png)
 
 While a Ballistic Missile can travel very fast up to 12000 kilometers an hour, its trajectory follows the laws of physics and its path is highly predictable. With large numbers of missile launch satellite detectors orbiting the earth, the North America Aerospace Air Defense (NORAD) could detect the launch location within the first few minutes of a missile launch anywhere on earth. 
 
@@ -179,31 +196,43 @@ The satellites will then send the ICBM location to the nearest high precision gr
 
 These high precision X-Band radars and the Airforce supercomputers in California will then start to track and calculate the expected trajectory of the incoming ICBM. A launch command will be sent from the Supercomputer with human approval and an ICBM interceptor will be launched and collide with the ICBM warhead. 
 
+![Raytheon Missile Defense System](https://storage.googleapis.com/spykman-world/raytheon-missile-defense-system.png)
+
 As long as the ICBM could be intercepted before it reaches the 5 KM altitude in its terminal phase then the Nuclear Warhead will not detonate and 300 kilograms of nuclear material will just scatter in the atmosphere. 
 
+![Missile Kill Vehicle](https://storage.googleapis.com/spykman-world/missile-kill-vehicle.gif)
+
 The most battle hardened, highest probability of success Missile Defense System in the world is the IRON DOME of Israel. While Israel IRON DOME was not designed to intercept Nuclear ICBM but short-range missiles from their neighboring countries, it uses the same principle of early detection, precision tracking of a missile flying on a conventional ballistic trajectory. The Israel’s Missile Defense System achieved a 90% success rate and intercepted more than 3000 rockets shooting at Israelian’s cities.  
+
+![Israle Iron Dome](https://storage.googleapis.com/spykman-world/iron-dome-israel.png)
 
 Russia also developed and deployed their Missile Defense System around Moscow. The Moscow Missile Defense System includes 360 degree Long Range Early Warning Radar and a battery of Nuclear ICBM interceptors. 
 
 ![Moscow MISSILE DEFENSE](https://storage.googleapis.com/spykman-world/moscow_Missile_Defense.png)
 
-Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators.
+Both Israel and Russia Missile Defense System uses the same fragmentation interceptor system with Israel using conventional cluster detonators and Russia using Nuclear detonators. While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet.
 
-While the American Missile Defense System has many more satellites and precision tracking radars, its interceptor missiles  using direct body contact not fragmentation and were not battle tested in real war or achieved high success rate in war games yet.
-
-Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
-
-![Flyingdale UK Radar](https://storage.googleapis.com/spykman-world/Fylingdale_UK_Radar.png)
+![Iron Dome Fragmentation Interceptor](https://storage.googleapis.com/spykman-world/iron-dome-fragmentation-interceptor.png)
 
 The American Missile Defense System like American Military Bases are forward deployed and could be used to intercept a small number of ICBMs used in accidental launches, preemptive surprise attacks or nuclear launches from small nuclear states like North Korea. America will then choose to retaliate using conventional or nuclear methods.
 
-All Russia Missile Defense Systems are stationed only around Moscow so if an ICBM would be flying toward Moscow, their likely response would be to launch both Nuclear Interceptors and Nuclear ICBM at their adversary.
+![Flyingdale UK Radar](https://storage.googleapis.com/spykman-world/Fylingdale_UK_Radar.png)
+
+All Russia Missile Defense Systems are stationed only around Moscow so if an ICBM would be flying toward Moscow, their likely response would be to launch both Nuclear Interceptors and Nuclear ICBM at their adversary. Both Russian and American Missile Defense System at their current performance and testing will probably be able to intercept up to 10 ICBM successfully but if more than 10 ICBM would be launched at American and Russian cities, their Missile Defense System will probably be overwhelmed. 
+
+![Nuclear Warheads by Countries](https://storage.googleapis.com/spykman-world/israel_vs_major_cities.png)
 
 Besides Russia and the United States, no other nuclear nations possess the ability to detect, track and intercept an Inter Continental Ballistic Missile.  While China, India and Pakistan have many ICBMs, they would not be able to intercept incoming ICBM and will be very likely to take high casualties before they can retaliate. 
 
+![Chinese Nuclear Retaliation Option](https://storage.googleapis.com/spykman-world/jin-class-ballistic-submarine.png)
+
 So while the Missile Defense System of both United States and Russia is at its freshly deployed, simulation tested only stage, at some point in the future, if their Missile Defense System would become as good as a SWAT bullet proof jacket then United States and Russia will have incentives to use their Nuclear Weapons on foreign cities of even a nuclear power like China, India or Pakistan. 
 
+![Destroyer Intercepting Incoming](https://storage.googleapis.com/spykman-world/destroyer-intercepting-income-missile.png)
+
 At the current pace of advances of American space company like Space X, their military Missile Defense System will probably get much more precise and American military will probably can build 1000s of ICBM interceptors. 1000 plus of ICMB interceptors with 90% of more success rate will make the US military become confident enough to launch nuclear ICBM at even Moscow without worrying about American military and civilian casualty.
+
+![Space X Landing Rocket](https://storage.googleapis.com/spykman-world/space-x-landing-rocket.png)
 
 ### The Obsolescence of Nuclear Deterrence
 
@@ -217,25 +246,32 @@ Whether its first strike or second strike, a concerntration of decision making l
 ![Remote Control Human](https://storage.googleapis.com/spykman-world/neutrino_receptor_inside_an_iris.png)
 
 #### The Nuclear Winter Unproven Theory
-The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. 
 
-Without sunlights, the earth climate will become like North Pole. Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. 
-Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
+The Nuclear Winter Theory said thats if there are enough nuclear explosion happening around the globes at the same time, the earth atmosphere will become filled with dusts and smoke. The dusts and smokes will not settle down but circulate in the atmosphere and blocking out the sun for years. Without sunlights, the earth climate will become like North Pole. 
+
+![Blocking Out the Sun](https://storage.googleapis.com/spykman-world/blocking-out-the-sun-scare.png)
+
+Earth temperature will quickly decline, the oppsite of all current Global Warming problem. With a North pole lile climate around globe, majority animals and plants living outside of the Artics will die. Most of human population in major cities and outside of the Artics will then likely to die because of hunger and supzero tempeture. 
 
 ![Nuclear Winter Housing](https://storage.googleapis.com/spykman-world/nuclear_winter_housing.png)
 
 Only polar bears, penguins and the Ekimos will likely to survive the Nuclear Winter. Our civilizations will likely be set back 1000 years of progress. All of our technological development will be lost and the Eskimos will have to start up fresh and rebuild our civilization.
+
+![Russian Artics Base](https://storage.googleapis.com/spykman-world/russian-artics-base.png)
 
 However, the blocking out the sun theory of American scientists is more of a propaganda to threaten the Japanese economy and population  and their sun-like flag than a well grounded scientific theory. In order to recreate the Dinosour extinction event, we will need to produce the explosive power of 72 trillion TON of TNT or 205 million Minute III ICBM. That is hundred thound times larger than the entire nuclear stockpile of human kinds. 
 
 ![Dinasour Astroid Explosion](https://storage.googleapis.com/spykman-world/dinasour_astroid_72trilllion.png)
 
 #### 21 Century Human Capability to Adapt and Rebuild
+
 The Cold War and the constant nuclear threats altered the genetic makeup of US major cities. Caucasian wealthy families would move to the Sub-Urban and Countryside and drive few hours downtown to work in the morning. Major US city centers are now filled with African American and other low income families. 
 
 ![The Nuclear Decoys of United States](https://storage.googleapis.com/spykman-world/faces_of_us_major_cities.png)
 
 So in the case of a major nuclear war with 100s of ICBM landed on top of American major cities, large part of American population will likely to survive the blasts. American highway networks, high car ownerships and its 90 kilometer speed limit allows Americans to get out the major city centers 60 kilometer radius within 40 minutes. 
+
+![Los Angeles High Throughout Freeway](https://storage.googleapis.com/spykman-world/los-angeles-high-throughout-freeway.png)
 
 If the ICBMs was launched at night after 6 PM Pacifics Time, most of the educated and high income families will be away in their suburban home and will not be effected lethally by the nuclear blasts and could evacuate further to the outskirts and countrysides.
 
