@@ -18,6 +18,18 @@ However, with both the Norwegian gene adaptation and British engineering, the Eu
 
 ![Artics Nation](https://storage.googleapis.com/spykman-world/artics-nations.png)
 
+All these Arctic frontier conquerings started in with a Norwegian explorer, Roald Amundsen. Roald Amundsen was born near Oslo July 16, 1872 into Norwegian shipowners / captains family in Borge. In 1903, the explorer and his team of six men used the Gjoa 13-horse power single-screw paraffin engine fishing vessel setting sail West to find a path across from the Atlantics Ocean to the Pacifics Ocean through the Arctics Ocean.
+
+![Ronald Amundsen](https://storage.googleapis.com/spykman-world/Ronald%20Amundsen%20Arctics%20Expedition%20Team.png)
+
+The team first sailed Oslo formally called Kristinia, Norway to Greenland. From Greenland, Amundsen and his crew then sailed through Baffin Bay to the Beechey Island and finally to Gjoa Harbor, The King William Island and spent 2 years here conducting Magnetic research. At King William Island, Amundsend came into contact learned many survival techniques from the local Tibetan Asian Inuit. Amundsen also setup 8 magnetic stations on the island to collect data for his research and become the 1st one to discover that the North Magnetic Pole does not have a permanent location but moves around fairly regularly.
+
+![The Amundsen North West Passage Route](https://storage.googleapis.com/spykman-world/The%20North%20West%20Canadian%20Coast%20Route.png)
+
+Summer August 1905, they continued their trip West and navigated through the Simpson Strait and then West through Cambridge Bay south of the Victoria Island. They cleared the Canadian Northern Coast and completed their North West passage by reaching the Bering Strait on Aug 30, 1905.
+
+![The 80 Kilometers Being Strait](https://storage.googleapis.com/spykman-world/80-kilometer-bering-strait.png)
+
 ![Mestoro Natural Gas City](https://storage.googleapis.com/spykman-world/natural-gas-city-of-mestoro-russia.png)
 
 ![Sabetta Natural Gas City](https://storage.googleapis.com/spykman-world/sabetta-natural-gas-settlement.png)
