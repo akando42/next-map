@@ -5,7 +5,8 @@ lng: -168.39028853010825
 path: "/melting-ice-is-opening-up-the-fabled-arctics-ocean-trade-route"
 cover: "content/posts/07-16/spykman-world-melting-ice-openning-up-northwest-passage.jpg"
 date: "07-16"
-title: "Melting Ice Is Opening Up The Fabled Arctics Ocean Trade Route"
+title: "Melting Ice Is Opening Up The Fabled Arctics Ocean Trade Routes"
+summary: "The combination of gene adaption and technological advances compounded via many generation of highly surviable gene groups, some human gene groups were able to conquer geographical challenges with their wills and inventions."
 tags: ['Roald Amundsen', 'northwest passage', 'arctic', 'north pole', 'norway','canada','russia','climate change','global warming']
 published: true
 ---
