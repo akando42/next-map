@@ -39,6 +39,10 @@ The German & Austrian people suffering humiliation after the lost WWI, hyperinfl
 
 ![The Blonde Triangle](https://storage.googleapis.com/spykman-world/German%20City%20At%20Night.png)
 
+![Ludwig Castle](https://storage.googleapis.com/spykman-world/Ludwig%20II%20Castle%20(2).png)
+
+![University of Vienna](https://storage.googleapis.com/spykman-world/University%20of%20Vienna%20(1).png)
+
 ![European Gene Marker via Personal Vehicles](https://storage.googleapis.com/spykman-world/European%20Gene%20Marker.png)
 
 ![Mercedes vs BMW](https://storage.googleapis.com/spykman-world/Stuttgart%20and%20Munich.png)
