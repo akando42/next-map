@@ -1,5 +1,5 @@
 ---
-zoom: 10
+zoom: 6
 lat: 37.86931604673499
 lng: 112.58916454477725
 path: "/moving-manufacturing-from-china-to-the-moon"
