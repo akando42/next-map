@@ -15,6 +15,8 @@ The Moon makes a complete orbit around Earth every 29.53 days. The moon always s
 
 Easter in Christianity is the first Sunday after the 1st Full Moon in the Lunar calendar. Ramadan in Islamic is one day after the 9th new Moon in the lunar calendar. Chinese, Japanese, Korean, Vietnamese and Mongolian New Year is the 1st day of the 1st month is the moon calendar. Vesak or Buddha's Birthday is the first full moon in the second month of the lunar year. 
 
+![Chinese White Russian Girl Moon Program](https://storage.googleapis.com/spykman-world/ChangE_Hang_Nga_Moon_Mission.png)
+
 Rosh Hashanah, the Hebrew new year, is the birthday of the universe, the first sight of new Moon in the Hebrew calendar. So supposedly the same date as the Ramanda. However, the Hebrew calendar adds 13 months every 3 years into its calendar. So every 33 years, Romanda in Islamic and Rosh Hashanah in Hebrew start on the same date. 
 
 So fuck yes, Moon is a big deal in every culture cause we saw it every night when we have too much free time so we can look up into the sky. Also, Moon is more pleasant to the human’s eyes. In many cultures, the 1st day of Lunar New Year is believed to be the birthday of the universe. It makes more sense that 1st day of Lunar New Year is the Earth reborn birthday.
@@ -24,6 +26,8 @@ So we have been dreaming about getting to the moon since forever. And Neil Amstr
 ![Neil Amstrong First Moon Landing](https://storage.googleapis.com/spykman-world/us-first-man-moon-landing.png)
 
 The dude was born Aug 5, 1930, in Ohio. His father was an auditor and the family moves around a lot in his childhood.  They live in 16 different towns in Ohio. When he was a tiny 2-year-old, his father took him to Cleveland Air race. Well we form most of our 1st memory at 2 so that was it, Neil is destined to become a pilot. 
+
+![NASA Space Centers](https://storage.googleapis.com/spykman-world/NASA%20Space%20Centers.png)
 
 At 17, Neil got accepted to the  Aeronautical Engineering at Purdue University. He also got accepted to MIT but MIT football team sucks so Purdue it is. Neil went to school for free. Tuition was paid for under Holloway plan, a Navy program to fund education for Navy officers outside of the Naval Academy. 
 
@@ -46,13 +50,18 @@ There are  12 members of the Apollo 11 mission who walked on the moon. So who is
 The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Chang’e 1 make its first lunar orbiter
 October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon
 
+![Chang'E 6 Moon Mission](https://storage.googleapis.com/spykman-world/ChangE%20Moon%20Mission.png)
+
 At this pace, China will land a man on the moon between 2021-2028. So space programs are just the nation’s poster child projects or it actually has commercial impacts. Space satellites have been helping to map the entire planet, utilized in many military and commercial applications. 
 
 The next application maybe space shipping ? It cost 0.2 dollars per pound in fuel to reach orbit and back. The main cost in space travel is the hardware. With recent development in reusable rockets from SpaceX and Blue Origins, space shipping at some point will be FASTER and CHEAPER than freight ocean shipping.
 
 Imagine, we will have a system of Suborbital transport Ship, Space Elevator and Orbital Warehouse that offers same-day shipping between New York and Shanghai. In a distant future, every country will be able to launch its ballistic FEDEX truck into orbit to drop off and pick up their favorite delivery.
 
+![China Trang Egg Probe Docking](https://storage.googleapis.com/spykman-world/China-TrangEgg6-Probe-Docking-In-Orbit.gif)
+
 Or even more interesting, what if all manufacturing is moving from China to the Moon. No more manufacturing pollution, we will just receive our goods via airdrops like the way Santa does during Christmas. We will actually be tracking our packages via the NORAD’s system for real this time. 
 
+![Space X Launch Sites](https://storage.googleapis.com/spykman-world/Space%20X%20Launching%20Sites.png)
 
-![]()
+
