@@ -59,9 +59,17 @@ There are  12 members of the Apollo 11 mission who walked on the moon. So who is
 ![Ovulation Cycle of Female Human](https://storage.googleapis.com/spykman-world/Ovulation%20Cycle.png)
 
 The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Chang’e 1 make its first lunar orbiter
-October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. And in 2024, the Chang'e 6 successfully collect a Moon sample and return to earth. At this pace, China will land a man on the moon between 2021-2028. So space programs are just the nation’s poster child projects or it actually has commercial impacts. Space satellites have been helping to map the entire planet, utilized in many military and commercial applications. 
+October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. And in 2024, the Chang'e 6 successfully collect a Moon sample and return to earth. At this pace, China will land a man on the moon between 2021-2028. 
 
 ![Chang'E 6 Moon Mission](https://storage.googleapis.com/spykman-world/ChangE%20Moon%20Mission.png)
+
+So space programs has had massive military and commercial impacts for United State in the 90s. GPS satelite constellation enabled US Armor to nagivate and attack the Iraqi forces from unexpected angle and US Bomber to drop the GPS-guided bombs at night extremely accurately. Desert Storm was an extremely successful war with minimum US casualty and complet destruction of Iraqi Armed Forces. GPS also satelites help US corporations like Google and Uber to dominate the transporation market around the globe.
+
+![Earth GPS Satelites](https://storage.googleapis.com/spykman-world/earth-gps-satelites.gif)
+
+Chinese space program from 2010 to present also has enabled Chinese military and commercial company to make increasing bigger present in East Asia and abroad. The Beidou satelite constellation enabled 70,000 Chinese fishing boats to have accurate navigation and emergency messaging in South China Sea without using the NATO GPS system. Huawei in 2024 also released the Mate 60Pro, the first smartphone with satelite call and sms without the need of a ground-based Cellular network. 
+
+![Huawei Mate Pro60](https://storage.googleapis.com/spykman-world/Huawei%20Mate%20Pro%2060.png)
 
 The next application maybe space shipping ? It cost 0.2 dollars per pound in fuel to reach orbit and back. The main cost in space travel is the hardware. With recent development in reusable rockets from SpaceX and Blue Origins, space shipping at some point will be FASTER and CHEAPER than freight ocean shipping. Imagine, we will have a system of Suborbital transport Ship, Space Elevator and Orbital Warehouse that offers same-day shipping between New York and Shanghai. In a distant future, every country will be able to launch its ballistic FEDEX truck into orbit to drop off and pick up their favorite delivery.
 
