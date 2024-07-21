@@ -62,11 +62,11 @@ The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Cha
 
 ![Chang'E 6 Moon Mission](https://storage.googleapis.com/spykman-world/ChangE%20Moon%20Mission.png)
 
-So space programs has had massive military and commercial impacts for United State in the 90s. GPS satelite constellation enabled US Armor to nagivate and attack the Iraqi forces from unexpected angle and US Bomber to drop the GPS-guided bombs at night extremely accurately. Desert Storm was an extremely successful war with minimum US casualty and complet destruction of Iraqi Armed Forces. GPS also satelites help US corporations like Google and Uber to dominate the transporation market around the globe.
+So space programs has had massive military and commercial impacts for United State in the 90s. GPS satelite constellation enabled US Armor to nagivate and attack the Iraqi forces from unexpected angle and US Bomber to drop the GPS-guided bombs at night extremely accurate. Desert Storm was an extremely successful war with minimum US casualty and complete destruction of Iraqi Armed Forces. GPS satelites also help US corporations like Google and Uber to dominate the transporation market around the globe.
 
 ![Earth GPS Satelites](https://storage.googleapis.com/spykman-world/earth-gps-satelites.gif)
 
-Chinese space program from 2010 to present also has enabled Chinese military and commercial company to make increasing bigger present in East Asia and abroad. The Beidou satelite constellation enabled 70,000 Chinese fishing boats to have accurate navigation and emergency messaging in South China Sea without using the NATO GPS system. Huawei in 2024 also released the Mate 60Pro, the first smartphone with satelite call and sms without the need of a ground-based Cellular network. 
+Chinese space program from 2010 to present also has enabled Chinese military and commercial companies to make increasing bigger present in East Asia and abroad. The Beidou satelite constellation enabled 70,000 Chinese fishing boats to have accurate navigation and emergency messaging in South China Sea without using the NATO GPS system. Huawei in 2024 also released the Mate 60Pro, the first smartphone with satelite call and sms without the need of the ground-based cellular network. 
 
 ![Huawei Mate Pro60](https://storage.googleapis.com/spykman-world/Huawei%20Mate%20Pro%2060.png)
 
