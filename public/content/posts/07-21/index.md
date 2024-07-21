@@ -59,7 +59,7 @@ There are  12 members of the Apollo 11 mission who walked on the moon. So who is
 ![Ovulation Cycle of Female Human](https://storage.googleapis.com/spykman-world/Ovulation%20Cycle.png)
 
 The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Chang’e 1 make its first lunar orbiter
-October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. At this pace, China will land a man on the moon between 2021-2028. So space programs are just the nation’s poster child projects or it actually has commercial impacts. Space satellites have been helping to map the entire planet, utilized in many military and commercial applications. 
+October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. And in 2024, the Chang'e 6 successfully collect a Moon sample and return to earth. At this pace, China will land a man on the moon between 2021-2028. So space programs are just the nation’s poster child projects or it actually has commercial impacts. Space satellites have been helping to map the entire planet, utilized in many military and commercial applications. 
 
 ![Chang'E 6 Moon Mission](https://storage.googleapis.com/spykman-world/ChangE%20Moon%20Mission.png)
 
@@ -67,8 +67,6 @@ The next application maybe space shipping ? It cost 0.2 dollars per pound in fue
 
 ![China Trang Egg Probe Docking](https://storage.googleapis.com/spykman-world/China-TrangEgg6-Probe-Docking-In-Orbit.gif)
 
-Or even more interesting, what if all manufacturing is moving from China to the Moon. No more manufacturing pollution, we will just receive our goods via airdrops like the way Santa does during Christmas. We will actually be tracking our packages via the NORAD’s system for real this time. 
+Or even more interesting, what if all manufacturing is moving from China to the Moon. Moon manufacturing will require less energy because of its low Gravity of only 1.625 meter per second instead of 9.8 like on Earth. Plenty of Natural Gas and Oil in Space, no more manufacturing pollution, we will just receive our goods via airdrops like the way Santa does during Christmas. We will actually be tracking our packages via the NORAD’s system for real this time. 
 
 ![Space X Launch Sites](https://storage.googleapis.com/spykman-world/Space%20X%20Launching%20Sites.png)
-
-
