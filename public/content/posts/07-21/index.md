@@ -58,8 +58,7 @@ There are  12 members of the Apollo 11 mission who walked on the moon. So who is
 
 ![Ovulation Cycle of Female Human](https://storage.googleapis.com/spykman-world/Ovulation%20Cycle.png)
 
-The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Chang’e 1 make its first lunar orbiter
-October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. And in 2024, the Chang'e 6 successfully collect a Moon sample and return to earth. At this pace, China will land a man on the moon between 2021-2028. 
+The Chinese Lunar Exploration Program started in 2003. October 24, 2007, the Chang’e 1 make its first lunar orbiter, October 1 2010, the Chang’e 2 make its second lunar orbiter, Dec 1, 2013, the Chang’e 3 soft-land the moon, Dec 7, 2018, the Chang’e 4 soft-land on the far side of the moon. And in 2024, the Chang'e 6 successfully collect a Moon sample and return to earth. At this pace, China will land a man on the moon between 2021-2028. 
 
 ![Chang'E 6 Moon Mission](https://storage.googleapis.com/spykman-world/ChangE%20Moon%20Mission.png)
 
