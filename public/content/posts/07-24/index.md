@@ -142,3 +142,5 @@ Is Russian interference in the US election in US best interest or in Russia best
 Not sure who but someone definitely did interfere in this irregular election ? Trump’s continous attack on China and every other countries other than Russia is unexpectedly turning China’s image from a bougie man into a good-guy who is standing up to a bully United States under Donald Trump.
 
 Trump’s aggression is pushing Japan, India and Germany closer to China like how Italy was pushed closer to England because of Prussian’s aggression before World War One. Maybe Deep Mind believe China is a better policeman and should lead the world in 21 century.
+
+![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
