@@ -6,7 +6,7 @@ path: "/a-mueller-walking-to-a-barr"
 cover: "content/posts/07-24/geogenetics-the-russian-american-domination.png"
 date: "07-24"
 title: "A Mueller Walking to a Barr"
-summary: "When a #GeneGroup can #slowly and #secretly increase its number within a #foreignEcosystem until it reaches its #CriticalMass, that gene group will inevitably become the new #dominantAlpha in in its new environment."
+summary: "When a #GeneGroup can #slowly and #secretly increase its number within a #foreignEcosystem until it reaches its #CriticalMass, that gene group will inevitably become the new #dominantAlpha in its new environment."
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','National Emergency','Spykman World','GeoGenetics']
 published: true
 --- 
@@ -36,7 +36,7 @@ December 30, 2016, Putin made a surprise move despite Obama’s poking. He just 
 
 ![Post Election Pre Presidency Tweet](https://storage.googleapis.com/spykman-world/Post-Election-Pre-Presidency-Tweet.png)
 
-## Donald White House Chaos by Firing American Top Laws and Orders Officiers
+## Donald Caused White House Chaos by Firing American Top Laws and Orders Officiers
 
 January 12, 2017, Washington Post rat Flynn out with a story saying Flynn was violating the Logan act. Logan act is a US federal law that put people in jail for negotiating with another Kingdoms. Only the King and his staff can talk to other kings. Trump was not king yet as of Dec 28, 2016. Trump was pissed, tell Reince Priebus, his chief of staff at the time, to clean up the mess. Priebus and Flynn think really hard and agree to deny the phone conversation about sanction response ever happened. So Flynn told Mike Pences and all his friends at White House that he did not chat with Russian ambassador about the sanction response.
 
@@ -127,6 +127,9 @@ August 2018, Cohen pleaded guilty in August 2018 to campaign-finance violations,
 November 2018, Trump admitted that the discussion of the Moscow tower deal continuing throughout his campaign. Trump said. "There would have been nothing wrong if i did do it ... That was my business ... I was focused on running for president ... I was running my business while I was campaigning. There was a good chance that I wouldn't have won, in which case I would've gone back into the business. And why should I lose lots of opportunities?"
 
 ![Trump Tower in Moscow and Potential Moscow Washington Name Swap](https://storage.googleapis.com/spykman-world/Trump%20Tower%20in%20Moscow.png)
+
+
+## Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win.
 
 November 6, 2018, US midterm election result in a split with Republican gain seats and kept the majority in Senate while the Democrat gains enough seats in the House to flip the House to Democrate Majority. Good news but not good enough for Democrats since an Impeachment proceeding would require broad support from both House and Senate.
 
