@@ -7,7 +7,7 @@ cover: "content/posts/07-24/geogenetics-the-russian-american-domination.png"
 date: "07-24"
 title: "A Mueller Walking to a Barr"
 summary: "When a gene group can slowly and secretly increase its number within a foreign ecosystem until it reaches its critical mass, that gene group will inevitablly become the new dominant alpha in in its new enviroment."
-tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','Spykman World','Nicholas Spykman']
+tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','Spykman World','GeoGenetics', 'National Emergency']
 published: true
 --- 
 ## Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
