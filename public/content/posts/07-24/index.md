@@ -3,9 +3,10 @@ zoom: 10
 lat: 27.771313182469545
 lng: -82.61130237406577
 path: "/a-mueller-walking-to-a-barr"
-cover: "content/posts/07-24/spykman-world-a-mueller-walking-to-a-barr.jpg"
+cover: "content/posts/07-24/geogenetics-the-russian-american-domination.png"
 date: "07-24"
 title: "A Mueller Walking to a Barr"
+summary: "When a gene group can slowly and secretly increase its number within a foreign ecosystem until it reaches its critical mass, that gene group will inevitablly become the new dominant alpha in in its new enviroment."
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','Spykman World','Nicholas Spykman']
 published: true
 --- 
