@@ -3,15 +3,15 @@ zoom: 10
 lat: 27.771313182469545
 lng: -82.61130237406577
 path: "/a-mueller-walking-to-a-barr"
-cover: "content/posts/07-24/geogenetics-the-russian-american-domination.png"
+cover: "content/posts/07-24/geogenetics_russian_american_domination.png"
 date: "07-24"
 title: "A Mueller Walking to a Barr"
 summary: "When a #GeneGroup can #slowly and #secretly increase its number within a #foreignEcosystem until it reaches its #CriticalMass, that gene group will inevitably become the new #dominantAlpha in its new environment."
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','National Emergency','Spykman World','GeoGenetics']
 published: true
 --- 
-## Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
 
+### Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
 The Russian reviving empire effectively executed the famous CIA-style regime change, helped Donald John Trump to overpower Hillary Rodham Clinton to become the king of America with the help of fake news and social media trolls. By the end of the investigation, the special counsel Robert Mueller can not find enough evidence to prove that Trump campaign cheated with Russian help cause the GRU aka KGB too good at cleaning their tracks.
 
 ![Facebook Ads vs Google Ads](https://storage.googleapis.com/spykman-world/Russian%20Jews%20and%20Chinese%20Control%20Ads%20Market.png)
@@ -36,8 +36,7 @@ December 30, 2016, Putin made a surprise move despite Obama’s poking. He just 
 
 ![Post Election Pre Presidency Tweet](https://storage.googleapis.com/spykman-world/Post-Election-Pre-Presidency-Tweet.png)
 
-## Donald Caused White House Chaos by Firing American Top Laws and Orders Officiers
-
+### Donald Caused White House Chaos by Firing American Top Laws and Orders Officiers
 January 12, 2017, Washington Post rat Flynn out with a story saying Flynn was violating the Logan act. Logan act is a US federal law that put people in jail for negotiating with another Kingdoms. Only the King and his staff can talk to other kings. Trump was not king yet as of Dec 28, 2016. Trump was pissed, tell Reince Priebus, his chief of staff at the time, to clean up the mess. Priebus and Flynn think really hard and agree to deny the phone conversation about sanction response ever happened. So Flynn told Mike Pences and all his friends at White House that he did not chat with Russian ambassador about the sanction response.
 
 ![Mike Flynn and Putin Sharing Vi-Water](https://storage.googleapis.com/spykman-world/Mike%20Flynn%20and%20Putin%20sharing%20VI-Water.png)
@@ -129,8 +128,7 @@ November 2018, Trump admitted that the discussion of the Moscow tower deal conti
 ![Trump Tower in Moscow and Potential Moscow Washington Name Swap](https://storage.googleapis.com/spykman-world/Trump%20Tower%20in%20Moscow.png)
 
 
-## Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win.
-
+### Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win.
 November 6, 2018, US midterm election result in a split with Republican gain seats and kept the majority in Senate while the Democrat gains enough seats in the House to flip the House to Democrate Majority. Good news but not good enough for Democrats since an Impeachment proceeding would require broad support from both House and Senate.
 
 ![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
