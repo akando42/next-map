@@ -13,20 +13,25 @@ const getTrunks = function(contents){
 	let tweetImage = []
 
 	for(let trunk of trunks){
-		if (trunk == ''){
+		if (trunk == ' ' || trunk == ''){
 			console.log("EMPTY", trunk)
 			continue;
+
 		} else if (trunk.startsWith("##")){
 			console.log("TITLE", trunk)
 			continue;
+
 		} else {
+
 			let data = {}
+
 			if(trunk.startsWith("!")){
 				data.type = 'image'
 				data.content = trunk 
 				let re = /\((.*)\)/;
 				data.link = trunk.match(re)[1]
 				tweetImage.push(data)
+
 			} else {
 				data.type = 'text'
 				data.content = trunk 
@@ -36,12 +41,23 @@ const getTrunks = function(contents){
 				data.length = trunk.length
 				tweetText.push(data)
 			}
+
 		}
 	}
 
 	let tweets = []
 
-	console.log(`There are ${tweetImage.length} images and ${tweetText.length} paragraph in the text`)
+	console.log(
+		`There are ${tweetImage.length} images and 
+		${tweetText.length} paragraph in the text`
+	)
+
+	if (tweetImage.length === tweetText.length){
+		console.log("No PARSING Error")
+	} else {
+		console.log("Tweet Text ERROR",tweetText)
+	}
+	
 
 	for (let i = 0; i < tweetText.length; i++) {
 		let tweet = {}
@@ -52,6 +68,7 @@ const getTrunks = function(contents){
 	}
 
 	console.log(tweets)
+
 	return tweets
 }
 
@@ -100,6 +117,7 @@ export default class Video extends Component {
 
 	async setContent(){
 		let thoughts = getTrunks(this.props.postsData.content)
+
 		this.setState({
 			thoughts: thoughts,
 			activeThought: thoughts[0],

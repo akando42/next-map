@@ -10,7 +10,8 @@ summary: "When a #GeneGroup can #slowly and #secretly increase its number within
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','National Emergency','Spykman World','GeoGenetics']
 published: true
 --- 
-### Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
+
+### Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne
 The Russian reviving empire effectively executed the famous CIA-style regime change, helped Donald John Trump to overpower Hillary Rodham Clinton to become the king of America with the help of fake news and social media trolls. By the end of the investigation, the special counsel Robert Mueller can not find enough evidence to prove that Trump campaign cheated with Russian help cause the GRU aka KGB too good at cleaning their tracks.
 
 ![Facebook Ads vs Google Ads](https://storage.googleapis.com/spykman-world/Russian%20Jews%20and%20Chinese%20Control%20Ads%20Market.png)
@@ -36,6 +37,7 @@ December 30, 2016, Putin made a surprise move despite Obama’s poking. He just 
 ![Post Election Pre Presidency Tweet](https://storage.googleapis.com/spykman-world/Post-Election-Pre-Presidency-Tweet.png)
 
 ### Donald Caused White House Chaos by Firing American Top Laws and Orders Officiers
+
 January 12, 2017, Washington Post rat Flynn out with a story saying Flynn was violating the Logan act. Logan act is a US federal law that put people in jail for negotiating with another Kingdoms. Only the King and his staff can talk to other kings. Trump was not king yet as of Dec 28, 2016. Trump was pissed, tell Reince Priebus, his chief of staff at the time, to clean up the mess. Priebus and Flynn think really hard and agree to deny the phone conversation about sanction response ever happened. So Flynn told Mike Pences and all his friends at White House that he did not chat with Russian ambassador about the sanction response.
 
 ![Mike Flynn and Putin Sharing Vi-Water](https://storage.googleapis.com/spykman-world/Mike%20Flynn%20and%20Putin%20sharing%20VI-Water.png)
@@ -50,7 +52,7 @@ Well lying does not work anymore since they have the tape so Trump, McGahn and P
 
 January 27, 2017, James Comey and Donald J. Trump has a dinner date at the White House. Trump texted Comey last minutes to tell help to grab some food and Comey felt kinda bad about not getting invited ahead of time. Comey got to the dinner and felt awkward because he thought it was going to be a group dinner. However it is a dinner for two alone in a big dark room. Bannon and Prieus was jealous and Prieus want to join for dinner but Trump kicked him out. During the dinner, Trump told Comey that if Comey wants to keep his job, he has to play balls. 
 
-![President DT told James Commy in the White House](https://storage.googleapis.com/spykman-world/President_DT_Told_Chief_FBI%20(1).png)
+![President DT told James Commy in the White House](https://storage.googleapis.com/spykman-world/President_DT_Told_Chief_FBI_To_Play_Balls.png)
 
 Trump told Comey that “I need loyalty, I expect loyalty” if Comey wants to keep his job. Comey felt awkward and scared and decide to reply vaguely “You will always get honesty from me”. Trump corrected “That's what I want, honest loyalty”. James Commy later published a book on this awkward dinner with Trump.
 
