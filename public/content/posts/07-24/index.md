@@ -90,8 +90,7 @@ Trump later that afternoon call Attorney General Jeff Sessions and said: "This i
 
 ![Boss of Comey told Trump to fire Comey](https://storage.googleapis.com/spykman-world/Jeff%20Sessions%20sworn%20in%20as%20American%20TOP%20COP.png)
 
-April 12, 2017, Jeff Sessions handed Trump the resignation letter, offer to unfriend Trump but Trump decline the 
-unfriend request. However, on that day, Jeff Sessions finally made up his mind and decided to find a way to fire and unfriend Comey. Trump called McGahn 3 times to tell him to tell acting Attorney General Rosenstein to fire Comey but McGahn kept hanging up and does not follow the order.
+April 12, 2017, Jeff Sessions handed Trump the resignation letter, offer to unfriend Trump but Trump decline the unfriend request. However, on that day, Jeff Sessions finally made up his mind and decided to find a way to fire and unfriend Comey. Trump called McGahn 3 times to tell him to tell acting Attorney General Rosenstein to fire Comey but McGahn kept hanging up and does not follow the order.
 
 ![Chaos In The White House](https://storage.googleapis.com/spykman-world/Chaos%20in%20the%20White%20House.png)
 
@@ -107,33 +106,30 @@ Hope Hicks, Trump’s communication director, drafted a cool story for Trump jun
 
 ![Trump Family with Donald Jr Russian Connections](https://storage.googleapis.com/spykman-world/Trump%20family%20with%20Blackhair%20Donald%20Jr%20Russian%20Connection.png)
 
-July 19, 2017, Trump was pissed with the continuing investigation, pissed at Jeffs Sessions for not help him. 
-He told the New York Times that if he knew Sessions would be a pussy and does not stand up for him then he would have appointed someone else as Attorney General. July 22, 2017, He called McGahn, the White House counsel to check if did he get Session to resign yet ? McGahn kept ignoring and postponing the request and Trump change his mind the next few days. 
+July 19, 2017, Trump was pissed with the continuing investigation, pissed at Jeffs Sessions for not help him. He told the New York Times that if he knew Sessions would be a pussy and does not stand up for him then he would have appointed someone else as Attorney General. July 22, 2017, He called McGahn, the White House counsel to check if did he get Session to resign yet ? McGahn kept ignoring and postponing the request and Trump change his mind the next few days. 
 
 ![DT Donald White House Turn Over Rate](https://storage.googleapis.com/spykman-world/High%20Employee%20Quitting%20Firing%20Rate.png)
 
 Aug 2017, Michael Cohen lied to Congress about the Moscow Trump tower negotiation timeline as well as hush money to women who had sexual encounter with Trump. Oct 2017, Paul Manafort - Trump campaign manager and Rick Gates, the deputy campaign manager was indicted on bank fraud and failing to register as a foreign agent. Dec 2017, Mike Flynn pleaded guilty for lying to the FBI.
 
-![Stormy Daniel XO Porn Star SoViet Operative](https://storage.googleapis.com/spykman-world/Stormy%20Daniel%20XO%20Porn%20Star%20Scandal.png)
+![Stormy Daniel XO Porn Star So Viet Operative](https://storage.googleapis.com/spykman-world/Stormy%20Daniel%20XO%20Porn%20Star%20Scandal.png)
 
 April 2018, FBI raid Cohen’s office, home and hotel room. Trump called the searches "an attack on our country, in a true sense." Rudy Giuliani, Trump’s lawyer told Cohen. “"Very Very Positive. You are 'loved.' … they are in our corner … Sleep well tonight, you have friends in high places."  when he was asked about the possibility of a pardon. 
 
-![Trump Loyalists Stay Out of Jail after Trump Presidency](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Loyalists%20Get%20Gentle%20Punishments.png)
+![Trump Loyalists Stay Out of Jail after Trump Presidency](https://storage.googleapis.com/spykman-world/DT_Donald_Trump_Loyalists_Get_Gentle_Punishments.png)
 
 August 2018, Cohen pleaded guilty in August 2018 to campaign-finance violations, based on the payoffs he had made to Daniels and the other woman and said he did that in Trump direction. Trump contrasted and tweet: “I feel very badly for Paul Manafort and his wonderful family. 'Justice' took a 12-year-old tax case, among other things, applied tremendous pressure on him, and, unlike Michael Cohen, he refused to 'break' — make up stories in order to get a 'deal.' Such respect for a brave man!"
 
-![Paul Manafort Revolution Movement Consultant](https://storage.googleapis.com/spykman-world/Nation%20Creator%20and%20Deleter.png)
+![Paul Manafort Revolution Consultant](https://storage.googleapis.com/spykman-world/Nation%20Creator%20and%20Deleter.png)
 
 November 2018, Trump admitted that the discussion of the Moscow tower deal continuing throughout his campaign. Trump said. "There would have been nothing wrong if i did do it ... That was my business ... I was focused on running for president ... I was running my business while I was campaigning. There was a good chance that I wouldn't have won, in which case I would've gone back into the business. And why should I lose lots of opportunities?"
 
 ![Trump Tower in Moscow and Potential Moscow Washington Name Swap](https://storage.googleapis.com/spykman-world/Trump%20Tower%20in%20Moscow.png)
 
-
-### Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win.
-
+### Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win
 November 6, 2018, US midterm election result in a split with Republican gain seats and kept the majority in Senate while the Democrat gains enough seats in the House to flip the House to Democrate Majority. Good news but not good enough for Democrats since an Impeachment proceeding would require broad support from both House and Senate.
 
-![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
+![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT_Donald_Trump_Dead_Opponents.png)
 
 November 7, 2018, Jeff Sessions resigned as Attorney General of the United States. December 7, 2018, Trump appointed William Barr as new Attorney General. February 14, 2019, Barr was confirmed by the Senate 54-46 near party line vote as the new Attorney General. March, 2019, Mueller concluded his special counsel investigation and the final report to Barr. Barr wrote a 4 pages summary to Congress. Mueller wrote a letter expressing that Barr’s summary “had inadequately portrayed their conclusions"
 
