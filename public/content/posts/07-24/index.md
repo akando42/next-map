@@ -9,7 +9,7 @@ title: "A Mueller Walking to a Barr"
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','Spykman World','Nicholas Spykman']
 published: true
 --- 
-### Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
+## Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
 
 The Russian reviving empire effectively executed the famous CIA-style regime change, helped Donald John Trump to overpower Hillary Rodham Clinton to become the king of America with the help of fake news and social media trolls. By the end of the investigation, the special counsel Robert Mueller can not find enough evidence to prove that Trump campaign cheated with Russian help cause the GRU aka KGB too good at cleaning their tracks.
 
@@ -34,6 +34,8 @@ McFarland called Flynn later and told Flyn that Trump got Putin back, just do no
 December 30, 2016, Putin made a surprise move despite Obama’s poking. He just chilled out and ignored Obama. Trump tweeted “Great move on delay (by V Putin).”
 
 ![Post Election Pre Presidency Tweet](https://storage.googleapis.com/spykman-world/Post-Election-Pre-Presidency-Tweet.png)
+
+## Donald White House Chaos by Firing American Top Laws and Orders Officiers
 
 January 12, 2017, Washington Post rat Flynn out with a story saying Flynn was violating the Logan act. Logan act is a US federal law that put people in jail for negotiating with another Kingdoms. Only the King and his staff can talk to other kings. Trump was not king yet as of Dec 28, 2016. Trump was pissed, tell Reince Priebus, his chief of staff at the time, to clean up the mess. Priebus and Flynn think really hard and agree to deny the phone conversation about sanction response ever happened. So Flynn told Mike Pences and all his friends at White House that he did not chat with Russian ambassador about the sanction response.
 
@@ -90,7 +92,7 @@ Trump later that afternoon call Attorney General Jeff Sessions and said: "This i
 April 12, 2017, Jeff Sessions handed Trump the resignation letter, offer to unfriend Trump but Trump decline the 
 unfriend request. However, on that day, Jeff Sessions finally made up his mind and decided to find a way to fire and unfriend Comey. Trump called McGahn 3 times to tell him to tell acting Attorney General Rosenstein to fire Comey but McGahn kept hanging up and does not follow the order.
 
-![]()
+![Chaos In The White House](https://storage.googleapis.com/spykman-world/Chaos%20in%20the%20White%20House.png)
 
 May 9, 2017, James Comey was fired by Trump by recommendation Attorney General Jeff Sessions and Deputy Attorney General Rod Rosenstein. This seems to be a miscalculation by Sessions and Rosenstein since they thought by firing Comey would effectively the beginning of the end of Trump presidency. 
 
@@ -107,40 +109,50 @@ Hope Hicks, Trump’s communication director, drafted a cool story for Trump jun
 July 19, 2017, Trump was pissed with the continuing investigation, pissed at Jeffs Sessions for not help him. 
 He told the New York Times that if he knew Sessions would be a pussy and does not stand up for him then he would have appointed someone else as Attorney General. July 22, 2017, He called McGahn, the White House counsel to check if did he get Session to resign yet ? McGahn kept ignoring and postponing the request and Trump change his mind the next few days. 
 
+![DT Donald White House Turn Over Rate](https://storage.googleapis.com/spykman-world/High%20Employee%20Quitting%20Firing%20Rate.png)
+
 Aug 2017, Michael Cohen lied to Congress about the Moscow Trump tower negotiation timeline as well as hush money to women who had sexual encounter with Trump. Oct 2017, Paul Manafort - Trump campaign manager and Rick Gates, the deputy campaign manager was indicted on bank fraud and failing to register as a foreign agent. Dec 2017, Mike Flynn pleaded guilty for lying to the FBI.
+
+![Stormy Daniel XO Porn Star SoViet Operative](https://storage.googleapis.com/spykman-world/Stormy%20Daniel%20XO%20Porn%20Star%20Scandal.png)
+
+April 2018, FBI raid Cohen’s office, home and hotel room. Trump called the searches "an attack on our country, in a true sense." Rudy Giuliani, Trump’s lawyer told Cohen. “"Very Very Positive. You are 'loved.' … they are in our corner … Sleep well tonight, you have friends in high places."  when he was asked about the possibility of a pardon. 
 
 ![Trump Loyalists Stay Out of Jail after Trump Presidency](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Loyalists%20Get%20Gentle%20Punishments.png)
 
-April 2018, FBI raid Cohen’s office, home and hotel room. Trump called the searches "an attack on our country, in a true sense." Rudy Giuliani,Trump’s lawyer told Cohen. “"Very Very Positive. You are 'loved.' … they are in our corner … Sleep well tonight, you have friends in high places."  when he was asked about the possibility of a pardon
-
 August 2018, Cohen pleaded guilty in August 2018 to campaign-finance violations, based on the payoffs he had made to Daniels and the other woman and said he did that in Trump direction. Trump contrasted and tweet: “I feel very badly for Paul Manafort and his wonderful family. 'Justice' took a 12-year-old tax case, among other things, applied tremendous pressure on him, and, unlike Michael Cohen, he refused to 'break' — make up stories in order to get a 'deal.' Such respect for a brave man!"
+
+![Paul Manafort Revolution Movement Consultant](https://storage.googleapis.com/spykman-world/Nation%20Creator%20and%20Deleter.png)
 
 November 2018, Trump admitted that the discussion of the Moscow tower deal continuing throughout his campaign. Trump said. "There would have been nothing wrong if i did do it ... That was my business ... I was focused on running for president ... I was running my business while I was campaigning. There was a good chance that I wouldn't have won, in which case I would've gone back into the business. And why should I lose lots of opportunities?"
 
+![Trump Tower in Moscow and Potential Moscow Washington Name Swap](https://storage.googleapis.com/spykman-world/Trump%20Tower%20in%20Moscow.png)
+
 November 6, 2018, US midterm election result in a split with Republican gain seats and kept the majority in Senate while the Democrat gains enough seats in the House to flip the House to Democrate Majority. Good news but not good enough for Democrats since an Impeachment proceeding would require broad support from both House and Senate.
 
-November 7, 2018, Jeff Sessions resigned as Attorney General of the United States. December 7, 2018, Trump appointed William Barr as new Attorney General. February 14, 2019, Barr was confirmed by the Senate 54-46 near party line vote as the new Attorney General.
+![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
 
-March, 2019, Mueller concluded his special counsel investigation and the final report to Barr. Barr wrote a 4 pages summary to Congress. Mueller wrote a letter expressing that Barr’s summary “had inadequately portrayed their conclusions"
+November 7, 2018, Jeff Sessions resigned as Attorney General of the United States. December 7, 2018, Trump appointed William Barr as new Attorney General. February 14, 2019, Barr was confirmed by the Senate 54-46 near party line vote as the new Attorney General. March, 2019, Mueller concluded his special counsel investigation and the final report to Barr. Barr wrote a 4 pages summary to Congress. Mueller wrote a letter expressing that Barr’s summary “had inadequately portrayed their conclusions"
 
-April 2019, Department of Justice release a full REDACTED version of the Mueller’s report. Deputy Attorney General Rosenstein resigned as Deputy Attorney General. 
+![FBI has lower Authority than Military and Spies in War](https://storage.googleapis.com/spykman-world/FBI%20have%20lower%20authority%20than%20Military%20and%20Spies%20in%20War.png)
 
-May 8, 2019, The House Judiciary Committee voted along party lines to hold Barr in contempt of congress for failing to comply with a subpoena which requested the full and unredacted Mueller Report. Contempt of Congress is the act of obstructing the work of the United States Congress or one of its committees. Historically, the bribery of a U.S. Senator or U.S. Representative was considered contempt of Congress
+April 2019, Department of Justice release a full REDACTED version of the Mueller’s report. Deputy Attorney General Rosenstein resigned as Deputy Attorney General. May 8, 2019, The House Judiciary Committee voted along party lines to hold Barr in contempt of congress for failing to comply with a subpoena which requested the full and unredacted Mueller Report. Contempt of Congress is the act of obstructing the work of the United States Congress or one of its committees. Historically, the bribery of a U.S. Senator or U.S. Representative was considered contempt of Congress.
 
-July 24, 2019, Robert Mueller is a Vietnamese era Marine Corp veteran so it seems like his past experience in Vietnam affected his decision in the investigation. The impeachment of Richard Nixon essentially helps to accelerate the end of the War in Vietnam and unite the country. 
+![William Barr and US Secret Initiation of WWW3](https://storage.googleapis.com/spykman-world/William%20Barr%20and%20Ronald%20Reagon%20Cold%20War.png)
 
-September 2019, Donald Trump moved his primary residence to Mar-a-Lago in Florida when the investigation is getting close to his inner circle and maybe to stay closer to Florida Russian operatives and the escape route out of United States via submarine to Russia from Florida. 
+July 24, 2019, Robert Mueller is a Vietnamese era Marine Corp veteran so it seems like his past experience in Vietnam affected his decision in the investigation. The impeachment of Richard Nixon essentially helps to accelerate the end of the War in Vietnam and unite the country. September 2019, Donald Trump moved his primary residence to Mar-a-Lago in Florida when the investigation is getting close to his inner circle and maybe to stay closer to Florida Russian operatives and the escape route out of United States via submarine to Russia from Florida. 
 
 ![Donald Trump running from the prosecutor](https://storage.googleapis.com/spykman-world/Mar-a-Lago.png)
 
 Maybe that's why Mueller was so reluctant to charge a sitting president and impeach him because it reminded him about the war in Vietnam. Maybe he saw Trump and Russian improving relationship as a better geo-strategic position for US in the 21 century which is too obvious to be true. So he puts the ball on House of Democrat court and they just chicken out because of the timing escalating trade war with China. 
 
+![]()
+
 The Democrats can not launch impeachment during an escalating tradewar with an adversary, not like Nixon’s impeachment during a de-escalated War in Vietnam or Clinton during a peacetime. Not sure if China or Trump administration times the escalation but it was perfect timing target Trump out of the target scope.
 
-Is Russian interference in the US election in US best interest or in Russia best interest? Did Russia interfere in the 2016 Election or the MI6 or US own republican leaning CIA or The Chinese or Deep Mind from Cambridge getting out of control and starting a revolution.
+![]()
 
-Not sure who but someone definitely did interfere in this irregular election ? Trump’s continous attack on China and every other countries other than Russia is unexpectedly turning China’s image from a bougie man into a good-guy who is standing up to a bully United States under Donald Trump.
+Is Russian interference in the US election in US best interest or in Russia best interest? Did Russia interfere in the 2016 Election or the MI6 or US own republican leaning CIA or The Chinese or Deep Mind from Cambridge getting out of control and starting a revolution. Not sure who but someone definitely did interfere in this irregular election ? Trump’s continous attack on China and every other countries other than Russia is unexpectedly turning China’s image from a bougie man into a good-guy who is standing up to a bully United States under Donald Trump.
 
 Trump’s aggression is pushing Japan, India and Germany closer to China like how Italy was pushed closer to England because of Prussian’s aggression before World War One. Maybe Deep Mind believe China is a better policeman and should lead the world in 21 century.
 
-![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
+
