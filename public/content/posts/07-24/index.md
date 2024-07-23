@@ -137,7 +137,7 @@ November 7, 2018, Jeff Sessions resigned as Attorney General of the United State
 
 April 2019, Department of Justice release a full REDACTED version of the Mueller’s report. Deputy Attorney General Rosenstein resigned as Deputy Attorney General. May 8, 2019, The House Judiciary Committee voted along party lines to hold Barr in contempt of congress for failing to comply with a subpoena which requested the full and unredacted Mueller Report. Contempt of Congress is the act of obstructing the work of the United States Congress or one of its committees. Historically, the bribery of a U.S. Senator or U.S. Representative was considered contempt of Congress.
 
-![William Barr and US Secret Initiation of WWW3](https://storage.googleapis.com/spykman-world/William%20Barr%20and%20Ronald%20Reagon%20Cold%20War.png)
+![Barr Blocking Release of Robert Muller Report](https://storage.googleapis.com/spykman-world/W%20Barr%20Donald%20Team.png)
 
 July 24, 2019, Robert Mueller is a Vietnamese era Marine Corp veteran so it seems like his past experience in Vietnam affected his decision in the investigation. The impeachment of Richard Nixon essentially helps to accelerate the end of the War in Vietnam and unite the country. September 2019, Donald Trump moved his primary residence to Mar-a-Lago in Florida when the investigation is getting close to his inner circle and maybe to stay closer to Florida Russian operatives and the escape route out of United States via submarine to Russia from Florida. 
 
@@ -145,14 +145,17 @@ July 24, 2019, Robert Mueller is a Vietnamese era Marine Corp veteran so it seem
 
 Maybe that's why Mueller was so reluctant to charge a sitting president and impeach him because it reminded him about the war in Vietnam. Maybe he saw Trump and Russian improving relationship as a better geo-strategic position for US in the 21 century which is too obvious to be true. So he puts the ball on House of Democrat court and they just chicken out because of the timing escalating trade war with China. 
 
-![]()
+![William Barr and US Secret Initiation of WWW3](https://storage.googleapis.com/spykman-world/William%20Barr%20and%20Ronald%20Reagon%20Cold%20War.png)
 
-The Democrats can not launch impeachment during an escalating tradewar with an adversary, not like Nixon’s impeachment during a de-escalated War in Vietnam or Clinton during a peacetime. Not sure if China or Trump administration times the escalation but it was perfect timing target Trump out of the target scope.
+The Democrats can not launch impeachment during an escalating tradewar with an adversary, not like Nixon’s impeachment during a de-escalated War in Vietnam or Clinton during a peacetime. Not sure if China or Trump administration times the escalation but it was perfect timing to get Trump out of the target scope.
 
-![]()
+![Xi visit Donald Mar-a-Lago Mansion](https://storage.googleapis.com/spykman-world/XI%20visit%20Donald.png)
 
-Is Russian interference in the US election in US best interest or in Russia best interest? Did Russia interfere in the 2016 Election or the MI6 or US own republican leaning CIA or The Chinese or Deep Mind from Cambridge getting out of control and starting a revolution. Not sure who but someone definitely did interfere in this irregular election ? Trump’s continous attack on China and every other countries other than Russia is unexpectedly turning China’s image from a bougie man into a good-guy who is standing up to a bully United States under Donald Trump.
+Aug 2019, 2019, the Supreme Court announced that Ginsburg, one of its 9 Judges, recently have been going through cancer treatment. Eventually, the Supreme Court Justice Joan Ruth Bader Ginsburg, appointed by Bill Clinton, passed away on September 18, 2020 leaving a vacant spot for Trump's appointed Supreme Court Justice, Amy Coney Barrett. Barrett sworn in 1 week later making the Supreme Court Republican-leaning with 5 out of 9 Judges appointed by a Republican president. Supreme Court justices can not be replaced unless they died or incapacitated and have authority to make or break Presidential and Congress policies.
 
-Trump’s aggression is pushing Japan, India and Germany closer to China like how Italy was pushed closer to England because of Prussian’s aggression before World War One. Maybe Deep Mind believe China is a better policeman and should lead the world in 21 century.
+![Nomination of Friendly Judge to replace Unfriendly One](https://storage.googleapis.com/spykman-world/Nomination%20of%20Friendly%20Juddge%20to%20Replace%20Unfriendly%20One.png)
 
+After the first attempt at using the Presidental National Emergency Declaration to authorize the use of Military Personnels on US soil to build a Mexican Southern Border Wall in Feb 15, 2019, Donald once again used the Presidental National Emergency Declaration to authorize the use of Doctors and Medical Personels to take over US key power positions and eliminate any opposition during the Chaos of the Novel COVID-19. Presidental National Emergency Declaration has only been used once to authorize the use of US military on US soil during 9-11 attack by George Bush. Rossovelt Presidental National Emergency Declaration once to declare war on Nazi Germany and Truman used Presidental National Emergency Declaration once to start the Korean War. 
+
+![The Novel Made-UP COVID19](https://storage.googleapis.com/spykman-world/covid-19-pandemics.png)
 
