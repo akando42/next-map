@@ -3,14 +3,13 @@ zoom: 10
 lat: 27.771313182469545
 lng: -82.61130237406577
 path: "/a-mueller-walking-to-a-barr"
-cover: "content/posts/07-24/geogenetics_russian_american_domination.png"
+cover: "content/posts/07-24/geogenetics_russian_american_domination.jpg"
 date: "07-24"
 title: "A Mueller Walking to a Barr"
 summary: "When a #GeneGroup can #slowly and #secretly increase its number within a #foreignEcosystem until it reaches its #CriticalMass, that gene group will inevitably become the new #dominantAlpha in its new environment."
 tags: ['Robert Mueller', 'William Barr', 'Justice Department', 'Special Counsel', 'FBI','Election Interference','Conspire','Collusion','Russia','Trump Campaign','Paul Manafort','National Emergency','Spykman World','GeoGenetics']
 published: true
 --- 
-
 ### Putin checkmated Hillary Clinton by returning the favor during 2016 US Game of Throne.
 The Russian reviving empire effectively executed the famous CIA-style regime change, helped Donald John Trump to overpower Hillary Rodham Clinton to become the king of America with the help of fake news and social media trolls. By the end of the investigation, the special counsel Robert Mueller can not find enough evidence to prove that Trump campaign cheated with Russian help cause the GRU aka KGB too good at cleaning their tracks.
 
@@ -129,6 +128,7 @@ November 2018, Trump admitted that the discussion of the Moscow tower deal conti
 
 
 ### Russian Sleeper Agents Start to Execute People to Ensure Donald Election Win.
+
 November 6, 2018, US midterm election result in a split with Republican gain seats and kept the majority in Senate while the Democrat gains enough seats in the House to flip the House to Democrate Majority. Good news but not good enough for Democrats since an Impeachment proceeding would require broad support from both House and Senate.
 
 ![DT Donald Trump Dead Oppositions](https://storage.googleapis.com/spykman-world/DT%20Donald%20Trump%20Dead%20Opponents%20(1).png)
