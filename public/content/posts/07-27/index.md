@@ -146,3 +146,6 @@ An entire East and West coastline from North to South would open up vast potenti
 The greatest potential leap would be better resource allocation from defensive military spending to economic development, education and outward naval capability.
 
 
+![Keangnam and Landmark 72](https://storage.googleapis.com/spykman-world/2%20Keangnam%20and%201%20Landmark72%20-%202%20Korean%20Men%20and%201%20BobA.png)
+
+
