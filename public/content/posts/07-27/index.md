@@ -20,22 +20,23 @@ Wang Geon was born in 877 to a powerful merchant family based in Songak, modern 
 
 ![Taejo of Goryeo](https://storage.googleapis.com/spykman-world/Taejo%20of%20Goryeo.png)
 
-Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into three main territorials: the Northern Delta region belongs to Goguryeo, the Southern Delta is controlled by Baekje and the Eastern mountainous region and its Eastern ports controlled by Silla. With advantages in cavalries from his ancestor Northern tribes, Wang Geon was able to first overtake Baekje capital in the South and then with the combine Cavalry and Navy eventually overrun Silla Capital in the East and unite Korea.
+Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into three main territorials: the Northern Delta region belongs to Goguryeo, the Southern Delta is controlled by Baekje and the Eastern mountainous region and its Eastern ports controlled by Silla. With advantages in cavalries from his ancestor Northern tribes, Wang Geon was able to first overtake Baekje capital in the South and then with the combined Cavalry and Navy eventually overrun Silla Capital in the East and unite Korea.
 
 ![The End of Korea Three Kingdom Period](https://storage.googleapis.com/spykman-world/Korean%20Three%20Kingdom%20Period.png)
 
-
 ### North - South division, how did it happen 
+
+![Korea Major Geographic Areas](https://storage.googleapis.com/spykman-world/Korean%20Major%20Geographic%20Regions.png)
+
+![East Asian Phoenetic Alphabets](https://storage.googleapis.com/spykman-world/East%20Asian%20Phoenetic%20Alphabets.png)
 
 Before the end of WWII, Korea was under Japanese occupation. After the war ended, Soviet Union and the United States divided up the Korean peninsula along the 38th parallel into North and South Korea. The North follows the Soviet Communist model and the South follows the American capitalist model. A unification election for the entire Korean peninsula, very similar to Vietnam later in 1954, was promised but never happened. 
 
-![38th Parallel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Korea_DMZ.svg/1280px-Korea_DMZ.svg.png)
+![Korea Major Rivers](https://storage.googleapis.com/spykman-world/Korean%20Major%20Rivers%20as%20Diving%20Lines%20in%203%20Kingdoms%20Period.png)
 
 1949, The Communist Chinese forces drove the Nationalist Kuomintang force off Mainland China to Taiwan and ended the Chinese Civil War. Nationalist Kuomintang Chinese Government still hold a UN seat after the end of Chinese Civil War until 1971. Now the Communist bloc turned their focus to the Korean Peninsula. 
 
-29 August 1949, Soviet Union also successfully tested its first nuclear weapon. 
-
-June 25 - 1950, with the military equipment aids from China and Russia, North Korea forces crossed the 38th parallel in an attempt to unify the Korean peninsula under Communist leadership. Under-equipped and under-prepared South Korean Army were caught by surprise. After 4 days on June 28,  Seoul - the capital city of South Korea has fallen. 
+29 August 1949, Soviet Union also successfully tested its first nuclear weapon. June 25 - 1950, with the military equipment aids from China and Russia, North Korea forces crossed the 38th parallel in an attempt to unify the Korean peninsula under Communist leadership. Under-equipped and under-prepared South Korean Army were caught by surprise. After 4 days on June 28,  Seoul - the capital city of South Korea has fallen. 
 
 ![Seoul](https://previews.dropbox.com/p/thumb/AAg4yC2ShU6HdKHS40Xc7aC6wWiqLNDDkZa7tDpBNk6OURnIYnvpW66CyvZzgM_8pbutMrT7Vu6oS7V5ZAE7zDyRjU0kvspYhi3Zh_sSZALeCNxttd8MC7KStBSCxYmUHPytbnBPfbiC1Ooc8es7f9DGkGJD-XX-wFnXVlH506lRzZ-4pLZefx9uEBhx19mx4T5wCo2rJI0z9DEPn3XV2Jmi5UEuKWc1YlUMS-8qHkxnN6wYmGHXwCXEwPrm9Arl32W8ASU_oM8cm9YngQbMlf2PKC9wLAYPrrmmE5IkPavEthrkUjNoKSrghhC0FbP-u_eQ0AbhQq2nqCJOTyrlf-zT/p.jpeg?fv_content=true&size_mode=5)
 
@@ -74,13 +75,15 @@ General MacArther was considering using Nuclear Weapons against Chinese and Nort
 
 No peace settlement has been achieved in Korea peninsula since this Armistice agreement. 
 
+![John Security Area - DMZ](https://storage.googleapis.com/spykman-world/Join%20Security%20Area%20-%20DMZ%20North%20South%20Korea.png)
+
 So why Kim Jong Un wants his Nuclear Weapon ? Well because MacArther was very close to use US Nuclear Weapon against North Korea and Chinese forces during the Korean War and his grandfather as well as Wikipedia told him that. 
 
-![DMZ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/070401_Panmunjeom3.jpg/1920px-070401_Panmunjeom3.jpg)
-
-![East Asian Phoenetic Alphabets](https://storage.googleapis.com/spykman-world/East%20Asian%20Phoenetic%20Alphabets.png)
+![North Korea Artilery Positions](https://storage.googleapis.com/spykman-world/North%20Korea%20Artilery%20Positions.png)
 
 ### Modern Unified Korea and Its Potential in the Global Stage
+
+![East Asia Cold Region Cities](https://storage.googleapis.com/spykman-world/Cold%20Region%20East%20Asia%20Major%20Cities.png)
 
 Korean path to unification is pretty mucky. China probably wants a buffer state between its border and American military bases. 
 
