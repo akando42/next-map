@@ -6,7 +6,8 @@ path: "/one-korea-and-the-awakening-of-third-asian-tigers"
 cover: "content/posts/07-27/spykman-world-one-korea-and-the-awakening-of-third-asian-tigers.png"
 date: "07-27"
 title: "One Korea And The Awakening Of Third Asian Tigers"
-tags: ['OK', 'One Korea', 'North Korea','South Korea','Korean Armistice Agrement','Wang Geon','Kaesong','Keasong Industrial Complex','United Korea','Spykman World','Nicholas Spykman']
+summary : "#War and #Chaos is the fastest way to #Update the #GeneticsMakeup of a population. And this #GeneUpdating processes could be much easier to #ControlPrecisely with #Artificial #BorderLines and #MassDeportation via #Trains like in Korea or Vietnam."
+tags: ['OK', 'One Korea', 'North Korea','South Korea','Korean Armistice Agrement','Wang Geon','Binh Duong','Pyong Yang','United Korea','Spykman World','Nicholas Spykman']
 published: true
 ---
 ## One Korea And The Awakening Of Third Asian Tigers
@@ -98,14 +99,27 @@ One potential scenario would lead to the Korean Peninsula unification that would
 
 So how a unified Korea would look like: A combined North-South Korea possesses vast natural resource and mineral as well as infrastructure and sea port that would be a great boost to the overall Korean industrial strength. An South-Korean educated North Korean young workforce would at least double Korea GDP from current 1.6 Trillion USD to 3 Trillion USD after ONE decade, surpassing the United Kingdom to take the number 5 spot after US, China, Japan and Germany. 
 
+![South Korean Chaebol as part of GDP](https://storage.googleapis.com/spykman-world/South%20Korean%20Chaebol.png)
+
 A combined population of 75 millions plus potential North Korea larger population growth would put Korea next to Germany in population size. An entire East and West coastline from North to South would open up vast potential trading ports and commerce with US, China and Japan. The greatest potential leap would be better resource allocation from defensive military spending to economic development, education and outward naval capability.
+
+![South Korean K2 Tank Exported to Poland](https://storage.googleapis.com/spykman-world/SoKo%20K2%20Exported%20to%20Poland.png)
+
+With a common spoken and writing system and closely similiar genetics lines of some South Korean and North Korean population, there must be already many secret collaboration projects between North Korean and South Korean engineers that could lead to eventual unification between North and South like their Vietnamese counterpart. 
 
 ![Keangnam and Landmark 72](https://storage.googleapis.com/spykman-world/2%20Keangnam%20and%201%20Landmark72%20-%202%20Korean%20Men%20and%201%20BobA.png)
 
+However, the United States and NATO has the incentive to hold the dividing line to fully transform the South Korean landscape as well as containing and slowing the population growth and technical advances of North Korea so eventually when the DMZ is removed, the heavily Southern Blood type A would easily overpower their Northern brothers and sisters. So once again in December 2019, the United States and NATO are preemptively launching bio weapons and economic disruption programs in East Asia to slow down Chinese, Japanese, Korean and Vietnamese population growth and technical advances. 
+
 ![US Novel Faked COVID19 Emergency](https://storage.googleapis.com/spykman-world/US%20Novel%20Faked%20COVID%20Emergency.png)
 
-![Compliance Habit Forming](https://storage.googleapis.com/spykman-world/Compliance%20Habit%20Forming.png)
+The NSA and CIA are launching many propaganda campaigns via the Internet, Television Entertainment and local agents to cause social division within East Asian societies. Cash and technology are being injected asymmetrically to empower East Asian blood type A while weaken blood type B and C command and control.
 
 ![South Korean Engineers Under House Arrest in Silicon Valley](https://storage.googleapis.com/spykman-world/Korean%20Research%20Engineers%20Under%20House%20Arrest%20in%20Silicon%20Valley.png)
+
+
+
+
+
 
 
