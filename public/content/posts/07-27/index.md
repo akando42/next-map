@@ -21,7 +21,7 @@ Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into 
 
 ![The End of Korea Three Kingdom Period](https://storage.googleapis.com/spykman-world/Korean%20Three%20Kingdom%20Period.png)
 
-918 AD, The Korean Peninsula was fully united the first time as the Kingdom of Goryeo. Wang Geon’s Kingdom of Goryeo would oversee an unprecedented flourishing of Korean culture and its name is the origin of modern Korea’s English name. Wang Geon was given the posthumous title of Taejo meaning 'Great Founder' and place his capital in the same location as modern day North Korean capital, Pongyang or Binh Duong. 
+918 AD, The Korean Peninsula was fully united the first time as the Kingdom of Goryeo. Wang Geon placed his capital in the same location as modern day North Korean capital, Pongyang or Binh Duong and his Kingdom of Goryeo would oversee an unprecedented flourishing of Korean culture. Goryeo is the original phonetic sound of modern English name, Korea. Wang Geon later on was given the posthumous title of Taejo meaning 'Great Founder'.
 
 ![Ancient Korean Kingdom Goguryeo](https://storage.googleapis.com/spykman-world/Ancient%20Korean%20Kingdom%20and%20its%20Capital.png)
 
