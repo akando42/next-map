@@ -12,17 +12,17 @@ published: true
 ## One Korea And The Awakening Of Third Asian Tigers
 ### The Founding of United Korea
 
-918 AD, The Korean Peninsula was fully united the first time as the Kingdom of Goryeo. After a period of internal in-fighting between three kingdoms, Silla,  ater Baekjie and Later Goguryeo, Wang Geon, a gifted military commander via a coup and several successful military campaigns again Silla and Later Baekjie officially end the Korean Peninsula civil war. Wang Geon’s Kingdom of Goryeo would oversee an unprecedented flourishing of Korean culture and its name is the origin of modern Korea’s English name. Wang Geon was given the posthumous title of Taejo meaning 'Great Founder.' 
-
-![Ancient Korean Kingdom Goguryeo](https://storage.googleapis.com/spykman-world/Ancient%20Korean%20Kingdom%20and%20its%20Capital.png)
-
-Wang Geon was born in 877 to a powerful merchant family based in Songak, modern Kaesong. Geon’s family gained great wealth via ocean trading with China and Japan. Wang Geon traced his ancestors to the first known Korean Kingdom of Goguryeo with its ancient capital of Pyongyang, modern North Korea capital. Wang Geon was a big believer in Pungsu, the practice of meticulously selection of geographical locations to take advantage of natural energy forces. He applied Pungsu carefully in his choices of main and regional capitals' location.
+Wang Geon was born in 877 to a powerful merchant family based in Songak, modern Kaesong. Geon’s family gained great wealth via ocean trading with China and Japan. Wang Geon's grandfather traces his ancestry to the Northern nomadic tribes of Manchuria. Wang Geon was a big believer in Pungsu, the practice of meticulously selection of geographical locations to take advantage of natural energy forces. He applied Pungsu carefully in his choices of the capital and region military base locations.
 
 ![Taejo of Goryeo](https://storage.googleapis.com/spykman-world/Taejo%20of%20Goryeo.png)
 
-Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into three main territorials: the Northern Delta region belongs to Goguryeo, the Southern Delta is controlled by Baekje and the Eastern mountainous region and its Eastern ports controlled by Silla. With advantages in cavalries from his ancestor Northern tribes, Wang Geon was able to first overtake Baekje capital in the South and then with the combined Cavalry and Navy eventually overrun Silla Capital in the East and unite Korea.
+Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into three main territorials: the Northern Delta region belongs to Goguryeo, the Southern Delta is controlled by Baekje and the Eastern mountainous region and its Eastern ports controlled by Silla. With advantages in both cavalries from his ancestor Northern tribes and the family newfounded ocean trading trait, Wang Geon, the gifted military commander, was first be able to overtake Goguryeo capital via a coup, then overtake Baekje capital in the South and then with the combined Cavalry and Navy eventually overrun Silla Capital in the East and unite Korea.
 
 ![The End of Korea Three Kingdom Period](https://storage.googleapis.com/spykman-world/Korean%20Three%20Kingdom%20Period.png)
+
+918 AD, The Korean Peninsula was fully united the first time as the Kingdom of Goryeo. Wang Geon’s Kingdom of Goryeo would oversee an unprecedented flourishing of Korean culture and its name is the origin of modern Korea’s English name. Wang Geon was given the posthumous title of Taejo meaning 'Great Founder' and place his capital in the same location as modern day North Korean capital, Pongyang or Binh Duong. 
+
+![Ancient Korean Kingdom Goguryeo](https://storage.googleapis.com/spykman-world/Ancient%20Korean%20Kingdom%20and%20its%20Capital.png)
 
 ### North - South division, how did it happen 
 
