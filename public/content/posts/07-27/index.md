@@ -47,7 +47,7 @@ Both North Korean and South Korean will go through the gene-updating policies se
 
 ![So Viet Union First Nuclear Test](https://storage.googleapis.com/spykman-world/Soviet%20Union%20First%20Nuclear%20Test.png)
 
-June 30, President Truman authorize Far East Commander in Chief to use all available force to stop the North Korean invasion. July 7, 1950, The United Nation passed Security Council Resolution 84 on to deploy military forces in Korean peninsula with: 7 supports from the UK, Ecuador, France, Norway and the United States, the Nationalist Chinese Government (Taiwan),  Cuba ( under Batista government). 3 abstains from Egypt, India and Yugoslavia. 1 Absent from Soviet Union, a veto-wielding power.
+June 30, President Truman authorize Far East Commander in Chief to use all available force to stop the North Korean invasion. July 7, 1950, The United Nation passed Security Council Resolution 84 to deploy military forces in Korean peninsula with: 7 supports from the UK, Ecuador, France, Norway and the United States, the Nationalist Chinese Government (Taiwan),  Cuba ( under Batista government). 3 abstains from Egypt, India and Yugoslavia. 1 Absent from Soviet Union, a veto-wielding power.
 
 ![UN Security Council Resolution 84](https://storage.googleapis.com/spykman-world/Security%20Council%20Resolution%2084.png)
 
