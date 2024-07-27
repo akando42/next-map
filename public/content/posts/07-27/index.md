@@ -109,11 +109,11 @@ With a common spoken and writing system and closely similiar genetics lines of s
 
 ![Keangnam and Landmark 72](https://storage.googleapis.com/spykman-world/2%20Keangnam%20and%201%20Landmark72%20-%202%20Korean%20Men%20and%201%20BobA.png)
 
-However, the United States and NATO has the incentive to hold the dividing line to fully transform the South Korean landscape as well as containing and slowing the population growth and technical advances of North Korea so eventually when the DMZ is removed, the heavily Southern Blood type A would easily overpower their Northern brothers and sisters. So once again in December 2019, the United States and NATO are preemptively launching bio weapons and economic disruption programs in East Asia to slow down Chinese, Japanese, Korean and Vietnamese population growth and technical advances. 
+However, the United States and NATO has the incentive to hold the dividing line to fully transform the South Korean genetics landscape as well as containing and slowing the population growth and technical advances of North Korea so eventually when the DMZ is removed, the heavily Southern Blood type A would easily overpower their Northern brothers and sisters. Hence once again in December 2019, the United States and NATO preemptively launched bio weapons and economic disruption programs in East Asia to slow down Chinese, Japanese, Korean and South East Asians population growth and technical advances. 
 
 ![US Novel Faked COVID19 Emergency](https://storage.googleapis.com/spykman-world/US%20Novel%20Faked%20COVID%20Emergency.png)
 
-The NSA and CIA are launching many propaganda campaigns via the Internet, Television Entertainment and local agents to cause social division within East Asian societies. Cash and technology are being injected asymmetrically to empower East Asian blood type A while weaken blood type B and C command and control.
+Since 2019, The NSA and CIA are launching propaganda campaigns via the Internet, Television Entertainment, Radio Waves and local agents to cause social divisions and civil wars within East Asian societies. Cash and technology are being injected asymmetrically to empower East Asian blood type A while weaken blood type B and C command and control.
 
 ![South Korean Engineers Under House Arrest in Silicon Valley](https://storage.googleapis.com/spykman-world/Korean%20Research%20Engineers%20Under%20House%20Arrest%20in%20Silicon%20Valley.png)
 
