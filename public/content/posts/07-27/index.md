@@ -71,7 +71,7 @@ They inflicted heavy casualties to UN forces at the battle of Onjong, battle of 
 
 ![Chinese Forces vs UN Forces](https://storage.googleapis.com/spykman-world/Chinese%20vs%20UN%20Forces%20Oct%201950%20-%20Jan%201951.png)
 
-General MacArthur was considering using Nuclear Weapons against Chinese and North Korean forces that woudld risk starting WW3 nuclear war and was removed by Truman in June 1951. The fighting felt into a stalemate from July 1951 to 1953 and on July 30, 1953 the North Korean Armistice Agreement was signed between UN Command, North Korean KPA and Chinese PVA to cease fire. No peace settlement has been achieved in Korea peninsula since this Armistice agreement. 
+General MacArthur was considering using Nuclear Weapons against Chinese and North Korean forces that would risk starting WW3 nuclear war and was removed by Truman in June 1951. The fighting felt into a stalemate from July 1951 to 1953 and on July 30, 1953 the North Korean Armistice Agreement was signed between UN Command, North Korean KPA and Chinese PVA to cease fire. No peace settlement has been achieved in Korea peninsula since this Armistice agreement. 
 
 ![John Security Area - DMZ](https://storage.googleapis.com/spykman-world/Join%20Security%20Area%20-%20DMZ%20North%20South%20Korea.png)
 
