@@ -6,7 +6,8 @@ path: "/supercarrier-like-uss-forrestal-is-unsinkable"
 cover: "content/posts/07-29/spykman-world-aircraft-carrier-strike-group.png"
 date: "07-29"
 title: "Aircraft Carrier Strike Group and Its Evolution"
-tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US Navy','Blue Ocean Navy','Submarines','Longrange Missle','Missile Destroyer','Spykman World','Nicholas Spykman']    
+summary: "#ModernHumans are the best and quickest learners and tool buildiers on the plannet. Since the dawn of #HU #MAN, men are building increasingly more #Sophisticated tools to expand their #genes, their #territorials and keep other #CompeitingGenes #UnderControl."
+tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US Navy','Blue Ocean Navy','Submarines','Longrange Missle','Missile Destroyer','GeoGenetics', "Geography", "Genetics"]
 published: true
 ---
 ### The Urbanization Process of Coastal Cities

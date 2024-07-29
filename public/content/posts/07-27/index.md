@@ -7,7 +7,7 @@ cover: "content/posts/07-27/spykman-world-one-korea-and-the-awakening-of-third-a
 date: "07-27"
 title: "One Korea And The Awakening Of Third Asian Tigers"
 summary : "#War and #Chaos is the fastest way to #Update the #GeneticsMakeup of a population. And this #GeneUpdating processes could be much easier to #ControlPrecisely with #Artificial #BorderLines and #MassDeportation via #Trains like in Korea or Vietnam."
-tags: ['OK', 'One Korea', 'North Korea','South Korea','Korean Armistice Agrement','Wang Geon','Binh Duong','Pyong Yang','United Korea','Spykman World','Nicholas Spykman']
+tags: ['OK', 'One Korea', 'North Korea','South Korea','Korean Armistice Agrement','Wang Geon','Binh Duong','Pyong Yang','United Korea','GeoGenetics','Geography', 'Genetics']
 published: true
 ---
 ## One Korea And The Awakening Of Third Asian Tigers
