@@ -21,7 +21,7 @@ The television images of city life draw millions of young adults from their spac
 
 The cities of light along East Asia Coastlines extended human productivity duration from 10 hours of daylight to 16 hours or more. Direct interaction with hundreds of coworkers and acquaintances resulted in exponential improvement in large group productivity growth. 
 
-![Chengdu City Light at Night](https://storage.googleapis.com/spykman-world/Chengdu%20Citylight%20at%20Night.png)
+![Guangzhou City Light at Night](https://storage.googleapis.com/spykman-world/Quang%20Chau%20City%20Light.png)
 
 After the failed attempts of Japan and the Qing dynasty to dominate the United States and European Power during the Opium Wars, World War 1 and World War to achieve their Alpha status, Japan and other East Asia has accepted their Beta status. East Asia will be the manufacturer and producer of goods with limited defense capability while United States and NATO allies will be the Capital Investors with dominating defense capability. 
 
@@ -29,18 +29,19 @@ After the failed attempts of Japan and the Qing dynasty to dominate the United S
 
 The comfortable city life with hundreds of options for everything from clothing to food, drink and entertainment within a walking distance also became a magnet that attracted East Asian females first from the mountain cities and deep inland towns to the coastal cities and then from the East Asian coastal cities to foreign lands of the United States and European nations.
 
-![]()
+![Thuong Hai Street Food at Night](https://storage.googleapis.com/spykman-world/Thuong%20Hai%20City%20Light.png)
 
 The ability of United States Naval forces to both provide Air cover as well as threaten the East Asian coastal cities is essential for their ability to maintain their Alpha status over other East Asian powers. As a result, US Naval planners built exactly 01 Modern Nuclear Aircraft Carrier per major East Asian coastal cities. 
 
-![]()
+![](https://storage.googleapis.com/spykman-world/Can%20Easily%20Bomb%20Any%20East%20Asian%20Building.png)
 
 Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the Emperor sperms and finally select the best son from these satellite cities for the emperor position. 
 
-![]()
+![Yorktown Class Carrier](https://storage.googleapis.com/spykman-world/yorktown_class_carrier.png)
 
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
+
 Aircraft carriers were a break-through during WWII and first used effectively and extensively by the British and Japanese Imperial Navy. It was a giant leap of innovation from the traditional large gun battleships. British aircraft carrier HMS Ark Royal was able to sink the German largest battleship Bismark during the German battleship's first offensive operation in World War 2.  
 
 ![Bismark Battleships](https://storage.googleapis.com/spykman-world/Bismarck_Battleship.png)
@@ -49,9 +50,9 @@ And the Japanese Imperial Navy was able to deal a heavy blow to the American bat
 
 ![Japanese ZERO view during Pearl Harbor](https://storage.googleapis.com/spykman-world/american_battle_ships_in_pearl_harbor.png)
 
-The first aircraft carrier was built in the Engineering island of England, also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control the North Atlantic Sea or severely disrupted the British supplyline. With a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
+The first aircraft carrier was built in the Engineering island of England, also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control the North Atlantic Sea or severely disrupted the British supplyline. And with a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well as the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
 
-![]()
+![Japanese Carrier with no Armor Deck Vulnerable to American dive bomber](https://storage.googleapis.com/spykman-world/Japanese%20Carrier%20without%20Armor%20Deck.png)
 
 Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley ***has no Control Tower above the deck*** and can carry up to 36 aircrafts. The USS Langley served as both the ***first experimental mobile long range recon and attack platform*** for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunition as well as a medieval catapult-like device to launch aircrafts off the deck.
 
@@ -77,15 +78,13 @@ The first Nimitz Class carriers was finished right after the Vietnam War. Nimitz
 
 ![Nimitz Class Aircraft carrier](https://storage.googleapis.com/spykman-world/nimitz_class_carrier.png)
 
-Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network as well as additional Air-borne radar aircrafts, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. 
+Nimitz class is a strategic transition of US Carrier role from a Sea control platform to a Coastal cities control platform. With the cutting edge US Radar and Satelite network as well as additional Air-borne radar aircrafts, United States naval strike force is still alway be able to detect any hostile forces above the waterline first and launch their attacks first. US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers. The Nimitz class carriers saw most actions during the Gulf War against Iraq military. While Nimitz aircrafts came under fire from Iraq airforces, the carrier itself was never in the firing range of any Iraqi aircrafts or naval ships.
 
 ![Nimitz Class](https://storage.googleapis.com/spykman-world/Nimitz_class_Carrier01.png)
 
 The unlimited range US Nuclear-powered carrier can use her aircrafts to threaten any coastal cities along the Mediterranean, the Indian Ocean, the Pacific Ocean and could be escorted by other unlimited-range nuclear-powered attack submarines like the Virginia or Los Angles class attack Submarines.
 
 ![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
-
-US Navy is currently operating 10 nuclear-powered Nimitz Class aircraft carriers. The Nimitz class carriers saw most actions during the Gulf War against Iraq military. While Nimitz aircrafts came under fire from Iraq airforces, the carrier itself was never in the firing range of any Iraqi aircrafts or naval ships.
 
 The new aircraft carrier USS Gerald R. Ford was the 1st of its new class. Its construction begins on Nov 13, 2009 and finally commisioned by Donald Trump, the 45th President of United States July 22, 2017. FORD Aircraft Class Carrier comes with latest Surface and Air search radar, fully automated Close-In weapon defense system, electro-magnetic atapult launching system as well as a larger parking space at the tail to allow more Aircrafts load.
 
