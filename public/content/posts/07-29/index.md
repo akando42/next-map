@@ -106,27 +106,23 @@ The two main defenders of the Aircraft Carrier Strike Group is the Ticonderoga c
 
 For surface ships, the Ticonderoga class cruisers can ultilize its Surface-search radar for detection and tracking as well as its Naval artileries, Phalanx automated machine gun or anti-ship harpoon missiles launched via its MK41 vertical launchers. And for anti-submarines warfare, the Ticonderoga class comes with its a submarine-hunting helicopter and two MK32 torpedos launchers.
 
-![]()
+![Seahawk Anti Submarine Helicopter](https://storage.googleapis.com/spykman-world/Seahawk%20Anti-Submarine%20Helicopter.png)
 
 Burke class destroyers is a smaller, lighter, faster and cheaper carriers strike group defender than the Ticonderoga class but come with the same high resolution long range AEGIS air and surface search radars as well as well-rounded vertically launched anti-ship, anti-air, anti-ballistic-missile and ground attack missiles. Both Ticonderoga and Burke can intercept and destroy any air and surface hostile objects with the Ticonderoga slighly better at anti-submarine while Burke class slightly better at anti-air.
 
 ![Burke](https://storage.googleapis.com/spykman-world/burke-class-destroyer.png)
 
-The main anti-submarine capability of the Carrier Strike Group is its escort Attack submarines belong to the Los Angeles, Virginia or Sea Wolf class. All escort attack submarines come with a nuclear-powered engine and can travel at the same speed and range as the nuclear-powered Aircraft Carrier. The Los Angeles Nuclear Attack submarines is the first nuclear-powered submarine class being mass-manufacturing by the United States Navy. There are currently 26 active Los Angles submarines without any more new one being built.
+The main anti-submarine capability of the Carrier Strike Group is its escort Attack submarines belong to the Los Angeles, Virginia or Sea Wolf class. All escort attack submarines come with a nuclear-powered engine and can travel at the same speed and range as the nuclear-powered Aircraft Carrier. The Los Angeles Nuclear Attack submarines is the first nuclear-powered submarine class being mass-manufacturing by the United States Navy. There are currently 26 active Los Angles submarines without any more new one being built. Los Angles nuclear attack submarines come with Vertical launchers for Harpoon antiship missiles and Tomahawk cruise missiles and tube-launched torpedos to anti-submarines tasks.
 
 ![Los Angeles Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/Los_Angeles_attack_submarines.png)
 
-Los Angles nuclear attack submarines come with Vertical launchers for Harpoon antiship missiles and Tomahawk cruise missiles and tube-launched torpedos to anti-submarines tasks.
+Sea Wolf nuclear attack submarines was designed and built as a replacement for the Los Angeles Class submarines with better sonar, bigger and stronger hull that can carry more missiles and torpedos. Even though the Sea Wolf class is larger, it is more quiet and faster than Los Angeles class submarine. However, the Sea Wolf Class has become too expensive to build and maintain and the program was discontinued in 2005.
 
 ![Sea Wolf Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/Seawolf_Attack_Submarines.png)
 
-Sea Wolf nuclear attack submarines was designed and built as a replacement for the Los Angeles Class submarines with better sonar, bigger and stronger hull that can carry more missiles and torpedos. Even though the Sea Wolf class is larger, it is more quiet and faster than Los Angeles class submarine. However, the Sea Wolf Class has become too expensive to build and maintain and the program was discontinued in 2005.
-
-![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
-
 The Virginia class is the main anti-submarine capability of the US Carrier Battle Group is currently active and additional one still being built. In 2023, 3 Virginia-class submarines was purchased by Australia and the Virginia nuclear-powered submarine technology will be transfered to Australia Submarine Building program. Overrall, United States is among the fastes, most quiet and best armed submarines in the world. Only Russia, China, India, France and United Kingdom can produce Nuclear-powered submarines domestically.
 
-![]()
+![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
 
 With the protective screening from submarines and destroyers, hostile aircrafts, drones and submarines will have a very small chance of being able to get within striking distant of an aircraft carrier. The Super Aircraft Carrier only become vulnerable in an ambush attack when a submarine could lay waiting in an expected travel path of carrier strike group and score multiple torpedo hit on the Carrier below waterline. During a naval exercise, a diesel-power Swedish air-independent propulsion was able to lay quietly and theoritically sink an US Aircraft carrier without any detection from US Submarines or anti-sub destroyers and cruiser. Currently, only Germany, Italia and China are building these diesel-power air-indepedent propulsion ambush-first attack submarines.
 
@@ -152,15 +148,13 @@ While there is a small chance that the US nuclear-powered carrier could be targe
 
 ![Fuel Lines of Asian Coastal Cities](https://storage.googleapis.com/spykman-world/fuel_lines_of_asia_coastal_cities.png)
 
-Probably, the largest threat to the US Aircraft Carrier is its own modern Destroyers. Aircraft Carrier is much more expensive to build and maintain. Aircraft Carriers have many more moving parts making it difficult to optimize for cost and manufacturing time reduction than Burke class Destroyer. 
+Probably, the largest threat to the US Aircraft Carrier is its own modern Destroyers. Aircraft Carrier is much more expensive to build and maintain. Aircraft Carriers have many more moving parts making it difficult to optimize for cost and manufacturing time reduction than Burke class Destroyer. The newest Burke class Destroyers is currently providing better air cover option for friendly city with its long-range air search and track radar system, anti-ballistic missile interceptors than a FORD nuclear-powered aircraft carrier.
 
-![]()
+![Burke Destroyer and Light Carrier Shipyard](https://storage.googleapis.com/spykman-world/Burke%20Class%20and%20Light%20Carrier%20Shipyard.png)
 
-The newest Burke class Destroyers is currently providing better air cover option for friendly city with its long-range air search and track radar system, anti-ballistic missile interceptors than a FORD nuclear-powered aircraft carrier. Burke class destroyers have become a crucial part of NATO and Japan air defense network against conventional and nuclear balistic missiles. The Burke class Destroyers is also a more economical options for land-attack with its vertical launcher for Tomahawk cruise missiles than traditional Aircraft Carriers.
+Burke class destroyers have become a crucial part of NATO and Japan air defense network against conventional and nuclear balistic missiles. The Burke class Destroyers is also a more economical options for land-attack with its vertical launcher for Tomahawk cruise missiles than traditional Aircraft Carriers. Maybe US Aircraft Carrier in future will evolve into a Mobile Recon-Drone launcher than an Attack platform.
 
-![]()
-
-Maybe US Aircraft Carrier in future will evolve into a Mobile Recon-Drone launcher than an Attack platform.
+![Raytheon Missile Defense With Burke Class Destroyers](https://storage.googleapis.com/spykman-world/raytheon-missile-defense-system.png)
 
 
 
