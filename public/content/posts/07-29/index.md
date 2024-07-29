@@ -10,9 +10,10 @@ tags: ['USS Forrestal', 'James Forrestal', 'Supercarrier','Aircraft Carrier','US
 published: true
 ---
 ### The Urbanization Process of Coastal Cities
-Urbanization process of East Asian countries started with Japan before WW2 and continues to accelerate into the 21 century. Most of the East Asian population started moving from their farming life in remote countryside to the new city life in urban cities along the coastlines.
 
-Transportation infrastructure like highways, electrical power lines, water supply is much easier and cheaper to build around the flatland delta. Moving of export goods from sea ports via container ships to foreign markets and other local cities is also much cheaper than via land routes. 
+Urbanization process of East Asian countries started with Japan before WW2 and continues to accelerate into the 21 century. Most of the East Asian population started moving from their farming life in remote countryside to the new city life in urban cities along the coastlines. Transportation infrastructure like highways, electrical power lines, water supply is much easier and cheaper to build around the flatland delta. Moving of export goods from sea ports via container ships to foreign markets and other local cities is also much cheaper than via land routes. 
+
+![Chinese people boarding train to go home during Lunar New Year](https://storage.googleapis.com/spykman-world/Chinese%20going%20Home%20during%20Lunar%20New%20Year.png)
 
 The television images of city life draw millions of young adults from their spacy countryside homes to the crowded city apartment buildings. The farmers of East Asia gave up their ability to build homes, raise cattles and plant rices in exchange for new skills in manufacturing assembly, consumer services and office information processing.
 
@@ -20,13 +21,23 @@ The television images of city life draw millions of young adults from their spac
 
 The cities of light along East Asia Coastlines extended human productivity duration from 10 hours of daylight to 16 hours or more. Direct interaction with hundreds of coworkers and acquaintances resulted in exponential improvement in large group productivity growth. 
 
+![Chengdu City Light at Night](https://storage.googleapis.com/spykman-world/Chengdu%20Citylight%20at%20Night.png)
+
 After the failed attempts of Japan and the Qing dynasty to dominate the United States and European Power during the Opium Wars, World War 1 and World War to achieve their Alpha status, Japan and other East Asia has accepted their Beta status. East Asia will be the manufacturer and producer of goods with limited defense capability while United States and NATO allies will be the Capital Investors with dominating defense capability. 
+
+![US Bases in Japan, Germany and Korea](https://storage.googleapis.com/spykman-world/Country%20with%20Highest%20Number%20of%20US%20Military%20Bases.png)
 
 The comfortable city life with hundreds of options for everything from clothing to food, drink and entertainment within a walking distance also became a magnet that attracted East Asian females first from the mountain cities and deep inland towns to the coastal cities and then from the East Asian coastal cities to foreign lands of the United States and European nations.
 
+![]()
+
 The ability of United States Naval forces to both provide Air cover as well as threaten the East Asian coastal cities is essential for their ability to maintain their Alpha status over other East Asian powers. As a result, US Naval planners built exactly 01 Modern Nuclear Aircraft Carrier per major East Asian coastal cities. 
 
+![]()
+
 Not just providing protection, the United States also seeded East Asian YORK cities with their spermbank babies and provide a highly selective immigration pathways for these spermbank babies just like the way ancient Chinese Emperor would seed their protectorade cities with the Emperor sperms and finally select the best son from these satellite cities for the emperor position. 
+
+![]()
 
 
 ### Aircraft Carrier Evolution and Its Role in Naval Warfares
@@ -40,6 +51,8 @@ And the Japanese Imperial Navy was able to deal a heavy blow to the American bat
 
 The first aircraft carrier was built in the Engineering island of England, also quickly adopted by both the Japanese and American navy. Without any aircraft carriers, the German military was not able to control the North Atlantic Sea or severely disrupted the British supplyline. With a steel embargo, the Japanese Naval and Air Force was not able to armor their aircraft carriers as well the Mitsubishi Zero like the American and British which later contributed to the destruction of the Japanese Carrier Battle groups.
 
+![]()
+
 Langley was the first American aircraft carrier built by the American Military in the Norfolk Naval Shipyard, Virginia in 1920 shortly after World War 1. The USS Langley ***has no Control Tower above the deck*** and can carry up to 36 aircrafts. The USS Langley served as both the ***first experimental mobile long range recon and attack platform*** for the United State Navy in the Caribbean and Australia from 1920 and 1942. The USS Langley has elevators to move aircrafts and ammunition as well as a medieval catapult-like device to launch aircrafts off the deck.
 
 ![Langley Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/langley_class_carrier.png)
@@ -48,8 +61,7 @@ After learning from the first experimental Langley Class Aircraft Carrier, the U
 
 ![Lexington Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/lexington_class_carrier.png)
 
-Yorktown Class Aircraft Carrier was the final aircraft carriers the United States Navy was able to finish before World War 2 and Pearl Harbor.
-Three Aircraft Carriers of the Yorktown class saw the most actions during World WW2 against the Japanese Imperial Navy during the battle of Coral Sea, the Battle of Midway and the Guadalcanal campaign. Yorktown class carriers have ***no large battleship guns*** to reduce weight and increase speed of the carrier. Yorktown Class Carrier class was also the first Aircraft Carrier with ***ship-borne search radar*** installed on  the Control Tower. The Yorktown class also comes with ***armor bell around the Waterline and Control Tower*** to limit damage from Japanese torpedos and bombers. These US armor Carriers were able to sustain heavy attacks from Japanese aircrafts and still come back to the frontline shortly after a repairing and refitting periods.
+Yorktown Class Aircraft Carrier was the final aircraft carriers the United States Navy was able to finish before World War 2 and Pearl Harbor. Three Aircraft Carriers of the Yorktown class saw the most actions during World WW2 against the Japanese Imperial Navy during the battle of Coral Sea, the Battle of Midway and the Guadalcanal campaign. Yorktown class carriers have ***no large battleship guns*** to reduce weight and increase speed of the carrier. Yorktown Class Carrier class was also the first Aircraft Carrier with ***ship-borne search radar*** installed on  the Control Tower. The Yorktown class also comes with ***armor bell around the Waterline and Control Tower*** to limit damage from Japanese torpedos and bombers. These US armor Carriers were able to sustain heavy attacks from Japanese aircrafts and still come back to the frontline shortly after a repairing and refitting periods.
 
 ![Yorktown Class Aircraft Carrier](https://storage.googleapis.com/spykman-world/yorktown_class_carrier.png)
 
@@ -84,15 +96,18 @@ So America currently have 11 aircraft carriers in service with 2 more Ford-class
 ![Ford Class Under Construction](https://storage.googleapis.com/spykman-world/ford-in-construction.png)
 
 ### Aircraft Carrier Strike Group Composition
-![Carrier Strike Group](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
 
 The main United States Aircraft Carrier never travels alone but with other underwater Nuclear Attack submarines, surface Battle Cruisers and Destroyers and other supply and support vessels. So while the Aircraft Carrier itself has no anti-submarine capability and few anti-air close-in weapon defense system, its escort submarines, surface battle cruisers and destroyers come with cutting edge sensor for early detection as well as a weapon arsenal of torpedoes and missiles to take out any potential threat.
+
+![Carrier Strike Group](https://storage.googleapis.com/spykman-world/US_Carrier_Strike_Group.png)
 
 The two main defenders of the Aircraft Carrier Strike Group is the Ticonderoga class Battle Cruisers and the Arleigh Burke class Destroyers. Ticonderoga cruisers comes with anti-air capability packed in its 3 long-range high resolution Aegis Phase-Array Air-Search radar at the front of the ship and surface-to-air missiles that could be launched from two vertical launchers at the Front and Back of the Cruisers. Ticonderoga air search and track radar and its surface-to-air missiles could intercept both aircrafts, drones, cruise missiles and ballistic missiles. 
 
 ![Ticonderoga](https://storage.googleapis.com/spykman-world/ticonderoga-class-cruiser.png)
 
 For surface ships, the Ticonderoga class cruisers can ultilize its Surface-search radar for detection and tracking as well as its Naval artileries, Phalanx automated machine gun or anti-ship harpoon missiles launched via its MK41 vertical launchers. And for anti-submarines warfare, the Ticonderoga class comes with its a submarine-hunting helicopter and two MK32 torpedos launchers.
+
+![]()
 
 Burke class destroyers is a smaller, lighter, faster and cheaper carriers strike group defender than the Ticonderoga class but come with the same high resolution long range AEGIS air and surface search radars as well as well-rounded vertically launched anti-ship, anti-air, anti-ballistic-missile and ground attack missiles. Both Ticonderoga and Burke can intercept and destroy any air and surface hostile objects with the Ticonderoga slighly better at anti-submarine while Burke class slightly better at anti-air.
 
@@ -111,6 +126,8 @@ Sea Wolf nuclear attack submarines was designed and built as a replacement for t
 ![Virginia Nuclear Attack Submarines](https://storage.googleapis.com/spykman-world/virginia_attack_submarines.png)
 
 The Virginia class is the main anti-submarine capability of the US Carrier Battle Group is currently active and additional one still being built. In 2023, 3 Virginia-class submarines was purchased by Australia and the Virginia nuclear-powered submarine technology will be transfered to Australia Submarine Building program. Overrall, United States is among the fastes, most quiet and best armed submarines in the world. Only Russia, China, India, France and United Kingdom can produce Nuclear-powered submarines domestically.
+
+![]()
 
 With the protective screening from submarines and destroyers, hostile aircrafts, drones and submarines will have a very small chance of being able to get within striking distant of an aircraft carrier. The Super Aircraft Carrier only become vulnerable in an ambush attack when a submarine could lay waiting in an expected travel path of carrier strike group and score multiple torpedo hit on the Carrier below waterline. During a naval exercise, a diesel-power Swedish air-independent propulsion was able to lay quietly and theoritically sink an US Aircraft carrier without any detection from US Submarines or anti-sub destroyers and cruiser. Currently, only Germany, Italia and China are building these diesel-power air-indepedent propulsion ambush-first attack submarines.
 
@@ -138,7 +155,11 @@ While there is a small chance that the US nuclear-powered carrier could be targe
 
 Probably, the largest threat to the US Aircraft Carrier is its own modern Destroyers. Aircraft Carrier is much more expensive to build and maintain. Aircraft Carriers have many more moving parts making it difficult to optimize for cost and manufacturing time reduction than Burke class Destroyer. 
 
+![]()
+
 The newest Burke class Destroyers is currently providing better air cover option for friendly city with its long-range air search and track radar system, anti-ballistic missile interceptors than a FORD nuclear-powered aircraft carrier. Burke class destroyers have become a crucial part of NATO and Japan air defense network against conventional and nuclear balistic missiles. The Burke class Destroyers is also a more economical options for land-attack with its vertical launcher for Tomahawk cruise missiles than traditional Aircraft Carriers.
+
+![]()
 
 Maybe US Aircraft Carrier in future will evolve into a Mobile Recon-Drone launcher than an Attack platform.
 
