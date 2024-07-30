@@ -19,7 +19,7 @@ While the dinosaurs with its lack of ability to regulate its body temperature an
 
 ![Human Blood Circulation System](https://geogenetics.dystillvision.com/content/posts/02-15/blood_circulation.png)
 
-Most of the mammal branch variants, quite similar to other animal branches, are still using their teeths and jaw chewing and biting as the first step in energy capturing and processing, primates were the first one to start using both their jaw and their hands to capture and process energy sources. With just this new energy processing habit, primates became fews among the mammal branch that can peal off the protective layers of their food sources with their hand instead of their jaw.
+Most of the mammal branch variants, quite similar to other animal branches, are still using their teeths and jaw chewing and biting as the first step in energy capturing and processing, 80 million years ago, first primate appeared and were the first one to start using both their jaw and their front legs to capture and process energy sources. With just this new energy processing habit, primates became fews among the mammal branch that can peal off the protective layers of their food sources with their hand instead of their jaw.
 
 ![Primates Using Hand to Process Food](https://storage.googleapis.com/spykman-world/Primate%20Using%20Hand%20to%20Process%20Food.png)
 
@@ -39,33 +39,59 @@ The connecting point between the head of Neanderthal, Denisovan and Homo Sapien 
 
 ![Head Position Relative to Body Central of ](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20Head%20Position.png)
 
-Position of the big toe in upright human variances also adapted to enable balance standing and walking in order reduce energy consumption while traveling to find food and water. These upright human variances were spending most their time on the ground instead of climbing trees so they no longer need the grabbing bone structures in the foot like we would find quite common in the tree climbing primates.
+Position of the big toe in upright human variances also adapted to enable balance standing and walking. These upright human variances were now spending most their time on the ground instead of climbing trees so they no longer need the grabbing bone structures in the back foot like we would find quite common in the tree climbing primates.
 
 ![Toe Position Closer to other ](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20Toe%20From%20Grabbing%20to%20Balancing.png)
 
-The lack of rain and vegetation in Savana climate also forced the early human to start hunting other animals instead just capturing stationary energy sources like fruits and vegetation like our tree-climbing primate cousins. Once again, the feet bone structure mutated to allow not just standing and walking but also running and jumping. The modern Homo Sapien feet would develop an arc-like shape to allow the feet to absorb the shock while running and jumping.
+The lack of rain and vegetation in Savana climate also forced the early human to start hunting other animals instead just capturing stationary energy sources like fruits and vegetation like our tree-climbing primate cousins. Once again, the feet bone structure mutated to allow not just standing and walking but also running and jumping. The modern Homo Sapien, Neanderthal and Denisovan feet would all develop an arc-like shape to allow the feet to absorb the shock while running and jumping.
 
 ![Arc-shaped of the Hunter Feet](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20Foot%20Bone%20Structure.png)
 
 ### Ancient Georgia - The River Fork of Early Human Gene Flow and Languages.
 
-More than 2.6 Million years ago, the early human Homo Sapiens took a leap of faith and ventured outside of their comfortable environment in the African savanna. The origin of Jewish, Muslism and Christianity is probably the metaphorical result from folktale stories passing by thoundstand of generations about the migration flow of early humans from Africa through the areas of modern Egypt, Israel, Caucasus, Turkey, Iran and Iraq to the rest of the world. The word Caucasian was first used by German anthropologist Johann Friedrich Blumenbach refer to as a reference to the “white” race. However, Johann Friedrich Blumenbach classification of five human races have very little to do with skin color but more to do with the shape of a human skull.
+With several bipedal adaptation, many human genetics variants were able travel much further to hunt for food and water without having to compete with their own genetic groups for scared resources in the same ancestor territorials. Two of the early out of Africa human variants ended up settling in two much less hostile enviroments with plenty of rain and vegetation: European continent and East Asia continent.
 
-![Five Human Races](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Blumenbach%27s_five_races.JPG/1024px-Blumenbach%27s_five_races.JPG)
+![Neandethal Out of Africa Migration Path](https://storage.googleapis.com/spykman-world/Neanderthal%20Out%20of%20Africa%20Migration%20Paths%20to%20the%20West.png)
 
-The Caucasian according to Johann Friedrich Blumenbach are people of  European, Middle Eastern, and North African origin. However, in the United States, the original scientific word, Caucasian, was used very differently referring primarily to descendants of European immigrants and have a tendency to be related to the features of blue eyes, blonde hair and light skin. Nevertheless, Johann Friedrich Blumenbach is the godfather of the word “Caucasian” as well as modern anthropology. 
+The Neanderthals gene expanded into a large population in the high elevation, cold winter cool summer of European continent. They developed the lighter skin pigmentation and ligher hair color to better absorbing vitamin D and heat from the Sun in the long cold and dark winter. Taller nose nassel adaptation was also developed to avoid cold air with snow and dust to directly enter the lung during several months of winter storms in Europe. 
 
-Blumenbach claimed that Adam and Eve were Caucasian inhabitants of Asia maybe because one of them were the Homo Sapien and the other was Neanderthal. God later curses the serpent and the ground because Adam and Eva ate the forbbiden Apple of knowledge maybe because two biggest human fear are being lied to and being death.
+![Neanderthal Territorial Map](https://storage.googleapis.com/spykman-world/Neanderthals_Travel_Map.png)
 
-![three-races](https://upload.wikimedia.org/wikipedia/commons/a/a6/Spread_and_evolution_of_Denisovans.jpg)
+The Denisovan gene expended through the Caucasus mountain into the Steppes of Central Asia, Tibetan plateu and eventually the East Asian delta of Yellow, Yangzte and Mekong River delta. The Denisovan developed low oxygen, high speed of blood circulation adaption to the extreme high mountain of the Tibetan plateu that later on enable these human gene group to cross the ocean into Australia and Pacific Islands.
 
-Modern genetical data as well as the latest research finding would classify human into 3 different genetic groups: Homo Sapiens gene majority ( African savanna), Homo Sapiens with Neanderthal in the Caucus mixing (1-4%), Homo Sapiens with Denisovan in Southeast Asia mixing (4-6%). The question of who we are is extremely political sensitive and could be used along with religions to promote dangerous political agendas. Our genetics data is still very limited to provide a statistical significant and definite answer.
+![Denisovan Out of Africa Migration Path](https://storage.googleapis.com/spykman-world/Denisovan%20Out%20of%20Africa%20Migration%20Path%20to%20the%20East.png)
 
-### Hitler, Stalin and The First Wave of NATO CAAC Expansion 
+The Denisovan developed into large numbers in East and South East Asia area. Until the modern day, we can still find large percentages of Denisovan DNA in the Tibetan East Asian and the Pacific Islanders modern human DNA. These Denisovan early human explorers developed the light bone, high water to body weight ratio adaption that allows them to float on water and survive in the regular flooding enviroment of East and South East Asia.
 
-Caucasian == Homo Sapien and Neanderthal === The Black and White DEAL
+![Denisovan Territorial Map](https://storage.googleapis.com/spykman-world/Denisovan%20Territorial%20Map.png)
+
+More than 2.6 Million years ago, the early human Homo Sapiens once again ventured outside of their harsh enviroment in the African savanna with a major mutation that enable them to outcompete the Neanderthal and Denisovan population and collaborate to survive and prosper in every climates and enviroment on earth: a larger voice box and a bigger brain.
+
+![Larger Voice Box Lower Larync for more complex sounds](https://storage.googleapis.com/spykman-world/Lower%20Larynx%20Larger%20Voicebox%20for%20more%20Complex%20Sounds.png)
+
+With the abilty travel bipedal on our two feet and the abilty to survive in a larger terrotorial, our enviroment became much more complex, our visual, auditorial, nassal and other senses received much more information than a typical primates would need to process in its lifetime. Homo Sapien started to develope larger brains than Neanderthals and Denisovan to process these information as well as a bigger voice box to describe these new information to other Homo Sapien in the tribe. Homo Sapien was probably the first human variants to able tell stories and make long term group plans with other Homo Sapien in the tribe. 
+
+![Homo Sapien Blood Type O](https://storage.googleapis.com/spykman-world/Homo%20Sapien%20Blood%20type%20O.png)
+
+This long-term Homo Sapien planners made last known updates to Neanderthal and Denisovan populations as well as populating every climates and enviroments on the planet. The origin of Jewish, Muslism and Christianity is probably the metaphorical result from folktale stories passing by thoundsand of generations about this lastest migration of African Homo Sapien through the areas of modern Egypt, Israel, Caucasus, Turkey, Iran and Iraq to the rest of the world. 
+
+![Homo Sapien Neanderthal Mixture Blood type A](https://storage.googleapis.com/spykman-world/neanderthal-mixture-blood-type-a.png)
+
+Till the modern day, we can still find the traces of European Neanderthal and East Asian Denisovan DNA in Modern Human with (1-4%) of Neanderthal DNA in modern European population DNA and (2-6%) Denisovan DNA in modern East Asian, South East Asian and Pacific Islanders DNA. These mixture of DNA between Homo Sapien with Neanderthal and Denisovan might explain the antigene and antibody still existing in our blood today. Population with large percentages of blood type A covers the same territorial as Neanderthal and population with large percentages of blood type B covers the same territorial as Denisovan and Population of blood type O covers the same territorial as the first Homo Sapien gene groups.
+
+![Homo Sapien Denisovan Blood Type B](https://storage.googleapis.com/spykman-world/Denisovan%20Mixture%20Blood%20Type%20B.png)
+
+### Hitler, Stalin and The First Wave of NATO CAAC Expansion
+
+The word Caucasian was first used by German anthropologist Johann Friedrich Blumenbach refer to as a reference to the “white” race. The Caucasian according to Johann Friedrich Blumenbach are people of European, Middle Eastern, and North African origin. Blumenbach claimed that Adam and Eve were Caucasian inhabitants of Asia maybe because one of them were the Homo Sapien and the other was Neanderthal. 
 
 ![The NATO CAAC Deal](https://storage.googleapis.com/spykman-world/The%20NATO%20CAAC%20Deal.png)
+
+This German godfather of anthropolist, Johann Friedrich Blumenbach, theories would later on influence the economics and defenses policies of continental Europe and once again reinforced by the discovery of blood type ABO by another German scientist Karl Landsteiner in 1900. Maybe there is no coincidence that Nazi Party was obssessed with their Iranian ancestors, Joseph Stalin was born in Georgia, a small country in the Caucasus mountain area between Iran and Russia and United States had Obama as their first Black and White mixed president.
+
+![The Blood type A, C and their Mixture Expansion](https://storage.googleapis.com/spykman-world/blood-type-b-encirclement.png)
+
+
 
 
 
