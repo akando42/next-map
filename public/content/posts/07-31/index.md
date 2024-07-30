@@ -27,7 +27,7 @@ While using less of their jaw for processing energy, primates jaw started to red
 
 ![Techtonic Plate and Mountion of Africa](https://storage.googleapis.com/spykman-world/New%20Technonic%20Plate%20of%20Africa.png)
 
-The collision and split up between African continent and South America and Australia plates formed the mountain formation both in the East and West of African continent. These mountains formation blocked and limited rainny cloud to be able to reach deep inside the African continential shells which results in Savana like climates with fews lakes, rivers or vegetation food sources. 
+The collision and split up between African continent and South America and Australia plates formed the mountain formation both in the East and West of African continent. These mountains formation blocked and limited rainny clouds to be able to reach deep inside the African continential shells which results in Savana like climates with fews lakes, rivers or vegetation food sources. 
 
 ![The Savana Climate](https://storage.googleapis.com/spykman-world/Wind%20Pattern%20Around%20Africa.png)
 
@@ -45,33 +45,17 @@ Position of the big toe in upright human variances also adapted to enable balanc
 
 The lack of rain and vegetation in Savana climate also forced the early human to start hunting other animals instead just capturing stationary energy sources like fruits and vegetation like our tree-climbing primate cousins. Once again, the feet bone structure mutated to allow not just standing and walking but also running and jumping. The modern Homo Sapien feet would develop an arc-like shape to allow the feet to absorb the shock while running and jumping.
 
-![Arc-shaped of the Hunter Feet](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20The%20Arcky%20Hunter%20Foot.png)
+![Arc-shaped of the Hunter Feet](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20Foot%20Bone%20Structure.png)
 
 ### Ancient Georgia - The River Fork of Early Human Gene Flow and Religions.
-<br>
 
-More than 2.6 Million years ago, the early human Homo Sapiens took a leap of faith and ventured outside of their comfortable environment in the African savanna.
-
-The origin of Jewish, Muslism and Christianity is probably the metaphorical result from folktale stories passing by thoundstand of generations about the migration flow of early humans from Africa through the areas of modern Egypt, Israel, Caucasus, Turkey, Iran and Iraq to the rest of the world.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F491857428247524%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<br>
-<br>
-
-The word Caucasian was first used by German anthropologist Johann Friedrich Blumenbach refer to as a reference to the “white” race. However, Johann Friedrich Blumenbach classification of five human races have very little to do with skin color but more to do with the shape of a human skull.
+More than 2.6 Million years ago, the early human Homo Sapiens took a leap of faith and ventured outside of their comfortable environment in the African savanna. The origin of Jewish, Muslism and Christianity is probably the metaphorical result from folktale stories passing by thoundstand of generations about the migration flow of early humans from Africa through the areas of modern Egypt, Israel, Caucasus, Turkey, Iran and Iraq to the rest of the world. The word Caucasian was first used by German anthropologist Johann Friedrich Blumenbach refer to as a reference to the “white” race. However, Johann Friedrich Blumenbach classification of five human races have very little to do with skin color but more to do with the shape of a human skull.
 
 ![Five Human Races](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Blumenbach%27s_five_races.JPG/1024px-Blumenbach%27s_five_races.JPG)
 
-The Caucasian according to Johann Friedrich Blumenbach are people of  European, Middle Eastern, and North African origin.
+The Caucasian according to Johann Friedrich Blumenbach are people of  European, Middle Eastern, and North African origin. However, in the United States, the original scientific word, Caucasian, was used very differently referring primarily to descendants of European immigrants and have a tendency to be related to the features of blue eyes, blonde hair and light skin. Nevertheless, Johann Friedrich Blumenbach is the godfather of the word “Caucasian” as well as modern anthropology. 
 
-However, in the United States, the original scientific word, Caucasian, was used very differently referring primarily to descendants of European immigrants and have a tendency to be related to the features of blue eyes, blonde hair and light skin. 
-
-Nevertheless, Johann Friedrich Blumenbach is the godfather of the word “Caucasian” as well as modern anthropology. 
-
-Blumenbach claimed that Adam and Eve were Caucasian inhabitants of Asia maybe because one of them were the Homo Sapien and the other was Neanderthal.
-
-God later curses the serpent and the ground because Adam and Eva ate the forbbiden Apple of knowledge maybe because two biggest human fear are being lied to and being death.
+Blumenbach claimed that Adam and Eve were Caucasian inhabitants of Asia maybe because one of them were the Homo Sapien and the other was Neanderthal. God later curses the serpent and the ground because Adam and Eva ate the forbbiden Apple of knowledge maybe because two biggest human fear are being lied to and being death.
 
 ![three-races](https://upload.wikimedia.org/wikipedia/commons/a/a6/Spread_and_evolution_of_Denisovans.jpg)
 
