@@ -47,7 +47,7 @@ The lack of rain and vegetation in Savana climate also forced the early human to
 
 ![Arc-shaped of the Hunter Feet](https://storage.googleapis.com/spykman-world/Walking%20Upright%20-%20Foot%20Bone%20Structure.png)
 
-### Ancient Georgia - The River Fork of Early Human Gene Flow and Religions.
+### Ancient Georgia - The River Fork of Early Human Gene Flow and Languages.
 
 More than 2.6 Million years ago, the early human Homo Sapiens took a leap of faith and ventured outside of their comfortable environment in the African savanna. The origin of Jewish, Muslism and Christianity is probably the metaphorical result from folktale stories passing by thoundstand of generations about the migration flow of early humans from Africa through the areas of modern Egypt, Israel, Caucasus, Turkey, Iran and Iraq to the rest of the world. The word Caucasian was first used by German anthropologist Johann Friedrich Blumenbach refer to as a reference to the “white” race. However, Johann Friedrich Blumenbach classification of five human races have very little to do with skin color but more to do with the shape of a human skull.
 
