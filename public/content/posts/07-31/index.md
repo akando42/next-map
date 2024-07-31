@@ -93,7 +93,7 @@ This German godfather of anthropolist, Johann Friedrich Blumenbach, theories wou
 
 After the archaeological data and blood type samples were collected around the globes by Western military explorers and scientists in the 1800, a marco strategy were set out by the Roman planners to dilute, eliminate and divide blood type B from Eastern Europe, Central Asia and South America. African blood type O would be transport from Central Africa to South Africa via the slave trade to ease the pressure from North Africa and Medditerian as well as serving as Blood type O human tanks for Blood type A and O Hispanic explorers to eliminate and eradicate blood type B Indigenous Red Skin from South and Central America.
 
-![Total Replacement of Blood type B by Blood type O](hhttps://storage.googleapis.com/spykman-world/Total%20Replacement%20of%20Blood%20type%20B%20and%20O%20in%20America.png)
+![Total Replacement of Blood type B by Blood type O](https://storage.googleapis.com/spykman-world/Total_Replacement_of_Blood_type_B_by_blood_type_O_in_America.png)
 
 World War 2 was launched by Adoft Hitler, Stalin and Churchill to eliminate any Turkish and Mongol traces from Eastern Europe. The marching back and forth from Berlin to Volvograd by the German Nazi Army and from Volvograd to Berlin by the Russian Red Army uprooted and eliminated hundred millions of Blood type B Eastern European families mixed with Turkish and Monglian. 
 
