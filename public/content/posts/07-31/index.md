@@ -91,6 +91,20 @@ This German godfather of anthropolist, Johann Friedrich Blumenbach, theories wou
 
 ![The Blood type A, C and their Mixture Expansion](https://storage.googleapis.com/spykman-world/blood-type-b-encirclement.png)
 
+After the archaeological data and blood type samples were collected around the globes by Western military explorers and scientists in the 1800, a marco strategy were set out by the Roman planners to dilute, eliminate and divide blood type B from Eastern Europe, Central Asia and South America. African blood type O would be transport from Central Africa to South Africa via the slave trade to ease the pressure from North Africa and Medditerian as well as serving as Blood type O human tanks for Blood type A and O Hispanic explorers to eliminate and eradicate blood type B Indigenous Red Skin from South and Central America.
+
+![Total Replacement of Blood type B by Blood type O](hhttps://storage.googleapis.com/spykman-world/Total%20Replacement%20of%20Blood%20type%20B%20and%20O%20in%20America.png)
+
+World War 2 was launched by Adoft Hitler, Stalin and Churchill to eliminate any Turkish and Mongol traces from Eastern Europe. The marching back and forth from Berlin to Volvograd by the German Nazi Army and from Volvograd to Berlin by the Russian Red Army uprooted and eliminated hundred millions of Blood type B Eastern European families mixed with Turkish and Monglian. 
+
+![Blood type B Dilution via WW2 and the Communist Era](https://storage.googleapis.com/spykman-world/Blood%20type%20B%20Dilution%20via%20WW2%20and%20Communist%20Era.png)
+
+With the Soviet Union and Communism spreading in East Asia, blood type B in Central Asia, Siberia and China were also dilluted, divided and eliminated by the new blood type A Russian Tatars being transported via the Siberian railways from the Caucusus to Central Asia, Siberia and Western China. Until the modern day of 2024, Blood type B does not have a single nation where their blood type is the majority but being divided and splited by the NATO-CAAC borderlines of 1945.
+
+![Blood type B Eradication by Russian Minions](https://storage.googleapis.com/spykman-world/Die%20Die%20Die%20Blood%20type%20B%20Eradication%20by%20Russian%20Minions.png)
+
+
+
 
 
 
