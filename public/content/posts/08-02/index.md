@@ -13,41 +13,35 @@ published: true
 
 ### Aquatic Ape Theory and The Sea Nomads
 
-Most modern mainstream anthropologists agree with the Savana Theory. However, there are still 4-6 million years gaping holes in evolutionary fossil records to truly explain the evolutionary leap of modern human from tree-climbing chimpanzees to today homo-sapiens. 
+Most modern mainstream anthropologists agree with the Savana Theory. However, there are still 4-6 million years gaping holes in evolutionary fossil records to truly explain the evolutionary leap of modern human from tree-climbing chimpanzees to today homo-sapiens. The modern apes seem to have just sprung out of nowhere. What has happened to our ancestor's environment that caused this evolutionary adaption?
 
-The modern apes seem to have just sprung out of nowhere. What has happened to our ancestor's environment that caused this evolutionary adaption?
+According to the Savana Theory, millions of year ago when the Earth’s climate began to shift, grass began to spread. As a result, there were fewer trees in a place like the African Savannah. The disappearing forests meant fewer food sources and more competition for the chimpanzees. This forced chimpanzees to find new food sources on the ground. With their heads above the grass to see predators, it’s believed this is when four-legged mammals adapted to walk on two legs. 
 
-According to the Savana Theory, millions of year ago when the Earth’s climate began to shift, grass began to spread. As a result, there were fewer trees in a place like the African Savannah. 
+However, in order to develop a new bone frame structure to support this new posture would take a lot of gene adaption. Does standing upright provide that much advantage in spotting a predator? How often the apes had to stand upright in order to mope this activity into their gene selection. Does standing upright result in massive locomotion efficiency? 
 
-The disappearing forests meant fewer food sources and more competition for the chimpanzees. This forced chimpanzees to find new food sources on the ground. With their heads above the grass to see predators, it’s believed this is when four-legged mammals adapted to walk on two legs. 
-
-However, in order to develop a new bone frame structure to support this new posture would take a lot of gene adaption. Does standing upright provide that much advantage in spotting a predator? How often the apes had to stand upright in order to mope this activity into their gene selection.
-
-We also gradually adapted our diets from a vegetation-only to meat and start hunting other animals. The hunting activities cause us to take off the fur coat to release heat while running and tracing our preys. However why today fastest and most fearsome mammal predator like Tiger, Lion, Leopard still have their fur coat on?
+The horse did not need to stand up right but already has much higher locomotion efficiency than human with just its smooth short hair. Today fastest and most fearsome mammal predator like Tiger, Lion, Leopard still have their fur coat on? Probably the hunting activities and long distance travel caused us to take off the fur coat to release heat while running and tracing our preys but did not necessary result in bipedal bone structure in modern human.
 
 ![Tiger](https://storage.googleapis.com/spykman-world/tiger_apex_lone_hunter_in_forrest_for_less_noises.png)
 
-Researchers like Elaine Morgan, Alistair Hardy, Max Westenhöfer,  Glenn Isaac,  Phillip Tobias,  Michael Crawford gives us a unique insight via their research into the Aquatic Ape Theory to provide an alternative explanation. 
+Researchers like Elaine Morgan, Alistair Hardy, Max Westenhöfer,  Glenn Isaac,  Phillip Tobias,  Michael Crawford gives us a unique insight via their research into the Aquatic Ape Theory to provide an alternative explanation. According to the Aquatic Ape Theory, like the Savana Theory, climate change creates less food source and more competition for the chimpanzees. This warming temperature not only causes deforestation and grass widespread but also regular floods and raising sea level. 
 
-According to the Aquatic Ape Theory, like the Savana Theory, climate change creates less food source and more competition for the chimpanzees. This warming temperature not only causes deforestation and grass widespread but also regular floods and raising sea level. 
-
-The pre-human primates were forced to look for food sources from the waterways as well as the ocean coastlines. This semi-aquatic phase of human evolution left the fatty layers on the skin that are typical of dolphins, whales, sea lions, seals, and other marine mammals. 
-
-
-We also start to walk upright in this semi-aquatic phase to get deeper into the water. This is very similar to the aquatic therapy stroke patients received to regain their mobility. 
+The pre-human primates were forced to look for food sources from the waterways as well as the ocean coastlines. This semi-aquatic phase of human evolution left the fatty layers on the skin that are typical of dolphins, whales, sea lions, seals, and other marine mammals.  We also start to walk upright in this semi-aquatic phase to get deeper into the water. This is very similar to the aquatic therapy stroke patients received to regain their mobility. 
 
 ![Aquatic Therapy](https://storage.googleapis.com/spykman-world/patient_recovery_in_the_pool.png)
 
-This daily, continuous upright posture with water floating support provides a perfect environment for pre-human primates to gradually adapt their spine structure to stand up on their two legs.
-The modern evidence of this is the Probosci's monkey of Southeast Asia who lives near water and often walks upright on two legs. 
+This daily, continuous upright posture with water floating support provides a perfect environment for pre-human primates to gradually adapt their spine structure to stand up on their two legs. The modern evidence of this is the Probosci's monkey of Southeast Asia who lives near water and often walks upright on two legs. 
 
 Another adaptation we see in modern human through this semi-aquatic phase is hairlessness. Among many thousands of mammal species, only a few like dophins, seals, whale, elephants hippos, rhinos, etc and human have naked skin and they are either living underwater or has an aquatic ancestor [^fn1]. So it should be by no coincident that we will discover fossil evidence of our aquatic ancestor in Southeast Asia in the near future. 
 
-Other aquatic adaptions in modern human being are sweating, crying, holding breath, born fat and ability to swim at birth, respiratory valves, descended larynx, paranasal sinuses, brain motor-function control in the cerebral cortex. [^fn1]
+Other aquatic adaptions in modern human being are sweating, crying, holding breath, born fat and ability to swim at birth, respiratory valves, descended larynx, paranasal sinuses, brain motor-function control in the cerebral cortex. 
 
-We also recently discovered that sealions also have human-like "Vernix Caseosa", the white waxy coating found on newborn human skin is thought to be a uniquely human substance.[^fn2]
+We also recently discovered that sealions also have human-like "Vernix Caseosa", the white waxy coating found on newborn human skin is thought to be a uniquely human substance.
 
-Maybe one of our mysterious ancestor, the Denisova, adaption to their extreme enviroment is the first one walking up right on their two legs. Recently, researchers have unvealed that they found higher frequency of the Denisovan originate gene FAM178B in DNA of the Baju, a modern amphibious aquatic tribe.[^fn3]
+Maybe one of our mysterious ancestor, the Denisova, adaption to their extreme enviroment is the first one walking up right on their two legs. Recently, researchers have unvealed that they found higher frequency of the Denisovan originate gene FAM178B in DNA of the Baju, a modern amphibious aquatic tribe.
+
+Our digestion system also needs to evolve to be able to digest meat. So we probably started eating fish first since it is also as easy to the stomatch as vegetation and fruits. After hunting fishes in shallow water, we became skill hunters and start hunting other larger land animals like chicken, pigs and bulls. 
+
+![](https://storage.googleapis.com/spykman-world/Energy%20Source%20Digestion%20Time%20for%20Human.png)
 
 With 21 century global warming and rising sea level, maybe we are destined to come back out to the blue ocean again.
 

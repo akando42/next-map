@@ -6,6 +6,7 @@ path: "/georgia-stalin-and-the-future-of-euroasia"
 cover: "content/posts/07-31/spykman-world-georgia-stalin-and-the-future-of-euroasia.png"
 date: "07-31"
 title: "The Caucasus and The Caucasian NATO Relentless Expansion"
+summary: "#GeneticsCompatibility is incredibly important in gaining long lasting permanent alliances between #GeneGroups. Last 200 hundred plus years saw an explosion of #African and #European family unions while very few Asian African or Asian European family unions happended. As a result blood type A and O keep gaining more territories and technological advances and outpacing East Asia countries."
 tags: ['Georgia', 'Orthodox Christian', 'Caucasus','Black Sea','Caspian Sea','Turkey','Russia','Caucasus Mountain','Homo Sapiens','Neanderthal','Denisovan', Spykman World','Nicholas Spykman']    
 published: true
 ---
