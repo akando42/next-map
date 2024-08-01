@@ -31,11 +31,9 @@ The pre-human primates were forced to look for food sources from the waterways a
 
 This daily, continuous upright posture with water floating support provides a perfect environment for pre-human primates to gradually adapt their spine structure to stand up on their two legs. The modern evidence of this is the Probosci's monkey of Southeast Asia who lives near water and often walks upright on two legs. 
 
-Another adaptation we see in modern human through this semi-aquatic phase is hairlessness. Among many thousands of mammal species, only a few like dophins, seals, whale, elephants hippos, rhinos, etc and human have naked skin and they are either living underwater or has an aquatic ancestor [^fn1]. So it should be by no coincident that we will discover fossil evidence of our aquatic ancestor in Southeast Asia in the near future. 
+Another adaptation we see in modern human through this semi-aquatic phase is hairlessness. Among many thousands of mammal species, only a few like dophins, seals, whale, elephants hippos, rhinos, etc and human have naked skin and they are either living underwater or has an aquatic ancestor. So it should be by no coincident that we will discover fossil evidence of our aquatic ancestor in Southeast Asia in the near future. 
 
-Other aquatic adaptions in modern human being are sweating, crying, holding breath, born fat and ability to swim at birth, respiratory valves, descended larynx, paranasal sinuses, brain motor-function control in the cerebral cortex. 
-
-We also recently discovered that sealions also have human-like "Vernix Caseosa", the white waxy coating found on newborn human skin is thought to be a uniquely human substance.
+Other aquatic adaptions in modern human being are sweating, crying, holding breath, born fat and ability to swim at birth, respiratory valves, descended larynx, paranasal sinuses, brain motor-function control in the cerebral cortex. We also recently discovered that sealions also have human-like "Vernix Caseosa", the white waxy coating found on newborn human skin is thought to be a uniquely human substance.
 
 Maybe one of our mysterious ancestor, the Denisova, adaption to their extreme enviroment is the first one walking up right on their two legs. Recently, researchers have unvealed that they found higher frequency of the Denisovan originate gene FAM178B in DNA of the Baju, a modern amphibious aquatic tribe.
 
@@ -47,13 +45,11 @@ With 21 century global warming and rising sea level, maybe we are destined to co
 
 ### Blue Ocean Navy and Gulf of Tonkin Resolution
 
-Whether our ancestors have an aquatic origin or not, the ascent and descent of civilization have always been around major rivers and the blue ocean.
+Whether our ancestors have an aquatic origin or not, the ascent and descent of civilization have always been around major rivers and the blue ocean. Our oldest known civilization, Ancient Egypt, around 3000BC with its famous Pyramids located next to the Nile River.
 
 ![Accient Egypt](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg)
 
-Our oldest known civilization, Ancient Egypt, around 3000BC with its famous Pyramids located next to the Nile River. 
-
-The Yellow River is the cradle of Chinese civilization.  Two million years ago, prehistoric (Peking) man is known to live near the Yellow River. The Yellow River or Huang Ha in Chinese is also the birthplace of Xia (2100 BC - 1600 BC), Shang (1600-1046 BC), Zhou Dynasty (1045-256 BC) - the most enduring dynasty in Chinese history. 
+ The Yellow River is the cradle of Chinese civilization.  Two million years ago, prehistoric (Peking) man is known to live near the Yellow River. The Yellow River or Hoang Ha in Han Chinese is also the birthplace of Xia (2100 BC - 1600 BC), Shang (1600-1046 BC), Zhou Dynasty (1045-256 BC) - the most enduring dynasty in Chinese history. 
 
 ![Inca Civilization](https://www.crystalinks.com/machu.gif)
 
@@ -63,23 +59,21 @@ Athen, the birthplace of democracy as well as cornerstone of Western civilizatio
 
 The Island of Great Britain reached its height in 19 century as the British Empire with its superior Royal Navy.  British Royal Navy enabled it to dominate the sea, protect trade routes from its vast colonies in India, Asia, and North America.  The Royal Navy was crucial in Britain ability to block Germany to ever conduct the Sea Lion campaign [^fn8] and later on defeated Nazi Germany with its America-Britain D-Day amphibious landing. 
 
-In modern-day, America is dominating the ocean since the end of World War II, projecting its power via 11 nuclear-powered Aircraft carriers and as well as ballistic submarines.
+In modern-day, America is dominating the ocean since the end of World War II, projecting its power via 11 nuclear-powered Aircraft carriers, nuclear-power attack and SLBM submarines. A dominating naval force is very effective at securing trade routes, potentially cripple enemy offensive naval capability via decisive battle or conduct blockade to enforce a favourable term in the negotiation table. 
 
-However, during the Vietnam War that started with the Gulf of Tonkin incident Aug 2, 1964, and ended with the full withdrawal of American troop, American navy showed the limit of power projection from naval forces.
+![American NAVY can easily blockage Chinese and Indian foreign exports and energy imports](https://storage.googleapis.com/spykman-world/fuel_lines_of_asia_coastal_cities.png)
 
-Navy is very effective at securing trade routes, potentially cripple enemy offensive naval capability via decisive battle or conduct blockade to enforce a favourable term in the negotiation table.
+However, during the Vietnam War that started with the Gulf of Tonkin incident Aug 2, 1964, and ended with the full withdrawal of American troop, American navy showed the limit of power projection from naval forces. In a pro-long total war again a land power, the naval force will not ever fully secure a victory and its operations are too expensive and have limited effectiveness. This proves true again during the Afghanistan war.
 
-However, in a  pro-long total war again a land power, the naval force will not ever fully secure a victory and its operations are too expensive and have limited effectiveness. This proves true again during the Iraq war.
-
-![Hainan Navalbase](https://fas.org/wp-content/uploads/sites/4/hainan-txt.jpg)
+![Kabul Airport Evacuation](https://storage.googleapis.com/spykman-world/Kabul_Airport_Withdrawal.png)
 
 Will America superior Navy ever be challenged at the open pacific ocean? Probably not anytime soon. However, with China Hainan submarine bases, its long-range carrier-killer missiles and an extensive network of sensors at the ocean seabed of South China sea, American carriers could become vulnerable within Southeast Asia and risk losing in a decisive battle within 900 miles from shore. 
 
+![Hainan Navalbase](https://fas.org/wp-content/uploads/sites/4/hainan-txt.jpg)
+
 ### Climate Change and The Birth of a Seafaring Civilization
 
-While in America, politicians are still debating about whether global warming and climate change are real, Southeast Asia or ASEAN countries are already experiencing negative consequences of climate change.
-
-Rising sea level is causing the shrinking of islands and coastal areas. Extreme weather events are getting worse with more severe droughts inland as well as floods and tropical storms in the deltas, coastal areas, and islands. 
+While in America, politicians are still debating about whether global warming and climate change are real, Southeast Asia or ASEAN countries are already experiencing negative consequences of climate change. Rising sea level is causing the shrinking of islands and coastal areas. Extreme weather events are getting worse with more severe droughts inland as well as floods and tropical storms in the deltas, coastal areas, and islands. 
 
 ASEAN has mostly countries with coastal and islands so it is probably the area to feel the largest economic impact of climate change around the world. If sea level rises high enough, most of South East Asia would disappear from the map. 
 
