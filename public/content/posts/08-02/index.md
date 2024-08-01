@@ -15,11 +15,15 @@ published: true
 
 Most modern mainstream anthropologists agree with the Savana Theory. However, there are still 4-6 million years gaping holes in evolutionary fossil records to truly explain the evolutionary leap of modern human from tree-climbing chimpanzees to today homo-sapiens. The modern apes seem to have just sprung out of nowhere. What has happened to our ancestor's environment that caused this evolutionary adaption?
 
+![Primate Climbing Tree](https://storage.googleapis.com/spykman-world/Primate%20Climbing%20Tree.png)
+
 According to the Savana Theory, millions of year ago when the Earth’s climate began to shift, grass began to spread. As a result, there were fewer trees in a place like the African Savannah. The disappearing forests meant fewer food sources and more competition for the chimpanzees. This forced chimpanzees to find new food sources on the ground. With their heads above the grass to see predators, it’s believed this is when four-legged mammals adapted to walk on two legs. 
 
-However, in order to develop a new bone frame structure to support this new posture would take a lot of gene adaption. Does standing upright provide that much advantage in spotting a predator? How often the apes had to stand upright in order to mope this activity into their gene selection. Does standing upright result in massive locomotion efficiency? 
+![Chimpanzee Baby Learning To Walk](https://storage.googleapis.com/spykman-world/Chimpanzee%20Baby%20Learn%20to%20Walk.png)
 
-The horse did not need to stand up right but already has much higher locomotion efficiency than human with just its smooth short hair. Today fastest and most fearsome mammal predator like Tiger, Lion, Leopard still have their fur coat on? Probably the hunting activities and long distance travel caused us to take off the fur coat to release heat while running and tracing our preys but did not necessary result in bipedal bone structure in modern human.
+However, in order to develop a new bone frame structure to support this new posture would take a lot of gene adaption. Does standing upright provide that much advantage in spotting a predator? How often the apes had to stand upright in order to mope this activity into their gene selection. Does standing upright result in massive locomotion efficiency improvement? 
+
+The horse did not need to stand up right but already has much higher locomotion efficiency than human with just its smooth short hair. Today fastest and most fearsome mammal predator like Tiger, Lion, Leopard still have their fur coat on? Probably the hunting activities and long distance travel caused us to take off the fur coat to release heat and reduce air friction while running and tracing our preys but did not necessary result in bipedal bone structure in modern human.
 
 ![Tiger](https://storage.googleapis.com/spykman-world/tiger_apex_lone_hunter_in_forrest_for_less_noises.png)
 
@@ -57,7 +61,7 @@ The Inca Civilization (1200 AD - 1542 AD) of Peru built the most sophisticated a
 
 Athen, the birthplace of democracy as well as cornerstone of Western civilization, locates right next to port Pireas with direct access to the Medditerian. The Athen is famous for its superior Navy in the Ancient Greek. Athen navy and its allies ultimately crushed the Persian Empire invasion at the Battle of Salamis [^fn7] and forever stop any future invasions from Persia to the Ancient Greek
 
-The Island of Great Britain reached its height in 19 century as the British Empire with its superior Royal Navy.  British Royal Navy enabled it to dominate the sea, protect trade routes from its vast colonies in India, Asia, and North America.  The Royal Navy was crucial in Britain ability to block Germany to ever conduct the Sea Lion campaign [^fn8] and later on defeated Nazi Germany with its America-Britain D-Day amphibious landing. 
+The Island of Great Britain reached its height in 19 century as the British Empire with its superior Royal Navy. British Royal Navy enabled it to dominate the sea, protect trade routes from its vast colonies in India, Asia, and North America.  The Royal Navy was crucial in Britain ability to block Germany to ever conduct the Sea Lion campaign [^fn8] and later on defeated Nazi Germany with its America-Britain D-Day amphibious landing. 
 
 In modern-day, America is dominating the ocean since the end of World War II, projecting its power via 11 nuclear-powered Aircraft carriers, nuclear-power attack and SLBM submarines. A dominating naval force is very effective at securing trade routes, potentially cripple enemy offensive naval capability via decisive battle or conduct blockade to enforce a favourable term in the negotiation table. 
 
@@ -70,6 +74,8 @@ However, during the Vietnam War that started with the Gulf of Tonkin incident Au
 Will America superior Navy ever be challenged at the open pacific ocean? Probably not anytime soon. However, with China Hainan submarine bases, its long-range carrier-killer missiles and an extensive network of sensors at the ocean seabed of South China sea, American carriers could become vulnerable within Southeast Asia and risk losing in a decisive battle within 900 miles from shore. 
 
 ![Hainan Navalbase](https://fas.org/wp-content/uploads/sites/4/hainan-txt.jpg)
+
+![African Women moving Good as Efficiently as US Jet Fighter Moving its Payloads](https://storage.googleapis.com/spykman-world/Locomotion%20Efficiently.png)
 
 ### Climate Change and The Birth of a Seafaring Civilization
 
