@@ -9,7 +9,7 @@ title: "Will America Continue To Be The Liberty Enlightening the World"
 tags: ['United States', 'Statue of Liberty', 'Liberty','North America','South America','The New World','Spykman World','Nicholas Spykman']    
 published: true
 ---
-Libertas was a Roman goddess of Freedom. Her beautiful picture appeared on the gold coins that Julius Ceasar would pay his ninja assassins with. France originally planned to place the Statue of Liberty in Egypt next to three great pyramids to celebrate the freedom of ancient Israelians from slavery 
+Libertas was a Roman goddess of Freedom. Her beautiful picture appeared on the gold coins that Julius Ceasar would pay his ninja assassins with. France originally planned to place the Statue of Liberty in Egypt next to three great pyramids to celebrate the freedom of ancient Israelians from slavery.  
 
 ![Gold Coin of Ceasar](https://storage.googleapis.com/spykman-world/libertas_coin_of_ceasar.png)
 
@@ -17,18 +17,24 @@ However, eventually France gave it to the United States to celebrate the passing
 
 ![Statue of Liberty East Facing](https://storage.googleapis.com/spykman-world/east_facing_statue_of_liberty.png)
 
-As of 2023, people around the globe are still spending more than 8 hours a day looking toward the television and smartphone lights and consume the American-made content from movies to video clips, images and other social media contents transfering over via the American-made fiber-optics sea cables.  
+As of 2023, people around the globe are still spending more than 8 hours a day looking toward the television and smartphone lights and consume the American-made content from movies to video clips, images and other social media contents transfering over via the American-made fiber-optics sea cables. 
 
 ![American Fiber Optics Cable](https://storage.googleapis.com/spykman-world/fiber_optic_cable.png)
 
 ### America - A British Special Economic Zone Turn Independence.
 ![French Eggs Colonization](https://storage.googleapis.com/spykman-world/spanish_french_english_SEZ.png)
 
-America is not really a colony like the Colonies of India or Indochina. Majority of citizens of 13 original American colonies are British and European nationals... not Natives like in India or Indochina. It’s more like a forward-deployed military base plus a special economic zone with its own set of rules and regulations.
+America is not really a colony like the Colonies of India or Indochina. Majority of citizens of 13 original American colonies are British and European nationals not Natives like in India or Indochina. It’s more like a forward-deployed military base plus a special economic zone with its own set of rules and regulations.
 
 The government structure of Native American tribes at the arrival of Columbus was very fragmented and not centralized like the Civilizations of China, India or Indochina. As a result, the Natives were quickly overrun and dominated by the newcomers from Europe. 
 
+![New European Female Lineages Arriving From Europe](https://storage.googleapis.com/spykman-world/Statue%20of%20Libery%20at%20the%20New%20YORK%20Harbor.png)
+
 ### America - The Roman Empire of 21 Century
+
+![CIA C in A or Clone Infiltrating Agent](https://storage.googleapis.com/spykman-world/C%20in%20A%20or%20Clone%20Infiltrating%20Agent.png)
+
+![French Influences in America](https://storage.googleapis.com/spykman-world/EM-AB-EM.png)
 
 ### The Dark Age or a New Sun for The Post American World
 
