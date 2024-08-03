@@ -30,6 +30,9 @@ The government structure of Native American tribes at the arrival of Columbus wa
 
 ![New European Female Lineages Arriving From Europe](https://storage.googleapis.com/spykman-world/Statue%20of%20Libery%20at%20the%20New%20YORK%20Harbor.png)
 
+
+![US Presideents with French DNA](https://storage.googleapis.com/spykman-world/US%20President%20with%20French%20DNA.png)
+
 ### America - The Roman Empire of 21 Century
 
 ![CIA C in A or Clone Infiltrating Agent](https://storage.googleapis.com/spykman-world/C%20in%20A%20or%20Clone%20Infiltrating%20Agent.png)
