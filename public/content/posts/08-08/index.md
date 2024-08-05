@@ -10,7 +10,7 @@ tags: ['Dollar Bill', 'Dollar Digits', 'Gold Bullion','United States of America'
 published: true
 ---
 
-# The World Exchange in the Post USD World
+## The World Exchange in the Post USD World
 ### The Genesis of Money
  
 Money is essentially a mean for value exchange aka trading among individuals, groups, corporations or nations. It is a third party middle man, a medium that we all can believe in regardless of gender, ethnicity, religion, nationality or age. Money does not discriminate. It is one of the human greatest inventions to exponentially foster collaboration in large number. Chimpanzees do not have a monetary system and we do not see chimpanzees exchange bananas either. 
@@ -18,8 +18,12 @@ Money is essentially a mean for value exchange aka trading among individuals, gr
 ![First SWIFT payment network via fruits](https://storage.googleapis.com/spykman-world/peach_and_apples_as_meaning_of_exchange.png)
  
 Nowadays, not a single human knows exactly how to make a pencil. And for sure, no one or even a nation can make a Boeing without importing manufacturing parts from another nation. However, with the help of money, we can all work together without knowing each other in order to collaboratively create a pencil or a space rocket.
+
+![The Salary Assembly Workers](https://storage.googleapis.com/spykman-world/the-assembly-line.png)
  
-Money has many forms throughout its history from stones, seashells to copper coins, silver, gold, fiat or paper money and mostly digital in the modern banking system.
+Money has many forms throughout its history from seashells, hand-made stones to copper, silver and gold coin, fiat or paper money and mostly digital in the modern banking system.
+
+![Mass Produced Physical Objects as Money](https://storage.googleapis.com/spykman-world/Mass%20Produced%20Physical%20Objects%20as%20Money.png)
  
 ### The Gold Rush
 
@@ -32,6 +36,8 @@ Until the modern day, GOLD still serve as an irreplacable cross-border mean of e
 ### The Invention of Paper money
 
 Fiat or paper money was first used in China in the 7th century. Kublai Khan, the Mongolian emperor of China, founder of the Yuan Dynasty created the Jiaochao as the national currency, essentially created the first predominant circulating paper money system.
+
+![World First Fiat Currency for Travelers](https://storage.googleapis.com/spykman-world/Mongolian%20Dynasty%20World%20First%20Fiat%20Currency%20for%20Travellers.png)
  
 First time in history, the power to control the monetary system or the medium of exchange is fully controlled by the state. However, paper money with its unlimited potential quantity as well as lighter weight fostered commerce across the Yuan Dynasty as well as future Mongo vast empire from Europe to Asia. 
 
@@ -53,7 +59,7 @@ After World World II, the United States emerged as the major winner with its mas
 
 The world switched from Gold-backed currencies to US-dollar backed currencies.
 
-# US Dollar as the World Reserve Currency
+## US Dollar as the World Reserve Currency
 
 So does everyone believe in US Dollar after Bretton Woods agreements? Not really. By early summer 1944, World War II has decisively turned against Germany. After the successful Crimean Offensive by the Soviet from April 8 to May 12, 1944, the outcome of World War II has been decided. German has been pushed back everywhere across Eastern front and the Soviet Forces were racing toward Berlin. Finally, Britain and US forces entered WWII with the D-Day landing at Normandy, France on June 6, 1944 during Operation Overlord. 
 
@@ -79,7 +85,7 @@ Some countries choose to let the market mechanism deciding their currencies exch
 
 ### SWIFT Banking Network of the Digital Age
 
-# A New Payment Network for Export Driven Economies
+## A New Payment Network for Export Driven Economies
 
 
 
