@@ -10,54 +10,30 @@ tags: ['Dollar Bill', 'Dollar Digits', 'Gold Bullion','United States of America'
 published: true
 ---
 
-### The Role of US Dollar in 21 Century
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2335445176783110%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<br/>
-
+# The World Exchange in the Post USD World
 ### The Genesis of Money
  
-Money is essentially a mean for value exchange aka trading among individuals, groups, corporations or nations. 
- 
-It is a third party middle man, a medium that we all can believe in regardless of gender, ethnicity, religion, nationality or age. Money does not discriminate. 
- 
-It is one of the human greatest inventions to exponentially foster collaboration in large number. 
+Money is essentially a mean for value exchange aka trading among individuals, groups, corporations or nations. It is a third party middle man, a medium that we all can believe in regardless of gender, ethnicity, religion, nationality or age. Money does not discriminate. It is one of the human greatest inventions to exponentially foster collaboration in large number. Chimpanzees do not have a monetary system and we do not see chimpanzees exchange bananas either. 
 
-Chimpanzees do not have a monetary system and we do not see chimpanzees exchange bananas either. 
+![First SWIFT payment network via fruits](https://storage.googleapis.com/spykman-world/peach_and_apples_as_meaning_of_exchange.png)
  
-Nowadays, not a single human knows exactly how to make a pencil. And for sure, no one or even a nation can make a Boeing without importing manufacturing parts from another nation. 
- 
-However, with the help of money, we can all work together without knowing each other in order to collaboratively create a pencil or a space rocket.
+Nowadays, not a single human knows exactly how to make a pencil. And for sure, no one or even a nation can make a Boeing without importing manufacturing parts from another nation. However, with the help of money, we can all work together without knowing each other in order to collaboratively create a pencil or a space rocket.
  
 Money has many forms throughout its history from stones, seashells to copper coins, silver, gold, fiat or paper money and mostly digital in the modern banking system.
  
 ### The Gold Rush
 
-From the medieval age, gold becomes a common medium of exchange across different cultures. 
+From the medieval age, gold becomes a common medium of exchange across different cultures. Gold has certain properties which make it a great medium of exchange or a great form of money.It is wanted and sought after across different cultures and nations. The Chinese wants gold, the Spanish likes gold, the Persian values gold. It is difficult to fake or easy to test the purity level. It does not go bad and can last for thousands of year or essentially forever.
+
+It is easy enough to move and transport at the medieval to pre-modern age requirements. It has limited quantity but available large enough across different geography. The crave of this easy to believe in medium of exchange led to the Spanish colonization of the American continent, as well as the Gold Rush of the California Wild West. 
  
-Gold has certain properties which make it a great medium of exchange:
+Until the modern day, GOLD still serve as an irreplacable cross-border mean of exchange that staying reliable even in the time of wars and chaos that the Federal Reserves of United States, Central Bank of China, Russia and European can settle their post-wars gain and loss with each others. 
 
-It is wanted and sought after across different cultures and nations. The Chinese wants gold, the Spanish likes gold, the Persian values gold.
-It is difficult to fake or easy to test the purity level.
-
-It does not go bad and can last for thousands of year or essentially forever.
-
-It is easy enough to move and transport at the medieval to pre-modern age requirements.
-
-It has limited quantity but available large enough across different geography.
- 
-The crave of this easy to believe in medium of exchange led to the Spanish colonization of the American continent, as well as the Gold Rush of the California Wild West. 
- 
 ### The Invention of Paper money
 
-Fiat or paper money was first used in China in the 7th century. 
+Fiat or paper money was first used in China in the 7th century. Kublai Khan, the Mongolian emperor of China, founder of the Yuan Dynasty created the Jiaochao as the national currency, essentially created the first predominant circulating paper money system.
  
-Kublai Khan, the Mongolian emperor of China, founder of the Yuan Dynasty created the Jiaochao as the national currency, essentially created the first predominant circulating paper money system.
- 
-First time in history, the power to control the monetary system or the medium of exchange is fully controlled by the state. 
- 
-However, paper money with its unlimited potential quantity as well as lighter weight fostered commerce across the Yuan Dynasty as well as future Mongo vast empire from Europe to Asia. 
+First time in history, the power to control the monetary system or the medium of exchange is fully controlled by the state. However, paper money with its unlimited potential quantity as well as lighter weight fostered commerce across the Yuan Dynasty as well as future Mongo vast empire from Europe to Asia. 
 
 ### The Gold Standard Come In and Out of Fiat Currency System
  
@@ -77,22 +53,13 @@ After World World II, the United States emerged as the major winner with its mas
 
 The world switched from Gold-backed currencies to US-dollar backed currencies.
 
-### US Dollar as the World Reserve Currency
+# US Dollar as the World Reserve Currency
 
-So does everyone believe in US Dollar after Bretton Woods ? Not really.
-
-By early summer 1944, World War II has decisively turned against Germany
-After the successful Crimean Offensive by the Soviet from April 8 to May 12, 1944, the outcome of World War II has been decided.
-
-German has been pushed back everywhere across Eastern front and the Soviet Forces were racing toward Berlin.
-
-Finally, Britain and US forces entered WWII with the D-Day landing at Normandy, France on June 6, 1944 during Operation Overlord. 
+So does everyone believe in US Dollar after Bretton Woods agreements? Not really. By early summer 1944, World War II has decisively turned against Germany. After the successful Crimean Offensive by the Soviet from April 8 to May 12, 1944, the outcome of World War II has been decided. German has been pushed back everywhere across Eastern front and the Soviet Forces were racing toward Berlin. Finally, Britain and US forces entered WWII with the D-Day landing at Normandy, France on June 6, 1944 during Operation Overlord. 
 
 Less than a month later on July 1, Allied nations met at the The Bretton Woods conference to draw out a reconstruction plan. The result was the creation of two today modern organizations: the IMF and the World Bank.
 
-The original agreement was that the US Dollar would be pegged to Gold at $35 per Troy ounces and every other countries’ currency would be pegged to US Dollars with the IMF as the organization to keep the exchange rate stable.
-
-Also all World Bank reconstruction loans would be in US Dollars.
+The original agreement was that the US Dollar would be pegged to Gold at $35 per Troy ounces and every other countries’ currency would be pegged to US Dollars with the IMF as the organization to keep the exchange rate stable. Also all World Bank reconstruction loans would be in US Dollars.
 
 Following the Bretton Woods agreement, the world rapidly recovered from World War II with most Western industrialized nations reached their pre-war GDP by 1960s. We already experienced a very stable financial system with very few banking crises during the Bretton Woods era. 
 
@@ -110,6 +77,9 @@ After the collapse of the Bretton Woods agreement under Richard Nixon, we are ha
 
 Some countries choose to let the market mechanism deciding their currencies exchange rate.  Other countries with large inflow and outflow of foreign investment keep their currency exchange rate stable to keep domestic inflation in check and foster trading with other nations. 
 
+### SWIFT Banking Network of the Digital Age
+
+# A New Payment Network for Export Driven Economies
 
 
 
