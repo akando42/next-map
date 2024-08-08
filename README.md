@@ -36,10 +36,11 @@ yarn dev
 [X] Auto Start and Stop Audio. 
 [X] Generate new Site Map every builds.  
 
+## Generate Short Video from Images and Voice Over
 [ ] Toggle Full Screen https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API
+[ ] Speech Synthesis https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 [ ] Record Audio https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
 [ ] Screen Recording https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture#examples
-[ ] Generate Short Video from Images and Voice Over.
 
 ## FUN TWITTER AUTOMATION
 [ ] Create array of timezone, city name, city-zen image.

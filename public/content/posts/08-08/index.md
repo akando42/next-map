@@ -24,40 +24,44 @@ Nowadays, not a single human knows exactly how to make a pencil. And for sure, n
 Money has many forms throughout its history from seashells, hand-made stones to copper, silver and gold coin, fiat or paper money and mostly digital in the modern banking system.
 
 ![Mass Produced Physical Objects as Money](https://storage.googleapis.com/spykman-world/Mass%20Produced%20Physical%20Objects%20as%20Money.png)
- 
-### The Gold Rush
 
-From the medieval age, gold becomes a common medium of exchange across different cultures. Gold has certain properties which make it a great medium of exchange or a great form of money.It is wanted and sought after across different cultures and nations. The Chinese wants gold, the Spanish likes gold, the Persian values gold. It is difficult to fake or easy to test the purity level. It does not go bad and can last for thousands of year or essentially forever.
+From the medieval age, gold becomes a common medium of exchange across different cultures. Gold has certain properties which make it a great medium of exchange or a great form of money. It is wanted and sought after across different cultures and nations. The Chinese wants gold, the Spanish likes gold, the Persian values gold. It is difficult to fake or easy to test the purity level. It does not go bad and can last for thousands of year or essentially forever.
+
+![Gold Coin Found in Chinese Imperial Tomb](https://storage.googleapis.com/spykman-world/GOLD%20Coins%20found%20in%20Chinese%20Imperial%20Tombs.png)
 
 It is easy enough to move and transport at the medieval to pre-modern age requirements. It has limited quantity but available large enough across different geography. The crave of this easy to believe in medium of exchange led to the Spanish colonization of the American continent, as well as the Gold Rush of the California Wild West. 
+
+![Gold Rush Migration](https://storage.googleapis.com/spykman-world/Gold%20Rush%20Migration%20Created%20the%20State%20of%20California.png)
  
-Until the modern day, GOLD still serve as an irreplacable cross-border mean of exchange that staying reliable even in the time of wars and chaos that the Federal Reserves of United States, Central Bank of China, Russia and European can settle their post-wars gain and loss with each others. 
+Until the modern day, GOLD still serve as an irreplacable cross-border mean of exchange that staying reliable even in the time of wars and chaos that the Federal Reserves of United States, Central Bank of China, Russia and European Union can settle their post-wars gain and loss with each others. 
+
+![New YORK FED Gold Vault](https://storage.googleapis.com/spykman-world/New%20York%20FED%20Gold%20Vault.png)
 
 ### The Invention of Paper money
 
-Fiat or paper money was first used in China in the 7th century. Kublai Khan, the Mongolian emperor of China, founder of the Yuan Dynasty created the Jiaochao as the national currency, essentially created the first predominant circulating paper money system.
+Fiat or paper money was first invented in China. Kublai Khan, the Mongolian emperor of China, founder of the Yuan Dynasty created the Jiaochao as the national currency, essentially created the first predominant circulating paper money system. Kublai Khan ensured the paper money credibility by confiscating all gold and silver and forced all traders to accept his paper money or being executed. This early form of paper money was not backed by gold but backed by milliary power. 
 
 ![World First Fiat Currency for Travelers](https://storage.googleapis.com/spykman-world/Mongolian%20Dynasty%20World%20First%20Fiat%20Currency%20for%20Travellers.png)
  
-First time in history, the power to control the monetary system or the medium of exchange is fully controlled by the state. However, paper money with its unlimited potential quantity as well as lighter weight fostered commerce across the Yuan Dynasty as well as future Mongo vast empire from Europe to Asia. 
+First time in history, the monetary system or the medium of exchange is fully controlled by the central state. However, paper money with its unlimited potential quantity as well as lighter weight fostered commerces across the Mongol Princes's Empires along the Silk Road from Asia to Europe. However, the forceful introduction of paper money did not gain popularity everywhere. It led to the collapse of trade in Persia during 1294 and only lasted for around 300 years in China and then disappeared after 15 century.
 
-### The Gold Standard Come In and Out of Fiat Currency System
- 
-Initially, paper money was not backed by gold but backed by milliary power. After conquering China in 13 century,  Kublai Khan established the paper money credibility by confiscating all gold and silver and forced all traders to accept his paper money or being executed. 
- 
-However, the forceful introduction of paper money did not gain popularity everywhere. It led to the collapse of trade in Persia during 1294 and only lasted for around 300 years in China and then disappeared after 15 century.
+![Blood type B Domination of Euro Asia](https://storage.googleapis.com/spykman-world/Blood%20Type%20B%20Domination%20of%20EuroAsia.png)
  
 In 1661, The Kingdom of Sweden issued the first paper money in the West but this fiat currency was also a failure because of the rapid inflation it causing and only lasted until 1776 and they have to return back to the commodity currency of gold and silver.
- 
-In 1821, the United Kingdom adopted a fiat currency system backed by Gold and for the first time we have a monetary system that achieves both the easy to transact strength of fiat currency as well as the stability value unit of gold.
- 
-Other Western powers gradually adopted gold-backed fiat currency with Germany in 1871, Sweden in 1873, the United States in 1873 and France in 1874.
- 
-To put the monetary system into afterburner mode, Britain temporary abandoned the gold-backed fiat monetary system to fund its World War I and World War II effort and other countries gradually got off the gold standard following Britain.
- 
-After World World II, the United States emerged as the major winner with its massive industrial and military strength as well as limited damage to its critical infrastructure. With the Bretton Woods international monetary agreement of 1944,  every currency fixed their exchange rate to US Dollars. 
 
-The world switched from Gold-backed currencies to US-dollar backed currencies.
+![Stockholm First Europe Fiat Currency](https://storage.googleapis.com/spykman-world/Stockholm%20Banco%20First%20Fiat%20Currency.png)
+ 
+In 1821, the United Kingdom adopted a fiat currency system backed by Gold and for the first time we have a monetary system that achieves both the easy to transact strength of fiat currency as well as the stability value unit of gold. Other Western powers gradually adopted gold-backed fiat currency with Germany in 1871, Sweden in 1873, the United States in 1873 and France in 1874.
+
+![US Gold Backed I Borrow You Money Note Dollar](https://storage.googleapis.com/spykman-world/US%20Gold%20Backed%20I%20Borrow%20You%20Money%20Note.png)
+ 
+To put the monetary system into afterburner mode, in 1931 Britain temporary abandoned the gold-backed fiat monetary system to pay off its World War I expenses and prepare for its World War II effort and other countries gradually got off the gold standard following Britain with the FDR signed the Executive Orders to forcefully borrow golds from American publics in exchange for the Government I Owe You Dollar notes.
+
+![FDR forcefully borrowed money to fund American WW2](https://storage.googleapis.com/spykman-world/FDR%20Order%20Confistication%20of%20GOLD%20from%20all%20American%20Citizens.png)
+ 
+After World World II, the United States emerged as the major winner with its massive industrial and military strength as well as limited damage to its critical infrastructure. With the Bretton Woods international monetary agreement of 1944, every currency fixed their exchange rate to US Dollars. The world switched from Gold-backed currencies to US-dollar backed currencies.
+
+![Post WW2 US Dollar Backed by US Military Power](https://storage.googleapis.com/spykman-world/US%20Do%20La.png)
 
 ## US Dollar as the World Reserve Currency
 
