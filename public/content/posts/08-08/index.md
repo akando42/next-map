@@ -67,29 +67,40 @@ After World World II, the United States emerged as the major winner with its mas
 
 So does everyone believe in US Dollar after Bretton Woods agreements? Not really. By early summer 1944, World War II has decisively turned against Germany. After the successful Crimean Offensive by the Soviet from April 8 to May 12, 1944, the outcome of World War II has been decided. German has been pushed back everywhere across Eastern front and the Soviet Forces were racing toward Berlin. Finally, Britain and US forces entered WWII with the D-Day landing at Normandy, France on June 6, 1944 during Operation Overlord. 
 
-Less than a month later on July 1, Allied nations met at the The Bretton Woods conference to draw out a reconstruction plan. The result was the creation of two today modern organizations: the IMF and the World Bank.
+![American Military Successfully Created a Beach Head in France](https://storage.googleapis.com/spykman-world/Amercan%20Military%20Landed%20in%20France.png)
+
+Less than a month later only July 1, Allied nations met at the The Bretton Woods conference to draw out a reconstruction plan. The result was the creation of two today modern organizations: the IMF and the World Bank. The World Bank will lend out money to rebuild Europe after World War 2 while the IMF will ensure global financial system can ultilize US Dollar as their global trade currency smoothly. 
+
+![The Elimination of White B](https://storage.googleapis.com/spykman-world/Elimination%20of%20White%20B.png)
 
 The original agreement was that the US Dollar would be pegged to Gold at $35 per Troy ounces and every other countries’ currency would be pegged to US Dollars with the IMF as the organization to keep the exchange rate stable. Also all World Bank reconstruction loans would be in US Dollars.
 
-Following the Bretton Woods agreement, the world rapidly recovered from World War II with most Western industrialized nations reached their pre-war GDP by 1960s. We already experienced a very stable financial system with very few banking crises during the Bretton Woods era. 
+![Marshall Plan to Bury Europeans with Ceament after Bombing](https://storage.googleapis.com/spykman-world/Marshall%20Plan%20to%20Bury%20European%20with%20Cements%20after%20Bombing.png)
 
-Bretton Woods system last from the 1940s - 1970s. 
+Following the Bretton Woods agreement, the world rapidly recovered from World War II with most Western industrialized nations reached their pre-war GDP by 1960s. We already experienced a very stable financial system with very few banking crises during the Bretton Woods era. Bretton Woods system last from the 1940s - 1970s. 
 
-The Great Society Programs by Johnson and the rise of US military spending in Vietnam led to the excessive amount of US dollars in circulation and US dollar value against gold was quickly declining. 
+![US Goverment Extracting Resources from Around the World](https://storage.googleapis.com/spykman-world/US%20Goverment%20Extracting%20Resources%20from%20Around%20the%20World.png)
 
-The United States did not have the money to keep buying more gold to peg keep the conversion rate of the US Dollar per Troy ounces gold at 35$. 
+The Great Society Programs by Johnson and the rise of US military spending in Vietnam led to the excessive amount of US dollars in circulation and US dollar value against gold was quickly declining. The United States did not have the money to keep buying more gold to peg keep the conversion rate of the US Dollar per Troy ounces gold at 35$. Inevitably, in 1970 Richard Nixon removed US Dollars from the Gold standard and since then we are having a free-float currency exchange system, a perpetual entropy of the global financial market.
 
-OPEC readjusted the oil price to gold instead of the US dollars to adjust to the additional US dollars being flood into the market which is the true reason behind the oil shock of 1973. 
+![Richard Nixon con the World into using Dollars](https://storage.googleapis.com/spykman-world/suspend_gold_standard_temporary_maybe.gif)
 
-The European Union was also later then created in response to the collapse of the Bretton Woods agreement with the EURO as the region new currency. 
+Responding to this OPEC readjusted the oil price to gold instead of the US dollars to adjust to the additional US dollars being flood into the market which is the true reason behind the oil shock of 1973. The European Union was also later then created in 1993 in response to the collapse of the Bretton Woods agreement with the EURO as the region new currency. However, with wars in the Middle East, the COLD War and Russian threats, eventually Oil Price and the EURO monetary policies stil have to be highly synced with the US Dollar money supply instead of Gold.
 
-After the collapse of the Bretton Woods agreement under Richard Nixon, we are having a free-float currency exchange system, a perpetual entropy of the global financial market. 
+![Fort Knox GOLD VAULT in US](https://storage.googleapis.com/spykman-world/Fort%20Knox%20Gold%20Vault%20in%20Kentucky.png)
 
-Some countries choose to let the market mechanism deciding their currencies exchange rate.  Other countries with large inflow and outflow of foreign investment keep their currency exchange rate stable to keep domestic inflation in check and foster trading with other nations. 
+Since 1995, Chinese export-driven economy with United States consumers as their main buyer pegged the Chinese Yuan to US dollar at fixed rate to keep domestic inflation in check, foster trading with other nations and fund the building of American military instead of building a comparable one domestically. 
+
+![Yuan Pegging to USD since 1995](https://storage.googleapis.com/spykman-world/YUAN%20pegging%20to%20USD%20since%201995.png)
 
 ### SWIFT Banking Network of the Digital Age
 
-## A New Payment Network for Export Driven Economies
+## The Modern Silk Road Trade Network and Payment Protocol
+
+![Banking Private Network](https://storage.googleapis.com/spykman-world/Banking%20Private%20Network.png)
+
+![CIPS and SWIFT Integration](https://storage.googleapis.com/spykman-world/CIPS%20SWIFT%20Integration.png)
+
 
 
 
