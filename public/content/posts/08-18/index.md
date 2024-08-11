@@ -14,12 +14,11 @@ published: true
 ## War Finance. How nations funded their wars in the ancient times, modern-era and how nations will fund their wars in the future ?
 
 ### Pre-modern Banking War Financing
-In the pre-modern banking system, when a nation had to prepare for war, they also had to prepare a budget and accumulate their resources ahead of major military campaigns. 
+In the pre-modern banking system, when a nation had to prepare for war, they also had to prepare a budget and accumulate their resources ahead of major military campaigns. Behind every successful military campaign is a well thought out financial forecast and planning. 
 
-Behind every successful military campaign is a well thought out financial forecast and planning. 
-War financial planning is as unpredictable or even more than funding for modern high risk high reward startup venture. 
+![Russian](https://storage.googleapis.com/spykman-world/Yelna%20Built%20Up.png)
 
-Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. 
+War financial planning is as unpredictable or even more than funding for modern high risk high reward startup venture. Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. 
 
 The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
