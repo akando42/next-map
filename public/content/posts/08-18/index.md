@@ -9,53 +9,37 @@ title: "Bitcoin - The First WAR Initial Coin Offerring"
 tags: ['Bitcoin', 'Blockchain', 'Cryptocurrencies','War Financing','Bond Market','Stock Market','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F479344129528923%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ## War Finance. How nations funded their wars in the ancient times, modern-era and how nations will fund their wars in the future ?
 
 ### Pre-modern Banking War Financing
-In the pre-modern banking system, when a nation had to prepare for war, they also had to prepare a budget and accumulate their resources ahead of major military campaigns. Behind every successful military campaign is a well thought out financial forecast and planning. 
+In the pre-modern banking system, when a nation had to prepare for war, they also had to prepare a budget and accumulate their resources ahead of major military campaigns. Behind every successful military campaign is a well thought out financial forecast and planning. War financial planning is as unpredictable or even more than funding for modern high risk high reward startup venture. 
 
-![Russian](https://storage.googleapis.com/spykman-world/Yelna%20Built%20Up.png)
+![2017 Chinese Built Up in Bac Giang Province Outside of Hanoi](https://storage.googleapis.com/spykman-world/Chinese%20Built%20Up%20Outside%20of%20Hanoi.png)
 
-War financial planning is as unpredictable or even more than funding for modern high risk high reward startup venture. Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. 
+Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
-The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
-
-Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time.
-
-Early period, the Republican Roman Army men were every able male private citizens. [^fn1]
-
-The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth by financial or military success. 
+Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth by financial or military success. 
 
 To become a Roman soldier in the Roman Empire, you actually have to come from a wealthy background to be able to fund their own military equipment. The poor served mainly as slaves and some slaves were in charge of caring supplies for Roman soldiers during their campaigns. 
 
-Later during the expansionary period, Roman Army plunder was actually the main source of revenue for the state and plunder revenue helped to fuel a continuous expansionary circle of the Roman Empire to its height. 
-
-After every successful campaign, the Roman soldiers can bring back their plunder profit from captured territorials including gold, silver, coins, goods as well as slaves. 
+Later during the expansionary period, Roman Army plunder was actually the main source of revenue for the state and plunder revenue helped to fuel a continuous expansionary circle of the Roman Empire to its height. After every successful campaign, the Roman soldiers can bring back their plunder profit from captured territorials including gold, silver, coins, goods as well as slaves. 
 
 The Roman army was much more disciplined and well equipped than all other surrounding city states. Wars were very profitable early on, a main source of riches for Rome.  In modern term, the Roman enjoyed War Surplus early on. 
 
-However, wars did get more expensive and became a major state expenditure at the introduction of cavalry units as well as larger army size to handle more challenging opponents.[^fn2]
-
-They started to experience War deficits during the later period of the empire.  
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F492873221276608%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+However, wars did get more expensive and became a major state expenditure at the introduction of cavalry units as well as larger army size to handle more challenging opponents. They started to experience War deficits during the later period of the empire.  
 
 Taxations are also another important sources of financing for Roman empires to fund their military campaign. Early period of the Roman Empire, orphans, widows and single women have to pay taxes for the upkeep of the Equus Publicus - the Roman military horse.
 
 After massive territorials and continuous successful military campaigns, taxes as well as tributes from capture city states and provinces were so lucaratives that the citizens of Rome no longer have to pay taxes. 
 
-The Mongol Empire existed from 1206 to 1368  also financed their wars through private contributions, plunders and taxations like the Roman.
+The Mongol Empire existed from 1206 to 1368  also financed their wars through private contributions, plunders and taxations like the Roman. 
 
-The Mongol war finance included  a sweat and blood equity system called the Khubi. Very similar to sweat equity of early modern tech startup founders.
-
-Members of the Golden Family - Altan Urag, as well as each noble families and each warriors were entitled to a Khubi share of all the benefits and good seized in wars from capture territorials. 
+The Mongol war finance included  a sweat and blood equity system called the Khubi. Very similar to sweat equity of early modern tech startup founders. Members of the Golden Family - Altan Urag, as well as each noble families and each warriors were entitled to a Khubi share of all the benefits and good seized in wars from capture territorials. 
 
 The Mongol also levied taxes and tributes from captured territorials to fund their military expansion. Mongol Khans used native local tax collectors to gather tax revenue. Moscow, the modern capital city of Russia rose to prominence because of their status as tax collectors for the Mongols. 
 
 A key innovation of the Mongol war finance system is the introduction of paper money and monetary policies to fund their expansionary wars. During major campaign, the Khan just simply to print more money [^fn3] to pay their warriors and local businesses were forced to accept this billed or being punished by death.  
 However, with limited ability to control the money supply, the Mongol paper money in China, Jiao Chao quickly caused inflation and lost of trust in the currency. 
-
 
 ### War Financing in 19th and 20th centuries
 Wars were still high profitable endeavours in 19 and 20 centuries. 
@@ -160,9 +144,9 @@ Further escalation from limited naval war to all-out war could be prevented via 
 
 Winners of World War III will gain control of major ocean shipping routes and levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investment. 
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F2359492027703383%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 World War III can also never become a major powers’ conflict but instead staying at proxy wars with the reappearance of well armed pirates[^fn7] or state-sponsored ocean piracy. 
+
+![Russian](https://storage.googleapis.com/spykman-world/Yelna%20Built%20Up.png)
 
 ##### References
 
