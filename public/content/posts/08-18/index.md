@@ -10,23 +10,23 @@ tags: ['Bitcoin', 'Blockchain', 'Dogecoin', 'Cryptocurrencies', 'War Financing',
 published: true
 ---
 ## War Finance. How nations funded their wars in the ancient times, modern-era and how nations will fund their wars in the future ?
-
 ### Pre-modern Banking War Financing
+
 In the pre-modern banking system, when a nation had to prepare for war, they also had to prepare a budget and accumulate their resources ahead of major military campaigns. Behind every successful military campaign is a well thought out financial forecast and planning. War financial planning is as unpredictable or even more than funding for modern high risk high reward startup venture. 
 
 ![2017 Chinese Built Up in Bac Giang Province Outside of Hanoi](https://storage.googleapis.com/spykman-world/Chinese%20Built%20Up%20Outside%20of%20Hanoi%20in%20Xuong%20Giang.png)
 
 Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Roman%20Empire%20and%20Mongol%20Khanate.png)
+![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
 
-Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth but by financial or military success. 
+The Roman Empire existed from 27BC to 1453 AD and is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth but by financial or military success. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Roman Citizen Discussing Issues](https://storage.googleapis.com/spykman-world/Roman%20Citizens%20Discussing%20Issues.png)
 
 To become a Roman soldier in the Roman Empire, you actually have to come from a wealthy background to be able to fund their own military equipment. The poor served mainly as slaves and some slaves were in charge of caring supplies for Roman soldiers during their campaigns.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Slavery in Rome](https://storage.googleapis.com/spykman-world/Slavery%20in%20Rome.png)
 
 With the popularity of the Roman Latin alphabet among all Roman citizens, all the war tool design and manufacturing process could be experimented on to different directions and usage performances in real war were recorded in writing.
 
@@ -38,23 +38,23 @@ Roman soldiers could then contribute money to a common defense budget to mass ma
 
 Later during the expansionary period, Roman Army plunder was actually the main source of revenue for the state and plunder revenue helped to fuel a continuous expansionary circle of the Roman Empire to its height. After every successful campaign, the Roman soldiers can bring back their plunder profit from captured territorials including gold, silver, coins, goods as well as slaves. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Roman Soldiers Looting Captured Coty](https://storage.googleapis.com/spykman-world/Roman%20Soldier%20Looting%20Conquered%20City.png)
 
 The Roman army was much more disciplined and well equipped than all other surrounding city states. Wars were very profitable early on, a main source of riches for Rome.  In modern term, the Roman enjoyed War Surplus early on. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Roman War Surplus](https://storage.googleapis.com/spykman-world/War%20Surplus.png)
 
 However, wars did get more expensive and became a major state expenditure at the introduction of cavalry units as well as larger army size to handle more challenging opponents. They started to experience War deficits during the later period of the empire.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)  
+![Roman Expensive Lancer](https://storage.googleapis.com/spykman-world/Roman%20Expensive%20Lancer.png)  
 
 Taxations are also another important sources of financing for Roman empires to fund their military campaign. Early period of the Roman Empire, orphans, widows and single women have to pay taxes for the upkeep of the Equus Publicus - the Roman military horse. After massive territorials and continuous successful military campaigns, taxes as well as tributes from capture city states and provinces were so lucaratives that the citizens of Rome no longer have to pay taxes. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Roman Riches](https://storage.googleapis.com/spykman-world/Roman%20Riches.png)
 
 The Mongol Empire existed from 1206 to 1368  also financed their wars through private contributions, plunders and taxations like the Roman. The Mongol war finance included  a sweat and blood equity system called the Khubi. Very similar to sweat equity of early modern tech startup founders. Members of the Golden Family - Altan Urag, as well as each noble families and each warriors were entitled to a Khubi share of all the benefits and good seized in wars from capture territorials. 
 
-![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
+![Mongol DNA in Central Asia](https://storage.googleapis.com/spykman-world/New%20Chinese%20Friendly%20President%20of%20Kazahstan.png)
 
 The Mongol also levied taxes and tributes from captured territorials to fund their military expansion. Mongol Khans used native local tax collectors to gather tax revenue. Moscow, the modern capital city of Russia rose to prominence because of their status as tax collectors for the Mongols. This Mongol expansion period was the only rare occasion in recent human history that Blood type A of Europe and Blood type B of Asia formed large numbers of genetic unions. 
 
@@ -62,27 +62,19 @@ The Mongol also levied taxes and tributes from captured territorials to fund the
 
 Not just the Mongol composite bowl but the Mongol financial system also gave the empire a major advantage in the battlefield. Mongol financial planners introduced paper money to reduce luggage weights for their mounted archors and made conquered cities' merchants more dependent on the Mongol local rulers and their tax collectors. The Mongol confisticated all gold and silver from subdued citizens and forced the merchants to accept the Jiao Chao as a form of payment or will be punished by dead. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Mongolian%20Dynasty%20World%20First%20Fiat%20Currency%20for%20Travellers.png)
+![Mongolian Paper Money](https://storage.googleapis.com/spykman-world/Mongolian%20Dynasty%20World%20First%20Fiat%20Currency%20for%20Travellers.png)
 
 ### War Financing in 19th and 20th centuries
 
-Wars were still high profitable endeavours in 19 and 20 centuries. With the introduction of modern banking, European nations funded their military built up via the bond market besides the traditional means of taxation. 
+Wars were still highly profitable endeavours in 19 and 20 centuries. Plunders and private contribution became a less important sources in modern era. Bond market are much more appealing to the general public than raising taxes in Europe. With the introduction of modern banking, European nations funded their military built up via the bond market besides the traditional means of taxation. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Wall Street](https://storage.googleapis.com/spykman-world/Wall%20Street%201867.png)
 
-Plunders and private contribution became a less important sources in modern era.  Bond market are much more appealing to the general public than raising taxes in Europe.
+War loans or war bonds were the main financing sources for major European powers during WWI and WWII. Buying War bonds is considered as patriotic contribution expected from every citizen in European countries. There are two main types of War bonds: short-term bonds and long-term bonds. Short-term bonds are easier to raise and used mainly on short-term expenditure. However, short-term bond can spur large credit expansion and  cause unwanted inflation. Long-term war bonds are normally used for military equipment built up, as well as increasing in industrial input mineral and energy reserves before the wars. Long-term war bonds are normally bought by international financiers from United States. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![US War Bond](https://storage.googleapis.com/spykman-world/1000%20USD%20War%20Bond.png)
 
-Like many wars, it is very difficult to predict the outcome but many would agree that by looking at the financial pictures [^fn4] of every nation ahead of World War I, Britain and its allies did have a clear advantage over Germany and the Central power.
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. 
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
+Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
@@ -90,15 +82,7 @@ Increasing taxes is generally a better way to fund sustainable long-term war tha
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
-War loans or war bonds were the main financing sources for major European powers during WWI and WWII. Buying War bonds is considered as patriotic contribution expected from every citizen in European countries. 
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-There are two main types of War bonds: short-term bonds and long-term bonds. Short-term bonds are easier to raise and used mainly on short-term expenditure. However, short-term bond can spur large credit expansion and  cause unwanted inflation. Long-term war bonds are normally used for military equipment built up, as well as increasing in industrial input mineral and energy reserves before the wars. Long-term war bonds are normally bought by international financiers. 
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-London and Wall Street were the two biggest and modern Bond markets early 20 century so this did give US and Britain a much larger and sustainable war chest than Germany and its central power. 
+Like many wars, it is very difficult to predict the outcome but many would agree that by looking at the financial pictures of every nation ahead of World War I, Britain and its allies did have a clear advantage over Germany and the Central power. London and Wall Street were the two biggest and modern Bond markets early 20 century so this did give US and Britain a much larger and sustainable war chest than Germany and its Central power. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
@@ -110,7 +94,7 @@ Expanding the money supply is another way nations used to fund war effort and be
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
-Britain entered World War One at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
+Britain entered World War I at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
@@ -120,7 +104,7 @@ During and after World War one, the United States was the apex creditor of the g
 
 Another unique way to fund military built up is via stock equity. The stock market was invented in Netherland to fund the expeditionary commercial ships as well as VOC Dutch East Indian company Private Navy. Neitherland was a small country with limited natural resources, farm land and population. However with this financial innovation, Neitherland was able to build the largest navy in the world and at some point out-gun the Royal British Navy. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Amsterdam Stock Exchange for Share in Expedition Ships](https://storage.googleapis.com/spykman-world/Amsterdam%20First%20Stock%20Exchange%20to%20buy%20Shares%20in%20VOC%20Expedition%20Ship.png)
 
 ### Future Way to Fund Wars
 
