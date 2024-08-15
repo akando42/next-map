@@ -84,15 +84,15 @@ Increasing taxes is generally a better way to fund sustainable long-term war tha
 
 Like many wars, it is very difficult to predict the outcome but many would agree that by looking at the financial pictures of every nation ahead of World War I, Britain and its allies did have a clear advantage over Germany and the Central power. London and Wall Street were the two biggest and modern Bond markets early 20 century so this did give US and Britain a much larger and sustainable war chest than Germany and its Central power. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![North Atlantic Financial Centers](https://storage.googleapis.com/spykman-world/North%20Atlantics%20Largest%20Financial%20Center.png)
 
 Germany was later on blacklisted from the New York and London bond market and forced to utilize more neutral borrowing sources like Neitherland and Switzerland. Germany planners were preparing for fast-paced quick war during WWI so they relied mainly on short-term loans and this is one of the causes of hyper-inflation in Germany later on after World War one. Hyperinflation indirectly led to the raise of Nazi party in German parliament.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Germany Hyperinflation before the rise of Nazi Party](https://storage.googleapis.com/spykman-world/Germany%20Hyperinflation%20After%20WW1.png)
 
 Expanding the money supply is another way nations used to fund war effort and being used extensively by European nations during WWI to pay for their military expenses. Nations did this by having their central banks to print extra cash to buy treasury bonds. Central banks can also sell the gold reserves, alter the reserve requirement or straight up print more cash and use it to pay vendors and military salary. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![FED Increase YIELD to Raise More MONEY for WAR ](https://storage.googleapis.com/spykman-world/FED%20Increase%20YIELD%20to%20raise%20more%20MONEY.png)
 
 Britain entered World War I at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
 
