@@ -56,13 +56,13 @@ The Mongol Empire existed from 1206 to 1368  also financed their wars through pr
 
 ![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
 
-The Mongol also levied taxes and tributes from captured territorials to fund their military expansion. Mongol Khans used native local tax collectors to gather tax revenue. Moscow, the modern capital city of Russia rose to prominence because of their status as tax collectors for the Mongols. 
+The Mongol also levied taxes and tributes from captured territorials to fund their military expansion. Mongol Khans used native local tax collectors to gather tax revenue. Moscow, the modern capital city of Russia rose to prominence because of their status as tax collectors for the Mongols. This Mongol expansion period was the only rare occasion in recent human history that Blood type A of Europe and Blood type B of Asia formed large numbers of genetic unions. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Western Asia Major Cities with Mongol DNA](https://storage.googleapis.com/spykman-world/Western%20Asia%20Major%20Cities.png)
 
-A key innovation of the Mongol war finance system is the introduction of paper money and monetary policies to fund their expansionary wars. During major campaign, the Khan just simply to print more money [^fn3] to pay their warriors and local businesses were forced to accept this billed or being punished by death. However, with limited ability to control the money supply, the Mongol paper money in China, Jiao Chao quickly caused inflation and lost of trust in the currency. 
+Not just the Mongol composite bowl but the Mongol financial system also gave the empire a major advantage in the battlefield. Mongol financial planners introduced paper money to reduce luggage weights for their mounted archors and made conquered cities' merchants more dependent on the Mongol local rulers and their tax collectors. The Mongol confisticated all gold and silver from subdued citizens and forced the merchants to accept the Jiao Chao as a form of payment or will be punished by dead. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Dogecoin](https://storage.googleapis.com/spykman-world/Mongolian%20Dynasty%20World%20First%20Fiat%20Currency%20for%20Travellers.png)
 
 ### War Financing in 19th and 20th centuries
 
@@ -88,48 +88,53 @@ Britain and US paid 25% of its war expenditure from taxes while Germany and Ital
 
 Increasing taxes is generally a better way to fund sustainable long-term war than bond market and monetary policies since it reduces the upward pressure on price by removing liquidity from the extra military spending and inflation. Germany was fast growing and wealthy countries but lack a federal fiscal infrastructure to levy taxes for wars like in Britain. 
 
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
 War loans or war bonds were the main financing sources for major European powers during WWI and WWII. Buying War bonds is considered as patriotic contribution expected from every citizen in European countries. 
-
-There are two main types of War bonds: short-term bonds and long-term bonds.
-Short-term bonds are easier to raise and used mainly on short-term expenditure. However, short-term bond can spur large credit expansion and  cause unwanted inflation.  
-
-Long-term war bonds are normally used for military equipment built up, as well as increasing in industrial input mineral and energy reserves before the wars. Long-term war bonds are normally bought by international financiers. 
-
-London and Wall Street were the two biggest and modern Bond markets early 20 century so this did give US and Britain a much larger and sustainable war chest than Germany and its central power. 
-
-Germany was later on blacklisted from the New York and London bond market and forced to utilize more neutral borrowing sources like Neitherland and Switzerland. 
-
-Germany planners were preparing for fast-paced quick war during WWI so they relied mainly on short-term loans and this is one of the causes of hyper-inflation in Germany later on after World War one. 
-
-Expanding the money supply is another way nations used to fund war effort and being used extensively by European nations during WWI to pay for their military expenses. 
-
-Nations did this by having their central banks to print extra cash to buy treasury bonds. Central banks can also sell the gold reserves, alter the reserve requirement or straight up print more cash and use it to pay vendors and military salary. 
-
-Germany got off their gold standard temporary in expectation of a quick victory and this is another factor causing hyper inflation later on after the War and indirectly lead to the raise of Nazi party in German parliament. 
-
-Britain entered World War One at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%.
-
-Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
-
-During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. 
-
-France has Debt to GDP ratio of 70% before the Word War I. ( Modern US is 106%, China 50.5%, Russia 13.5%) so they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
-
-Another unique way to fund military built up is via stock equity. The stock market was invented in Netherland to fund the expeditionary commercial ships as well as VOC Dutch East Indian company Private Navy. 
-
-Neitherland was a small country with limited natural resources, farm land and population. However with this financial innovation, Neitherland was able to build the largest navy in the world and at some point out-gun the Royal British Navy. 
-
-### Future Way to Fund Wars
-
-So is human going to come up with a new way to fund wars. Blockchain is a recent financial technology that could potentially create a new effective channel to rapidly mobilize financial resources for war effort with limited risk of blockade and blacklisting like the traditional bond market[^fn5]. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
+There are two main types of War bonds: short-term bonds and long-term bonds. Short-term bonds are easier to raise and used mainly on short-term expenditure. However, short-term bond can spur large credit expansion and  cause unwanted inflation. Long-term war bonds are normally used for military equipment built up, as well as increasing in industrial input mineral and energy reserves before the wars. Long-term war bonds are normally bought by international financiers. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+London and Wall Street were the two biggest and modern Bond markets early 20 century so this did give US and Britain a much larger and sustainable war chest than Germany and its central power. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+Germany was later on blacklisted from the New York and London bond market and forced to utilize more neutral borrowing sources like Neitherland and Switzerland. Germany planners were preparing for fast-paced quick war during WWI so they relied mainly on short-term loans and this is one of the causes of hyper-inflation in Germany later on after World War one. Hyperinflation indirectly led to the raise of Nazi party in German parliament.
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+Expanding the money supply is another way nations used to fund war effort and being used extensively by European nations during WWI to pay for their military expenses. Nations did this by having their central banks to print extra cash to buy treasury bonds. Central banks can also sell the gold reserves, alter the reserve requirement or straight up print more cash and use it to pay vendors and military salary. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+Britain entered World War One at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. France has Debt to GDP ratio of 70% before the Word War I (Modern US is 106%, China 50.5%, Russia 13.5%) but they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+Another unique way to fund military built up is via stock equity. The stock market was invented in Netherland to fund the expeditionary commercial ships as well as VOC Dutch East Indian company Private Navy. Neitherland was a small country with limited natural resources, farm land and population. However with this financial innovation, Neitherland was able to build the largest navy in the world and at some point out-gun the Royal British Navy. 
+
+![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+### Future Way to Fund Wars
+
+So is human going to come up with a new way to fund wars. Blockchain is a recent financial technology that could potentially create a new effective channel to rapidly mobilize financial resources for war effort with limited risk of blockade and blacklisting like the traditional bond market.
+
+![Bitcoin Hash Rate](https://storage.googleapis.com/spykman-world/Bitcoin%20Hashrate%20by%20Countries.png)
+
 A blockchain is a decentralized digital network of redundancy databases, many copies of a continuously updated scripture. Each node database has the exact copy of all financial transactions within the network. The write operation into the database is called hashing or mining in cryptocurrency.
 
-In every hashing operation, every node attempts to solve an increasingly hard algorithmic problem. This is a very energy intensive operation so the value anchor point for every cryptocurrency is the price of energy unit. [^fn6]
+![Kazahstan Bitcoin Mining Centers](https://storage.googleapis.com/spykman-world/Kazahstan%20Bitcoin%20Mining%20Center.png)
 
-The first node that is able to finish algorithmic problem, the hashing & mining operation, get to write to the universal scripture / database and every other node make a copy of this universal scripture / database. In cryptocurrencies network like Bitcoin, Ethereum, the first node that finished the hashing also choose to add a coin to their balance.
+In every hashing operation, every node attempts to solve an increasingly hard algorithmic problem. This is a very energy intensive operation so the value anchor point for every cryptocurrency is the price of energy unit. The first node that is able to finish algorithmic problem, the hashing & mining operation, get to write to the universal scripture / database and every other node make a copy of this universal scripture / database. In cryptocurrencies network like Bitcoin, Ethereum, the first node that finished the hashing also choose to add a coin to their balance.
+
+![Electricity Cost and Bitcoin Hashrate](https://storage.googleapis.com/spykman-world/Bitcoin%20Hash%20Rate%20by%20Countries%20and%20Electricity%20Cost.png)
 
 ### World War III - An Investment Decision
 
