@@ -6,7 +6,7 @@ path: "/bitcoin-and-the-first-WAR-initial-coin-offering"
 cover: "content/posts/08-18/spykman-world-bitcoin-and-the-first-WAR-initial-coin-offering.jpg"
 date: "08-18"
 title: "Bitcoin - The First WAR Initial Coin Offerring"
-tags: ['Bitcoin', 'Blockchain', 'Cryptocurrencies','War Financing','Bond Market','Stock Market','Spykman World','Nicholas Spykman']    
+tags: ['Bitcoin', 'Blockchain', 'Dogecoin', 'Cryptocurrencies', 'War Financing', 'Bond Market', 'Stock Market', 'GeoGenetics','Kazahstan']
 published: true
 ---
 ## War Finance. How nations funded their wars in the ancient times, modern-era and how nations will fund their wars in the future ?
@@ -18,15 +18,19 @@ In the pre-modern banking system, when a nation had to prepare for war, they als
 
 Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Dogecoin](https://storage.googleapis.com/spykman-world/Roman%20Empire%20and%20Mongol%20Khanate.png)
 
 Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth by financial or military success. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
-To become a Roman soldier in the Roman Empire, you actually have to come from a wealthy background to be able to fund their own military equipment. The poor served mainly as slaves and some slaves were in charge of caring supplies for Roman soldiers during their campaigns. 
+To become a Roman soldier in the Roman Empire, you actually have to come from a wealthy background to be able to fund their own military equipment. The poor served mainly as slaves and some slaves were in charge of caring supplies for Roman soldiers during their campaigns.
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+With the popularity of the Roman Latin alphabet among all Roman citizens, all the war tool design and manufacturing process could be experimented on to different directions and usage performances in real war were recorded in writing.
+
+![Standardized Roman Sword and Helmet](https://storage.googleapis.com/spykman-world/Common%20design%20for%20Roman%20Sword%20and%20Helmet.png)
 
 Later during the expansionary period, Roman Army plunder was actually the main source of revenue for the state and plunder revenue helped to fuel a continuous expansionary circle of the Roman Empire to its height. After every successful campaign, the Roman soldiers can bring back their plunder profit from captured territorials including gold, silver, coins, goods as well as slaves. 
 
@@ -46,7 +50,7 @@ Taxations are also another important sources of financing for Roman empires to f
 
 The Mongol Empire existed from 1206 to 1368  also financed their wars through private contributions, plunders and taxations like the Roman. The Mongol war finance included  a sweat and blood equity system called the Khubi. Very similar to sweat equity of early modern tech startup founders. Members of the Golden Family - Altan Urag, as well as each noble families and each warriors were entitled to a Khubi share of all the benefits and good seized in wars from capture territorials. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
 
 The Mongol also levied taxes and tributes from captured territorials to fund their military expansion. Mongol Khans used native local tax collectors to gather tax revenue. Moscow, the modern capital city of Russia rose to prominence because of their status as tax collectors for the Mongols. 
 
@@ -173,3 +177,30 @@ Winners of World War III will gain control of major ocean shipping routes and le
 World War III can also never become a major powers’ conflict but instead staying at proxy wars with the reappearance of well armed pirates or Chinese state-sponsored ocean piracy. World War III could also be a repeat of the 1980s Cold War with the American strategy of irregular warfares using state-sponsored criminal gangs inside Vietnam, China and Russia major population centers and border regions.  
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+
+### World War III Started
+
+It seems like WW3 was launched by United States or Russian or British sleeper agents at the moment William Bar became US Attorney General Feb 14, 2019. Because of nuclear deterrence, they  are using bioweapons to spread viral disease, chemical weapons to poison food and water and information weapons to cause friendly fires during WW3.
+
+![US launched WW3 covertly Feb 14, 2019](https://storage.googleapis.com/spykman-world/US%20Launched%20WW3%20Covertly%20Feb%2014%2C%202019.png)
+
+British French remote controlled hookers and gang members started to spread viral diseases in South East Asia and China.
+
+![UK Entered WW3 covertly Dec 12, 2019](https://storage.googleapis.com/spykman-world/UK%20Entered%20WW3%20Dec%2012%2C%202019.png)
+
+Russian started COVID 19 to keep everyone indoors and soften small countries' military. 50.000 Vietnamese were sent as COVID19 carriers to the United States and China in a succide mission March 2020 under Russian directives. 
+
+![Russian Vietnam Tropical Dicease Research Center](https://storage.googleapis.com/spykman-world/Russian%20Vietnam%20Tropica%20Dicease%20Research%20Center.png)
+
+Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices underground in Turkey and under Sea in the Sea of Japan with help from Syrian and North Korean agents. 
+
+![Underground Precision Nuclear Detonation](https://storage.googleapis.com/spykman-world/Precision%20Underground%20Nuclear%20Detonation%20Caused%20EQ%20in%20Turkey.png)
+
+China invaded Vietnam after the Vietnamese incursion into Southern China. China reached Thailand but stopped by the US Military stationing there. China lost all its navy in the Indian ocean and a large part of its army in Siberian Russia. 
+
+![Chinese doctors with Machine Gun in HCM City](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
+
+American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa. 
+
+![Radio ACTIVE sand for Water Filter](https://storage.googleapis.com/spykman-world/Radioative%20Sand%20for%20Water%20Filter.png)
+
