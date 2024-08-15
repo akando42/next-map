@@ -32,6 +32,10 @@ With the popularity of the Roman Latin alphabet among all Roman citizens, all th
 
 ![Standardized Roman Sword and Helmet](https://storage.googleapis.com/spykman-world/Common%20design%20for%20Roman%20Sword%20and%20Helmet.png)
 
+Roman soldiers could then contribute money to a common defense budget to mass manufacture their helmets, swords and shields.  Final mass manufacturing design could be voted on by the frontline soldiers on the field before the Roman Smiths started pouring iron into mold.
+
+![Sword Smith pouring Iron into Mold](https://storage.googleapis.com/spykman-world/The%20Sword%20Smith%20Pouring%20Iron%20Into%20Mold.png)
+
 Later during the expansionary period, Roman Army plunder was actually the main source of revenue for the state and plunder revenue helped to fuel a continuous expansionary circle of the Roman Empire to its height. After every successful campaign, the Roman soldiers can bring back their plunder profit from captured territorials including gold, silver, coins, goods as well as slaves. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
