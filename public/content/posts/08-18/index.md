@@ -20,7 +20,7 @@ Nowaday, the cost of going to war is much more expensive and profitability is li
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Roman%20Empire%20and%20Mongol%20Khanate.png)
 
-Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth by financial or military success. 
+Roman Empire existed from 27BC to 1453 AD is one the most well organized, disciplined army in the ancient time. Early period, the Republican Roman Army men were every able male private citizens. The Roman republic was created to avoid the return of the King’s dictatorship. The right to vote as a Roman citizen is the sign of a person's success. Citizenship was not by birth but by financial or military success. 
 
 ![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
 
@@ -130,7 +130,7 @@ So is human going to come up with a new way to fund wars. Blockchain is a recent
 
 A blockchain is a decentralized digital network of redundancy databases, many copies of a continuously updated scripture. Each node database has the exact copy of all financial transactions within the network. The write operation into the database is called hashing or mining in cryptocurrency.
 
-![Kazahstan Bitcoin Mining Centers](https://storage.googleapis.com/spykman-world/Kazahstan%20Bitcoin%20Mining%20Center.png)
+![Kazahstan Bitcoin Mining Centers](https://storage.googleapis.com/spykman-world/Kazahstan%20Cold%20Winter%2C%20Low%20Electricity%20Cost%20and%20Deep%20Inland%20Position%20Attracted%20Bitcoin%20Mining%20Center.png)
 
 In every hashing operation, every node attempts to solve an increasingly hard algorithmic problem. This is a very energy intensive operation so the value anchor point for every cryptocurrency is the price of energy unit. The first node that is able to finish algorithmic problem, the hashing & mining operation, get to write to the universal scripture / database and every other node make a copy of this universal scripture / database. In cryptocurrencies network like Bitcoin, Ethereum, the first node that finished the hashing also choose to add a coin to their balance.
 
@@ -207,7 +207,7 @@ Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices under
 
 China invaded Vietnam after the Vietnamese incursion into Southern China. China reached Thailand but stopped by the US Military stationing there. China lost all its navy in the Indian ocean and a large part of its army in Siberian Russia. 
 
-![Chinese doctors with Machine Gun in HCM City](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
+![Chinese doctors with Machine Guns in HCM City](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
 American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa. 
 
