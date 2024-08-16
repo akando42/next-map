@@ -100,7 +100,7 @@ Britain entered World War I at a much better financial footing than Germany. Hal
 
 During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. France has Debt to GDP ratio of 70% before the Word War I (Modern US is 106%, China 50.5%, Russia 13.5%) but they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Amercan Lend Lease to Strategic Allies](https://storage.googleapis.com/spykman-world/American%20Lend%20Lease%20to%20Strategic%20Allies.png)
 
 Another unique way to fund military built up is via stock equity. The stock market was invented in Netherland to fund the expeditionary commercial ships as well as VOC Dutch East Indian company Private Navy. Neitherland was a small country with limited natural resources, farm land and population. However with this financial innovation, Neitherland was able to build the largest navy in the world and at some point out-gun the Royal British Navy. 
 
