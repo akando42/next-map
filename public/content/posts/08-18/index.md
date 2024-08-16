@@ -122,17 +122,13 @@ In every hashing operation, every node attempts to solve an increasingly hard al
 
 ### World War III - An Investment Decision
 
-War like most modern spending decision is ROI Return on Investment calculation. Planners have to carefully calculate risks and rewards as well as financial projection leading to the war and after victory is achieved. So what are rewards nations could achieve if they emerged as victor after World War III. 
+War like most modern spending decision is ROI Return on Investment calculation. Planners have to carefully calculate risks and rewards as well as financial projection leading to the war and after victory is achieved. So what are rewards nations could achieve if they emerged as victor after World War III. United States probably want war to eliminate competitions before they get too strong. This could be in the form of cold economic wars to erose economic strength or hot war in a form of real military conflicts.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-United States probably want war to eliminate competitions before they get too strong. This could be in the form of cold economic wars to erose economic strength or hot war in a form of real military conflicts.
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![US DOJ Arrested Huawei CFO](https://storage.googleapis.com/spykman-world/US%20DOJ%20Arrested%20Huawei%20CFO.png)
 
 China, if ever be able take the number one spot and secure its energy supply route, will have to reduce the US dominance in the ocean. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![DF 21 Antiship Ballistic Missile](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
 Russia probably want war if they can gain favourable financing terms. Russian defense spending already peaked and they do not have the financial resources to keep up with the future modernization. Their existing Cold War era weapon would go to waste in 10 years if not being used before 2030. 
 
@@ -140,16 +136,15 @@ Russia probably want war if they can gain favourable financing terms. Russian de
 
 If China gives Russia the Machuria area for better access to the Pacific in exchange for military alliance, they might do it. Same with US, if Russia can get back Alaska for better access to the future North-West passage, they might end up in US alliance.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Biden Putin Submit in Geneva](https://storage.googleapis.com/spykman-world/Biden%20Putin%20Submit.png)
 
 Germany and Japan with its gold reserve and economic strength but limited military capability might want serve as financiers and technology exporters/advisers to their choosing sides. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Japanese PhuGaCu Supercomputer](https://storage.googleapis.com/spykman-world/Japanese%20PhuGaCu%20SuperCOMPUTER.png)
 
-War has become much more expensive and destructive with the modern technology. 
-After the invention of nuclear weapons, we do not see any more major power conflicts. The closest we ever come to WW III is the cold war between the Soviet Union and the United States
+War has become much more expensive and destructive with the modern technology. After the invention of nuclear weapons, we do not see any more major power conflicts. The closest we ever come to WW III is the cold war between the Soviet Union and the United States
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Cuban Missile Criris](https://storage.googleapis.com/spykman-world/cuba-missile-crisis.png)
 
 So World War III will most likely be a decisive naval battle in the Indian Ocean similar to Vietnam's total destruction of the Mongolian Navy, Greek’s total victory in the Battle of Salamis against Persian forces or Battle of Midway between Japan and the United States. 
 
@@ -157,19 +152,15 @@ So World War III will most likely be a decisive naval battle in the Indian Ocean
 
 A decisive naval battle will avoid three major risks: nuclear war escalation, destruction of economic infrastructure and large human casualty. Using nuke at the deep ocean is acceptable with limited environmental damage. Naval war has very limited effects on civilian economic infrastructures. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Noto Earth Quake Jan 1 2024](https://storage.googleapis.com/spykman-world/NOTO%20Earth%20Quake.png)
 
-Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. 
+Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. Winners of World War III will gain control of major ocean shipping routes and levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investment. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-Winners of World War III will gain control of major ocean shipping routes and levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investment. 
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Fuel Line of Asia Coastal Cities](https://storage.googleapis.com/spykman-world/fuel_lines_of_asia_coastal_cities.png)
 
 World War III can also never become a major powers’ conflict but instead staying at proxy wars with the reappearance of well armed pirates or Chinese state-sponsored ocean piracy. World War III could also be a repeat of the 1980s Cold War with the American strategy of irregular warfares using state-sponsored criminal gangs inside Vietnam, China and Russia major population centers and border regions.  
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Cong Hoa Xa Hoi State-sponsored criminal gangs](https://storage.googleapis.com/spykman-world/Cong%20Hoa%20Xa%20Hoi.png)
 
 ### World War III Started
 
