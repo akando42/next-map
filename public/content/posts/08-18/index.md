@@ -6,6 +6,7 @@ path: "/bitcoin-and-the-first-WAR-initial-coin-offering"
 cover: "content/posts/08-18/spykman-world-bitcoin-and-the-first-WAR-initial-coin-offering.jpg"
 date: "08-18"
 title: "Bitcoin - The First WAR Initial Coin Offerring"
+summary: "Strong genes have the tendency to expand its hunting ground, consume or convert other genes. In a limited closed ecosystem, multiple strong genes with increasing population will eventually come into clashes over limited energy sources."
 tags: ['Bitcoin', 'Blockchain', 'Dogecoin', 'Cryptocurrencies', 'War Financing', 'Bond Market', 'Stock Market', 'GeoGenetics','Kazahstan']
 published: true
 ---
@@ -16,7 +17,7 @@ In the pre-modern banking system, when a nation had to prepare for war, they als
 
 ![2017 Chinese Built Up in Bac Giang Province Outside of Hanoi](https://storage.googleapis.com/spykman-world/Chinese%20Built%20Up%20Outside%20of%20Hanoi%20in%20Xuong%20Giang.png)
 
-Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
+Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The 	Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
 ![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
 
@@ -96,7 +97,7 @@ Expanding the money supply is another way nations used to fund war effort and be
 
 Britain entered World War I at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
 
-![Pre WW2 Territorial Map]https://storage.googleapis.com/spykman-world/Pre%20WW2%20Territorial%20Map.png)
+![Pre WW2 Territorial Map](https://storage.googleapis.com/spykman-world/Pre%20WW2%20Territorial%20Map.png)
 
 During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. France has Debt to GDP ratio of 70% before the Word War I (Modern US is 106%, China 50.5%, Russia 13.5%) but they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
 
