@@ -78,7 +78,7 @@ War loans or war bonds were the main financing sources for major European powers
 Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
 
 ![US Victory Income Taxes for All American to Fund WW2](https://storage.googleapis.com/spykman-world/FDR_SIGNED_Victory_Income_Tax_for_All_Americans.png)
-	
+
 Increasing taxes is generally a better way to fund sustainable long-term war than bond market and monetary policies since it reduces the upward pressure on price by removing liquidity from the extra military spending and inflation. Germany was fast growing and wealthy countries but lack a federal fiscal infrastructure to levy taxes for wars like in Britain. 
 
 ![Newly Formed German Federation](https://storage.googleapis.com/spykman-world/Newly%20Formed%20German%20Federation%20Since%2019%20century.png)
