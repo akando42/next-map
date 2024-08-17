@@ -76,7 +76,7 @@ War loans or war bonds were the main financing sources for major European powers
 
 Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
 
-![North Atlantic Financial Centers](https://storage.googleapis.com/spykman-world/North%20Atlantics%20Largest%20Financial%20Center.png)
+![US Victory Income Taxes for All American to Fund WW2](https://storage.googleapis.com/spykman-world/FDR_SIGNED_Victory_Income_Tax_for_All_Americans.png)
 
 Increasing taxes is generally a better way to fund sustainable long-term war than bond market and monetary policies since it reduces the upward pressure on price by removing liquidity from the extra military spending and inflation. Germany was fast growing and wealthy countries but lack a federal fiscal infrastructure to levy taxes for wars like in Britain. 
 
@@ -154,7 +154,7 @@ A decisive naval battle will avoid three major risks: nuclear war escalation, de
 
 ![Noto Earth Quake Jan 1 2024](https://storage.googleapis.com/spykman-world/NOTO%20Earth%20Quake.png)
 
-Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. Winners of World War III will gain control of major ocean shipping routes and levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investment. 
+Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. Winners of World War III will gain control of major ocean shipping routes, be able to levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investments. 
 
 ![Fuel Line of Asia Coastal Cities](https://storage.googleapis.com/spykman-world/fuel_lines_of_asia_coastal_cities.png)
 
@@ -176,7 +176,7 @@ Russian started COVID 19 to keep everyone indoors and soften small countries' mi
 
 ![Russian Vietnam Tropical Dicease Research Center](https://storage.googleapis.com/spykman-world/Russian%20Vietnam%20Tropica%20Dicease%20Research%20Center.png)
 
-Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices underground in Turkey and under Sea in the Sea of Japan with help from Syrian and North Korean agents. 
+Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices underground in Turkey and undersea in the Sea of Japan with help from Syrian and North Korean agents. 
 
 ![Underground Precision Nuclear Detonation](https://storage.googleapis.com/spykman-world/Precision%20Underground%20Nuclear%20Detonation%20Caused%20EQ%20in%20Turkey.png)
 
@@ -184,7 +184,7 @@ China invaded Vietnam after the Vietnamese incursion into Southern China. China 
 
 ![Chinese doctors with Machine Guns in HCM City](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
-American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa. 
+American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa during the colonial period. 
 
 ![Radio ACTIVE sand for Water Filter](https://storage.googleapis.com/spykman-world/Radioative%20Sand%20for%20Water%20Filter.png)
 
