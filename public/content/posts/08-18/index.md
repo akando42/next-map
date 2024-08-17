@@ -149,7 +149,7 @@ War has become much more expensive and destructive with the modern technology. A
 
 So World War III will most likely be a decisive naval battle in the Indian Ocean similar to Vietnam's total destruction of the Mongolian Navy, Greek’s total victory in the Battle of Salamis against Persian forces or Battle of Midway between Japan and the United States. 
 
-![US Submarine Hit Undersea Mountain after US Captain drink beer in the Philippine](https://storage.googleapis.com/spykman-world/us-nuclear-sub-hit-an-undersea-mountain-after-captain-drink-beer-in-philipine.png)
+![US Submarine Hit Undersea Mountain after US Captain drink beer in the Philippine](https://storage.googleapis.com/spykman-world/US%20%20Nuclear%20Sub%20Hit%20Undersea%20Mountain%20after%20Captain%20Drink%20Beer%20in%20the%20Philippine%20(1).png)
 
 A decisive naval battle will avoid three major risks: nuclear war escalation, destruction of economic infrastructure and large human casualty. Using nuke at the deep ocean is acceptable with limited environmental damage. Naval war has very limited effects on civilian economic infrastructures. 
 
