@@ -77,7 +77,7 @@ War loans or war bonds were the main financing sources for major European powers
 Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
 
 ![US Victory Income Taxes for All American to Fund WW2](https://storage.googleapis.com/spykman-world/FDR_SIGNED_Victory_Income_Tax_for_All_Americans.png)
-
+	
 Increasing taxes is generally a better way to fund sustainable long-term war than bond market and monetary policies since it reduces the upward pressure on price by removing liquidity from the extra military spending and inflation. Germany was fast growing and wealthy countries but lack a federal fiscal infrastructure to levy taxes for wars like in Britain. 
 
 ![Newly Formed German Federation](https://storage.googleapis.com/spykman-world/Newly%20Formed%20German%20Federation%20Since%2019%20century.png)
@@ -96,7 +96,7 @@ Expanding the money supply is another way nations used to fund war effort and be
 
 Britain entered World War I at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
 
-![North Atlantic Financial Centers](https://storage.googleapis.com/spykman-world/North%20Atlantics%20Largest%20Financial%20Center.png)
+![Pre WW2 Territorial Map]https://storage.googleapis.com/spykman-world/Pre%20WW2%20Territorial%20Map.png)
 
 During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. France has Debt to GDP ratio of 70% before the Word War I (Modern US is 106%, China 50.5%, Russia 13.5%) but they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
 
