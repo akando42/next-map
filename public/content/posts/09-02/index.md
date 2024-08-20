@@ -1,7 +1,7 @@
 --- 
 zoom: 14
 lat: 21.02885485036829
-lng: 105.85217157861067
+lng: 105.8521715786106
 path: "/vietnam-what-does-not-kill-you-make-you-stronger"
 cover: "content/posts/09-02/spykman-world-vietnam-what-does-not-kill-you-make-you-stronger.png"
 date: "09-02"
