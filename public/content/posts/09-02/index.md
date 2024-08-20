@@ -5,8 +5,8 @@ lng: 105.8521715786106
 path: "/vietnam-what-does-not-kill-you-make-you-stronger"
 cover: "content/posts/09-02/spykman-world-vietnam-what-does-not-kill-you-make-you-stronger.png"
 date: "09-02"
-title: "Vietnam - What Does Not Kill You Make You Stronger"
-tags: ['Vietnam', 'Copper', 'Bronzed Age','Aquasapien','Denisovan', 'Attila the Hun','Spykman World','Nicholas Spykman']    
+title: "Vietnam - The Gene Colosseum of East Asia"
+tags: ['Vietnam', 'Korea', 'Kazahstan', 'Japan', 'China', 'Thailand', 'Copper', 'Bronzed Age','Aquasapien','Denisovan', 'Attila the Hun','GeoGenetics','Geographics', 'Genetics','Spyman World']    
 published: true
 ---
 # The Naval Destiny
