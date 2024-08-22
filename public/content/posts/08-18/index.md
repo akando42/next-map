@@ -6,6 +6,7 @@ path: "/bitcoin-and-the-first-WAR-initial-coin-offering"
 cover: "content/posts/08-18/spykman-world-bitcoin-and-the-first-WAR-initial-coin-offering.jpg"
 date: "08-18"
 title: "Bitcoin - The First WAR Initial Coin Offerring"
+summary: "Strong genes have the tendency to expand its hunting ground, consume or convert other genes. In a limited closed ecosystem, multiple strong genes with increasing population will eventually come into clashes over limited energy sources."
 tags: ['Bitcoin', 'Blockchain', 'Dogecoin', 'Cryptocurrencies', 'War Financing', 'Bond Market', 'Stock Market', 'GeoGenetics','Kazahstan']
 published: true
 ---
@@ -16,7 +17,7 @@ In the pre-modern banking system, when a nation had to prepare for war, they als
 
 ![2017 Chinese Built Up in Bac Giang Province Outside of Hanoi](https://storage.googleapis.com/spykman-world/Chinese%20Built%20Up%20Outside%20of%20Hanoi%20in%20Xuong%20Giang.png)
 
-Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
+Nowaday, the cost of going to war is much more expensive and profitability is limited. However, in ancient times, wars are highly lucrative and profitable endeavours. The 	Mongol Empire and the Roman Empire are two examples of innovative war financing for sustaining expansionary war efforts. In ancient times, there are three main sources of military financing: private contribution from citizens, plunder and taxation. 
 
 ![Mongol princes plundered Eastern Europe](https://storage.googleapis.com/spykman-world/Mongol%20Plunder.png)
 
@@ -76,7 +77,7 @@ War loans or war bonds were the main financing sources for major European powers
 
 Nations during World War I used three methods to finance the wars: Increase taxation, Short term and long term borrowing from the Bond market, monetary base expansion through money printing. Britain and US paid 25% of its war expenditure from taxes while Germany and Italy paid 6-15% of its war financial need from taxes. Austria, Russia and France did not finance their wars via taxes. 
 
-![North Atlantic Financial Centers](https://storage.googleapis.com/spykman-world/North%20Atlantics%20Largest%20Financial%20Center.png)
+![US Victory Income Taxes for All American to Fund WW2](https://storage.googleapis.com/spykman-world/FDR_SIGNED_Victory_Income_Tax_for_All_Americans.png)
 
 Increasing taxes is generally a better way to fund sustainable long-term war than bond market and monetary policies since it reduces the upward pressure on price by removing liquidity from the extra military spending and inflation. Germany was fast growing and wealthy countries but lack a federal fiscal infrastructure to levy taxes for wars like in Britain. 
 
@@ -96,11 +97,11 @@ Expanding the money supply is another way nations used to fund war effort and be
 
 Britain entered World War I at a much better financial footing than Germany. Half of Germany foreign investments and assets were in enemy territorials while French only has 10-12% and Britain only 1.3%. Britain was planning for a multi-front strategy of attrition to gradually destroy Germany’s military and economic strength while Germany was planning for a fast-paced quick victory. 
 
-![North Atlantic Financial Centers](https://storage.googleapis.com/spykman-world/North%20Atlantics%20Largest%20Financial%20Center.png)
+![Pre WW2 Territorial Map](https://storage.googleapis.com/spykman-world/Pre%20WW2%20Territorial%20Map.png)
 
 During and after World War one, the United States was the apex creditor of the global credit pyramid with Italy and Russia at the receiving ends. After World War one, Italy walked away with 3 billions in debt while Russia owed 3.6 Billions. France has Debt to GDP ratio of 70% before the Word War I (Modern US is 106%, China 50.5%, Russia 13.5%) but they end up to be a borrower after everything balance out. The Russia default of debt from France was also a major reason behind France bad financial outcome after World War one. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Amercan Lend Lease to Strategic Allies](https://storage.googleapis.com/spykman-world/American%20Lend%20Lease%20to%20Strategic%20Allies.png)
 
 Another unique way to fund military built up is via stock equity. The stock market was invented in Netherland to fund the expeditionary commercial ships as well as VOC Dutch East Indian company Private Navy. Neitherland was a small country with limited natural resources, farm land and population. However with this financial innovation, Neitherland was able to build the largest navy in the world and at some point out-gun the Royal British Navy. 
 
@@ -122,17 +123,13 @@ In every hashing operation, every node attempts to solve an increasingly hard al
 
 ### World War III - An Investment Decision
 
-War like most modern spending decision is ROI Return on Investment calculation. Planners have to carefully calculate risks and rewards as well as financial projection leading to the war and after victory is achieved. So what are rewards nations could achieve if they emerged as victor after World War III. 
+War like most modern spending decision is ROI Return on Investment calculation. Planners have to carefully calculate risks and rewards as well as financial projection leading to the war and after victory is achieved. So what are rewards nations could achieve if they emerged as victor after World War III. United States probably want war to eliminate competitions before they get too strong. This could be in the form of cold economic wars to erose economic strength or hot war in a form of real military conflicts.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-United States probably want war to eliminate competitions before they get too strong. This could be in the form of cold economic wars to erose economic strength or hot war in a form of real military conflicts.
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![US DOJ Arrested Huawei CFO](https://storage.googleapis.com/spykman-world/US%20DOJ%20Arrested%20Huawei%20CFO.png)
 
 China, if ever be able take the number one spot and secure its energy supply route, will have to reduce the US dominance in the ocean. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![DF 21 Antiship Ballistic Missile](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
 Russia probably want war if they can gain favourable financing terms. Russian defense spending already peaked and they do not have the financial resources to keep up with the future modernization. Their existing Cold War era weapon would go to waste in 10 years if not being used before 2030. 
 
@@ -140,36 +137,31 @@ Russia probably want war if they can gain favourable financing terms. Russian de
 
 If China gives Russia the Machuria area for better access to the Pacific in exchange for military alliance, they might do it. Same with US, if Russia can get back Alaska for better access to the future North-West passage, they might end up in US alliance.
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Biden Putin Submit in Geneva](https://storage.googleapis.com/spykman-world/Biden%20Putin%20Submit.png)
 
 Germany and Japan with its gold reserve and economic strength but limited military capability might want serve as financiers and technology exporters/advisers to their choosing sides. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Japanese PhuGaCu Supercomputer](https://storage.googleapis.com/spykman-world/Japanese%20PhuGaCu%20SuperCOMPUTER.png)
 
-War has become much more expensive and destructive with the modern technology. 
-After the invention of nuclear weapons, we do not see any more major power conflicts. The closest we ever come to WW III is the cold war between the Soviet Union and the United States
+War has become much more expensive and destructive with the modern technology. After the invention of nuclear weapons, we do not see any more major power conflicts. The closest we ever come to WW III is the cold war between the Soviet Union and the United States
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Cuban Missile Criris](https://storage.googleapis.com/spykman-world/cuba-missile-crisis.png)
 
 So World War III will most likely be a decisive naval battle in the Indian Ocean similar to Vietnam's total destruction of the Mongolian Navy, Greek’s total victory in the Battle of Salamis against Persian forces or Battle of Midway between Japan and the United States. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![US Submarine Hit Undersea Mountain after US Captain drink beer in the Philippine](https://storage.googleapis.com/spykman-world/US%20_Nuclear_Sub_Hit_Undersea_Mountain_Crew_Got_Drunk_in_the_Philippine.png)
 
 A decisive naval battle will avoid three major risks: nuclear war escalation, destruction of economic infrastructure and large human casualty. Using nuke at the deep ocean is acceptable with limited environmental damage. Naval war has very limited effects on civilian economic infrastructures. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Noto Earth Quake Jan 1 2024](https://storage.googleapis.com/spykman-world/NOTO%20Earth%20Quake.png)
 
-Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. 
+Besides the naval personnel losses, both winning and losing side will have very limited to none civilian human life losses. Further escalation from limited naval war to all-out war could be prevented via nuclear deterrence. Winners of World War III will gain control of major ocean shipping routes, be able to levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investments. 
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
-
-Winners of World War III will gain control of major ocean shipping routes and levy taxes and tolls to all travelling ships through their controlled routes to gain back initial investment. 
-
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Fuel Line of Asia Coastal Cities](https://storage.googleapis.com/spykman-world/fuel_lines_of_asia_coastal_cities.png)
 
 World War III can also never become a major powers’ conflict but instead staying at proxy wars with the reappearance of well armed pirates or Chinese state-sponsored ocean piracy. World War III could also be a repeat of the 1980s Cold War with the American strategy of irregular warfares using state-sponsored criminal gangs inside Vietnam, China and Russia major population centers and border regions.  
 
-![Dogecoin](https://storage.googleapis.com/spykman-world/Dogecoin%20Elon%20Promotion.png)
+![Cong Hoa Xa Hoi State-sponsored criminal gangs](https://storage.googleapis.com/spykman-world/Cong%20Hoa%20Xa%20Hoi.png)
 
 ### World War III Started
 
@@ -185,7 +177,7 @@ Russian started COVID 19 to keep everyone indoors and soften small countries' mi
 
 ![Russian Vietnam Tropical Dicease Research Center](https://storage.googleapis.com/spykman-world/Russian%20Vietnam%20Tropica%20Dicease%20Research%20Center.png)
 
-Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices underground in Turkey and under Sea in the Sea of Japan with help from Syrian and North Korean agents. 
+Russia invaded Ukraine, nuked Machuria, detonated multiple nuclear devices underground in Turkey and undersea in the Sea of Japan with help from Syrian and North Korean agents. 
 
 ![Underground Precision Nuclear Detonation](https://storage.googleapis.com/spykman-world/Precision%20Underground%20Nuclear%20Detonation%20Caused%20EQ%20in%20Turkey.png)
 
@@ -193,7 +185,7 @@ China invaded Vietnam after the Vietnamese incursion into Southern China. China 
 
 ![Chinese doctors with Machine Guns in HCM City](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
-American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa. 
+American agents pouring radioactive sands into Red River and Hanoi Water factories. South East Asia became slave trade marketplace for modifed XOs like Africa during the colonial period. 
 
 ![Radio ACTIVE sand for Water Filter](https://storage.googleapis.com/spykman-world/Radioative%20Sand%20for%20Water%20Filter.png)
 
