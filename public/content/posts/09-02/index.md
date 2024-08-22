@@ -26,11 +26,15 @@ Maybe the Hoan Kiem lake meaning “the Returning of the Sword” lake in the ce
 
 Maybe in 21 century we will see the return of bronze-based weapons again but this time copper is going to be used as the conductor for electricity. 
 
+![The Naval NHue Mega Metropolis](https://storage.googleapis.com/spykman-world/Naval%20Nhue%20Mega%20Capital.png)
+
+![Japanese and Chinese Vested Interest in Hanoi](https://storage.googleapis.com/spykman-world/Japanese%20and%20Chinese%20Vested%20Interest%20in%20Vietnam.png)
+
+![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
+
 ![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
 
 ![Capital of Naval Nhue](https://storage.googleapis.com/spykman-world/The_Capital_of_Naval_Nhue.png)
-
-![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
 ![Facial Recognition for Men Targeting](https://storage.googleapis.com/spykman-world/Facial_Recognition_For_Men_Targeting.png)
 
