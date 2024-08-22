@@ -61,7 +61,3 @@ Maybe in 21 century we will see the return of bronze-based weapons again but thi
 ![US Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Carrier%20Parking%20in%20Singapore.png)
 
 ![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
-
-
-
-
