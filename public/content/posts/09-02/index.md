@@ -1,12 +1,12 @@
 --- 
-zoom: 14
+zoom: 6
 lat: 21.02885485036829
 lng: 105.8521715786106
-path: "/vietnam-what-does-not-kill-you-make-you-stronger"
-cover: "content/posts/09-02/spykman-world-vietnam-what-does-not-kill-you-make-you-stronger.png"
+path: "/vietnam-the-gene-colosseo-of-east-asia"
+cover: "content/posts/09-02/geogenetics-vietnam-the-gene-colosseo-of-east-asia.png"
 date: "09-02"
-title: "Vietnam - The Gene Colosseum of East Asia"
-tags: ['Vietnam', 'Korea', 'Kazahstan', 'Japan', 'China', 'Thailand', 'Copper', 'Bronzed Age','Aquasapien','Denisovan', 'Attila the Hun','GeoGenetics','Geographics', 'Genetics','Spyman World']    
+title: "Vietnam - The Gene Colosseo of East Asia"
+tags: ['Vietnam', 'Korea', 'Kazakhstan', 'Japan', 'China', 'Thailand', 'Copper', 'Bronzed Age', 'Aquasapien', 'Denisovan', 'Attila the Hun','GeoGenetics','Geographics', 'Genetics','Spyman World']    
 published: true
 ---
 # The Naval Destiny
