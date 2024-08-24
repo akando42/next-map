@@ -77,7 +77,7 @@ Will the nanometer miracle machines of the 100 Viet tribes be able to outperform
 
 ![One Mount Om Girl Vectoring](https://storage.googleapis.com/spykman-world/OM_Girl_Vectoring.png)
 
-![HikVision Squid Game](https://storage.googleapis.com/spykman-world/HikVision%20Squid%20Game%20(1).png)
+![HikVision Squid Game](https://storage.googleapis.com/spykman-world/HikVision_Squid_Game_US_DOD.png)
 
 ![Facial Recognition for Men Targeting](https://storage.googleapis.com/spykman-world/Facial_Recognition_For_Men_Targeting.png)
 
