@@ -47,7 +47,7 @@ While Pearl River delta geography is indefensible and Hainan lacks the fertile l
 
 The Viet genes Southern naval expansion met heavy resistance and competition from native genes in the Southern Mekong delta. The Truong Son mountain range made moving supplies and people quite difficult and costly. The tropical hot and dry climate of Savannakhet and Bangkok delta also created high stamina foot soldiers that stopped the advances of the Viet genes for many centuries. 
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![The Danang Savanakhet Geographical Barrier](https://storage.googleapis.com/spykman-world/lack-of-infrastructure-with-vietnam.png)
 
 Later on during the Nguyen dynasty with the introduction of Steppe horses imported from Northern China, the Viet gene were finally able to outperform and subdue Southern tribes in the Mekong delta. The natural game of gene competition could have been decided then in the 1800s with the Viet sons becoming the Royal kings of Vietnam, Thailand, Myanmar and united the Peninsula into the United Viet. 
 
@@ -55,15 +55,17 @@ Later on during the Nguyen dynasty with the introduction of Steppe horses import
 
 However, with the newly introduced Western genes from the Mediterranean sailing to Malaysia, these smartest and bravest men among the original 100 Viet tribes were once again pushed back North across the Truong Son mountain range. With the introduction of gasoline combustion engines for cars and naval vessels from the West, the Truong Son mountain range is still the geographical anchor the Viet genes not yet able to overcome until the modern day with Singapore, Malaysia and Thailand are still the territorials and playgrounds for the Western genes. 
 
+![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
+
 ![US Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Carrier%20Parking%20in%20Singapore.png)
+
+![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
 
 Gene expressions are quite like quantum physics with random extremely rare events independent from each other but somehow repeated themselves exactly anyway. Two people who were born 1000 years apart could have almost exactly similar DNA but not have any common parents or grandparents. When the environment for a gene group becomes extremely hostile, the gene group as a whole could be able to self-select its best combination to counter the threats and outweigh the replication of these counter-genes.
 
 ![Kunming Vietiane Railroad](https://storage.googleapis.com/spykman-world/Kunming_Vientiane_Railway.png)
 
 Maybe the Hoan Kiem lake meaning “the Returning of the Sword” lake in the center of Red River delta is like an ancient covenant that the Goujian sword and any other most advanced weapons and gene groups created by Yellow Yangtze dynasties and explorers from other direction could always be transferred to their Southern pioneering explorers in the time of wars and hostilities. 
-
-![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
 ![DF21 Antiship Missiles](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
@@ -94,5 +96,3 @@ Will the nanometer miracle machines of the 100 Viet tribes be able to outperform
 ![Turkish UAV Taiwanese Design](https://storage.googleapis.com/spykman-world/Bayrakta_Taiwanese_Design.png)
 
 ![Anti Ship Cruise Dive Missile](https://storage.googleapis.com/spykman-world/Antiship%20Cruise%20Dive%20Missile.png)
-
-![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
