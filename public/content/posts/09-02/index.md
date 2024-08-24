@@ -9,64 +9,51 @@ title: "Vietnam - The Gene Colosseo of East Asia"
 tags: ['Vietnam', 'Korea', 'Kazakhstan', 'Japan', 'China', 'Thailand', 'Copper', 'Bronzed Age', 'Aquasapien', 'Denisovan', 'Attila the Hun','GeoGenetics','Geographics', 'Genetics','Spyman World']    
 published: true
 ---
-# The Naval Destiny
-## Denisovan - The Man from Water
+## The Early Naval Expansions of 100 Viet Tribes
 
-Before the concept of nations and borders was created, the Homo Sapien like birds and fishes roaming their environment freely from Africa to the Caucasus to Scandinavia and Asia.
+Before the concept of nations and borders was created, the early Hu-Man liked birds and fishes roaming their environment freely from Africa to the Caucasus to Scandinavia and Asia. However, life was a struggle for the early historic man and woman until the meeting of Homo Sapien and Aqua Sapien at the Altai mountain near modern day Kazakhstan. The child of Homosapien and Aqua Sapien is the hybrid Denisovan with their advanced mathematics, music, astronomy capability and a little bit of autism. 
 
-However, life was a struggle for the early historic man and woman until the meeting of Homo Sapien and Aqua Sapien at the Altai mountains. The child of Homosapien and Aqua Sapien is the hybrid Denisovan with their advanced mathematics, music, astronomy capability with a little bit of autism. 
-
-Denisovan are the first group of humans to create a musical instrument, the flute, probably the ancestor of the Egyption pharaohs who architected three Great Pyramids of Giza. Maybe by no coincidences that the letter M in Latin originated from the ancient Egyptian letter for water.
-
-Sounds have interesting and mysterious effects on human brains. Showering under a waterfall is probably a human's first music experience. Any creative person knows that letting your mind wander in a long shower has miraculous effects on generating new creative ideas as well as breaking through mental roadblocks.
+Denisovan are the first group of humans to create a musical instrument, the flute, probably the ancestor of the Egyption pharaohs who architected three Great Pyramids of Giza. Maybe by no coincidences that the letter M in Latin originated from the ancient Egyptian letter for water. Sounds have interesting and mysterious effects on human brains. Showering under a waterfall is probably a human's first music experience. Any creative person knows that letting your mind wander in a long shower has miraculous effects on generating new creative ideas as well as breaking through mental roadblocks.
 
 The Altai mountains, meaning the mountain of gold, is also the birthplace of Bronze-Copper base weapons in 2100 BC as well as massive migration from this area Westward to the Baltic sea and Southward to Southern China. The Hun, their horse-based nomads and its famous leader Attila also trace their origin back to the Altai mountains.
 
 In 1965, during the American escalation in Vietnam, a rare and unusual sword was found in a tomb in China. Despite being well over 2,000 years old, the sword, known as the Goujian, did not have a single trace of rust. The blade drew blood when an archeologist tested his finger on its edge, seemingly unaffected by the passage of time. The Sword of Goujian has 8 characters that have been deciphered as King of Viet. 
 
-Viet in Japanese Kanji or Han Chinese means the Pioneers. The Bach Viet or the 100 Viet Tribes were people occupying the Southern empty mountainous regions of China before migrating South to Vietnam and Thailand. They were the Yellow Yangtze delta explorers and pioneers who had the highest tolerance for risk and the greatest sense of adventures among their original gene pool. 
+Viet in Japanese Kanji or Han Chinese means the Pioneers. The Bach Viet or the 100 Viet Tribes were the Yellow Yangtze delta explorers and pioneers with the highest tolerance for risk and the greatest sense of adventure among their original gene pool. These engineers of Ly, fishermen of Le and farmers of Tran were among the first pioneers who migrated South via the earliest East Asian ocean vessel design along the coastline.
 
-The fishermen of Ly and Le and the farmers of Tran were among the first pioneers who crossed the mountains of Southern China to raise their childrens, build their farms and fortified settlements in the narrow delta of the Pearl river and the Red river. 
-
-Until the modern day, the people of Pearl river and Red river still have a highly similar spoken language but vastly different writing languages, one is Han and the other one is Latin. Their culture and appearance is also highly similar, proving the close genetic links between people of Northern Vietnam and Southern China. 
-
-Their genes met heavy resistance and competition from native genes in the Southern Mekong delta. The tropical hot and dry climate of Savannakhet and Bangkok delta created high stamina foot soldiers that stopped the advances of the Viet genes across the Truong Son mountain ranges for many centuries. 
-
-Later on during the Nguyen dynasty with the introduction of Steppe horses imported from Northern China, the Viet gene were finally able to outperform and subdue Southern tribes in the Mekong delta. The natural game of gene competition could have been decided then in the 1800s with the Viet sons becoming the Royal kings of Vietnam, Thailand, Myanmar and united the Peninsular into the United Viet. 
-
-However, with the newly introduced Western genes from the Mediterranean sailing to Malaysia, these smartest and bravest men among the original 100 Viet tribes were once again pushed back North across the Truong Son mountain range.
-
-Gene expressions are quite like quantum physics with random extremely rare events independent from each other but repeating themselves exactly. Two people who were born 1000 years apart could have almost exactly similar DNA but not have any common parents or grandparents. 
-
-When the environment for a gene group becomes extremely hostile, the gene group as a whole could be able to self-select its best combination to counter the threats and outweigh the replication of these counter-genes. 
-
-Maybe the Hoan Kiem lake meaning “the Returning of the Sword” lake in the center of Hanoi is like an ancient covenant that the Goujian sword and any other most advanced weapons and gene groups created by Chinese dynasties and explorers from other direction could always be transferred to their Southern pioneering explorers in the time of wars and hostilities.
-
-The 21st century is quite different from 2000 years ago at the time that the Sword of Goujian was created. However, the human DNA, their level of creativity, attention spans and craftsmanship of a particular gene group is still quite similar. The makers of the Roman Arc nowadays are making 1000 parts engines for motorcycles, cars and planes and the maker of Goujian swords are now making nanometer chips and engineering DNA edited viruses and pets.  
-
-Will the nanometer miracle machines of the 100 Viet tribes be able to outperform the 1000 part hydrocarbon engines of the Mediterranean gene or the 100 km long distance runners of Kenya for a larger share in the human gene pool and larger spaces on earth for their family and children ? That could only be answered by the power to weight ratio in the next generation Panasonic battery. 
+They made landings in Pearl River delta, Red River delta and Hainan island, started Northern Viet and Southern Viet settlements with hundreds of thousands of families that left highly sophisticated culture and architecture marks in Chinese and Vietnamese history. They also developed a large trade network between Red River delta, Pearl River delta and Hainan Island with tens of thousands of merchants. 
 
 ![The Naval Nhue Mega Metropolis](https://storage.googleapis.com/spykman-world/Naval%20Nhue%20Mega%20Capital.png)
 
+Until the modern day, the people of Pearl river, Red river and Hainan still have a highly similar spoken language but vastly different writing languages, one is Han and the other one is Latin. Their culture and appearance is also highly similar, proving the close genetic links between people of Northern Vietnam and Southern China. 
+
 ![Japanese and Chinese Vested Interest in Hanoi](https://storage.googleapis.com/spykman-world/Japanese%20and%20Chinese%20Vested%20Interest%20in%20Vietnam.png)
 
-![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
+While Pearl River delta geography is indefensible and Hainan lacks the fertile land and water sources for large population growth, Red River delta geography looks like the exact replication of ROME geography which enabled these Viet tribes to develop their own independent powerful kingdom after the spin off from Yellow Yangtze gene pools. 
 
 ![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
 
-![Capital of Naval Nhue](https://storage.googleapis.com/spykman-world/The_Capital_of_Naval_Nhue.png)
+## When Men Commanding Nature Power to Overpower Pure Human Muscles
 
-![Facial Recognition for Men Targeting](https://storage.googleapis.com/spykman-world/Facial_Recognition_For_Men_Targeting.png)
+The Viet genes Southern naval expansion met heavy resistance and competition from native genes in the Southern Mekong delta. The Truong Son mountain range made moving supplies and people quite difficult and costly. The tropical hot and dry climate of Savannakhet and Bangkok delta also created high stamina foot soldiers that stopped the advances of the Viet genes for many centuries. 
 
-![Duong Luoi Bo Doi Liem Buoi Lick Girl Army](https://storage.googleapis.com/spykman-world/Doi_Liem_Buoi_Beef_Tougue_Lick_Girl.png)
+Later on during the Nguyen dynasty with the introduction of Steppe horses imported from Northern China, the Viet gene were finally able to outperform and subdue Southern tribes in the Mekong delta. The natural game of gene competition could have been decided then in the 1800s with the Viet sons becoming the Royal kings of Vietnam, Thailand, Myanmar and united the Peninsula into the United Viet. 
 
-![One Mount Om Girl Vectoring](https://storage.googleapis.com/spykman-world/OM_Girl_Vectoring.png)
+However, with the newly introduced Western genes from the Mediterranean sailing to Malaysia, these smartest and bravest men among the original 100 Viet tribes were once again pushed back North across the Truong Son mountain range.
+
+![US Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Carrier%20Parking%20in%20Singapore.png)
+
+![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
+
+Gene expressions are quite like quantum physics with random extremely rare events independent from each other but somehow repeated themselves exactly anyway. Two people who were born 1000 years apart could have almost exactly similar DNA but not have any common parents or grandparents. When the environment for a gene group becomes extremely hostile, the gene group as a whole could be able to self-select its best combination to counter the threats and outweigh the replication of these counter-genes.
 
 ![Kunming Vietiane Railroad](https://storage.googleapis.com/spykman-world/Kunming_Vientiane_Railway.png)
 
+Maybe the Hoan Kiem lake meaning “the Returning of the Sword” lake in the center of Red River delta is like an ancient covenant that the Goujian sword and any other most advanced weapons and gene groups created by Yellow Yangtze dynasties and explorers from other direction could always be transferred to their Southern pioneering explorers in the time of wars and hostilities. 
+
 ![DF21 Antiship Missiles](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
-![Beidou Satelite Constellation](https://storage.googleapis.com/spykman-world/Space-base%20Ocean%20Survailance.png)
+![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
 
 ![247 Ocean Surveilance Platform](https://storage.googleapis.com/spykman-world/247%20Ocean%20Survailance%20Platform.png)
 
@@ -78,6 +65,23 @@ Will the nanometer miracle machines of the 100 Viet tribes be able to outperform
 
 ![Anti Ship Cruise Dive Missile](https://storage.googleapis.com/spykman-world/Antiship%20Cruise%20Dive%20Missile.png)
 
-![US Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Carrier%20Parking%20in%20Singapore.png)
+## The dynastical 10 generations gene competition continues
 
-![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
+The 21st century is quite different from 2000 years ago at the time that the Sword of Goujian was created. However, the human DNA, their level of creativity, focus and craftsmanship of a particular gene group is still quite similar. The makers of the Roman Arc nowadays are making 1000 parts engines for motorcycles, cars and planes and the maker of Goujian swords are now making nanometer chips and engineering DNA edited viruses and pets. 
+
+![Capital of Naval Nhue](https://storage.googleapis.com/spykman-world/The_Capital_of_Naval_Nhue.png) 
+
+![Facial Recognition for Men Targeting](https://storage.googleapis.com/spykman-world/Facial_Recognition_For_Men_Targeting.png)
+
+![One Mount Om Girl Vectoring](https://storage.googleapis.com/spykman-world/OM_Girl_Vectoring.png)
+
+![Duong Luoi Bo Doi Liem Buoi Lick Girl Army](https://storage.googleapis.com/spykman-world/Doi_Liem_Buoi_Beef_Tougue_Lick_Girl.png)
+
+Will the nanometer miracle machines of the 100 Viet tribes be able to outperform the 1000 part hydrocarbon engines of the Mediterranean gene or the 100 km long distance runners of Kenya for a larger share in the human gene pool and larger spaces on earth for their family and children ? That could only be answered by the power to weight ratio in the next generation Panasonic battery. 
+
+![Beidou Satelite Constellation](https://storage.googleapis.com/spykman-world/Space-base%20Ocean%20Survailance.png)
+
+
+
+
+
