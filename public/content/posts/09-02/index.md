@@ -67,7 +67,7 @@ Maybe the Hoan Kiem lake meaning “the Returning of the Sword” lake in the ce
 
 ![DF21 Antiship Missiles](https://storage.googleapis.com/spykman-world/df21_antiship_ballistic_missile.png)
 
-## The Dynastical 10s Generations Gene Competition Gontinues
+## The Dynastical 10s Generations Gene Competition Continues
 
 The 21st century is quite different from 2000 years ago at the time that the Sword of Goujian was created. However, the human DNA, their level of creativity, focus and craftsmanship of a particular gene group is still quite similar. The makers of the Roman Arc nowadays are making 1000 parts engines for motorcycles, cars and planes and the maker of Goujian swords are now making nanometer chips and engineering DNA edited viruses and pets. 
 
