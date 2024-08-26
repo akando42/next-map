@@ -29,7 +29,7 @@ In 1965, during the American escalation in Vietnam, a rare and unusual sword was
 
 Viet in Japanese Kanji or Han Chinese means the Pioneers. The Bach Viet or the 100 Viet Tribes were the Yellow Yangtze delta explorers and pioneers with the highest tolerance for risk and the greatest sense of adventure among their original gene pool. These engineers of Ly, fishermen of Le and farmers of Tran were among the first pioneers who migrated South via the earliest East Asian ocean vessel design along the coastline.
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![Early East Asian Sail Boat Design](https://storage.googleapis.com/spykman-world/East%20Asian%20Sail%20Boat%20Design.png)
 
 They made landings in Pearl River delta, Red River delta and Hainan island, started Northern Viet and Southern Viet settlements with hundreds of thousands of families that left highly sophisticated culture and architecture marks in Chinese and Vietnamese history. They also developed a large trade network between Red River delta, Pearl River delta and Hainan Island with tens of thousands of merchants. 
 
