@@ -17,15 +17,15 @@ Before the concept of nations and borders was created, the early Hu-Man liked bi
 
 Denisovan are the first group of humans to create a musical instrument, the flute, probably the ancestor of the Egyption pharaohs who architected three Great Pyramids of Giza. Maybe by no coincidences that the letter M in Latin originated from the ancient Egyptian letter for water. Sounds have interesting and mysterious effects on human brains. Showering under a waterfall is probably a human's first music experience. Any creative person knows that letting your mind wander in a long shower has miraculous effects on generating new creative ideas as well as breaking through mental roadblocks.
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![Egyptian Empire Provides Water to Tribes in Desert](https://storage.googleapis.com/spykman-world/Egyptian%20Power%20from%20Water%20Control.png)
 
 The Altai mountains, meaning the mountain of gold, is also the birthplace of Bronze-Copper base weapons in 2100 BC as well as massive migration from this area Westward to the Baltic sea and Southward to Southern China. The Hun, their horse-based nomads and its famous leader Attila also trace their origin back to the Altai mountains.
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![Free Grasses Provide Horse with Unlimited Range within Steppe Climate](https://storage.googleapis.com/spykman-world/Steppe%20Climate%20Can%20Feed%20the%20Horse%20For%20FREE.png)
 
 In 1965, during the American escalation in Vietnam, a rare and unusual sword was found in a tomb in China. Despite being well over 2,000 years old, the sword, known as the Goujian, did not have a single trace of rust. The blade drew blood when an archeologist tested his finger on its edge, seemingly unaffected by the passage of time. The Sword of Goujian has 8 characters that have been deciphered as King of Viet. 
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![Sword Made for The Viet King](https://storage.googleapis.com/spykman-world/Swords%20Made%20for%20the%20Viet%20King.png)
 
 Viet in Japanese Kanji or Han Chinese means the Pioneers. The Bach Viet or the 100 Viet Tribes were the Yellow Yangtze delta explorers and pioneers with the highest tolerance for risk and the greatest sense of adventure among their original gene pool. These engineers of Ly, fishermen of Le and farmers of Tran were among the first pioneers who migrated South via the earliest East Asian ocean vessel design along the coastline.
 
@@ -41,7 +41,7 @@ Until the modern day, the people of Pearl river, Red river and Hainan still have
 
 While Pearl River delta geography is indefensible and Hainan lacks the fertile land and water sources for large population growth, Red River delta geography looks like the exact replication of ROME geography which enabled these Viet tribes to develop their own independent powerful kingdom after the spin off from Yellow Yangtze gene pools. 
 
-![Geographical Map of Rome](https://storage.googleapis.com/spykman-world/Geographical_Map_of_Rome.png)
+![Red River Delta The ROME of East Asia](https://storage.googleapis.com/spykman-world/Red_River_delta_the_ROME_of_EAST_ASIA.png)
 
 ## When Men Commanding Nature to Overpower Pure Human Muscles
 
