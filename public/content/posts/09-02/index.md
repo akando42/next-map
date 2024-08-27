@@ -55,11 +55,7 @@ Later on during the Nguyen dynasty with the introduction of Steppe horses import
 
 However, with the newly introduced Western genes from the Mediterranean sailing to Malaysia, these smartest and bravest men among the original 100 Viet tribes were once again pushed back North across the Truong Son mountain range. With the introduction of gasoline combustion engines for cars and naval vessels from the West, the Truong Son mountain range is still the geographical anchor the Viet genes not yet able to overcome until the modern day with Singapore, Malaysia and Thailand are still the territorials and playgrounds for the Western genes. 
 
-![Hainan Naval Base](https://storage.googleapis.com/spykman-world/Nuclear%20Sub%20Base%20in%20Hainan.png)
-
-![US Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Carrier%20Parking%20in%20Singapore.png)
-
-![US Nuclear Sub Parking in Philipine](https://storage.googleapis.com/spykman-world/US%20Nuclear%20Sub%20Parking%20in%20Philippine.png)
+![Nimitz Class Carrier Parking in Singapore](https://storage.googleapis.com/spykman-world/Nimitz%20Class%20Carrier%20Parking%20in%20Singapore.png)
 
 Gene expressions are quite like quantum physics with random extremely rare events independent from each other but somehow repeated themselves exactly anyway. Two people who were born 1000 years apart could have almost exactly similar DNA but not have any common parents or grandparents. When the environment for a gene group becomes extremely hostile, the gene group as a whole could be able to self-select its best combination to counter the threats and outweigh the replication of these counter-genes.
 
@@ -75,24 +71,42 @@ The 21st century is quite different from 2000 years ago at the time that the Swo
 
 ![Capital of Naval Nhue](https://storage.googleapis.com/spykman-world/The_Capital_of_Naval_Nhue.png) 
 
-Will the nanometer miracle machines of the 100 Viet tribes be able to outperform the 1000 part hydrocarbon engines of the Mediterranean gene or the 100 km long distance runners of Kenya for a larger share in the human gene pool and larger spaces on earth for their family and children ? That could only be answered by the power to weight ratio in the next generation Panasonic battery. 
+Will the nanometer miracle machines of the 100 Viet tribes be able to outperform the 1000 part hydrocarbon engines of the Mediterranean gene or the 100 km long distance runners of Kenya for a larger share in the human gene pool and larger spaces on earth for their family and children. That could only be answered by the power to weight ratio in the next generation Panasonic battery. 
 
 ![One Mount Om Girl Vectoring](https://storage.googleapis.com/spykman-world/OM_Girl_Vectoring.png)
 
+As of 2024, the genetics competition between East Asian genes vs Western genes and their local Asian allies are happening quietly via the form of biological and chemical weapon targeting using security cameras, gps-tracking motorcycles, light bulbs with radio-attenna and high performance computer.  
+
 ![HikVision Squid Game](https://storage.googleapis.com/spykman-world/HikVision_Squid_Game_US_DOD.png)
+
+Security cameras are being mass installed everywhere in South East Asia with the capital of Hanoi having close to 1 Internet connected Camera per resident. Security camera could be used both as a human tracking tool via facial recognition as well as neural-link brain to computer interface to send ideas directly to the human brain.
 
 ![Facial Recognition for Men Targeting](https://storage.googleapis.com/spykman-world/Facial_Recognition_For_Men_Targeting.png)
 
+These Internet-connected cameras and the massive database of human habit of choices is being used to vector the lick girl army to spread STDs, lung and skin diceases among healthy men and women to reduce South East Asia population and stop young people from forming family and make babies. The range of wireless router is being extended via the radio-attenna light bulbs to cause infighting, civil wars, internal chaos among neighbors and security forces of South East Asia. 
+
 ![Duong Luoi Bo Doi Liem Buoi Lick Girl Army](https://storage.googleapis.com/spykman-world/Doi_Liem_Buoi_Beef_Tougue_Lick_Girl.png)
+
+These biological and chemical warfare program initiated by American and their Western allies in South East Asia with the help from local gang members happened in response to the advances of the Viet genes and their placement of defensive weapon in South East Asia. Beidou GPS satelites are now allowing the DF21 and other Dong Feng missiles to be guided independently from American GPS satelites to target Ameican Carrier battle group within the South China Sea from Laos, Cambodia or Vietnam.
 
 ![Beidou Satelite Constellation](https://storage.googleapis.com/spykman-world/Space-base%20Ocean%20Survailance.png)
 
-![247 Ocean Surveilance Platform](https://storage.googleapis.com/spykman-world/247%20Ocean%20Survailance%20Platform.png)
-
-![Sail Drone](https://storage.googleapis.com/spykman-world/Sail%20Drone.png)
+The light-weight, low-powered consumption mini-computers designed and manufactured in Taiwan are also allowing much smaller Ukrainian and Turkish armies to severely weaken the Russian armies in Eastern Europe, destroyed thousands of Russian tanks and hundred thousand military personels. The OK result Ukrainian war reduces the pressure from the North for Northern China and prevents any chance of major conflict between China and Russia in near future. 
 
 ![Ukrainian USV Taiwanese Design](https://storage.googleapis.com/spykman-world/Ukraine_USV_Taiwanese_Design.png)
 
+Since the end of WW2, Russia and United States are still the bad cop and good cop of the World. Russian were supposedly doing the demolition works while Ameerican were supposely doing the rebuild reconstruction work. With the diversification of weapon exporters with Turkish exporting their TB2 drones to Poland and other countries, both American and Russian are losing their influences in the Middle East and Eastern Europe.  
+
 ![Turkish UAV Taiwanese Design](https://storage.googleapis.com/spykman-world/Bayrakta_Taiwanese_Design.png)
+
+While the American influences are declining around the world with rising powers like China, Turkey and Korea having bigger say in the world affairs, United States carriers battle group are still dominating the 4 Seas with no near-peer competitors that can contest American sealane ocean trading routes control. So is it possible to challenge the dominance of American carrier battle group with just long-range missiles. Maybe if any countries can develop a large ocean surveilance platform in the form fixed sea-based assets like a deep ocean fish farm or just massive numbers of small boat fishmen with satelite phones.
+
+![247 Ocean Surveilance Platform](https://storage.googleapis.com/spykman-world/247%20Ocean%20Survailance%20Platform.png)
+
+Solar and wind energy are two form of unlimited free energy that being used in the lastest Sail Drones developed by a Californian hightech startup with definitely some Viet-gene engineers within the team. These 24/7 wind and solar powered sail drones are providing weather data within the eye of tropical storms which were not possible and two dangerous for human pilots and sailors in the past. These sail drones could be mass produced in hundred thoundsands to provide accurate location data of submarines and naval vessels just like security cameras in Hanoi.   
+
+![Sail Drone](https://storage.googleapis.com/spykman-world/Sail%20Drone.png)
+
+As of today, no American Carriers have ever been sinked since World War 2. Every non-American naval admiral dream is probably to sink an Aircraft Carrier. Even American admiral wants an Aircraft Carrier to sink to get defend budget for a more creative system. The quickest way to sink a naval vessel is making a big hole right below the waterline. All aircraft carrier defensive system and its protective destroyer layer is designed to intercept incoming missile above the waterline. So if somehow an antiship missile can dive below the waterline and detonate on impact below the waterline then it is possible to sink an Aircraft Carrier with just one missile with much higher probability of success. 
 
 ![Anti Ship Cruise Dive Missile](https://storage.googleapis.com/spykman-world/Antiship%20Cruise%20Dive%20Missile.png)
