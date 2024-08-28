@@ -6,7 +6,7 @@ path: "/vietnam-the-gene-colosseo-of-east-asia"
 cover: "content/posts/09-02/geogenetics-vietnam-the-gene-colosseo-of-east-asia.png"
 date: "09-02"
 title: "Vietnam - The Gene Colosseo of East Asia"
-summary: "To develop technologies to conquer anywhere outsides of flatland regions like deep ocean, high mountains and space requires the gene groups to survive for 10s of generations and continously compound and securely store their technological progresses. While Shanghai was a great capital for the farming era and Beijing was a great capital for horse archers, Red River delta is a much better capital region in the age of long range missiles and ocean tradings."
+summary: "To conquer anywhere outsides of flatland regions requires 10s generations of compounded technological progresses. While Shanghai was the great farmers capital and Beijing was the great horse archers capital, Red River delta will be the engineers capital of East Asia."
 tags: ['Vietnam', 'Korea', 'Kazakhstan', 'Japan', 'China', 'Thailand', 'Copper', 'Bronzed Age', 'Aquasapien', 'Denisovan', 'Attila the Hun','GeoGenetics','Geographics', 'Genetics','Spyman World']    
 published: true
 ---
