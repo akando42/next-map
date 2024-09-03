@@ -10,8 +10,6 @@ tags: ['American Power', 'Movie', 'XXX','Trinity','Influence','Spykman World','N
 published: true
 ---
 # Hard Power, Soft Power and the Pink Power
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F439026116703745%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 America power projection was built on a trinity of power with three pillars. 
 
 First pillar is its military strength via elevent aircraft carriers, a global network of military bases and nuclear triads. 
@@ -31,3 +29,21 @@ Conventional hard power via ‘gun-powder’ could be countered via public opini
 The Dollar as the world reserve currency gives America tremendous influence but could be diminished via the gold standard or simply a new balance basket of alternative reserve currencies.
 
 Pornography, the movie and entertainment industry could be countered via  sexual liberation or get control of the porn script and shape public opinion via porn. Brazil has the hottest people in the world but no porn or movie industry.
+
+![Chimpanzee Mom](https://storage.googleapis.com/spykman-world/Chimpanzee%20Mom.png)
+
+![Seal Feeding Baby Seal](https://storage.googleapis.com/spykman-world/Seal%20Feeding%20Babyseal%20with%20Milk.png)
+
+![Bitch Feeding Puppies](https://storage.googleapis.com/spykman-world/Bitch_Feeding_Babydogs.png)
+
+![Cow Breast](https://storage.googleapis.com/spykman-world/Cow%20Milk%20Very%20Similiar%20to%20Human%20Milk.png)
+
+![Female Brain Scan During Orgasm](https://storage.googleapis.com/spykman-world/Female%20Brain%20Scan%20During%20Orgasm.png)
+
+![The Dopamine Pathway](https://storage.googleapis.com/spykman-world/The%20Dopamine%20Pathway.png)
+
+![Black Girl Feeding Baby](https://storage.googleapis.com/spykman-world/Black%20Girl%20Feeding%20Baby.png)
+
+![Japanese Hentai](https://storage.googleapis.com/spykman-world/Japanese%20Hentai.png)
+
+![Social Science via Great Images](https://storage.googleapis.com/spykman-world/Social%20Science%20via%20Great%20Images.png)
