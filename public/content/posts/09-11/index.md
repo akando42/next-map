@@ -138,6 +138,8 @@ Maybe after thousands of years, the Viking eventually rule the world. English, F
 
 ![World Trade Center](https://storage.googleapis.com/spykman-world/Two_Become_One.png)
 
+![President Bush Jr on 911 Terrorist Attack News](https://storage.googleapis.com/spykman-world/Bush%20Jr%20on%20911.png)
+
 ![Planned Demolition](https://storage.googleapis.com/spykman-world/Planned%20Demolition.png)
 
 ![Malay Taiwan Saudi Tallest Buildings](https://storage.googleapis.com/spykman-world/Malay%20-%20Taiwan%20-%20Saudi%20Arabia%20Tallest%20Building.png)
