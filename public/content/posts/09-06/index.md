@@ -70,7 +70,7 @@ These seem to be intimate private details for the couples actually results in ma
 
 ## When Computer Algorithm Know More About You Than Your Spouse
 
-So how American competitors can counter these three pillars of power. Conventional hard power via ‘gun-powder’ could be countered via public opinion,  ideology or religion. If someone can wield enough support from the masses, there are not enough soldiers and bullets to stop the human wave. 
+So how American competitors can counter these three pillars of power. Conventional hard power via ‘gun-powder’ could be countered via public opinion, ideology or religion. If someone can wield enough support from the masses, there are not enough soldiers and bullets to stop the human wave. 
 
 ![]()
 

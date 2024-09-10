@@ -9,8 +9,6 @@ title: "Asymetrical Warfare, False Flag or A Knock"
 tags: ['Asymetrical Warfare', 'False Flag Operation', 'A Knock','Dystopian','Four Horsemen','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F492985964767057%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ### Asymmetrical Warfare
 Asymmetrical warfare tactics are normally used by weaker opponents against stronger actors to avoid a conventional high-intensity warfare by prolonging the war or expanding the battle field to a larger area to spread the advantage of more advanced, larger force.
 
@@ -119,3 +117,49 @@ What if the nuclear launch mechanism is disable electronically or the US Preside
 CIA placing a friendly dictator as president of a country is a norm but a foreign power placing a dictator on top as US president is unprecedented but not impossible. 
 
 Maybe after thousands of years, the Viking eventually rule the world. English, French, German and Russian are Vikings. US will be Viking’s land soon. They discovered America way before Columbus anyway.
+
+![1940 Nuclear Device](https://storage.googleapis.com/spykman-world/1940s%20Nuclear%20Weapon.png)
+
+![Soviet Missile in Cuba](https://storage.googleapis.com/spykman-world/Soviet%20Missile%20in%20Cuba.png)
+
+![1960 Semiconductor](https://storage.googleapis.com/spykman-world/1960s%20Semiconductor%20Chip.png)
+
+![The Monk Feel no Pain or Great Doctor and Great Photographer](https://storage.googleapis.com/spykman-world/1963_Vietnamese_Monk_Burning_Himself_Why_Meditating.png)
+
+![Vietnamese Troop in Cambodia](https://storage.googleapis.com/spykman-world/1980%20Vietnamese%20Troop%20in%20Cambodia.png)
+
+![1980 Night Vision Camera](https://storage.googleapis.com/spykman-world/1980s%20Infrared%20Vision.png)
+
+![Boeing 767](https://storage.googleapis.com/spykman-world/911%20Hijack%20Model.png)
+
+![World Trade Center](https://storage.googleapis.com/spykman-world/Two_Become_One.png)
+
+![Malay Taiwan Saudi Tallest Buildings](https://storage.googleapis.com/spykman-world/Malay%20-%20Taiwan%20-%20Saudi%20Arabia%20Tallest%20Building.png)
+
+![2000 GPS Expansion](https://storage.googleapis.com/spykman-world/2000s%20GPS%20Expansion.png)
+
+![911 Memorial Site](https://storage.googleapis.com/spykman-world/911%20Memorial%20Site.png)
+
+![Airport Fullbody Scanner for XX XO Detection](https://storage.googleapis.com/spykman-world/Airport%20Full%20Body%20Scanner.png)
+
+![Afghanistan IED Devices](https://storage.googleapis.com/spykman-world/Afghanistan%20IED.png)
+
+![Cold Region Sperm Markers](https://storage.googleapis.com/spykman-world/Asian_Cold_Region_SpermMarker.png)
+
+![Kabul Airport Withdrawl](https://storage.googleapis.com/spykman-world/Kabul_Airport_Withdrawal.png)
+
+![Starlink Satelite](https://storage.googleapis.com/spykman-world/StarlinkSatelite.png)
+
+![2020s Internet Satelite](https://storage.googleapis.com/spykman-world/2020s%20Starlinks%20Satelite%20Internet.png)
+
+![The Brain Computer Interface](https://storage.googleapis.com/spykman-world/NeuralLink%20with%20Animal%20Brains.png)
+
+![Evergrande Container Stucking in the Suez Canal](https://storage.googleapis.com/spykman-world/Evergrande%20Container%20Stucking%20in%20Suez%20Canal.png)
+
+
+
+
+
+
+
+
