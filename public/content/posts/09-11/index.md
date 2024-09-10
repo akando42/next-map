@@ -132,11 +132,13 @@ Maybe after thousands of years, the Viking eventually rule the world. English, F
 
 ![Boeing 767](https://storage.googleapis.com/spykman-world/911%20Hijack%20Model.png)
 
+![2000 GPS Expansion](https://storage.googleapis.com/spykman-world/2000s%20GPS%20Expansion.png)
+
 ![World Trade Center](https://storage.googleapis.com/spykman-world/Two_Become_One.png)
 
-![Malay Taiwan Saudi Tallest Buildings](https://storage.googleapis.com/spykman-world/Malay%20-%20Taiwan%20-%20Saudi%20Arabia%20Tallest%20Building.png)
+![Planned Demolition](https://storage.googleapis.com/spykman-world/Planned%20Demolition.png)
 
-![2000 GPS Expansion](https://storage.googleapis.com/spykman-world/2000s%20GPS%20Expansion.png)
+![Malay Taiwan Saudi Tallest Buildings](https://storage.googleapis.com/spykman-world/Malay%20-%20Taiwan%20-%20Saudi%20Arabia%20Tallest%20Building.png)
 
 ![911 Memorial Site](https://storage.googleapis.com/spykman-world/911%20Memorial%20Site.png)
 
