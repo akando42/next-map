@@ -6,22 +6,23 @@ path: "/friday-the-thirteen-and-the-politics-of-fear-mongering"
 cover: "content/posts/09-13/spykman-world-friday-the-thirteen-and-the-politics-of-fear-mongering.jpg"
 date: "09-13"
 title: "Friday The Thirteen, Fear and the Benefactors of Chaos"
-tags: ['Friday The Thirteen', 'Fear', 'Human Instinct','Human Foundational Need','Fear Monger', 'Spykman World', 'Nicholas Spykman']    
+summary: "With higher risk tolerance and creativity than other gene groups, the North Atlantics genes are leading in almost every fields of human advances and surviving in the most inhospitable enviroments on earth."
+tags: ['Friday The Thirteen', 'Fear', 'Human Instinct','Human Foundational Need','Fear Monger', 'Spykman World', 'GeoGenetics']    
 published: true
 ---
-So since when and why Friday the Thirteen generate so much fear and superstition. Loki is a Norse god of mischief. Once upon a time at the party of the Gods at the Valhalla, Loki walked in the party as the 13th god crossing the gate of Norse Heaven. By the time he stepped his left foot through the gate, the universe suddenly experienced a full eclipse and the party's over. The Moon covered the Sun and everything turned into darkness. 
+So since when and why Friday the Thirteen generates so much fear and superstition. Loki is a Norse god of mischief. Once upon a time at the party of the Gods at the Valhalla, Loki walked in the party as the 13th god crossing the gate of Norse Heaven. By the time he stepped his left foot through the gate, the universe suddenly experienced a full eclipse and the party's over. The Moon covered the Sun and everything turned into darkness.
 
 ![Loki The God of Mischef](https://storage.googleapis.com/spykman-world/Loki%20The%20God%20of%20Mischef.png)
 
-All the gods and their power rendered useless under eclipse while Lowski got much more powerful and enhanced under eclipse. Loki used his power to plunge the world into chaos and darkness. There are also 13 people at the Last Supper, the final meal that Jesus shared with his Apostle before his crucifixion. 
+All the gods and their power rendered useless under eclipse while Lowski got much more powerful and enhanced under eclipse. Loki used his power to plunge the world into chaos and darkness. There are also 13 people at the Last Supper, the final meal that Jesus shared with his Apostle before his crucifixion.
 
 ![Jesus Last Meal](https://upload.wikimedia.org/wikipedia/commons/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg)
 
-With so much effort to exhaust control over our enviroment by building human systems that ensures human foundational needs of air, water, food, shelter, sleep and reproduction, the basic things that most thriving animal species could achieve without high level cognitive power, once upon a while, we again lost control, civilizations collapsed and societies fallen into chaos. 
+With so much effort to exhaust control over our environment by building human systems that ensures human foundational needs of air, water, food, shelter, sleep and reproduction, the basic things that most thriving animal species could achieve without high level cognitive power, once upon a while, we again lost control, civilizations collapsed and societies fallen into chaos.
 
 ![Mad Max Water Monopoly](https://storage.googleapis.com/spykman-world/Mad%20Max%20Water%20Monopoly.png)
 
-Many other times though, it is the human genetics group that built systems that other DNA lineages living in, who has too much power and control, take away the foundational needs of other human because that was as easy as taking a breath. 
+Many other times though, it is the human genetics group that built systems that other DNA lineages living in, who have too much power and control, take away the foundational needs of other humans because that was as easy as taking a breath.
 
 ![Blondes of Hanoi Video Programming the VIPs of Hanoi](https://storage.googleapis.com/spykman-world/Blonde%20of%20Hanoi%20running%20the%20VIP%20of%20Hanoi.png)
 
@@ -65,11 +66,15 @@ The Elite rulling classes of Europe has turn a shiny, light reflecting material 
 
 ### Fossil Fuel, The Conbustion Engine and the Nordic Global Control
 
-With a network of Royal Nordic families across European nations, the Blondes of Europe was once again be able to stitch the fragmented Europe into a one single strong coalition after the collapse of the Roman Empire in 13 century. By being able to scheme together for a common genetics interest instead of fighting each others, the Nordics planners and the European genes were once again be able reverse the decline after the fall of Constantinople and propelled European nations into the domininating colonial powers with the invention of Gasoline and the Combustion engine. 
+With a network of Royal Nordic families across European nations, the Blondes of Europe was once again able to stitch the fragmented Europe into a one single strong coalition after the collapse of the Roman Empire in the 13th century. 
+
+![Nordic Royal Families in Europe](https://storage.googleapis.com/spykman-world/Common%20Genetics%20Among%20European%20Families.png)
+
+By scheming together for a common genetics interest instead of fighting each other, the North Atlantic genes reversed the decline of Europe after the fall of Constantinople and propelled European nations into the dominating colonial powers. The power of fire first via the Steam engine and then the Combustion engine outperformances the Horsepower of Central Asia. While most of the oil reserves of the world are not in the North Sea, Brent Oil is a most important benchmark for Fire making technology and the people of the Brent oil fields are Blonde. Is this a miracle, coincidence or marketing? 
 
 ![NOR Global Control](https://storage.googleapis.com/spykman-world/NOR_Global_Control.png)
 
-While most of the oil reserves of the world are not in the North Sea, Brent Oil is a most important benchmark for Fire making technology and the people of the Brent oil fields are Blonde. Is this a miracle, coincidence or marketing? By evolving the Stock Market invention in Amsterdam into a more complex financial instructument for commodity future trading via the merger of Royal Dutch Petroleum Company of the Netherlands and The "Shell" Transport and Trading Company of the United Kingdom, the Nordic genetics was able to accumulate enough financial firepower to have exclusive drilling rights to majority of the oil fields around the globe.   
+By evolving the Stock Market invention in Amsterdam into more complex financial instructument for commodity future trading via the merger of Royal Dutch Petroleum Company of the Netherlands and The "Shell" Transport and Trading Company of the United Kingdom, the Nordic genetics was able to accumulate enough financial firepower to have exclusive drilling rights to majority of the oil fields around the globe.   
 
 ![Daily Oil Output](https://storage.googleapis.com/spykman-world/daily_oil_output_norway_vs_opec.png)
 
@@ -77,21 +82,36 @@ No matter what is oil and gasoline price is, people of earth still have to fill 
 
 ![Brent Crude Oil Prices](https://storage.googleapis.com/spykman-world/crude-oil-brent-historical-prices.png)
 
-By focusing their efforts on building advantages around human major energy inputs, Norway and Scandinavian countries were able to achieve highest productivity per person or highest income per capital in Europe and the World. By selling the sweetest crude oil and highest level of protein salmons to European nations and other countries, Norway was able to make on average 114,899 USD annually or 235 million VND a month. 
+With advantages around human major energy inputs, Norway and North Sea nations achieve highest productivity per person or highest income per capital in Europe. Oil reserve detection and estimation requires advanced radar technology with British having the leading edge since 1940s. High protein salmon fish farms requires advanced bio engineering experties with Denmark, Sweden and Norway having the leading edge. By selling the sweetest crude oil and highest level of protein Salmons to European nations, Norway was able to make on average 114,899 USD annually or 235 million VND a month. 
 
 ![NORWAY INCOME Stream](https://storage.googleapis.com/spykman-world/norway_oil_income.png)
 
-![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
+Two of the most widely used operating system of the world: UbuntuOS for data centers, MacOS for high income individuals, Android and iOS for mobile devices are all based on UNIX which was invented and controlled by Oslo engineers. With these Operating Systems, the Oslo Sovereign Wealth Fund managers were able to access the newest and most accurate datapoints of the world as well as censor all future and present financial and daily plans of the most influential individuals on the planet. These advantages enable the super wealthy oil rich country of Norway and their North Atlantics genes to predict the future better than everyone else and invest in the most impactful technologies of the future. 
 
-![Scandinavian Air Traffics](https://storage.googleapis.com/spykman-world/Scandinavian_Air_Traffics.png)
+![World Largest Soverign Wealth Fund](https://storage.googleapis.com/spykman-world/world-largest-soverign-wealth-funds.png)
 
 ### NATO, OTAN and the Blood Type A and O Relentless Genetics Expansion
 
-![NORTH Atlantics Oil Tankers](https://storage.googleapis.com/spykman-world/north-atlantics-oil-tankers.png)
+There should be only one royal lineage only for the entire globe after the North Atlantic's lineage was able to travel and conquer every corner of earth at the beginning of 1900s. That decision was made sometimes ago with Thai and Japanese royal families being slowly diluted with more Western genes like in the case of Miko Japanese princess while the Qing royal lineage was mostly eradicated through the Blonde-lead Communist revolution of China.
 
-![The NATO Royals](https://storage.googleapis.com/spykman-world/nato-royals.png)
+![Communist Leaders Obession with Russian Blonde](https://storage.googleapis.com/spykman-world/Communist_Leaders_Obession_with_Russian_Blonde.png) 
 
-![NATO Wave of Fear and New Memberships](https://storage.googleapis.com/spykman-world/wave_of_fear_and_NATO_new_memberships.png)
+The global future for every gene groups have been planned out by the North Sea gods. The French Napoleonic world will be doing tasks with little competitive advantages and could be replaced by other colonies or dominions, will drive on the right and do the right safe thing all the time like mass manufacturing, farming, food processing. The French Napoleonic local authorities will discourage writing, free speech, creativity while promote reading, uniformity and standardization. 
 
 ![Right-hand man countries vs Left-hand man countries](https://storage.googleapis.com/spykman-world/left-hand-countries_vs_right-hand-countries.png)
 
+British Common Law world will be doing the risky, creative, experimental tasks, architecting new competitive edges over everyone in the world. North Sea companies like ARM, AstraZenica, Deep Mind are doing the leading edge research and development in Computer Chip Design, Bio Engieering and Artificial Intelligent that would allow the North Sea genes to earn Royalty income for next decades or even centuries. 
+
+![The NATO Royals](https://storage.googleapis.com/spykman-world/nato-royals.png)
+
+The British Common Law, driving on the Left world also needs to keep the French Napolenic world divided and fight each other like the US-China trade war or the EU-Russia Ukrainian war. The expansion of NATO via imaginative wave of fears first with the Soviet 1950 nuclear test, then Communism Elimination of Asset Ownership of 1975 and the Terrorism Succidal Bombing of 2000s will keep wars out of the North Atlantics sealanes and only between Napoleonic world in the Pacifics, Eastern Europe or Middle East.  
+
+![NATO Wave of Fear and New Memberships](https://storage.googleapis.com/spykman-world/wave_of_fear_and_NATO_new_memberships.png)
+
+By controlling the North Atlantics Gene pool via the New England New York program, the British Common Law world are holding the Pull advantages by having more attractive people. English speaking companies are controlling all fiberoptics cable, internet and television content to promote North Sea images. These Built-Men-After-His-Own-Images advantages give NATO CAAC genes easier games every night on the streets, at the offices and in the bars in Berlin, Karachi or Shanghai. 
+
+![AC Genes of America, Pakistan and China](https://storage.googleapis.com/spykman-world/AC_Genes.png)
+
+British Common Law world are also surpressing and throttle the growth of other gene groups in the Napoleonic French world via bioengineering daily water and food input of the dominions. The guard dogs of Central Asia, Pakistan, India will have a higher protein diet like Beef and Bean while the Western productive workers will have higher carbohydrate diet like Chicken and Rice. China and India, Vietnam and Philipine are having counter-balancing population count via the British engineering. 
+
+![Finnish Design Water Factory of Hanoi Central District](https://storage.googleapis.com/spykman-world/Ngoc_Ha_Water_Factory.png)
