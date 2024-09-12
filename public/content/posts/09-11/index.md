@@ -163,9 +163,160 @@ Maybe after thousands of years, the Viking eventually rule the world. English, F
 ![Evergrande Container Stucking in the Suez Canal](https://storage.googleapis.com/spykman-world/Evergrande%20Container%20Stucking%20in%20Suez%20Canal.png)
 
 
+### Unfinished Researches and Investigations
+
+FALSE FLAG THEORY
+9/11 ⇒ The only country with GPS tech. 
+⇒ American push right after a major tech upgrade like starcraft after GPS online
+Will soon be copied by the EU, Russia and China. 
+
+⇒ Need an excuse to build more military bases around the world with GPS
+⇒ Need an excuse to install agents and develop surveillance tools around GPS
+
+2021 
+⇒ Push again right after a major tech upgrade 
+⇒ Global high speed satellite internet. 
+Push Right After The Tech Upgrades Theory 
+1940-1945 ⇒ Nuclear bomb invented 
+⇒ Copy of Nuclear Devices by Russia, China and India
+⇒ Can attack large enemy formations with numerical superiority. 
+⇒ Push East Asian genes Back to Kazakhstan, Korea and Truong Son mountain range.
 
 
+1965 - Guided Missiles with onboard computer chips
+⇒ Copy of Guided Missiles by Russia, China and India
+⇒ Can attack beyond the range of enemy aircraft.
+⇒ Draw Chinese genes South while advancing Western genes passed Kazakhstan to Chengdu and Kunming. 
+
+1985 - Night Vision Goggle invented and mass Produced. 
+⇒ Copy of Night Vision Goggle by Russia, China and India
+⇒ Can fight at night when enemy is sleeping and not able to shoot or attack accurately
+⇒ American night vision goggles special forces eliminated all Vietnamese troops in Cambodia near the Thai border and replaced them with Orange county Vietnamese youths returning from America in 1988. 
+
+⇒ Vietnamese Orange county youths withdrew back to Hanoi from Cambodia, conducted a COUP to take over the leadership of LE Duan and Open the Vietnam economy to Western power. 
+
+⇒ Western Genes advanced from Thailand and Kunming to Hanoi. 
+
+2000 -  GPS constellation in orbits and available to civilian uses around the globes
+
+Counters
+⇒ GPS signal jamming, Clock Syncing interruption or 4G Signal blocking by Local Cell providers against detected foreign agents.
+ 
+⇒ Massing doubles to avoid detection from Smart GPS devices like Smartphones, Electric Cars and Motorcycles, Wifi router, Facial Recognition Internet Cameras with all Public Security and Military Personnels having doubles.  
+
+600.000 military personnel on paper but actually maybe 1.2 million or so.
+
+⇒ National Intranet Network with Local Data Centers for Local GPS and Contact Data. Mirrors of Data and Web Services from Foreign Internet Companies.
+⇒ App Store control with No Foreign app be able to access GPS, Photo, Video and Contact data. 
+⇒ National Operating System for Mobile Devices like Smartphones, Internet Routers, Motorcycles and Cars.  
+
+Advantages
+⇒ No longer get lost in unfamiliar terrain, accurate map of the globes and accurate location of friendly and enemy position.
+ ⇒ 9/11, Iraq and Afghanistan GPS guided tanks, planes and missiles wars, advancing from Israel toward Central Asia. 
+⇒ Western Genes advanced from Hanoi to Shenzhen and Southern China
+⇒ Mass constructions in China with Company like Evergrande becoming a trillion dollar company 
+⇒ China became the manufacturing hub and Shenzhen became the tech center of China.
+
+2021 - High speed Satellite Internet and NeuralLINK nanobots 
+⇒ Be able to remotely control enemy leaderships and combatants.
+⇒ Kunming and Thailand replacing the genes of the Red River delta. 
+⇒ Western Genes advanced from Southern China and Chengdu to the Yellow Yangtze river delta. 
+
+Counter
+Self Sufficient Water, Food Supply and Packaging. 
+Wifi 2.4Ghz and 5Ghz Signal Jammer from Light Bulb ?!
+
+⇒ COLLABORATION in LARGE NUMBER with EFFICIENT SPACE USE to reduce ENERGY CONSUMPTION and SAVE TIME.
+THE ASYMMETRICAL WARFARE THEORY
+Symmetrical Warfare 
+⇒ North South, East West 
+⇒ Military fighting each other in an open battlefield with uniformed soldiers, insignia and national flag.
+
+Asymmetrical Warfare tactics
+⇒ Guerrilla Warfare ⇒ Combatants dressing as civilians, using sneak attack tactics to attack military installations and military units.
+
+⇒ Terrorism ⇒ Combatants dressing as civilians attacking MEDIA STUNT targets to cause widespread fear among the target population.
+
+⇒ CHXH ⇒ Combatants dressing as civilians and criminal gangs orchestrating public unrest using civilian disobedient tools like food poisoning, breaking of personal vehicles and homes of targeted public security, military, government officers, spreading of STDs among soldiers, cops and their wifes. 
+A KNOCK THEORY
+9/11
+⇒ Tran video programmers direct Middle Easterners to attack America's financial center via social engineering and psychological research ?
+⇒ Tran are Chinese farmers with many food stores and restaurants across the World. 
+⇒ the ED male will make an IED and take much more risk than other males.
+
+⇒ All Middle Eastern food imports come from India, Egypt and South East Asia. 
+⇒ Russian direct and assist Middle Easterners to attack ?!
+⇒ Vietnam has been the money laundering center for Russian global efforts since 1990 ?!
+⇒ Russian has been using Chemical Valve for ED among adult male since 1954
 
 
+9/11 DAMAGES
+⇒ Pull American into disadvantages WARS in Afghanistan mountainous region
+⇒ Increase FED interest rate drastically by Increasing Risk of doing business in US
+⇒ Resulted in millions of businesses closed and millions of Americans defaulting on their home later in 2008 ?
+The TEST of former Communist states planners to go after extremely high value target deep inside enemy territorial
 
+The slow and no response from American Air Control and Air Defenses.
+⇒ American Carriers and its forward deployed strategy has been making the American homeland extremely safe since the 1900s.
+
+⇒ Both Nazi Germany and Japan were never able to reach US Soils and attack any high value targets. Always had to fight at their door steps in England, Hawaii, The Philippine and Australia. 
+
+⇒ The Pacifics and Atlantics Ocean were always the impassable barriers for any invasion force. 
+Delivery of heavy military equipment across the vast ocean of 1000s kilometers without being detected and intercepted by a superior Navy and Airforce is impossible.  
+ 
+1960 ⇒ Interceptable via Reagan Starwar program 
+CUBAN missile crisis was the first time the US Homeland has been under threat since the American independence day from the British Empire. 
+⇒ Delivery of Nuclear warheads using ICBM is possible and not interceptable by US aircrafts or naval vessels across the Atlantics and Pacifics ocean. 
+
+1975 ⇒ Interceptable via Information Control agency. 
+Delivery of images and stories across the vast ocean is also possible 
+⇒ Persuade the American student to protest
+⇒ Persuade the African American to dodge drafts from government
+Using mass propaganda and religious techniques. 
+
+2000 ⇒ Interceptable via NSA and its Mass Surveillance Tools 
+⇒ Video Programming a local target inside the United States to conduct Median Stunt attacks to cause widespread fears inside the US and EU is possible using Mass Shooting, Home-Made Explosive Devices or Crashing of Cars, Planes or Ships into Buildings and Bridges are possible using 
+Internet Usage Analytics
+Financial Data
+Social Bubble via Phone contact list around the Target. 
+
+
+2020 ⇒ Interceptable via Smartphone Bluetooth Contact Tracing and Cloud Syncing Contact List 
+Delivery of STDs or VIRUSES are also possible using civilian transportation vehicles like cars, planes or ships. 
+
+⇒ Wild spread of STDs among the American population by 2010 with 30% of Americans having STDs using former Soviet state Hookers and Agents as well as African and Latin American males also possible. 
+
+⇒ COVID viruses and Skin diseases could also be transported undetected using civilian planes, trains and cars across the Atlantics and Pacifics ocean or across the Mexico and the Caribbean sea in 2020
+
+
+2021 ⇒ Interceptable via Custom Tracking, Product Barcodes and Electron Microscopes 
+⇒ Delivery of light weight nanobots could also be conducted undetected using Consumer product container ships coming from China and SouthEast Asia. 
+
+911 Emergency Phone Number - AWFFAK 
+⇒ 911 Night One One stands for NONO or Khong Khong
+
+Established by Lyndon Johnson after escalated number of sabotages attacks inside America by African American and communist sympathizers  
+
+In the United States, the first 911 service was established by the Alabama Telephone Company and the first call was made in Haleyville, Alabama, in 1968
+
+AT&T made its first implementation in Huntington, Indiana on March 1, 1968
+
+Regarding national U.S. coverage, by 1979, 26% of the U.S. population could dial the number. This increased to 50% by 1987 and 93% by 2000. As of March 2022, 98.9% of the U.S. population has access.
+
+1972 ⇒ 911 also became available in Canada
+2016 ⇒ Mexico switched to 911 numbers 
+
+Enhanced 911 gives the dispatcher location of the caller
+Landline would map the caller address to a database
+Mobile devices could triangulate or GPS locating the caller coordinates but not floors.  
+
+On 9/11/2001 ⇒ many people called 911 ⇒ is this a practical joke ?!
+
+Full Body airport screening only available after 911
+
+The Dick Measuring Contest ⇒ aka Skyscraper 
+
+⇒ Arab Dick ==> Saudia Arabia Skyscapers
+⇒ Japan Dick aka Taiwan and Malaysia Skyscrapers
+⇒ English Dick ==> American Skyscrapers
 
