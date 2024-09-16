@@ -9,9 +9,10 @@ title: "Constitution - the DNA of a Nation"
 tags: ['Constitution', 'Founding of a Nation', 'DNA','Startup Nation','Spykman World','Nicholas Spykman']    
 published: true
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspykmanworld%2Fvideos%2F391264488206162%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-### What is a Constitution ?
+![The Arrivals](https://storage.googleapis.com/download/storage/v1/b/spykman-world/o/Bean%20Sprouts%20Growing%20Toward%20the%20Light.png?generation=1726129430072650&alt=media)
+
+## What is a Constitution ?
 
 A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.
 
