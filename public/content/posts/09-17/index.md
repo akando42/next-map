@@ -10,7 +10,7 @@ tags: ['Constitution', 'Founding of a Nation', 'DNA','Startup Nation','Spykman W
 published: true
 ---
 
-![The Arrivals](https://storage.googleapis.com/download/storage/v1/b/spykman-world/o/Bean%20Sprouts%20Growing%20Toward%20the%20Light.png?generation=1726129430072650&alt=media)
+![The Arrivals of Electricty](https://storage.googleapis.com/download/storage/v1/b/spykman-world/o/Bean%20Sprouts%20Growing%20Toward%20the%20Light.png?generation=1726129430072650&alt=media)
 
 ## What is a Constitution ?
 
@@ -44,3 +44,12 @@ So without a doubt, the US Constitution was designed to optimize for the benefit
 
 However, a great American Constitution innovation that later copied by other European nations as well as the rest of the world is its division of powers among the three branches of government, working like a holy seal that forever preventing the return of the king and his tyranny. 
 
+![American Constitution Signers](https://storage.googleapis.com/spykman-world/Signers%20of%20US%20Constitution.png)
+
+![American Famous Founding Fathers](https://storage.googleapis.com/spykman-world/US%20Famous%20Founding%20Fathers.png)
+
+# Vietnam Constitution
+
+![Vietnam Constitution Signers](https://storage.googleapis.com/spykman-world/Vietnamese%20Constitution%20Signers.png)
+
+## United Viet Constitution
