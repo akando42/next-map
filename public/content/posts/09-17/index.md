@@ -125,4 +125,13 @@ After the Withdrawal from Cambodia and the Opening of Hai Phong Port to Western 
 ⇒ Construction workers and hookers spreading viral diceases from 1988 to 1992. 
 ⇒ Vietnam Constitution changed again April 25, 1992 
 
+![Monthly and Daily Rain in Hanoi](https://storage.googleapis.com/spykman-world/Rain%20Water%20Supply%20Enabled%20the%20Revolution.png)
+
+Rainy and Cold Season of Hanoi
+==> February is the Peak Cold Season in Hanoi 
+==> September is the Peak Rainy Season in Hanoi
+So Vietnam Independence Day is 2/9 when they were no longer dependent on the French Water Supply system. 
+
+
+
 
