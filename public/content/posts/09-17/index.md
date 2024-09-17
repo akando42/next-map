@@ -101,3 +101,28 @@ Communist Party
 ⇒ XO Wifes are Public Properties and shared among neighbors. 
 ⇒ XX Wifes are also shared among families by raising one biological child and one neighbor child like a BlockChain. 
 ⇒ Collapse of the Soviet Union happened after the Wife Sharing practices became a hazard with French STDs and Viral Skin Disease spreading in Russia and China in the 1980s.
+
+Vietnam had 4 Constitutions: 
+- 1946 after WW2, 
+- 1959 after Dien Bien Phu and the Dividing
+- 1980 after 2 Fronts Border Wars 
+- 1992 after the Openning up of Haiphong Port and the Economy
+
+Before 1979 
+==> Viet Nam Dan Chu Cong Hoa
+==> The Vietnam Citizens Hired the Mixed Blood Servants
+
+After 1979
+==> Cong Hoa Xa Hoi Chu Nghia Viet Nam
+==> The Mixed Blood Criminal Gangs Directs the Meaning of Vietnamese.
+
+After the Chinese and Cambodia border war of 1979 
+⇒ Seems to lost all armies and irregular warfare AC Mixed Blood gangs disrupted and took control of Hanoi. 
+⇒ NO longer having any viable females in Hanoi
+⇒ The Trinity XO army command control Hanoi
+
+After the Withdrawal from Cambodia and the Opening of Hai Phong Port to Western Naval Vessels and Trades in 1990.  
+⇒ Construction workers and hookers spreading viral diceases from 1988 to 1992. 
+⇒ Vietnam Constitution changed again April 25, 1992 
+
+
