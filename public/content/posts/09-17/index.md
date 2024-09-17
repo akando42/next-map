@@ -85,7 +85,7 @@ Democratic Party
 ⇒ Democrats are normally
 Financial Bankers to optimize Businesses for Republicans 
 Technologists to optimize Businesses for Republicans. 
-⇒ All the Richmen virgin daughters are in the East Coast behind the West Virigina mountain. 
+⇒ All the Richmen virgin daughters are in the East Coast behind the West Virginia mountain. 
 
 
 Communist Party
