@@ -46,7 +46,7 @@ However, a great American Constitution innovation that later copied by other Eur
 
 ![American Constitution Signers](https://storage.googleapis.com/spykman-world/Signers%20of%20US%20Constitution.png)
 
-![American Famous Founding Fathers](https://storage.googleapis.com/spykman-world/US%20Famous%20Founding%20Fathers.png)
+![American Famous Founding Fathers](https://storage.googleapis.com/spykman-world/US_Famous_Founding_Fathers.png)
 
 # Vietnam Constitution
 
