@@ -9,7 +9,6 @@ title: "Constitution - the DNA of a Nation"
 tags: ['Constitution', 'Founding of a Nation', 'DNA','Startup Nation','Spykman World','Nicholas Spykman']    
 published: true
 ---
-
 ![The Arrivals of Electricty](https://storage.googleapis.com/download/storage/v1/b/spykman-world/o/Bean%20Sprouts%20Growing%20Toward%20the%20Light.png?generation=1726129430072650&alt=media)
 
 ## What is a Constitution ?
@@ -53,3 +52,52 @@ However, a great American Constitution innovation that later copied by other Eur
 ![Vietnam Constitution Signers](https://storage.googleapis.com/spykman-world/Vietnamese%20Constitution%20Signers.png)
 
 ## United Viet Constitution
+
+
+## RESEARCH - Evolution of Society Structure Architecture
+
+Kings and the Monarchy 
+⇒ Top Killers sperm ruling over other human and direct their actions
+Richmen and the Republics
+⇒ Most Attractive and Useful sperms ruling over other human and direct their actions
+
+After the Mass manufacturing of the Guns 
+⇒ Top Killers are not that effective against the Crowds of Richmen and their mass manufacturing Guns anymore. 
+
+⇒ Killers can only beat the Crowd in geographically advantageous locations like Island, High Mountain, naval Stroke points or the Open Ocean. 
+
+Republican Party
+⇒ Territorial people with biological children and a lot of weapons. 
+⇒ Build long-term asset ownership to provide living space and income for their biological children and grandchildren. 
+⇒ Focus on expanding income stream, living space and genetics footprints
+⇒ Mostly white couples living in the Suburban or Countrysides.
+⇒ Midwest Republicans control Water and Food supplies via their industrial farms.
+⇒ Texas Republicans control Energy and Weapon production supplies
+
+⇒ Compete for better Females via larger houses, better cars, smarter and more attractive friends.
+
+Democratic Party
+⇒ Higher paying jobs and more credit is important to be able to afford fancy Blowjob and Sex, better food and nicer looking rental or mortgage houses. 
+⇒ Does not need any investment or full asset ownership since they are living for the moment and having no biological children.
+⇒ More credit and little saving ensures maximum productions and innovation during their one and only lifetime 
+⇒ Both Democrats and Communists are hard workers with no biological children so a lot of Democrats are Communist sympathizers. 
+⇒ Democrats do not want to share their rental home, XO wifes or private stuff with other people though. Orgy or trading of wifes is not a common practice during the Democrats parties. 
+⇒ Democrats are normally
+Financial Bankers to optimize Businesses for Republicans 
+Technologists to optimize Businesses for Republicans. 
+⇒ All the Richmen virgin daughters are in the East Coast behind the West Virigina mountain. 
+
+
+Communist Party
+⇒ Built around two drivers: the Blowjob for Positive Feedback and the Chemical Valve for Negative Feedback
+⇒ People just need a place to Fuck, enough food to Eat and place to Sleep. People then work on what they enjoy doing or are assigned by the Western Doctors. 
+⇒ Ownership of more sophisticated stuff is not necessary since the meaning of life is already satisfied after the Blowjob. 
+⇒ Western Doctors control the Water Sources and the production of XX and XO females in Asia. 
+⇒ Asset ownerships became less important than the access to Blowjobs and other Sexual stimulation from the Trinity XO Armies of the Swiss and Russian doctors 
+⇒ Trinity XO Armies can direct Men to work together according to the Swiss and Russian doctors agenda. 
+⇒ Le Duan is an Army Doctor ?!
+
+⇒ Trinity XO, like Teddy Bears, became public property and share among neighbors. 
+⇒ XO Wifes are Public Properties and shared among neighbors. 
+⇒ XX Wifes are also shared among families by raising one biological child and one neighbor child like a BlockChain. 
+⇒ Collapse of the Soviet Union happened after the Wife Sharing practices became a hazard with French STDs and Viral Skin Disease spreading in Russia and China in the 1980s.
