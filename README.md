@@ -4,6 +4,7 @@ yarn dev
 ```
 
 ## TODO
+[ ] Voice Over from Text
 [X] Design for Location-Based Stories Blog.  
 [X] Build the Landing Layout.  
 [X] Markdown Content Parsing.      
