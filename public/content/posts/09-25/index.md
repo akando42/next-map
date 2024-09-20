@@ -7,7 +7,7 @@ cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-pri
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"
 summary: "Are the British or Local Elites better rulers of British formal satelite states?"
-tags: ['IRA', 'Irish Republican Army', 'Ireland','Hong Kong', 'United Kingdom','Spykman World','Nicholas Spykman']    
+tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'United Kingdom','Spykman World','GeoGenetics']    
 published: true
 ---
 ### Irish Republican Army - An Independence Movement From Britain
