@@ -7,10 +7,10 @@ cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-pri
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"
 summary: "Are the British or Local Elites better rulers of British formal satelite states?"
-tags: ['IRA', 'Irish Republican Army', 'Ireland','Hong Kong', 'United Kingdom','GeoGenetics','Nicholas Spykman']    
+tags: ['IRA', 'Irish Republican Army', 'Ireland','Hong Kong', 'HSBC', 'United Kingdom','GeoGenetics','Nicholas Spykman']    
 published: true
 ---
-### Irish Republican Army - An Independence Movement From Britain
+### Irish Republican Army - An Independence Movement From Britain. 
 
 Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. 
 
@@ -65,17 +65,3 @@ Will British English eventually disappear like Latin and English evolved into ma
 The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. 
 
 After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
