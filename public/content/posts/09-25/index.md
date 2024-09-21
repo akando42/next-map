@@ -65,3 +65,9 @@ Will British English eventually disappear like Latin and English evolved into ma
 The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. 
 
 After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
+
+## Researches 
+
+Hong Kong island was first captured by British navy after the Opioum War 
+
+Other islands and part of Quang Chau acquired after the march on beijing to ensure the sales of opoium to China illegal.
