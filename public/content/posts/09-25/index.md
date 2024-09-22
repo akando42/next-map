@@ -12,23 +12,29 @@ published: true
 ---
 ### Irish Republican Army - An Independence Movement From Britain.
 
-Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. 
+Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. URALIC people, descendants of Attila, spread from Hungary to the Baltic Sea and Scandinavian regions over the next 500 years. 
 
-URALIC people, descendants of Attila, spread from Hungary to the Baltic Sea and Scandinavian regions over the next 500 years. 
+![The Nomadic Hun Expansion from North Asia to Finland](https://storage.googleapis.com/spykman-world/Nomadic%20Hun%20Play%20Ground.png)
 
-The Vikings with their Attila gene and ADHD furious energy eventually finalized Altila’s Westward expansion in the 10th and 11th centuries.
+The Vikings with their Attila gene and ADHD furious energy eventually finalized Altila’s Westward expansion in the 10th and 11th centuries. After continuous Vikings raids, the Franks people eventually gave in and Rollo, a Viking leader gain political legitimacy and start the Norman dynasty in the Normandy region, Northern France with profound influence on Medieval Europe.
 
-After continuous Vikings raids, the Franks people eventually gave in and Rollo, a Viking leader gain political legitimacy and start the Norman dynasty in the Normandy region, Northern France with profound influence on Medieval Europe. 
+![Viking Settlements in France](https://storage.googleapis.com/spykman-world/Viking_Settlements_in_France.png) 
 
-Since the Norman invasion of Ireland in the 12 century, the Irish people were still struggling to regain their independence from the United Kingdom until 20 century. 
+Since the Norman invasion of Ireland in the 12 century, the Irish people were still struggling to regain their independence from the United Kingdom until 20 century. The Irish War of Independence, started in 1919 until 1921, at last led to independence for most of Ireland with the exception of Northern Ireland.   
 
-The Irish War of Independence, started in 1919 until 1921, at last led to independence for most of Ireland with the exception of Northern Ireland.   
+![Belfast Norman city inside an Irish island nation](https://storage.googleapis.com/spykman-world/Belfast0-a-British-Proxy-Barrack.png)
 
-Northern Ireland saw much civil unrest from the late 60s until the 90s. During this period of civil unrest, the Maze Prison Escape or the Great Escape took place on 25 September 1983. 
+The IRA Irish Republican Army continues their guerrilia campaigns in Northern Ireland which caused nonstop unrest in Northern Ireland from the late 60s until the 90s. During this period, many Irish gueririla fighters was imprisoned in Belfast, Northern Island by the British military.
 
-This is the biggest Prison escape in UK history with 38 Provisional IRA members escaped the maximum security, most escape proof prison in Europe. During the escape, one prison officer died of a heart attack and 20 others were injured.  
+![Irish city vs British city](https://storage.googleapis.com/spykman-world/Native_Irish_Celtic_vs_Norman_English_Invader.png)
 
-Eventually all the Northern Ireland unrest subsided following the Good Friday agreement in 1998.
+During this period of civil unrest, the Maze Prison Escape or the Great Escape took place on 25 September 1983. This is the biggest Prison escape in UK history with 38 Provisional IRA members escaped the maximum security, most escape proof prison in Europe. During the escape, one prison officer died of a heart attack and 20 others were injured. 
+
+![Maze Prison](https://storage.googleapis.com/spykman-world/Maze_Prision.png)
+
+Eventually all the Northern Ireland unrest subsided following the Good Friday agreement in 1998. The hard border was removed after the agreement and Irishes living in Ireland are now allowed to cross into Northern Ireland and enter the city of Belfast following the Good Friday Agreement. 
+
+![Good Friday Agreement](https://storage.googleapis.com/spykman-world/Good_Friday_Agrement.png)
 
 ### Northern Ireland and Hong Kong, Two Scars from the British Rule.
 
