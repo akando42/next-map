@@ -54,27 +54,19 @@ Ireland Republic as well as the majority of Northern Ireland supports staying in
 
 The continued struggle of Northern Ireland is the result of distance between Irish and English language. Irish is a Celtic-based language while English is a Germanic based language. Borders should have been drawn based on language usage. If we can talk, the less likely we have to kill. 
 
-Latin was originally spoken in the area around Rome, known as Latinum. 
+Latin was originally spoken in the area around Rome, known as Latinum. Through the power of the Roman Republic, Latin become a dominant language in Italy, and eventually entire Western Roman Empire. After the collapse of the Roman Empire, pure Latin is gradually disappearing from existence. 
 
-Through the power of the Roman Republic, Latin become a dominant language in Italy, and eventually entire Western Roman Empire. 
-
-After the collapse of the Roman Empire, pure Latin is gradually disappearing from existence. Vulgar Latin developed into Roman languages like French, Spanish, Italian, Portagues. 
-
-Latin has contributed many words to the English language. Majority of English descriptions of theology, science, medicine and law used Latin-root words.
+Vulgar Latin developed into Roman languages like French, Spanish, Italian, Portagues. Latin has contributed many words to the English language. Majority of English descriptions of theology, science, medicine and law used Latin-root words.
 
 The Western Civilization history is the violent struggle of the disciplined farm-based society of the South and the chaotic nomadic hunter-gatherer societies of the North. And the victors bring their gene and their languages with them to new frontiers.
 
-British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. 
+British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English ?
 
-Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English ?
-
-The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. 
-
-After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
+The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
 
 ## Researches
 - Why the Irish fight the English and Irish English sounds quite different from British or American. 
-- Can English understand Irish at all ? 
+- Can English understand Irish at all ? ==> English can not understand Irish so they do not have common Mom.
 - IRELAND like IRAQ or IRAN means Infrared IR_Egg_Land or Red hair Blood Type B White Men. 
 - St Patrick’s is American drinking holiday dedicated to the Irish 
 - All Irish are aggressive or that’s just Conor McGregor is an Irish outlier.
