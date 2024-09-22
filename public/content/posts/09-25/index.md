@@ -66,8 +66,14 @@ The balance power of the North, South, East and West goes hand in hand with the 
 
 After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
 
-## Researches 
-
-Hong Kong island was first captured by British navy after the Opioum War 
-
-Other islands and part of Quang Chau acquired after the march on beijing to ensure the sales of opoium to China illegal.
+## Researches
+- Why the Irish fight the English and Irish English sounds quite different from British or American. 
+- Can English understand Irish at all ? 
+- IRELAND like IRAQ or IRAN means Infrared IR_Egg_Land or Red hair Blood Type B White Men. 
+- St Patrick’s is American drinking holiday dedicated to the Irish 
+- All Irish are aggressive or that’s just Conor McGregor is an Irish outlier.
+- The MC initial in McGregor or McDonald means they are IRISH. MC or BC is related or not. 
+- Hong Kong island was first captured by British navy after the Opium War 
+- Other islands and part of Quang Chau acquired after the March on Beijing to ensure the sales of Opium to China is Legal.
+- Hong Kong named by Qing or UK ? 
+- Why Hong Kong means the Pink Offensive and looking like the 500 Dong paper money issued the first time in 1988 right before Vietnam open up its Hai Phong port to Western trades ?
