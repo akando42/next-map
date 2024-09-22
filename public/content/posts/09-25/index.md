@@ -20,15 +20,15 @@ The Vikings with their Attila gene and ADHD furious energy eventually finalized 
 
 ![Viking Settlements in France](https://storage.googleapis.com/spykman-world/Viking_Settlements_in_France.png) 
 
-Since the Norman invasion of Ireland in the 12 century, the Irish people were still struggling to regain their independence from the United Kingdom until 20 century. The Irish War of Independence, started in 1919 until 1921, at last led to independence for most of Ireland with the exception of Northern Ireland.   
+Since the Norman invasion of Ireland in the 12 century, the Irish people were still struggling to regain their independence from the United Kingdom until 20 century. The Irish War of Independence, started in 1919 until 1921, at last led to the independence for most of Ireland with the exception of Northern Ireland.   
 
 ![Belfast Norman city inside an Irish island nation](https://storage.googleapis.com/spykman-world/Belfast0-a-British-Proxy-Barrack.png)
 
-The IRA Irish Republican Army continues their guerrilia campaigns in Northern Ireland which caused nonstop unrest in Northern Ireland from the late 60s until the 90s. During this period, many Irish gueririla fighters was imprisoned in Belfast, Northern Island by the British military.
+The IRA Irish Republican Army continued their guerrila campaigns in Northern Ireland which caused nonstop unrests in Northern Ireland from the late 60s until the 90s. Over this 30 years civil war, many Irish guerrila fighters was imprisoned in the Maze Prison outside of Belfast, Northern Island by the British military.
 
 ![Irish city vs British city](https://storage.googleapis.com/spykman-world/Native_Irish_Celtic_vs_Norman_English_Invader.png)
 
-During this period of civil unrest, the Maze Prison Escape or the Great Escape took place on 25 September 1983. This is the biggest Prison escape in UK history with 38 Provisional IRA members escaped the maximum security, most escape proof prison in Europe. During the escape, one prison officer died of a heart attack and 20 others were injured. 
+And then the Maze Prison Escape or the Great Escape took place on 25 September 1983. This is the biggest Prison escape in UK history with 38 Provisional IRA members escaped the maximum security, most escape proof prison in Europe. During the escape, one prison officer died of a heart attack and 20 others were injured. 
 
 ![Maze Prison](https://storage.googleapis.com/spykman-world/Maze_Prision.png)
 
@@ -38,17 +38,13 @@ Eventually all the Northern Ireland unrest subsided following the Good Friday ag
 
 ### Northern Ireland and Hong Kong, Two Scars from the British Rule.
 
-Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong became part of the Empire after the British Victory in the First Opium War in 1842.
+Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong island became part of the Empire after the British Victory in the First Opium War in 1842. And the Hongkong Peninsula and Lantau Island also became part of the British Empire after the Second Opium war and the march on Beijing. After two Opium Wars, it became Legal to sell drugs to local Chinese citizens and soldiers without any interference from the Qing local officers. 
 
-After the Opium War, British Empire also has exclusive right to sell drugs to local Chinese without paying any taxes. 
+![First and Second Opium War Territorial](https://storage.googleapis.com/spykman-world/First_and_Second_Opium_War_Territorial.png)
 
-Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. 
+Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. 
 
-Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. 
-
-A destabilizing border is the best way to keep your enemies weak and divided, forever prevent the region to become a major threat to Bristish neo-colonial influence.
-
-Ireland Republic as well as the majority of Northern Ireland supports staying in the EU. So if Brexits materialized, Northern Ireland will potentially once again become a major unrest flask point just like what is happening in Hong Kong. 
+A destabilizing border is the best way to keep your enemies weak and divided, forever prevent the region to become a major threat to Bristish neo-colonial influence. Ireland Republic as well as the majority of Northern Ireland supports staying in the European Union and having the Euro as its currency. So if Brexits materialized, Northern Ireland will potentially once again become a major unrest flask point just like what is happening in Hong Kong. 
 
 ### Future of English, The Language
 
