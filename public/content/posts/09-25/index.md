@@ -44,7 +44,11 @@ Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong island bec
 
 Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. 
 
+![Pakistan Indian Border without Geographical Anchor](https://storage.googleapis.com/spykman-world/Pakistan_Indian_Without_Geographical_Anchor.png)
+
 A destabilizing border is the best way to keep your enemies weak and divided, forever prevent the region to become a major threat to Bristish neo-colonial influence. Ireland Republic as well as the majority of Northern Ireland supports staying in the European Union and having the Euro as its currency. So if Brexits materialized, Northern Ireland will potentially once again become a major unrest flask point just like what is happening in Hong Kong. 
+
+![Belfast Chaos](https://storage.googleapis.com/spykman-world/Belfast_Chaos.png)
 
 ### Future of English, The Language
 
