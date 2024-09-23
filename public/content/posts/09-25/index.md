@@ -42,6 +42,12 @@ Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong island bec
 
 ![First and Second Opium War Territorial](https://storage.googleapis.com/spykman-world/First_and_Second_Opium_War_Territorial.png)
 
+![Hong Kong Pink Offensive](https://storage.googleapis.com/spykman-world/TPBank.png)
+
+![CK Hutchison Holding](https://storage.googleapis.com/spykman-world/CK_Hutchison_Holding.png)
+
+![The Pink Le Hong Phong Collapsed Hanoi in 1988](https://storage.googleapis.com/spykman-world/Pink_Skin_Dicease.png)
+
 Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. 
 
 ![Pakistan Indian Border without Geographical Anchor](https://storage.googleapis.com/spykman-world/Pakistan_Indian_Without_Geographical_Anchor.png)
@@ -54,17 +60,27 @@ A destabilizing border is the best way to keep your enemies weak and divided, fo
 
 The continued struggle of Northern Ireland is the result of distance between Irish and English language. Irish is a Celtic-based language while English is a Germanic based language. Borders should have been drawn based on language usage. If we can talk, the less likely we have to kill. 
 
-Latin was originally spoken in the area around Rome, known as Latinum. Through the power of the Roman Republic, Latin become a dominant language in Italy, and eventually entire Western Roman Empire. After the collapse of the Roman Empire, pure Latin is gradually disappearing from existence. 
+![Celtic Irish vs Germanic English](https://storage.googleapis.com/spykman-world/Celtic_Irish_vs_Germanic_English.png)
 
-Vulgar Latin developed into Roman languages like French, Spanish, Italian, Portagues. Latin has contributed many words to the English language. Majority of English descriptions of theology, science, medicine and law used Latin-root words.
+Latin was originally spoken in the area around Rome, known as Latinum. Through the power of the Roman Republic, Latin become a dominant language in Italy, and eventually entire Western Roman Empire. After the collapse of the Roman Empire, pure Latin is gradually disappearing from existence. Vulgar Latin developed into Roman languages like French, Spanish, Italian, Portagues. Latin has contributed many words to the English language. Majority of English descriptions of theology, science, medicine and law used Latin-root words. However, English is mainly a Germanic language.
+
+![Latin Medical Terms](https://storage.googleapis.com/spykman-world/Med_school_latin_words.png)
 
 The Western Civilization history is the violent struggle of the disciplined farm-based society of the South and the chaotic nomadic hunter-gatherer societies of the North. And the victors bring their gene and their languages with them to new frontiers.
 
+![Germanic vs Roman Wars](https://storage.googleapis.com/spykman-world/Germanic_vs_Roman.png)
+
 British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English ?
+
+![Indian English briefly overshadowed British English](https://storage.googleapis.com/spykman-world/Rishi_Sunak_Brown_Men_Leading_White_Men.png)
 
 The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
 
+![North Pole Position](https://storage.googleapis.com/spykman-world/North_Pole_Position.png)
+
 ## Researches
+
+
 - Why the Irish fight the English and Irish English sounds quite different from British or American. 
 - Can English understand Irish at all ? ==> English can not understand Irish so they do not have common Mom.
 - IRELAND like IRAQ or IRAN means Infrared IR_Egg_Land or Red hair Blood Type B White Men. 
