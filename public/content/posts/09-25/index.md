@@ -80,8 +80,7 @@ The Western Civilization history is the violent struggle of the disciplined farm
 
 ![Germanic vs Roman Wars](https://storage.googleapis.com/spykman-world/Germanic_vs_Roman.png)
 
-British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English. After WW2, the British crown often covertly rules over their colonies via a Twin or the Son of a British Royal and a Local Rare Egg Unicorn.
-Will thess half-blood governers become too powerful and finally put an end to the last Royal lineages of our world ?  
+British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English. After WW2, the British crown often covertly rules over their colonies via a Twin or the Son of a British Royal and a Local Rare Egg Unicorn. Will these half-blood governers become too powerful and finally put an end to the last Royal lineages of our world ?  
 
 ![Indian English briefly overshadowed British English](https://storage.googleapis.com/spykman-world/Rishi_Sunak_Brown_Men_Leading_White_Men.png)
 
