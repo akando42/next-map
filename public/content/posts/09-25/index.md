@@ -79,8 +79,6 @@ The balance power of the North, South, East and West goes hand in hand with the 
 ![North Pole Position](https://storage.googleapis.com/spykman-world/North_Pole_Position.png)
 
 ## Researches
-
-
 - Why the Irish fight the English and Irish English sounds quite different from British or American. 
 - Can English understand Irish at all ? ==> English can not understand Irish so they do not have common Mom.
 - IRELAND like IRAQ or IRAN means Infrared IR_Egg_Land or Red hair Blood Type B White Men. 
