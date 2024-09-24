@@ -64,6 +64,8 @@ Hong Kong was returned to China in 1997, one year before the 1998 Good Friday ag
 
 The Hong Kong return to China has made the Chinese military commanders becoming overconfident in their 2021 campaign in Vietnam and Indochina which is leading to mass closures of Chinese company offices in Laos like Huawei, ICBC and the permanant stops to Chinese immigrant settlement building in Laos, Thailand and Cambodia.   
 
+![2024 Empty Office of International Construction Bank of China](https://storage.googleapis.com/spykman-world/ICBC.png)
+
 ### Future of English, The Language
 
 The continued struggle of Northern Ireland is the result of distance between Irish and English language. Irish is a Celtic-based language while English is a Germanic based language. Borders should have been drawn based on language usage. If we can talk, the less likely we have to kill. 
