@@ -7,7 +7,7 @@ cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-pri
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"
 summary: "Be able to travel efficiently on dangerous terrains gives invasive genes difficult to disrupt supply lines and countless beachhead positions inside competing gene territorials"
-tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'United Kingdom', 'Naval Advantages', 'Beachhead Position', 'Spykman World','GeoGenetics']
+tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'British Royal Navy', 'United Kingdom', 'Naval Advantages', 'Beachhead Position', 'Spykman World','GeoGenetics']
 published: true
 ---
 ### Northern Ireland, the British Beachhead inside Homeland of the Irish
