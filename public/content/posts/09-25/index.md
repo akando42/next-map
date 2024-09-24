@@ -10,7 +10,7 @@ summary: "Be able to travel efficiently on dangerous terrains gives invasive gen
 tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'British Royal Navy', 'United Kingdom', 'Naval Advantages', 'Beachhead Position', 'Spykman World','GeoGenetics']
 published: true
 ---
-### Northern Ireland, the British Beachhead inside Homeland of the Irish
+## Irish Republican Army - An Independence Movement From Britain.
 
 Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. URALIC people, descendants of Attila, spread from Hungary to the Baltic Sea and Scandinavian regions over the next 500 years. 
 
@@ -36,7 +36,7 @@ Eventually all the Northern Ireland unrest subsided following the Good Friday ag
 
 ![Good Friday Agreement](https://storage.googleapis.com/spykman-world/Good_Friday_Agrement.png)
 
-### Hong Kong, The Royal Navy Launchpoint to Conquer China
+## Northern Ireland and Hong Kong, Two Scars from the British Rule.
 
 Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong island became part of the Empire after the British Victory in the First Opium War in 1842. And the Hongkong Peninsula and Lantau Island also became part of the British Empire after the Second Opium war and the march on Beijing. After two Opium Wars, it became Legal to sell drugs to local Chinese citizens and soldiers without any interference from the Qing local officers. 
 
