@@ -6,8 +6,8 @@ path: "/irish-republican-army-and-the-maze-prision-escape"
 cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-prison-escape.png"
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"
-summary: "Are the British or Local Elites better rulers of British formal satelite states?"
-tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'United Kingdom','Spykman World','GeoGenetics']
+summary: "Be able to travel efficiently on dangerous terrains gives invasive genes difficult to disrupt supply lines and countless beachhead positions inside competing gene territorials"
+tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'United Kingdom', 'Naval Advantages', 'Beachhead positions', 'Spykman World','GeoGenetics']
 published: true
 ---
 ### Irish Republican Army - An Independence Movement From Britain.
