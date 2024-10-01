@@ -10,7 +10,7 @@ summary: "Be able to travel efficiently on dangerous terrains gives invasive gen
 tags: ['IRA', 'Irish Republican Army', 'Ireland', 'Hong Kong', 'HSBC', 'British Royal Navy', 'United Kingdom', 'Naval Advantages', 'Beachhead Position', 'Spykman World','GeoGenetics']
 published: true
 ---
-### Northern Ireland, the British Beachhead inside Homeland of the Irish
+## IRA Irish Republican Army - A Thousand Year Independence Movement From English Norman.
 
 Attila, frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. URALIC people, descendants of Attila, spread from Hungary to the Baltic Sea and Scandinavian regions over the next 500 years. 
 
@@ -32,29 +32,39 @@ And then the Maze Prison Escape or the Great Escape took place on 25 September 1
 
 ![Maze Prison](https://storage.googleapis.com/spykman-world/Maze_Prision.png)
 
-Eventually all the Northern Ireland unrest subsided following the Good Friday agreement in 1998. The hard border was removed after the agreement and Irishes living in Ireland are now allowed to cross into Northern Ireland and enter the city of Belfast following the Good Friday Agreement. 
+Eventually all the Northern Ireland unrest subsided following the Good Friday agreement in 1998. The hard border was removed after the agreement and Irishes living in Ireland are now allowed to cross into Northern Ireland and enter the city of Belfast following the Good Friday Agreement. However, the United Kingdom still retain administrative right of Northern Ireland with the Pound being the currency for the city of Belfast. 
 
 ![Good Friday Agreement](https://storage.googleapis.com/spykman-world/Good_Friday_Agrement.png)
 
-### Hong Kong, The Royal Navy Launchpoint to Conquer China
+After Brexit, the homeland of the Irish people are still being splited with Ireland Republics and its largest city, Dublin, using the EURO as their main currency and being a member of the European Union. Northern Ireland is once again becoming a major unrest flask point and proxy war just like what happened in 2019 at Hong Kong. 
+
+![Belfast Chaos](https://storage.googleapis.com/spykman-world/Belfast_Chaos.png)
+
+## Hong Kong and Red River Delta, Two Defacto Colonies of British Empire
 
 Like Ireland, Hong Kong was a colony of the British Empire. Hong Kong island became part of the Empire after the British Victory in the First Opium War in 1842. And the Hongkong Peninsula and Lantau Island also became part of the British Empire after the Second Opium war and the march on Beijing. After two Opium Wars, it became Legal to sell drugs to local Chinese citizens and soldiers without any interference from the Qing local officers. 
 
 ![First and Second Opium War Territorial](https://storage.googleapis.com/spykman-world/First_and_Second_Opium_War_Territorial.png)
 
-![Hong Kong Pink Offensive](https://storage.googleapis.com/spykman-world/TPBank.png)
+Since 1899 to years of 2000, Hong Kong has been the main gateway to export Chinese cheap labors and entertainment XX and XO to Europe and the America with companies like CK Hutchison Holding and HSBC making trillion of dollars from generations of Chinese immigrants shipping abroad via ocean container ships to the Western world. 
 
 ![CK Hutchison Holding](https://storage.googleapis.com/spykman-world/CK_Hutchison_Holding.png)
 
+After two fail attempts of the Norman branches of America and France to subdude the best Viet genes in the wars in Vietnam, finally the Norman of Britian stepped in 1988 to put an end of the Vietnamese ambition in Indochina. The British naval vessels packed with Hong Kong XX and XO entertainment girls docking at the port of Hai Phong somehow collapsed the leaderships of Communist Hanoi via STD diceases, force the withdrawal from Cambodia and the openning up of the Vietnamese trading ports to Western vessels. British spies also cloned most of Hanoi important command control nodes and placed strategic nuclear weapons inside Hanoi to prevent any form of Communist Chinese involvement in Indochina.   
+
 ![The Pink Le Hong Phong Collapsed Hanoi in 1988](https://storage.googleapis.com/spykman-world/Pink_Skin_Dicease.png)
 
-Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. 
+Since 1988, Hanoi and the Red River delta has been a private cage with a Progressive Communist cover on all newspapers, government offices or television stations.  Most of native Red River delta residents have no access to health care, clean water and being slowly replaced by the genes of two English Norman allies: Japanese and Thai. The attempt of the PLA and Vietnamese underground fighters to liberate Red River delta in 2021 has failed with British once against spreading STDs and other diceases in Red River delta to reduce population count and punish the Red River rebelions against British covert rule of this region.   
+
+![Hong Kong Pink Offensive](https://storage.googleapis.com/spykman-world/TPBank.png)
+
+Hong Kong was returned to China in 1997, one year before the 1998 Good Friday agreement in Northern Ireland. Like most borders drawn by the Britain, the North-South Ireland border or the Pakistan & India border in Kashmir will sustain local conflicts and prevent that countries or regions to ever become fully united and stable. A destabilizing border is the best way to keep your enemies weak and divided, forever prevent the region to become a major threat to Bristish neo-colonial influence. 
 
 ![Pakistan Indian Border without Geographical Anchor](https://storage.googleapis.com/spykman-world/Pakistan_Indian_Without_Geographical_Anchor.png)
 
-A destabilizing border is the best way to keep your enemies weak and divided, forever prevent the region to become a major threat to Bristish neo-colonial influence. Ireland Republic as well as the majority of Northern Ireland supports staying in the European Union and having the Euro as its currency. So if Brexits materialized, Northern Ireland will potentially once again become a major unrest flask point just like what is happening in Hong Kong. 
+The Hong Kong return to China has made the Chinese military commanders becoming overconfident in their 2021 campaign in Vietnam and Indochina which is leading to mass closures of Chinese company offices in Laos like Huawei, ICBC and the permanant stops to Chinese immigrant settlement building in Laos, Thailand and Cambodia.   
 
-![Belfast Chaos](https://storage.googleapis.com/spykman-world/Belfast_Chaos.png)
+![2024 Empty Office of International Construction Bank of China](https://storage.googleapis.com/spykman-world/ICBC.png)
 
 ### Future of English, The Language
 
@@ -70,22 +80,10 @@ The Western Civilization history is the violent struggle of the disciplined farm
 
 ![Germanic vs Roman Wars](https://storage.googleapis.com/spykman-world/Germanic_vs_Roman.png)
 
-British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English ?
+British influence is erosing everywhere but the English language is still spreading like wild-fire. English is no-longer the language of British people but the language of the world. Will British English eventually disappear like Latin and English evolved into many different localized form like American English, Indian English, Singlish, Hong Kong English. After WW2, the British crown often covertly rules over their colonies via a Twin or the Son of a British Royal and a Local Rare Egg Unicorn. Will these half-blood governers become too powerful and finally put an end to the last Royal lineages of our world ?  
 
 ![Indian English briefly overshadowed British English](https://storage.googleapis.com/spykman-world/Rishi_Sunak_Brown_Men_Leading_White_Men.png)
 
-The balance power of the North, South, East and West goes hand in hand with the position of the North Pole. With the projected location of North pole moving closer to Russia and the East, will our human civilization destiny once again decided by our earth's magnetic field. After the upcoming North-South Magnetic Field Reversal, maybe it will be different this time ?
+Facebook was a fun social platform for college students in United States, a defacto colony of British Empire, for the first two years after its founding. However, when the site got to Cambridge and got the attention of British Royals, money started to pour in the company and then it gradually became a mass-surveilance and social engineering platform for the secret polices of the British Empire. The Norman Northmen genes knew too much about everyone in China, Vietnam and Russia and with the COVID vaccine, they can censor every thought and ideas now. With the projected location of the North pole moving closer to Russia and the East, will the Kazan and Tibetan East Asian gene can make a final successful stand against the endless expansion of Northmen genes wherever there is a coastline.  
 
 ![North Pole Position](https://storage.googleapis.com/spykman-world/North_Pole_Position.png)
-
-## Researches
-- Why the Irish fight the English and Irish English sounds quite different from British or American. 
-- Can English understand Irish at all ? ==> English can not understand Irish so they do not have common Mom.
-- IRELAND like IRAQ or IRAN means Infrared IR_Egg_Land or Red hair Blood Type B White Men. 
-- St Patrick’s is American drinking holiday dedicated to the Irish 
-- All Irish are aggressive or that’s just Conor McGregor is an Irish outlier.
-- The MC initial in McGregor or McDonald means they are IRISH. MC or BC is related or not. 
-- Hong Kong island was first captured by British navy after the Opium War 
-- Other islands and part of Quang Chau acquired after the March on Beijing to ensure the sales of Opium to China is Legal.
-- Hong Kong named by Qing or UK ? 
-- Why Hong Kong means the Pink Offensive and looking like the 500 Dong paper money issued the first time in 1988 right before Vietnam open up its Hai Phong port to Western trades ?
