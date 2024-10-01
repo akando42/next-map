@@ -132,6 +132,8 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 
 ![Thai Viet Control Ngoc Ha Water Factory](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Poison_Ngoc_Ha_Water_Factory_Since_2000.png)
 
+![GRU Com Network via Gamers](https://storage.googleapis.com/spykman-world/GRU_Com_Network_Via_Gamer.png)
+
 ![Russian Dogs aka Tay Lan Control the Chemical Valve](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_Chemical_Valve_and_Cameras.png)
 
 ![Thai Viet Control Red River Bank](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_Red_River_Bank_Northern_Encirlement.png)
