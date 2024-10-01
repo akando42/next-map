@@ -6,7 +6,7 @@ path: "/moscow-russia-and-its-many-levers"
 cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
-tags: ['Putin','XO','Russia','Novogrod','Saint Petersburg','Kiev','Moscow','Astrakhan','Kazan','Novosibirsk','Vladivostov','WMD','GeoGenetics']
+tags: ['Putin', 'XO', 'Russia', 'Novogrod', 'Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan', 'Kazan', 'Novosibirsk', 'Vladivostov', 'WMD', 'GeoGenetics']
 summary: "How #Russia with a small population of less than 2% of world population can sway so much of the world destiny"
 published: true
 ---
@@ -121,4 +121,22 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 #LinuxTorvard, a #Finnish programmer, created #Linux operating system. And many improved variants of #LinuxOS like #RedhatOS, #UbuntuOS and #AndroidOS dominates the server and mobile market through Billion Hours of #FREE work done by the open source community of formal Soviet state programmers in #Russia, #Scandinavia, #EasternEurope and #EastAsia. Obviously the #Soviet propaganda machine still work well in the software world and #Scandinavian nations and #Russia still have close tied under the table. So close that #Putin kept his biological son in #Finland and publicly only have daughters in #Russia.
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
+
+## Russian Conversion of South East Asia into Western Guard Dogs
+
+![Thai PM Met Putin](https://storage.googleapis.com/spykman-world/Thai_PM_Met_Putin.png)
+
+![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army.png)
+
+![Russian Thai Massage Store](https://storage.googleapis.com/spykman-world/Russian_Thai_Massage_Store_in_SF_most_expensive_neighbor.png)
+
+![Thai Viet Control Ngoc Ha Water Factory](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Poison_Ngoc_Ha_Water_Factory_Since_2000.png)
+
+![Russian Dogs aka Tay Lan Control the Chemical Valve](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_Chemical_Valve_and_Cameras.png)
+
+![Thai Viet Control Red River Bank](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_Red_River_Bank_Northern_Encirlement.png)
+
+![Thai Viet Southern Encirlement of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Southern_Encirclement.png)
+
+![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_IP_Cameras_Supply_of_Hanoi.png)
 
