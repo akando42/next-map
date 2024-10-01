@@ -124,7 +124,7 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 
 ## Russian Conversion of South East Asia into Western Guard Dogs
 
-![Thai PM Met Putin](https://storage.googleapis.com/spykman-world/Thai_PM_Met_Putin.png)
+![2002 Thaksin visited Moscow before attacking Hanoi](https://storage.googleapis.com/spykman-world/2002_Thaksin_visit_Moscow_Before_attacking_Hanoi.png)
 
 ![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army.png)
 
@@ -141,4 +141,6 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 ![Thai Viet Southern Encirlement of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Southern_Encirclement.png)
 
 ![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_IP_Cameras_Supply_of_Hanoi.png)
+
+![Thai PM Met Putin](https://storage.googleapis.com/spykman-world/Thai_PM_Met_Putin.png)
 
