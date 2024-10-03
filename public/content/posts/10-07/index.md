@@ -132,7 +132,7 @@ Thaksin was able to pitch both Moscow and Washington to work with Thai intellige
 
 ![Thai Viet Control Ngoc Ha Water Factory](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Poison_Ngoc_Ha_Water_Factory_Since_2000_Trident_Districtt_Hanoi.png)
 
-The old Soviet Era lever of XO Trinity and Toxic Chemical Valve in Vietnam continues to work well in the Progressive Communist Vietnam as a form of Reward Punishment feedback loops for social engineering and lifespan reduction of males living in Soviet Era apartment with few achieved their Half Life 50 years old milestone. 
+The old Soviet Era lever of XO Trinity and Toxic Chemical VALVE in Vietnam continues to work well in the Progressive Communist Vietnam as a form of Reward Punishment feedback loops for social engineering and lifespan reduction of males living in highrise apartment buildings with few achieved their Half Life 50 years old milestone. 
 
 ![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army_near_Foreign_Trade_University.png)
 
@@ -151,4 +151,3 @@ Since 2003, Russian and Thai intelligence services have been working together to
 ![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_IP_Cameras_Supply_of_Hanoi.png)
 
 ![Thai PM Met Putin](https://storage.googleapis.com/spykman-world/Thai_PM_Met_Putin.png)
-
