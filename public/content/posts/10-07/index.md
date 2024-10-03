@@ -1,7 +1,7 @@
 --- 
 zoom: 4
-lat: 53.71129023633367
-lng: 108.19065044967628
+lat: 55.266535581642145
+lng: 89.8312076577477
 path: "/moscow-russia-and-its-many-levers"
 cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
 date: "10-07"
