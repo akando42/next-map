@@ -136,7 +136,7 @@ The old Soviet Era lever of XO Trinity and Toxic Chemical Valve in Vietnam conti
 
 ![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army_near_Foreign_Trade_University.png)
 
-Since 2003, Russian and Thai intelligence services have been working together to gradually clone the Vietnamese command control of XO Trinity and Toxic Chemical Valve with a Thai, Laos or Cambodia double from South to North via the HDBank system. Hence we see no HDBank present in Phu Quoc Island but in every major city of Vietnam. 
+Since 2003, Russian and Thai intelligence services have been working together to gradually clone the Vietnamese command control of XO Trinity and Toxic Chemical Valve with a Thai, Laos or Orange County double from South to North via the HDBank system. Hence we see no HDBank present in Phu Quoc Island but in every major city of Vietnam. 
 
 ![Russian Dogs aka Tay Lan BioChemical Trap for North Asian Seeds in Hanoi](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_BioChemical_Trap_for_NorthAsia_Seeds_in_Hanoi.png)
 
