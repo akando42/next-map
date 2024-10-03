@@ -122,19 +122,27 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 
 ![Putin Son and Daughter](https://storage.googleapis.com/spykman-world/putin_son_and_daughter.png)
 
-## Russian Conversion of South East Asia into Western Guard Dogs
+## Russian Conversion of Mekong Penninsula into Western Guard Dogs
+
+After the Vietnamese failed attempt at uniting the Mekong Peninsula into one single coalition in the 10 years Cambodia war from 1979 to 1989 to serve as a counterweight against Friendnemy Communist China for the Soviet Union, Vietnam is increasingly falling further into the Chinese orbit from 1990 to 2000. Taking advantage of this opportunity, Thaksin visited Moscow on October 18, 2002 to leak intelligence data on the mastermind of the 911 attack against the White Women of New York, the Chinese farmers and restaurant owners living in Vietnam. 
 
 ![2002 Thaksin visited Moscow before attacking Hanoi](https://storage.googleapis.com/spykman-world/2002_Thaksin_visit_Moscow_Before_attacking_Hanoi.png)
 
-![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army.png)
+Thaksin was able to pitch both Moscow and Washington to work with Thai intelligence services and military to conduct counter-offensive campaigns against Chinese elements within Vietnamese government, intelligence and military ranks. Thai got the backing of both Moscow and Washington to become the dominating power of the Mekong Peninsula to counter the rising power and influences of China in SouthEast Asia. 
+
+![Thai Viet Control Ngoc Ha Water Factory](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Poison_Ngoc_Ha_Water_Factory_Since_2000_Trident_Districtt_Hanoi.png)
+
+The old Soviet Era lever of XO Trinity and Toxic Chemical Valve in Vietnam continues to work well in the Progressive Communist Vietnam as a form of Reward Punishment feedback loops for social engineering and lifespan reduction of males living in Soviet Era apartment with few achieved their Half Life 50 years old milestone. 
+
+![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army_near_Foreign_Trade_University.png)
+
+Since 2003, Russian and Thai intelligence services have been working together to gradually clone the Vietnamese command control of XO Trinity and Toxic Chemical Valve with a Thai, Laos or Cambodia double from South to North via the HDBank system. Hence we see no HDBank present in Phu Quoc Island but in every major city of Vietnam. 
+
+![Russian Dogs aka Tay Lan BioChemical Trap for North Asian Seeds in Hanoi](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_BioChemical_Trap_for_NorthAsia_Seeds_in_Hanoi.png)
 
 ![Russian Thai Massage Store](https://storage.googleapis.com/spykman-world/Russian_Thai_Massage_Store_in_SF_most_expensive_neighbor.png)
 
-![Thai Viet Control Ngoc Ha Water Factory](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Poison_Ngoc_Ha_Water_Factory_Since_2000.png)
-
 ![GRU Com Network via Gamers](https://storage.googleapis.com/spykman-world/GRU_Com_Network_Via_Gamer.png)
-
-![Russian Dogs aka Tay Lan Control the Chemical Valve](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_Chemical_Valve_and_Cameras.png)
 
 ![Thai Viet Control Red River Bank](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_Red_River_Bank_Northern_Encirlement.png)
 
