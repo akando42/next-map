@@ -136,7 +136,7 @@ The old Soviet Era lever of XO Trinity and Toxic Chemical Valve in Vietnam conti
 
 ![Russian Doctors and XO Trinity Army](https://storage.googleapis.com/spykman-world/Russian_Doctor_and_XO_Trinity_Army_near_Foreign_Trade_University.png)
 
-Since 2003, Russian and Thai intelligence services have been working together to gradually clone the Vietnamese command control of XO Trinity and Toxic Chemical Valve with a Thai, Laos or Orange County double from South to North via the HDBank system. Hence we see no HDBank present in Phu Quoc Island but in every major city of Vietnam. 
+Since 2003, Russian and Thai intelligence services have been working together to gradually clone the Chinese farmers of Tran who command control the XO Trinity and Toxic Chemical Valve with Thai, Laos or Orange County doubles from South to North via the HDBank system. Hence we see no HDBank present in Phu Quoc Island but in every major city of Vietnam. 
 
 ![Russian Dogs aka Tay Lan BioChemical Trap for North Asian Seeds in Hanoi](https://storage.googleapis.com/spykman-world/Russian_Dogs_aka_Ta%CC%82y_La%CC%82n_BioChemical_Trap_for_NorthAsia_Seeds_in_Hanoi.png)
 
@@ -144,7 +144,7 @@ Since 2003, Russian and Thai intelligence services have been working together to
 
 ![GRU Com Network via Gamers](https://storage.googleapis.com/spykman-world/GRU_Com_Network_Via_Gamer.png)
 
-![Thai Viet Control Red River Bank](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_Red_River_Bank_Northern_Encirlement.png)
+![Thai Viet Control Red River Bank and Smuggle In Komodo Tongue Hookers](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_Red_River_Bank_To_Trigger_In_Foreign_Agents.png)
 
 ![Thai Viet Southern Encirlement of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Southern_Encirclement.png)
 
