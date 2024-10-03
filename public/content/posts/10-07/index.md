@@ -124,7 +124,7 @@ By carefully tuning all the recommendation algorithms in #Google, #Youtube, #Spo
 
 ## Russian Conversion of Mekong Penninsula into Western Guard Dogs
 
-After the Vietnamese failed attempt at uniting the Mekong Peninsula into one single coalition in the 10 years Cambodia war from 1979 to 1989 to serve as a counterweight against Friendnemy Communist China for the Soviet Union, Vietnam is increasingly falling further into the Chinese orbit from 1990 to 2000. Taking advantage of this opportunity, Thaksin visited Moscow on October 18, 2002 to leak intelligence data on the mastermind of the 911 attack against the White Women of New York, the Chinese farmers and restaurant owners living in Vietnam. 
+After the Vietnamese failed attempt at uniting the Mekong Peninsula into one single coalition in the 10 years Cambodia war from 1979 to 1989 to serve as a counterweight against Friendnemy Communist China for the Soviet Union, Vietnam is increasingly falling back into the Yellow Yangzte orbit from 1990 to 2000. Taking advantage of this opportunity, Thaksin visited Moscow on October 18, 2002 to leak intelligence data on the mastermind of the 911 attack against the White Women of New York, the pioneering Viet Chinese farmers and restaurant owners global network. 
 
 ![2002 Thaksin visited Moscow before attacking Hanoi](https://storage.googleapis.com/spykman-world/2002_Thaksin_visit_Moscow_Before_attacking_Hanoi.png)
 
