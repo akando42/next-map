@@ -156,11 +156,13 @@ From 2006 to 2016, while their children are being kept abroad as hostages in Ame
 
 After Skype, Facebook and Apple collected enough Facial and Voice Recognition data from Vietnamese families, the Thai military got an upgrade with the American supercomputer in Bangkok. The Thai migrating population in Vietnam started to install IP cameras in every alley and GPS tracking every motorcycles in Red River delta and Laos to identify all underground fighters and insurgency movements against the migrating Thai population who are rapidly replacing the Vietnamese Red River Son Ha delta population. 
 
-![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/VP_Thai_Viet_Control_IP_Cameras_Supply_of_Hanoi.png)
+![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/PVBank_and_VPBank_Motorcycle_Tracking_Camera_and_Actors.png)
 
 From 2017 to 2020, Thai migrating populatin started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces. 
 
 ![IP Camera in Hanoi sending footages to Switch Datacenter in Bangkok](https://storage.googleapis.com/spykman-world/Bangkok_Switch_Datacenter_to_Process_Hanoi%20_IP_Cameras.png)
+
+![American DOD met Population Control Head of Vietnam](https://storage.googleapis.com/spykman-world/Visit_Caused_Parent_Arrest_and_Hoang_Return_to_Vietnam.png)
 
 By 2020, Thai military and Thai Viet inside Red River delta with American surveilance technology had the ground control of Hanoi with the Vietnamese Red River delta population being pushed to highrise buildings or imprisoned on second floors or above in their private home. 
 
@@ -203,8 +205,12 @@ Late 2002 ==> Thai started to send under 18 youth and Thai families with the cov
 With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces.
 
 2017 - 2020 ==> Thai Viet started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. 
+
+Nov 20, 2019 ==> American defense minister Mark Esper, founder of Defense Startup Epirus who specialized in anti-drone EMP technology visited Vietnam and met Tran Quoc Vuong, head of VKSNDTC or Population Control Head.
  
 March 2020 ==> With the help from Chinese PLA, the Vietnamese underground fighters launched a desperate attempt at regaining control of their water sources and food supplies from the Thai population in Vietnam and weaken Thai allies via the COVID-19 viruses.  They opened borders with China to allow Chinese fighters to enter Vietnam, captured Thai military units and secret policies masking as Vietnamese families inside Vietnam and cremated them under the cover of COVID-19 positive test results.
+
+Feb 2021 ==> Nanobots with self-replicating, self-energizing ability spreaded around the planet river, ocean and weather system, reach remote area like Antarctica and turned human and animal into remote-controlled drones. 
 
 
 
