@@ -158,6 +158,8 @@ After Skype, Facebook and Apple collected enough Facial and Voice Recognition da
 
 ![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/PVBank_and_VPBank_Motorcycle_Tracking_Camera_and_Actors.png)
 
+![Broadcasting message for Thai agents to start eliminating Viet-friendly cops in Hanoi and Abroad](https://storage.googleapis.com/spykman-world/Broadcasting_message_to_Thai_agents_to_start_eliminate_Viet_friendly_Cop_in_Hanoi_and_Abroad.png)
+
 From 2017 to 2020, Thai migrating populatin started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces. 
 
 ![IP Camera in Hanoi sending footages to Switch Datacenter in Bangkok](https://storage.googleapis.com/spykman-world/Bangkok_Switch_Datacenter_to_Process_Hanoi%20_IP_Cameras.png)
