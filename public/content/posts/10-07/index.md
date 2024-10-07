@@ -7,7 +7,7 @@ cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
 tags: ['Putin', 'XO', 'Russia', 'Novogrod', 'Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan', 'Kazan', 'Novosibirsk', 'Vladivostov', 'WMD', 'GeoGenetics']
-summary: "How #Russia with a small population of less than 2% of world population can sway so much of the world destiny"
+summary: "Foreign genes masking as native genes could redirect resources of the native genes to multiply its own DNA and spread like cancers that eventually will collapse the whole ecosystem."
 published: true
 ---
 ## Scandinavian genetic influences and the Russian Golden Lever
@@ -187,7 +187,7 @@ These enable synchronized actions of the Tibetan East Asian genes around the glo
 ## Researches
 
 1990s ==> UK, US command control Hanoi with help from Korean, HongKong and Thai allies. Placed strategic nuclear weapons in Hanoi to prevent any further Chinese incursion into the Mekong Peninsula. 
-
+s
 1994 ==>  Thai construction workers identified, kidnapped, removed most XX women from Hanoi for sales to Chiang Mai or moved to HCM city while only left XX without Uterus and XO women in Hanoi. 
 
 1998 ==> Thai or Tran or American Asian doctors inspected and did a small cut to cause Sticky Foreskin Dick in all school boys in Kim Dong Elementary to reduce probability of reproduction later  during adulthood. 
@@ -212,7 +212,13 @@ Nov 20, 2019 ==> American defense minister Mark Esper, founder of Defense Startu
  
 March 2020 ==> With the help from Chinese PLA, the Vietnamese underground fighters launched a desperate attempt at regaining control of their water sources and food supplies from the Thai population in Vietnam and weaken Thai allies via the COVID-19 viruses.  They opened borders with China to allow Chinese fighters to enter Vietnam, captured Thai military units and secret policies masking as Vietnamese families inside Vietnam and cremated them under the cover of COVID-19 positive test results.
 
-Feb 2021 ==> Nanobots with self-replicating, self-energizing ability spreaded around the planet river, ocean and weather system, reach remote area like Antarctica and turned human and animal into remote-controlled drones. 
+Feb 2021 ==> Nanobots with self-replicating, self-energizing ability spreaded around the planet river, ocean and weather system, reached remote area like Antarctica and turned human and animal into remote-controlled drones. 
+
+Feb 2022 ==> Russian military being remotely controlled to start the War in Ukraine and marched most of their tanks in straight line toward Ukraine soldiers with anti tank weapon. 
+
+July 2023 ==> Chemical Toxin being put into water system by Thai and Russian agents in Vietnam to stop people from drinking water with nanobots. Thai and Russian doubles tried to gain control of the link with supercomputers that orchatrated nanobots around the globe. 
+
+July 2024 ==> Vladimir Putin visited Hanoi to eliminate all protective security layers of Nguyen Phu Trong, a Xi Jingping ally and the strong advocate of Tibetan East Asian gene leading role in the world stage.    
 
 
 
