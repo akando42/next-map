@@ -3,7 +3,7 @@ zoom: 4
 lat: 55.266535581642145
 lng: 89.8312076577477
 path: "/moscow-russia-and-its-many-levers"
-cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
+cover: "content/posts/10-07/geogenetics_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
 tags: ['Putin', 'XO', 'Russia', 'Novogrod', 'Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan', 'Kazan', 'Novosibirsk', 'Vladivostov', 'WMD', 'GeoGenetics']
