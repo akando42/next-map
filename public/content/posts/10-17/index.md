@@ -224,7 +224,7 @@ Maybe finally in the 21st century, two golden triangles could finally be unlocke
 
 ![Continental Europe Sphere of Influences](https://storage.googleapis.com/spykman-world/continental_europ_sphere_of_influencial.png)
 
-As of 2024, we are seeing increasingly less American naval present in East Asia. The medival siege tactics via viral diceases work again this time. While American sailors are moaning their loved one from countless waves of biological agent spreading at the homeland, Chinese less advanced carrier is having freedom of actions around Taiwan where all their neighbors process no Aircraft Carriers.
+As of 2024, we are seeing increasingly less American naval present in East Asia. The medival siege tactics via viral diceases work again this time. While American sailors are moaning their loved one from countless waves of biological agent spreading at the homeland, Chinese less advanced carrier is having freedom of actions around Taiwan where all their neighbors possess no Aircraft Carriers.
 
 ![American sailors are fresh and blood without the Phalanx Automated Immunity System](https://storage.googleapis.com/spykman-world/Sailor_Fresh_and_Blood.png)
 
