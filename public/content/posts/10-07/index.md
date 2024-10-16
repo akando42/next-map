@@ -3,11 +3,11 @@ zoom: 4
 lat: 55.266535581642145
 lng: 89.8312076577477
 path: "/moscow-russia-and-its-many-levers"
-cover: "content/posts/10-07/spykman_world_moscow_russia_and_its_many_levers.png"
+cover: "content/posts/10-07/geogenetics_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"
 tags: ['Putin', 'XO', 'Russia', 'Novogrod', 'Saint Petersburg', 'Kiev', 'Moscow', 'Astrakhan', 'Kazan', 'Novosibirsk', 'Vladivostov', 'WMD', 'GeoGenetics']
-summary: "How #Russia with a small population of less than 2% of world population can sway so much of the world destiny"
+summary: "Foreign genes masking as native genes could redirect resources of the native genes to multiply its own DNA and spread like cancers that eventually will collapse the whole ecosystem."
 published: true
 ---
 ## Scandinavian genetic influences and the Russian Golden Lever
@@ -148,6 +148,8 @@ Thai migirating population in Vietnam met heavy resistance in Red River delta wi
 
 ![Russian Thai Massage Store](https://storage.googleapis.com/spykman-world/Russian_Thai_Massage_Store_in_SF_most_expensive_neighbor.png)
 
+While being abroad, these VA children will be surrounded by Orange County and Thai agents working for US goverments in a social bubble that gained trust from VA families and discovered hidden secrets about the insurgency leadership network. These imformation from American spies will then be passed to Russian agents in Hanoi to go after critical command control nodes of Hanoi and its defensive layers.    
+
 ![GRU Com Network via Gamers](https://storage.googleapis.com/spykman-world/GRU_Com_Network_Via_Gamer.png)
 
 From 2006 to 2016, while their children are being kept abroad as hostages in America, the inner network of Vietnamese Ex-Military Ex-Police families is slowly mapped out by Facebook social network and Voice recognition Skype app. These VietAbroader VA family members were then being cloned by Thai or Orange county doubles and imprisoned, kept away from their family and formal neighbors. The VA children won't recognize their parents via phone call since the Thai double would have a closely similar voice.
@@ -158,11 +160,15 @@ After Skype, Facebook and Apple collected enough Facial and Voice Recognition da
 
 ![Thai Viet Control the IP Camera Supply of Hanoi](https://storage.googleapis.com/spykman-world/PVBank_and_VPBank_Motorcycle_Tracking_Camera_and_Actors.png)
 
+With massive numbers of IP Cameras feeding footages to Bangkok, all Viet-frienldy cops, military and secret polices houses and personal vehicles could be indentified. Summer 2017, Thai agents and the Thai Viet migrating population received signals from Russian and American goverments to simultanously attack and eliminate Viet-friendly security personels in Hanoi with many top cops, intelligent and military officers under corruption investigations and arrests. The Viet-friendly security layers house, personal vehicles and family members were also under harrassments from Thai Viet agents. 
+
 ![Broadcasting message for Thai agents to start eliminating Viet-friendly cops in Hanoi and Abroad](https://storage.googleapis.com/spykman-world/Broadcasting_message_to_Thai_agents_to_start_eliminate_Viet_friendly_Cop_in_Hanoi_and_Abroad.png)
 
-From 2017 to 2020, Thai migrating populatin started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces. 
+From 2017 to 2020, Thai migrating population started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces. 
 
 ![IP Camera in Hanoi sending footages to Switch Datacenter in Bangkok](https://storage.googleapis.com/spykman-world/Bangkok_Switch_Datacenter_to_Process_Hanoi%20_IP_Cameras.png)
+
+Thai Viet clones of the Tran leadership also gained control of the Yellow Yangzte XO armies being sent annually to Vietnam as Soft power projection. Thai clones turned these XO entertainment girls into bioweapons by adding STDs and Skin Dicease and placed them in front of Vietnamese military barracks in Hanoi and other Red River delta provinces to cause wildspread sickness and dealth among the Arm Force protecting the Red River delta. 
 
 ![American DOD met Population Control Head of Vietnam](https://storage.googleapis.com/spykman-world/Visit_Caused_Parent_Arrest_and_Hoang_Return_to_Vietnam.png)
 
@@ -174,45 +180,10 @@ March 2020, with the help from Chinese PLA, the Vietnamese underground fighters 
 
 ![Cremation of COVID-19 Patients](https://storage.googleapis.com/spykman-world/Cremation_of_COVID_Patients.png)
 
-All water and food supplies of Red River delta also come with nanobots that allowed the Chinese military to read ideas from and write ideas to the human brain as well as control basic muscle movements of human and animals. These nanobots are also self-replicating self-energizing and could quickly multiplied in the river system, ocean or rainny cloud. After enough nanobots being installed inside food and water supplies around the planet, Chinese supercomputers gain command control of human around the planets via the Wireless Internet, 4G network or low-bandwidth radio frequency to remote control world leaders and military commanders. 
-
-![]()
-
-These enable synchronized actions of the Tibetan East Asian genes around the globe as well as starting advantageous wars in Ukraine using Russian miltiary, and in Middle East using Israel military. The nanobots inside the atmosphere water vapor also allow weather control with endless numbers of hurricanes hitting competing gene groups in United States and Thailand.
+All water and food supplies of Red River delta also come with nanobots that allowed the Chinese military to read ideas from and write ideas to the human brain as well as control basic muscle movements of human and animals. These nanobots are also self-replicating self-energizing and could quickly multiplied in the river system, ocean or rainny cloud. After enough nanobots being installed inside food and water supplies around the planet, Chinese supercomputers gain command control of human around the planets via the Wireless Internet, 4G network or low-bandwidth radio frequency to remote control world leaders and military commanders. These enable synchronized actions of the Tibetan East Asian genes around the globe as well as starting advantageous wars in Ukraine using Russian miltiary Feb 2022, and in Middle East using Israel military. The nanobots inside the atmosphere water vapor also allow weather control with endless numbers of hurricanes hitting competing gene groups in United States and Thailand.
 
 ![Russian Remote Controlled Tank Drivers](https://storage.googleapis.com/spykman-world/Russian_Remote_Controlled_Tank_Drivers.png)
 
+Russian commanders remote controlled from China marched most their tanks in straight line toward Ukranian positions with antitank weapons to be destroyed. Early 2023, after realizing Russian militaries have been remote controlled from China and Vietnam, Thai and Russian agents in Hanoi started to put chemical toxin in Water Factories of Hanoi to stop people from drinking water with nanobots. Thai and Russian agents  in Hanoi attacked annd replaced Vietnamese and Japanese commannd control nodes in Hanoi with doubles to try to gain control of the links with supercomputers that orchatrated nanobots around the globes. July 2024, Vladimir Putin visited Hanoi to eliminate all protective security layers of Nguyen Phu Trong, a Xi Jingping ally who have one of direct quantum link with the super computers in China. 
+
 ![Thai PM Met Putin](https://storage.googleapis.com/spykman-world/Thai_PM_Met_Putin.png)
-
-## Researches
-
-1990s ==> UK, US command control Hanoi with help from Korean, HongKong and Thai allies. Placed strategic nuclear weapons in Hanoi to prevent any further Chinese incursion into the Mekong Peninsula. 
-
-1994 ==>  Thai construction workers identified, kidnapped, removed most XX women from Hanoi for sales to Chiang Mai or moved to HCM city while only left XX without Uterus and XO women in Hanoi. 
-
-1998 ==> Thai or Tran or American Asian doctors inspected and did a small cut to cause Sticky Foreskin Dick in all school boys in Kim Dong Elementary to reduce probability of reproduction later  during adulthood. 
-
-2000s ==> Vietnamese underground fighters or Japanese agents orchestrated 911 attacks on the WTO world trade center via their Muslim proxy. 
-
-Late 2002 ==> Thai started to send under 18 youth and Thai families with the cover of Vietnamese Nguyen to migrate and occupy Ho Chi Minh city and Hanoi,  blend in Hanoi schools to attack native Red River delta children and harrass Vietnamese families with the goal of slowly replacing the Red River Son Ha genes with Thai genes. Thai population growth declined while Vietnamese population growth increased from 2000-2010 even with Thai highest agriculture output in the region. 
-
-2006 ==> US government identified all VA Ex-military and EX-police families of Hanoi and force an American study-abroad deal via the VietAbroader program to keep the Ex-military and Ex-policies children of Hanoi in United States as a form of Hostage taking to prevent any further insurgency activities from these Communist VA Veteran families. 
-
-2006-2016 ==> While their children are being kept abroad as hostages in America, the inner network of Vietnamese Ex-Military Ex-Police families is slowly mapped out by Facebook social network and Voice recognition Skype app. These VietAbroader VA family members were then being cloned by Thai or Orange county doubles and imprisoned, kept away from their family and formal neighbors. The VA children won't recognize their parents via phone call since the Thai double would have a closely similar voice.
-
-2016 ==> Maybe Thai Viet migrants living inside Hanoi already had Ground Control of Hanoi and only allowed Vietnamese to stay on the Second Floor or higher above ground. 
-
-2017 ==> After Skype, Facebook and Apple collected enough Facial and Voice Recognition data from Vietnamese families, the Thai military got an upgrade with the American supercomputer in Bangkok. The Thai migrating population in Vietnam started to install IP cameras in every alley and GPS tracking every motorcycles in Red River delta and Laos to identify all underground fighters and insurgency movements against the migrating Thai population who are rapidly replacing the Vietnamese Red River Son Ha delta population. 
-
-With the ability to process billions of images and GPS coordinates in real-time, the Thai military and American supercomputers at Switch datacenter can predict and program human behaviors of all Vietnamese residents to increase the fatality of the Vietnamese population while protecting the migrating Thai population inside Vietnamese cities and provinces.
-
-2017 - 2020 ==> Thai Viet started to use PVBank motorcycle tracking and VPBank IP Camera to remote control and take over houses with Son Ha water tank markers. 
-
-Nov 20, 2019 ==> American defense minister Mark Esper, founder of Defense Startup Epirus who specialized in anti-drone EMP technology visited Vietnam and met Tran Quoc Vuong, head of VKSNDTC or Population Control Head.
- 
-March 2020 ==> With the help from Chinese PLA, the Vietnamese underground fighters launched a desperate attempt at regaining control of their water sources and food supplies from the Thai population in Vietnam and weaken Thai allies via the COVID-19 viruses.  They opened borders with China to allow Chinese fighters to enter Vietnam, captured Thai military units and secret policies masking as Vietnamese families inside Vietnam and cremated them under the cover of COVID-19 positive test results.
-
-Feb 2021 ==> Nanobots with self-replicating, self-energizing ability spreaded around the planet river, ocean and weather system, reach remote area like Antarctica and turned human and animal into remote-controlled drones. 
-
-
-
