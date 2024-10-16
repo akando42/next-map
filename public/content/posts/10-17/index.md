@@ -6,17 +6,21 @@ path: "/kingston-technology-and-easter-island"
 cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jpg"
 date: "10-17"
 title: "Kingston Technology and Easter Island"
-tags: ['Kingston','Easter Island','Spykman World','GeoGenetics']
-summary: "How the #Siberian #Inuit tribes was able to sustain the colonization of #PostColumbus America but Modern Asians fail to create significant genetics footprint in Modern #America"
+tags: ['Kingston', 'Easter Island', 'Moon Base', 'New World', 'Spykman World', 'GeoGenetics']
+summary: "#Siberian #Inuit and #Pacific #Islander tribes was able to sustain the colonization of #PreColumbus America but with modern Western surveillance, it has become extremely difficult for #TEA people to create significant genetics footprint in #UnitedStates"
 published: true
 ---
-#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 184 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ? 
+#DavidSun and #JohnTu two #Kingston Technology founders consistently rank as richest Asian Americans in tech. They currently take number 154 in the Forbes top 400 Highest Net Worth Americans. Well there are a lot of #AsianAmerican in tech and #Asian household average income tops all #ethnicities in #America above 90,000 USD a year. Why our number one can even make the top 100 ? 
 
 ![Kingston Technology](https://storage.googleapis.com/spykman-world/kingston_logo.png)
 
 Well maybe because Asian only wants to be employees not founders or major shareholders in a public companies. Or maybe #WhiteSupremacy is the invisible glass ceiling in #America keeping us at the #milkcow status in this country. Maybe capable Asian tech entrepreneurs, engineers, researchers and scientists would be better off in #Asia than in #America for the rest of the #21stCentury. 
 
 ![Faces of Asian in Tech](https://storage.googleapis.com/spykman-world/faces_of_asian_in_tec.png)
+
+The Pacific West Coast of mega tech giants and glamorous Hollywood movies draw many generations of young Tibetan East Asian people to explore and settle but very few were able to raise a family and leave their genetics mark in the new world. While countless Chinese, Vietnamese, Korean old Genes arrived and disappeared after 1 generation, their Western flank of Chengdu are slowing replacing the Tibetan heartland of Yellow Yangzte delta and Mekong delta with new Genes imported from the Switzerland Nestle gene bank. 
+
+![Pacifics Westcoast Settlements for TEA People](https://storage.googleapis.com/spykman-world/Kingston_Settlements_or_Deportation.png)
 
 ## Journeys of the Y-DNA Haplogroup M
 ### Haplogroup M1 and The Back to Africa Journey
@@ -37,15 +41,15 @@ Modern DNA tests have confirmed results that Khnum-nakht and Nekht-ankh, the two
 
 ![Close DNA between Egyptian pharaoh and mongol](https://storage.googleapis.com/spykman-world/machester-museum-uk-mummies-of-two-pharoh.png)
 
-It is also deeply intriguing that Adolf Hitler’s DNA results show that he has a Jewish & North Africa ancestor. 
+It is also deeply intriguing that Adolf Hitler’s DNA results show that he has an Jewish & North Africa ancestry but end up erasing his own Jewish heritage via the Holocaust. Jews are people mixing between the Indo European Western Gene and the Tibetan East Asian gene in Central Asia and Middle East. Adoft Hitler belief in the superiority of the Viking Norman genes over the diversification of Gene pool via the Jewish program failed him in the battle of Stalingrad.
 
 ![Hitler speaking venue](https://storage.googleapis.com/spykman-world/hilter-speaking-venue.png)
 
-Before World War II, Hitler and the Nazi Germany’s extensive research of the Pyramids of Giza may explain the anti-Sematic policies of Hitler and his hatred toward Jewish people as well as the Swastika's Indian Jainism religion origin. 
+Both Nazi Germany and Indian Jainism, Buddhism and Hinduism use the Swastika symbol to represent their belief in the Reincarnation cycle of Nature. Nazi Germany and Buddhism focus on maintaining and expanding the DNA lineages and consider an individual life just a mere copy for this reincarnation cycle. These also result in German and Buddhist monk leverage of nature reincarnation cycle in biological weapons via germs, viruses, diseases or termites as a form of punishment to their opposition.  
 
 ![Indian Swatika](https://storage.googleapis.com/spykman-world/indian-swatika.png)
 
-Maybe after all the genocides by Western colonial powers in South America, Africa, India and Southeast Asia, karma just returned right back. Hilter and Nazi rise indirectly led to the collapse of colonialism and started the independence movement across all former colonies. 
+Con in Latin means a thing that can repeat and reborn itself like constant, con bo, con trau, construction, con nguoi, contract. Maybe after all the genocides by Western colonial powers in America, Africa, India and Southeast Asia, the Con, karma wheel or reincarnation cycle just returned right back. Hilter and Nazi rise indirectly led to the collapse of colonialism and started the independence movement across all former colonies. 
 
 ![Colonial Empires Pre World War](https://storage.googleapis.com/spykman-world/pre-world-war-colonial-map.png)
 
@@ -98,6 +102,10 @@ In the Inca Myths,  four Ayar aka Asia brothers with divine powers came out from
 However, DNA data analysis of modern South Americans found a rare present Haplogroup C-B477 which is popular among Indigenous Australians, Papuan people, Melanesian people and Polynesian people. C-B477 was probably more widely found before the arrival of Spanish conquistadors and their Influenza diseases. 
 
 ![Faces of Santiago](https://storage.googleapis.com/spykman-world/faces_of_santiago.png)
+
+During the sailing age, the Tibetan East Asian were able to take advantages of nature wind pattern to reach Chile and leave significant genetics mark before the arrival of Columbus, Western European soldiers and their African slaves. In the modern age, countless Chinese consumer container ships are passing through the Panama canal and the Columbia River Valley before heading to United States Atlantics ports. Will the modern Tibetan East Asian be able to turn Columbia into the second Kazahstan where Tibetan Latin people be able to alter the destiny of United States and the American continent.
+
+![South America Best Spot for 10 Generation Expansion](https://storage.googleapis.com/spykman-world/Best_South_Ameican_Spot.png)  
 
 ## Rigel and Betelgeuse, Good and Evil, Yin and Yang
 
@@ -160,6 +168,10 @@ And China and Southeast Asia nations would band together like the former Warsaw 
 
 ![The Lotus Coalition](https://storage.googleapis.com/spykman-world/the_lotus_coalition.png)
 
+While China walled off themselves from the world with their Great Fire Wall, the Mekong Peninsula internet, cable tv and seaports are part of and fully open to the Western world. British DeepMind and Nestle Quantum Physicist Nanobots are being able to control Laos, Vietnam, Thailand leaderships to divide and turn this region into Chaos with high anti Chinese anti Japanese sentiment. 
+
+![DeepMind and Nestla Nanobot turned Mekong Peninsula into Fragmented Warring States](https://storage.googleapis.com/spykman-world/Deepmind_vs_Serral.png)
+
 ### Russia and The New NATO Plus
 
 During Bill Clinton’s visit to Moscow in 2000, Vladimir Putin discussed the possibility of Russia joined NATO, to which Clinton responded that he did not mind. With the recent British withdrawal from the EU and American reducing financial support for NATO countries, maybe it is the right time to discuss potential NATO membership again with Russia. Russia NATO membership means EU countries actually can reduce military spending since the Russia threat now is off the table. 
@@ -173,6 +185,10 @@ If NATO membership is not an option, Russia can always try to get support from N
 Norway constitution is the oldest standing constitution in the world and could possibly be the best one. Scandinavian nations are Socialists so they could be more accepting of Russia’s past Bolshevik revolution records. Scandinavian countries and Russia supply energy to the rest of the EU, so it makes sense that they have the big say at the table. 
 
 ![Norway and Russia Oil Pipelines](https://storage.googleapis.com/spykman-world/european-oil-pipelines.png)
+
+However, since 2022 Russian invasion of Ukraine, Finland and Sweden has joined NATO to fight Russian aggression. The explosion of Nordstream Pipeline also put an end to any near-term alliance between the Norman gene of Germany and Scandinavian with the Norman genes of Russia. The prospect of Russian joining NATO after the Ukranian war has reduced to almost zero percentage.
+
+![Russian Scandinavian Alliance](https://storage.googleapis.com/spykman-world/Nordstream_Russia_Scandinavian_Alliance.png)
 
 ### Southeast Asia and The End of Aircraft Carrier Age
 
@@ -207,6 +223,10 @@ During WWII, Japan captured the first triangle: Hanoi, Mandalay and Bangkok and 
 Maybe finally in the 21st century, two golden triangles could finally be unlocked either through military or diplomacy and economic alliances to finally return EuroAsia to its rightful place as the driver of world history.
 
 ![Continental Europe Sphere of Influences](https://storage.googleapis.com/spykman-world/continental_europ_sphere_of_influencial.png)
+
+As of 2024, we are seeing increasingly less American naval present in East Asia. The medival siege tactics via viral diceases work again this time. While American sailors are moaning their loved one from countless waves of biological agent spreading at the homeland, Chinese less advanced carrier is having freedom of actions around Taiwan where all their neighbors process no Aircraft Carriers.
+
+![American sailors are fresh and blood without the Phalanx Automated Immunity System](https://storage.googleapis.com/spykman-world/Sailor_Fresh_and_Blood.png)
 
 
 
