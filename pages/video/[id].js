@@ -103,6 +103,9 @@ export default class Video extends Component {
 		this.startPlaying = this.startPlaying.bind(this)
 		this.stopPlaying = this.stopPlaying.bind(this)
 
+		this.voiceOverText = this.voiceOverText.bind(this)
+		this.tryVietnamese = this.tryVietnamese.bind(this)
+
 		this.state = {
 			thoughts: [], 
 			activeThought: {
@@ -133,6 +136,10 @@ export default class Video extends Component {
 		let activeIndex = targetID.split("_").pop();
 		// let button = document.getElementById(targetID);
 		// button.style.transform = "scale(1.3)";
+		let activeText = this.state.thoughts[activeIndex].text.content;
+		console.log("THOUGHT", activeIndex, activeText);
+
+		this.voiceOverText(activeText)
 		this.stopPlaying();
 		console.log("SELECTED ", activeIndex);
 		this.setState({
@@ -144,14 +151,20 @@ export default class Video extends Component {
 	async nextSlide(){
 		if (this.state.activeIndex > this.state.totalSlides - 2){
 			let activeIndex = 0;
-			console.log("ACTIVE ", activeIndex);
+			let activeText = this.state.thoughts[activeIndex].text.content;
+			console.log("THOUGHT", activeIndex, activeText);
+
+			this.voiceOverText(activeText)
+
 			this.setState({
 				activeThought: this.state.thoughts[activeIndex],
 				activeIndex: activeIndex
 			})
 		} else {
 			let activeIndex = parseInt(this.state.activeIndex) + 1;
-			console.log("ACTIVE ", activeIndex);
+			let activeText = this.state.thoughts[activeIndex].text.content;
+			console.log("THOUGHT", activeIndex, activeText);
+			this.voiceOverText(activeText)
 			this.setState({
 				activeThought: this.state.thoughts[activeIndex],
 				activeIndex: activeIndex
@@ -189,9 +202,30 @@ export default class Video extends Component {
 		 	deck.requestFullscreen(); 
 		}
 	}
+	
+	async voiceOverText(text){
+		const synth = window.speechSynthesis;
+		let voices = synth.getVoices();
+		console.log("VOICES", voices)
+		let utterance = new SpeechSynthesisUtterance(text);
+		utterance.voice = voices[1]
+		synth.speak(utterance);
+	}
+
+	async tryVietnamese(){
+		let text = "Thử nói Tiếng Việt";
+		const synth = window.speechSynthesis;
+		let voices = await synth.getVoices();
+		let utterance = new SpeechSynthesisUtterance(text);
+		utterance.voice = voices[1]
+
+		console.log(text)
+		synth.speak(utterance)
+	}
 
 	componentDidMount(){
 		this.setContent()
+		this.tryVietnamese()
 	}
 
 	render(){
