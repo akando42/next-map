@@ -208,6 +208,7 @@ export default class Video extends Component {
 		console.log("VOICES", voices)
 		let utterance = new SpeechSynthesisUtterance(text);
 		utterance.voice = voices[9]
+		console.log(utterance);
 		synth.speak(utterance);
 	}
 
