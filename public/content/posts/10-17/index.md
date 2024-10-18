@@ -212,7 +212,7 @@ America needs its global network of military bases to provide an essential logis
 
 ![Singapore Changi Naval Port](https://storage.googleapis.com/spykman-world/singapore-changi-naval-port.png)
 
-The future ocean will be dominated by autonomous submarines and surface ships, submarine drone carriers, low flying reconnaissance and attack satellites.
+The future ocean will be dominated by autonomous submarines and surface ships, submarine drone carriers, low flying reconnaissance and attack satellites floating at zero gravity.
 
 ![Supercavitating_Torpedo](https://storage.googleapis.com/spykman-world/supercavitating_torpedo.gif)
 
