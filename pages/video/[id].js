@@ -182,6 +182,14 @@ export default class Video extends Component {
 		})
 	}
 
+	async toggleFullScreen(){
+		let deck = document.getElementById('slide-deck')
+		console.log("Sliding deck")
+		if (deck.requestFullscreen)  {
+		 	deck.requestFullscreen(); 
+		}
+	}
+
 	componentDidMount(){
 		this.setContent()
 	}
@@ -200,14 +208,15 @@ export default class Video extends Component {
 					</div>
 
 					<div className={Styles.slide}>
-
 						<h1> {this.props.postsData.title} </h1>
 
-						<div className={Styles.card} onClick={this.nextSlide}>
+						<div 
+							className={Styles.card} 
+							onClick={this.nextSlide}
+						>
 							{ 
 								this.state.activeThought ?
-								<div className={Styles.slideContainer}>
-
+								<div  className={Styles.slideContainer}>
 									<div className={Styles.idContainer}>  
 										<div className={Styles.id}>
 										    {this.state.activeThought.id} 
@@ -218,14 +227,22 @@ export default class Video extends Component {
 										<div className={Styles.textStats}>
 											{this.state.activeThought.text.duration} seconds 
 										</div>
+										<div 
+											onClick={this.toggleFullScreen}
+											className={Styles.fullScreen}
+										> 
+											<img 
+												className={Styles.fullScreenIcon}
+												src="/fullScreen.svg" 
+											/>
+										</div>
 									</div>
-
 									<div 
+										id="slide-deck"
 										className={Styles.image}
 										style={{backgroundImage: `url(${this.state.activeThought.image.link})`}} 
 									>	
 									</div>
-
 								</div>
 								:
 								<div>NO Image</div>
@@ -237,7 +254,7 @@ export default class Video extends Component {
 								?   <div className={Styles.stopButton} onClick={this.stopPlaying}>
 										STOP
 									</div>
-						  		: <div className={Styles.playButton} onClick={this.startPlaying}>
+						  		: 	<div className={Styles.playButton} onClick={this.startPlaying}>
 										PLAY
 									</div>
 						}

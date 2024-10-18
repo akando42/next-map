@@ -1,3 +1,6 @@
+## Logging Events and New Discoveries by Coordinates
+Application to track new discoveries and major events around a Location Coordinate.
+
 ## Getting Started
 ```bash
 yarn dev

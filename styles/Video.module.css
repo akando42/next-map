@@ -106,6 +106,25 @@
 	align-items: center;
 }
 
+.fullScreen {
+	width: 30px;
+	height: 30px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.fullScreen:active {
+	transform: scale(0.9);
+}
+
+.fullScreenIcon {
+	width: 20px;
+	height: 20px;
+}
+
 .image {
 	border: 1px solid white;
 	height: calc(675/1200*55vw);
@@ -125,11 +144,11 @@
 
 .idContainer {
 	top: 2vh;
-	width: 60vw;
+	width:100%;
 	padding: 10px 1vw;
 	display: flex;
 	flex-direction: row;
-	justify-content: flex-start;
+	justify-content: space-between;
 	align-items: center;
 }
 
