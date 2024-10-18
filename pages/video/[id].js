@@ -104,7 +104,6 @@ export default class Video extends Component {
 		this.stopPlaying = this.stopPlaying.bind(this)
 
 		this.voiceOverText = this.voiceOverText.bind(this)
-		this.tryVietnamese = this.tryVietnamese.bind(this)
 
 		this.state = {
 			thoughts: [], 
@@ -208,24 +207,12 @@ export default class Video extends Component {
 		let voices = synth.getVoices();
 		console.log("VOICES", voices)
 		let utterance = new SpeechSynthesisUtterance(text);
-		utterance.voice = voices[1]
+		utterance.voice = voices[9]
 		synth.speak(utterance);
-	}
-
-	async tryVietnamese(){
-		let text = "Thử nói Tiếng Việt";
-		const synth = window.speechSynthesis;
-		let voices = await synth.getVoices();
-		let utterance = new SpeechSynthesisUtterance(text);
-		utterance.voice = voices[1]
-
-		console.log(text)
-		synth.speak(utterance)
 	}
 
 	componentDidMount(){
 		this.setContent()
-		this.tryVietnamese()
 	}
 
 	render(){
