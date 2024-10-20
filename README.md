@@ -1,6 +1,8 @@
 ## Logging Events and New Discoveries by Coordinates
 Application to track new discoveries and major events around a Location Coordinate.
 
+## Location
+
 ## Getting Started
 ```bash
 yarn dev
@@ -40,12 +42,13 @@ yarn dev
 [X] Auto Start and Stop Audio. 
 [X] Generate new Site Map every builds.  
 
+
+
 ## Generate Short Video from Images and Voice Over
 [X] Toggle Full Screen https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API
 [X] Speech Synthesis https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
-
-[ ] Record Audio https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
 [ ] Screen Recording https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture#examples
+[ ] Record Audio https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
 
 ## FUN TWITTER AUTOMATION
 [ ] Create array of timezone, city name, city-zen image.

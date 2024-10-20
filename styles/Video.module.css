@@ -170,6 +170,24 @@
 	color: white;
 	margin: 0 1vw;
 }
+
+.screenCapture {
+	width: 10vw;
+	margin: 3px;
+	height: 40px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+	color: yellow;
+	border-radius: 10px;
+}
+
+.screenCapture:active {
+	transform: scale(0.9);
+}
+
 .playButton {
 	margin-top: 20px;
 	background-color: blue;

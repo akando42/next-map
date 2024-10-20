@@ -4,7 +4,6 @@ import { getAllPostIds, getPostData } from '../../libs/posts'
 import path from "path"
 import Styles from "../../styles/Video.module.css"
 
-
 const postsTopic = "public/content/posts"
 const postsDirectory = path.join(process.cwd(), postsTopic)
 const getTrunks = function(contents){
@@ -104,6 +103,7 @@ export default class Video extends Component {
 		this.stopPlaying = this.stopPlaying.bind(this)
 
 		this.voiceOverText = this.voiceOverText.bind(this)
+		this.startScreenCapture = this.startScreenCapture.bind(this)
 
 		this.state = {
 			thoughts: [], 
@@ -212,6 +212,31 @@ export default class Video extends Component {
 		synth.speak(utterance);
 	}
 
+	async startScreenCapture(){
+		const displayMediaOptions = {
+			video: {
+				displaySurface: "browser",
+			},
+			audio: {
+				suppressLocalAudioPlayback: false,
+			},
+			preferCurrentTab: false,
+			selfBrowserSurface: "exclude",
+			systemAudio: "include",
+			surfaceSwitching: "include",
+			monitorTypeSurfaces: "include",
+		}
+
+		let captureStream = null;
+		try {
+		    captureStream = await navigator.mediaDevices.getDisplayMedia(displayMediaOptions);
+		} catch (err) {
+		    console.error(`Error: ${err}`);
+		}
+		
+		return captureStream;
+	}
+
 	componentDidMount(){
 		this.setContent()
 	}
@@ -219,7 +244,6 @@ export default class Video extends Component {
 	render(){
 		let thought = this.state.activeThought
 		
-
 		return (
 			<div className={Styles.main}>
 				<Head></Head>
@@ -280,6 +304,13 @@ export default class Video extends Component {
 										PLAY
 									</div>
 						}
+
+						<div 
+							className={Styles.screenCapture}
+							onClick={this.startScreenCapture}
+						>	
+							Screen Capture 
+						</div>
 					</div>
 
 					<div className={Styles.slideControl}>
