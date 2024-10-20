@@ -9,7 +9,8 @@ yarn dev
 ```
 
 ## TODO
-[ ] Voice Over from Text
+[ ] Map with each location having a timeline.  
+[X] Voice Over from Text
 [X] Design for Location-Based Stories Blog.  
 [X] Build the Landing Layout.  
 [X] Markdown Content Parsing.      
@@ -41,8 +42,6 @@ yarn dev
 [X] Mark active slide in the slide controller.  
 [X] Auto Start and Stop Audio. 
 [X] Generate new Site Map every builds.  
-
-
 
 ## Generate Short Video from Images and Voice Over
 [X] Toggle Full Screen https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API
