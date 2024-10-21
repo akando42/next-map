@@ -1,5 +1,5 @@
 
-# Vietnam and India during the Napoleonic French Era.
+# Indian Ocean Gene Groups Compeitiom
 
 Before the arrival of the British Navy, the Mongol Genes and their Horses dominated most of the Indian Subcontinent and East Asia. The Mongol married princesses from the Karachi River Delta and established the Mughal empire with two capitals in Multan and Delhi. 
 
