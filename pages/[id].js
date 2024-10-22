@@ -38,12 +38,13 @@ export default class Post extends Component {
 	componentDidMount(){}
 
 	render(){
+		console.log("POST DATA", this.props.postsData)
+
 		return (
 			<div>
 				<Head>
 			        <title>{this.props.postsData.title}</title>
 			        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-
 			        <meta name="twitter:card" content="summary_large_image" />
 			        <meta name="twitter:site" content="@mikedoconsulter" />
 					<meta name="twitter:creator" content="@mikedoconsulter" />
@@ -54,6 +55,7 @@ export default class Post extends Component {
 			    </Head>
 
 				<Logo />
+
 			    <Map 
 			    	width="100vw" 
 			    	height="50vh" 
@@ -68,6 +70,7 @@ export default class Post extends Component {
 				        <div className={Styles.title}>
 							{this.props.postsData.title}
 						</div>
+
 				        <div
 					   		className={Styles.cover}
 							style={{
@@ -89,9 +92,45 @@ export default class Post extends Component {
 							{this.props.postsData.tags.map(
 								(item, index) => <div key={index} className={Styles.tag}>{item}</div>
 							)}
-						</div>
-				       
+						</div>	
 			        </div>
+
+			        <div className={Styles.updatedArticles}>
+							{   
+								this.props.postsData.updatedArticles.map(
+									(article, index) => {
+
+										console.log(
+											"NEW ARTICLE", 
+											article
+										)
+
+										console.log(
+											"NEW ARTICLE ID", 
+											index
+										)
+
+										return(
+											<div 
+												key={index} className={Styles.updateCard}
+												style={{
+					      							backgroundImage: `url(${article.data.cover})`,
+					      						}}
+											>
+												<div className={Styles.updateCover}>
+												</div>
+												<div className={Styles.updateInfo}>
+													<div className={Styles.updateTime}>
+														{article.data.date}
+													</div>
+													<div>{article.data.title}</div>													
+												</div>
+											</div>
+										)
+									}	
+								)
+							}
+					</div>	 
 		        </div>
 			</div>
 		)
