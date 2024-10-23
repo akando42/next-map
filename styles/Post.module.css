@@ -19,7 +19,32 @@
 	overflow-x: hidden;
 }
 
+.originalCard {
+	margin: 20px;
+	border: 2px solid white;
+	display: flex;
+	flex-direction: column;
+	width: 24vw;
+	height: 16vw;
+	background-size: cover;
+	background-color: white;
+	border-radius: 10px;
+	justify-content: flex-end;
+	font-weight: 700;
+	position: relative;
+}
+
+.originalCard:hover {
+	transform: scale(1.04);
+}
+
+.originalCard:active {
+	transform: scale(0.96);
+}
+
+
 .contentCard {
+	border: 1px solid black;
 	margin-top: -10vh;
 	width: 90vw;
 	height: auto;
@@ -27,9 +52,23 @@
 	flex-direction: column;
 	align-items: center;
 	background-color: white;
-	z-index: 3;
+	z-index: 4;
 	border-radius: 10px;
 	padding: 10vh 0;
+}
+
+.updatedContentCard {
+	border: 1px solid black;
+	/*margin-top: -10vh;*/
+	width: 96vw;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: white;
+	z-index: 4;
+	border-radius: 10px;
+	padding: 20px;
 }
 
 .content {
@@ -185,6 +224,14 @@
 		padding: 0;
 		overflow: scroll;
   		cursor: grab; 
+	}
+
+	.originalCard {
+		width: 90vw;
+		height: 60vw;
+		background-size: cover;
+		margin-bottom: 3vh;
+		margin-top: -10vh;
 	}
 
 	.updateCard {

@@ -4,6 +4,7 @@ import path from "path"
 import Styles from '../styles/Post.module.css'
 import Map from "../components/Map"
 import Logo from "../components/Logo"
+import StoryCard from "../components/StoryCard"
 import Head from 'next/head'
 import Link from 'next/link'
 
@@ -26,7 +27,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths(){
 	const paths = getAllPostIds(postsDirectory)
-    // console.log("Our static paths are", paths)
+    console.log("Our static paths are", paths)
   
 	return {
 		paths,
@@ -37,7 +38,22 @@ export async function getStaticPaths(){
 export default class Post extends Component {
 	constructor(props){
 		super(props)
+
+		this.state = {
+			showingOriginal: true, 
+			showingUpdates: false
+		}
+
+		this.swapArticle = this.swapArticle.bind(this)
 	}
+
+	async swapArticle(){
+		this.setState({
+			showingOriginal: !this.state.showingOriginal, 
+			showingUpdates: !this.state.showingUpdates
+		})
+	}
+
 
 	componentDidMount(){}
 
@@ -70,47 +86,102 @@ export default class Post extends Component {
 			    />
 
 			    <div className={Styles.container}>
-				    <div className={Styles.contentCard}>
-				        <div className={Styles.title}>
-							{this.props.postsData.title}
-						</div>
+			    	{
+			    		this.state.showingOriginal
+			    		?	<div className={Styles.contentCard}>
+						        <div className={Styles.title}>
+									{this.props.postsData.title}
+								</div>
 
-				        <div
-					   		className={Styles.cover}
-							style={{
-				              backgroundSize: `cover`,
-				              backgroundImage: `url(${this.props.postsData.cover})`
-				            }}
-						>
-						    <div className={Styles.title}>
-								{this.props.postsData.title}
+						        <div
+							   		className={Styles.cover}
+									style={{
+						              backgroundSize: `cover`,
+						              backgroundImage: `url(${this.props.postsData.cover})`
+						            }}
+								>
+								    <div className={Styles.title}>
+										{this.props.postsData.title}
+									</div>
+								</div>
+
+								<div 
+									className={Styles.content}
+						            dangerouslySetInnerHTML={{ __html: this.props.postsData.contentHtml }} 
+						        />
+
+						        <div className={Styles.tagLine}>
+									{this.props.postsData.tags.map(
+										(item, index) => <div key={index} className={Styles.tag}>{item}</div>
+									)}
+								</div>	
+					        </div>
+					    :   <div 
+								className={Styles.originalCard}
+								onClick={this.swapArticle}
+								style={{
+	      							backgroundImage: `url(${this.props.postsData.cover})`,
+	      						}}
+							>
+								<div className={Styles.updateCover}>
+								</div>
+								<div className={Styles.updateInfo}>
+									<div className={Styles.updateTime}>
+										{this.props.postsData.date}
+									</div>
+									<div>{this.props.postsData.title}</div>													
+								</div>
 							</div>
-						</div>
+			    	}
+				   
+			        
+					{
+						this.state.showingUpdates 
+						? 	<div className={Styles.updatedContentCard}>
+						        <div className={Styles.title}>
+									{this.props.postsData.updatedArticles[0].title}
+								</div>
 
-						<div 
-							className={Styles.content}
-				            dangerouslySetInnerHTML={{ __html: this.props.postsData.contentHtml }} 
-				        />
+						        <div
+							   		className={Styles.cover}
+									style={{
+						              backgroundSize: `cover`,
+						              backgroundImage: `url(${
+						              	this.props.postsData.updatedArticles[0].data.cover}
+						              )`
+						            }}
+								>
+								    <div className={Styles.title}>
+										{this.props.postsData.updatedArticles[0].data.title}
+									</div>
+								</div>
 
-				        <div className={Styles.tagLine}>
-							{this.props.postsData.tags.map(
-								(item, index) => <div key={index} className={Styles.tag}>{item}</div>
-							)}
-						</div>	
-			        </div>
+								<div 
+									className={Styles.content}
+						            dangerouslySetInnerHTML={{ 
+						            	__html: this.props.postsData.updatedArticles[0].contentHtml 
+						           	}} 
+						        />
 
-			        <div className={Styles.updatedArticles}>
-							{   
-								this.props.postsData.updatedArticles.map(
-									(article, index) => {
+						        <div className={Styles.tagLine}>
+									{this.props.postsData.updatedArticles[0].data.tags.map(
+										(item, index) => <div key={index} className={Styles.tag}>{item}</div>
+									)}
+								</div>	
+					        </div>
 
-										// console.log("NEW ARTICLE", article)
-										// console.log("NEW ARTICLE ID", index)
+						: 	<div className={Styles.updatedArticles}>
+								{   
+									this.props.postsData.updatedArticles.map(
+										(article, index) => {
 
-										return(
-											<Link href={article.data.path}>
+											// console.log("NEW ARTICLE", article)
+											// console.log("NEW ARTICLE ID", index)
+
+											return(
 												<div 
 													key={index} className={Styles.updateCard}
+													onClick={this.swapArticle}
 													style={{
 						      							backgroundImage: `url(${article.data.cover})`,
 						      						}}
@@ -124,12 +195,12 @@ export default class Post extends Component {
 														<div>{article.data.title}</div>													
 													</div>
 												</div>
-											</Link>
-										)
-									}	
-								)
-							}
-					</div>	 
+											)
+										}	
+									)
+								}
+							</div>	 
+					}
 		        </div>
 			</div>
 		)
