@@ -10,7 +10,7 @@ export default class StoryCard extends Component {
 
 	render(){
 		return (
-			<Link href={this.props.item.date}>
+			<Link href={this.props.item.path}>
 				<div 
 					className={Styles.container}
 					style={{

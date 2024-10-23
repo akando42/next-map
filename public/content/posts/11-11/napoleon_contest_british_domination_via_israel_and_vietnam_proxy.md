@@ -2,7 +2,7 @@
 zoom: 6  
 lat: 7.665672742993175
 lng: 81.88449879560726
-path: "/indian-ocean-the-asia-association"
+path: "/11-11_napoleon_contest_british_domination_via_israel_and_vietnam_proxy"
 cover: "content/posts/11-11/Napoleon_contesting_British_domination.png"
 date: "11-11-2024"
 title: "Napoleon Contest British Domination via Israel and Vietnam Proxy"

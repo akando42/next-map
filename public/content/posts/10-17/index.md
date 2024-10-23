@@ -2,7 +2,7 @@
 zoom: 10
 lat: -27.121254076534411
 lng: -109.35289308377328
-path: "/kingston-technology-and-easter-island"
+path: "/10-17"
 cover: "content/posts/10-17/spykman-world-kingston-tech-easter-island-statues.jpg"
 date: "10-17"
 title: "Kingston Technology and Easter Island"

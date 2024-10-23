@@ -5,13 +5,17 @@ import Styles from '../styles/Post.module.css'
 import Map from "../components/Map"
 import Logo from "../components/Logo"
 import Head from 'next/head'
+import Link from 'next/link'
 
 const postsTopic = "public/content/posts"
 const postsDirectory = path.join(process.cwd(), postsTopic)
 
 export async function getStaticProps({ params }) {
+  console.log("\n\nPARAMS\n\n", params)
+
   const postsData = await getPostData(postsDirectory, params.id)
   const coverImage = "https://geogenetics.dystillvision.com/"+postsData.cover
+
   return {
     props: {
       postsData, 
@@ -22,7 +26,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths(){
 	const paths = getAllPostIds(postsDirectory)
-    // console.log("our static paths is", paths)
+    // console.log("Our static paths are", paths)
   
 	return {
 		paths,
@@ -38,7 +42,7 @@ export default class Post extends Component {
 	componentDidMount(){}
 
 	render(){
-		console.log("POST DATA", this.props.postsData)
+		// console.log("POST DATA", this.props.postsData)
 
 		return (
 			<div>
@@ -100,32 +104,27 @@ export default class Post extends Component {
 								this.props.postsData.updatedArticles.map(
 									(article, index) => {
 
-										console.log(
-											"NEW ARTICLE", 
-											article
-										)
-
-										console.log(
-											"NEW ARTICLE ID", 
-											index
-										)
+										// console.log("NEW ARTICLE", article)
+										// console.log("NEW ARTICLE ID", index)
 
 										return(
-											<div 
-												key={index} className={Styles.updateCard}
-												style={{
-					      							backgroundImage: `url(${article.data.cover})`,
-					      						}}
-											>
-												<div className={Styles.updateCover}>
-												</div>
-												<div className={Styles.updateInfo}>
-													<div className={Styles.updateTime}>
-														{article.data.date}
+											<Link href={article.data.path}>
+												<div 
+													key={index} className={Styles.updateCard}
+													style={{
+						      							backgroundImage: `url(${article.data.cover})`,
+						      						}}
+												>
+													<div className={Styles.updateCover}>
 													</div>
-													<div>{article.data.title}</div>													
+													<div className={Styles.updateInfo}>
+														<div className={Styles.updateTime}>
+															{article.data.date}
+														</div>
+														<div>{article.data.title}</div>													
+													</div>
 												</div>
-											</div>
+											</Link>
 										)
 									}	
 								)

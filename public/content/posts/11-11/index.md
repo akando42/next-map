@@ -2,7 +2,7 @@
 zoom: 6  
 lat: 7.665672742993175
 lng: 81.88449879560726
-path: "/indian-ocean-the-asia-association"
+path: "/11-11"
 cover: "content/posts/11-11/geogenetics_indian_ocean_and_tower_of_hanoi_puzzle.png"
 date: "11-11"
 title: "Indian Ocean and the Asia Association"

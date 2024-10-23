@@ -12,6 +12,9 @@ const postsDirectory = "public/content/posts"
 
 export async function getServerSideProps() {
   const postsData = await getSortedPostsData(postsDirectory)
+
+  // console.log(postsData)
+
   const today = new Date()
   const todayString = today.toJSON()
 
@@ -32,7 +35,7 @@ export async function getServerSideProps() {
         minDistance = time_distance
         stopIndex = index
     }
-    console.log(postDateNum, todayDateNum, time_distance)
+    // console.log(postDateNum, todayDateNum, time_distance)
   }
 
   postsData.map(
@@ -43,7 +46,7 @@ export async function getServerSideProps() {
   var futurePosts = postsData.slice(stopIndex)
   const datedSortedPosts = futurePosts.concat(pastPosts)
 
-  console.log(today, stopIndex, datedSortedPosts[0], datedSortedPosts.length)
+  // console.log(today, stopIndex, datedSortedPosts[0], datedSortedPosts.length)
 
   return {
     props: {
@@ -74,7 +77,8 @@ export default class Main extends Component {
      console.log("Zooming Out")
   }
  
-  componentDidMount(){}
+  componentDidMount(){
+  }
 
   render(){
     return (

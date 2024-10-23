@@ -108,8 +108,8 @@
 	border: 2px solid white;
 	display: flex;
 	flex-direction: column;
-	width: 15vw;
-	height: 10vw;
+	width: 24vw;
+	height: 16vw;
 	background-size: cover;
 	background-color: white;
 	border-radius: 10px;
@@ -144,8 +144,10 @@
 	position: absolute;
 	color: white;
 	z-index: 2;
-	margin: 10px;
-	font-size: 21px;
+	margin: 20px;
+	font-size: 24px;
+	max-height: 100%;
+	max-width: 100%;
 }
 
 .updateTime {
@@ -196,7 +198,9 @@
 	}
 
 	.updateInfo {
-
+		max-height: 90%;
+		max-width: 90%;
+		font-size: 16px;
 	}
 
 	.updateTime {

@@ -41,11 +41,13 @@ export function getSortedPostsData(postsDirectory) {
   // Sort posts by date
   return allPostsData.sort(({ date: a }, { date: b }) => {
     if (a > b) {
-      console.log(a, ">", b)
+      //console.log(a, ">", b)
       return 1
+      
     } else if (a < b) {
-      console.log(a, "<", b)
+      //console.log(a, "<", b)
       return -1
+
     } else {
       return 0
     }
@@ -53,22 +55,60 @@ export function getSortedPostsData(postsDirectory) {
 }
 
 export function getAllPostIds(postsDirectory) {
-  const fileNames = fs.readdirSync(postsDirectory)
+  let articlesList = []
+  let dirList = fs.readdirSync(postsDirectory)
+    .filter(dir => dir !== ".DS_Store")
 
-  // console.log("Files in this directory ", postsDirectory, "\n ", fileNames);
-  // Modifying and Updating Sitemap HERE 
+  dirList.map(dir => {
+    // console.log("Directory", dir)
+    let fullDirPath = path.join(postsDirectory, dir)
+    let fileNames = fs.readdirSync(fullDirPath)
 
-  return fileNames.map(fileName => {
-    return {
-      params: {
-        id: fileName.replace(/\.md$/, '')
+    const articles = fileNames.filter(file => file.split(".")[1] === "md")
+    articles.map(article => {
+      let articleName = article.replace(/\.md$/, '')
+      // console.log("ARTICLE NAME ", articleName)
+      
+      if (articleName === "index"){
+        articlesList.push({
+          params: {
+            id: `${dir}`
+          } 
+        })
+      } else {
+        articlesList.push({
+          params: {
+            id: `${dir}/${articleName}`
+          } 
+        })
       }
-    }
+    })
   })
+
+  // console.log("ARTICLES ", articlesList)
+  return articlesList
+
+  // const fileNames = fs.readdirSync(postsDirectory)
+  // console.log(
+  //   "Files in this directory ", 
+  //   postsDirectory, "\n ", 
+  //   fileNames
+  // );
+  // // Modifying and Updating Sitemap HERE 
+
+  // return fileNames.map(fileName => {
+  //   return {
+  //     params: {
+  //       id: fileName.replace(/\.md$/, '')
+  //     }
+  //   }
+  // })
 }
 
 export async function getPostData(postsDirectory, id) {
   const dirPath = path.join(postsDirectory, id)
+
+  console.log("DIR PATH ID", id)
   const relatedFiles = fs.readdirSync(dirPath)
 
   const articles = relatedFiles.filter(
@@ -80,7 +120,8 @@ export async function getPostData(postsDirectory, id) {
   //console.log("POST ID", id)
 
   async function parseContent(postsDirectory, id, contentFile){
-    console.log("CONTENT FILE", contentFile)
+    console.log("Parsing Content", postsDirectory, id, contentFile)
+    // console.log("CONTENT FILE", contentFile)
 
     const fullPath = path.join(postsDirectory, id, contentFile)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
@@ -118,7 +159,9 @@ export async function getPostData(postsDirectory, id) {
 
   updates.map( async(update) => {
     // console.log("PARSING",update)
-    let updateData = await parseContent(postsDirectory, id, update)
+    let updateData = await parseContent(
+      postsDirectory, id, update
+    )
     // console.log("UPDATE CONTENT ", updateData)
     updatedArticles.push(updateData)
   })
