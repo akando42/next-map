@@ -2,7 +2,7 @@
 zoom: 5
 lat: 42.66473174411214
 lng: 21.16730978369753
-path: "/kosovo-and-the-powder-keg-region-of-balkan"
+path: "/04-09"
 cover: "content/posts/04-09/kosovo-and-the-powder-keg-region-of-balkan.png"
 date: "04-09"
 title: "Kosovo and The Powder Keg Region of Balkan"

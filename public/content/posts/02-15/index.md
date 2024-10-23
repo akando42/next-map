@@ -2,7 +2,7 @@
 zoom: 6
 lat: 2.1836619938140434
 lng: 102.17571843730252
-path: "/an-island-nation-and-the-constraint-that-trigger-evolution"
+path: "/02-15"
 cover: "content/posts/02-15/spykman-world-island-nation.jpg"
 date: "02-15"
 title: "Singapore - The Asia Secret Police Capital"

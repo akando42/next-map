@@ -2,7 +2,7 @@
 zoom: 6  
 lat: 17.966469874174205
 lng: 102.61474361790651
-path: "/laos-and-the-art-of-neutrality"
+path: "/12-02"
 cover: "content/posts/12-02/geogenetics_laos_and_the_art_of_neutrality.png"
 date: "12-02"
 title: "Laos and The Art of Neutrality"

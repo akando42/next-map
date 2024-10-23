@@ -2,7 +2,7 @@
 zoom: 6
 lat: 47.374862955822856
 lng: 8.542570363758998
-path: "/military-medicine-and-the-innovator-of-medical-industry"
+path: "/02-02"
 cover: "content/posts/02-02/swiss.png"
 date: "02-02"
 summary: "War was a chaotic endeavor until the Swiss doctors of the Alps was able to draw the clear line between friends and foes and give a single directional grand global strategy for all Western economic, social and military activities."

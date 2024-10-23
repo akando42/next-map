@@ -2,7 +2,7 @@
 zoom: "6"
 lat: 37.82008037481768
 lng: -122.47848470061092
-path: "/golden-gate-bridge-the-east-west-link"
+path: "/01-05"
 cover: "/content/posts/01-05/geogenetics-jan-05-golden-gate-bridge-the-east-west-link.png"
 date: "01-05"
 summary: ""

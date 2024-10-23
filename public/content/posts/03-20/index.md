@@ -2,7 +2,7 @@
 zoom: 10 
 lat: 32.08574509735867 
 lng: 34.77046631494252
-path: "/the_power_of_imagination_and_the_jewish_secrets"
+path: "/03-20"
 cover: "content/posts/03-20/geogenetics-trojan-horse-baby-of-windy-mother.png"
 summary: "Trapping, attracting and luring targets to Western European strong points have been a highly effective strategies to conquer and convert entire Siberia and North Africa population into their orbit."
 date: "03-20"

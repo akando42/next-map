@@ -2,7 +2,7 @@
 zoom: 5
 lat: 25.716826786063223
 lng: 100.161444087617
-path: "/range_the_evolution_of_gunpoweder_and_artilery"
+path: "/03-13"
 cover: "content/posts/03-13/spykman-world-going-forward-to-keep-balance.jpg"
 date: "03-13"
 summary: "Human is the only animal who know how to use range weapons. Through out human history of wars, the range soldiers can take out more enemy combatants and have higher chances of passing down his genes to next generations."

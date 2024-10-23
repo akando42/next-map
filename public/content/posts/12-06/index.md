@@ -2,7 +2,7 @@
 zoom: '6'
 lat: 37.65279268660142 
 lng: 13.931401878223134
-path: "/the-byzantine-generals-grandiose-plan"
+path: "/12-06"
 cover: "content/posts/12-06/spykman-world-west-roman-east-roman.png"
 date: "12-06"
 title: "The Byzantine Generals Grandiose Plan"
