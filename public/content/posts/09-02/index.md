@@ -2,7 +2,7 @@
 zoom: 6
 lat: 21.02885485036829
 lng: 105.8521715786106
-path: "/vietnam-the-gene-colosseo-of-east-asia"
+path: "/09-02"
 cover: "content/posts/09-02/geogenetics-vietnam-the-gene-colosseo-of-east-asia.png"
 date: "09-02"
 title: "Vietnam - The Gene Colosseo of East Asia"

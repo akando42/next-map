@@ -2,7 +2,7 @@
 zoom: 3
 lat: 65.9234427011687  
 lng: -168.39028853010825
-path: "/melting-ice-is-opening-up-the-fabled-arctics-ocean-trade-route"
+path: "/07-16"
 cover: "content/posts/07-16/spykman-world-melting-ice-openning-up-northwest-passage.jpg"
 date: "07-16"
 title: "Melting Ice Is Opening Up The Fabled Arctics Ocean Trade Routes"

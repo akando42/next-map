@@ -2,7 +2,7 @@
 zoom: 6
 lat: 48.25602203366405
 lng: 11.59354339455948
-path: "/an-inquiry-into-adolf-hitler-mein-kampf-and-its-impact-on-history"
+path: "/07-18"
 cover: "content/posts/07-18/spykman-world-mein-kampf.png"
 date: "07-18"
 title: "An Inquiry Into Adolf Hitler's Mein Kampf and Its Impact on History"

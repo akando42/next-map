@@ -2,7 +2,7 @@
 zoom: 6
 lat: 54.65813591732173
 lng: -5.960154496479938
-path: "/irish-republican-army-and-the-maze-prision-escape"
+path: "/09-25"
 cover: "content/posts/09-25/spykman-world-irish-republican-army-and-the-maze-prison-escape.png"
 date: "09-25"
 title: "Irish Republican Army And The Maze Prision Escape"

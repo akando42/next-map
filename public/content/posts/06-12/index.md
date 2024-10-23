@@ -2,7 +2,7 @@
 zoom: '6'
 lat: 14.986782145715797
 lng: 121.04220507177676
-path: "/philippine_the_east_sea_gene_mixer"
+path: "/06-12"
 cover: "content/posts/06-12/Sundaland_Turn_Oil_Reserve.png"
 date: "06-12"
 title: "Philippine The East Sea Gene Mixer"

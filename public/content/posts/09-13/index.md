@@ -2,7 +2,7 @@
 zoom: 10
 lat: 59.915044786387526   
 lng: 10.756933945021663
-path: "/friday-the-thirteen-and-the-politics-of-fear-mongering"
+path: "/09-13"
 cover: "content/posts/09-13/spykman-world-friday-the-thirteen-and-the-politics-of-fear-mongering.jpg"
 date: "09-13"
 title: "Friday The Thirteen, Fear and the Benefactors of Chaos"

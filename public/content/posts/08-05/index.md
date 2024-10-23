@@ -2,7 +2,7 @@
 zoom: 10
 lat: 46.83123785988374
 lng: -71.20078282091819
-path: "/will-america-continue-to-be-the-liberty-enlightening-the-world-or-is-it-going-to-lose-its-mandate-from-heaven"
+path: "/08-05"
 cover: "content/posts/08-05/spykman-world-will-america-continue-to-be-a-symbol-of-liberty.png"
 date: "08-05"
 title: "Will America Continue To Be The Liberty Enlightening the World"

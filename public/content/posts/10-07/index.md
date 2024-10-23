@@ -2,7 +2,7 @@
 zoom: 4
 lat: 55.266535581642145
 lng: 89.8312076577477
-path: "/moscow-russia-and-its-many-levers"
+path: "/10-07"
 cover: "content/posts/10-07/geogenetics_moscow_russia_and_its_many_levers.png"
 date: "10-07"
 title: "Moscow Russia and Its Many Levers"

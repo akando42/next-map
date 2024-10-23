@@ -2,7 +2,7 @@
 zoom: 6
 lat: 16.665290685666694
 lng: 112.71882657408325
-path: "/supercarrier-like-uss-forrestal-is-unsinkable"
+path: "/07-29"
 cover: "content/posts/07-29/spykman-world-aircraft-carrier-strike-group.png"
 date: "07-29"
 title: "Aircraft Carrier Strike Group and Its Evolution"

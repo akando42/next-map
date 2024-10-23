@@ -2,7 +2,7 @@
 zoom: 10
 lat: 27.771313182469545
 lng: -82.61130237406577
-path: "/a-mueller-walking-to-a-barr"
+path: "/07-24"
 cover: "content/posts/07-24/geogenetics_russian_american_domination.jpg"
 date: "07-24"
 title: "A Mueller Walking to a Barr"

@@ -2,7 +2,7 @@
 zoom: 10
 lat: 35.68214850944437 
 lng: 139.85757745906926
-path: "/japan-nation-that-tips-the-scale-of-future-world-order"
+path: "/08-10"
 cover: "content/posts/08-10/spykman-world-japan-nation-that-tips-the-scale-of-future-world-order.jpg"
 date: "08-10"
 title: "Japan - Nation That Tips The Scale of Future World Order"

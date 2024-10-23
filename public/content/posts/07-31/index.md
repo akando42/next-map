@@ -2,7 +2,7 @@
 zoom: 5
 lat: 48.71178046964093
 lng: 44.498443094926095
-path: "/georgia-stalin-and-the-future-of-euroasia"
+path: "/07-31"
 cover: "content/posts/07-31/spykman-world-georgia-stalin-and-the-future-of-euroasia.png"
 date: "07-31"
 title: "The Caucasus and The Caucasian NATO Relentless Expansion"

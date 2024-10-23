@@ -2,7 +2,7 @@
 zoom: 10
 lat: 21.95690386511042
 lng: 96.08406164965953
-path: "/self_determination_and_the_right_to_write_your_own_destiny"
+path: "/05-11"
 cover: "content/posts/05-11/spykman-world-japanese-dharma.png"
 date: "05-11"
 title: "Buddhism - The Peace of Mind for Viable Uterus"

@@ -2,7 +2,7 @@
 zoom: 6
 lat: 20.058468008150385
 lng: 110.21908106833423
-path: "/gulf-of-tonkin-and-the-southeast-asia-destiny"
+path: "/08-02"
 cover: "content/posts/08-02/spykman-world-gulf-of-tonkin-and-the-future-of-southeast-aisa.png"
 date: "08-02"
 title: "Gulf of Tonkin and The Southeast Asia Destiny"

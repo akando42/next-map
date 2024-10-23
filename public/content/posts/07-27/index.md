@@ -2,7 +2,7 @@
 zoom: 10
 lat: 37.4563
 lng: 126.7052
-path: "/one-korea-and-the-awakening-of-third-asian-tigers"
+path: "/07-27"
 cover: "content/posts/07-27/spykman-world-one-korea-and-the-awakening-of-third-asian-tigers.png"
 date: "07-27"
 title: "One Korea And The Awakening Of Third Asian Tigers"
@@ -25,7 +25,7 @@ Before Wang Geon was able to unite the Korean Peninsula, Korea was divided into 
 
 ![Ancient Korean Kingdom Goguryeo](https://storage.googleapis.com/spykman-world/Ancient%20Korean%20Kingdom%20and%20its%20Capital.png)
 
-### North - South division, how did it happen 
+### North - South division, how did it happen
 
 Before the end of WWII, Korea was under Japanese occupation. After the war ended, Soviet Union and the United States divided up the Korean peninsula along the 38th parallel into North and South Korea. The North follows the Soviet Communist model and the South follows the American capitalist model. A unification election for the entire Korean peninsula, very similar to Vietnam later in 1954, was promised but never happened. 
 

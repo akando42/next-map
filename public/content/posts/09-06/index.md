@@ -2,7 +2,7 @@
 zoom: 12
 lat: 34.13435879081865
 lng: -118.32087188946139
-path: "/pornography-the-third-pillar-in-the-trinity-of-power"
+path: "/09-06"
 cover: "content/posts/09-06/Geogenetics_Pornography_The_Third_Pilar_In_The_Trinity_Of_Power.png"
 date: "09-06"
 title: "Pornography - The Third Pillars In The Trinity of Power"

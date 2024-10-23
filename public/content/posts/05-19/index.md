@@ -2,7 +2,7 @@
 zoom: 10
 lat: 46.204195449587324
 lng: 6.143641923510742
-path: "/french-doctor-global-influence-via-gene-selection"
+path: "/05-19"
 cover: "content/posts/05-19/Nestle.png"
 date: "05-19"
 title: "Latin Doctor Global Influences via Gene Injection"
