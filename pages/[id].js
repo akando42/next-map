@@ -54,14 +54,13 @@ export default class Post extends Component {
 		})
 	}
 
-
 	componentDidMount(){}
 
 	render(){
 		// console.log("POST DATA", this.props.postsData)
 
 		return (
-			<div>
+			<div className={Styles.background}>
 				<Head>
 			        <title>{this.props.postsData.title}</title>
 			        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
@@ -78,7 +77,7 @@ export default class Post extends Component {
 
 			    <Map 
 			    	width="100vw" 
-			    	height="50vh" 
+			    	height="40vh" 
 			    	data={this.props.postsData}
 			    	lng={this.props.postsData.lng}
 			    	lat={this.props.postsData.lat}
@@ -116,6 +115,7 @@ export default class Post extends Component {
 									)}
 								</div>	
 					        </div>
+
 					    :   <div 
 								className={Styles.originalCard}
 								onClick={this.swapArticle}
@@ -129,7 +129,9 @@ export default class Post extends Component {
 									<div className={Styles.updateTime}>
 										{this.props.postsData.date}
 									</div>
-									<div>{this.props.postsData.title}</div>													
+									<div  className={Styles.updateTitle}>
+										{this.props.postsData.title}
+									</div>													
 								</div>
 							</div>
 			    	}

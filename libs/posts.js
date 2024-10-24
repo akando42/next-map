@@ -78,7 +78,7 @@ export function getAllPostIds(postsDirectory) {
       } else {
         articlesList.push({
           params: {
-            id: `${dir}/${articleName}`
+            id: `${dir}`
           } 
         })
       }
@@ -120,14 +120,14 @@ export async function getPostData(postsDirectory, id) {
   //console.log("POST ID", id)
 
   async function parseContent(postsDirectory, id, contentFile){
-    console.log("Parsing Content", postsDirectory, id, contentFile)
+    // console.log("Parsing Content", postsDirectory, id, contentFile)
     // console.log("CONTENT FILE", contentFile)
 
     const fullPath = path.join(postsDirectory, id, contentFile)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
 
-    // console.log("POST FULL PATH", fullPath)
-    // console.log("FILE CONTENT",fileContents)
+    console.log("POST FULL PATH", fullPath)
+    // console.log("FILE CONTENT", fileContents)
     // Use gray-matter to parse the post metadata section
 
     const matterResult = matter(fileContents)
@@ -158,11 +158,11 @@ export async function getPostData(postsDirectory, id) {
   let updatedArticles = []
 
   updates.map( async(update) => {
-    // console.log("PARSING",update)
+    console.log("PARSING",update)
     let updateData = await parseContent(
       postsDirectory, id, update
     )
-    // console.log("UPDATE CONTENT ", updateData)
+    console.log("UPDATE CONTENT ", updateData)
     updatedArticles.push(updateData)
   })
 
