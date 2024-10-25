@@ -177,6 +177,7 @@
 	border-radius: 10px;
 	color: white;
 	display: flex;
+	pointer-events: none;
 }
 
 .updateInfo {
@@ -188,6 +189,7 @@
 	max-height: 90%;
 	max-width: 90%;
 	font-size: 21px;
+	pointer-events: none;
 }
 
 .updateTime {

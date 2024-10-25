@@ -41,13 +41,25 @@ export default class Post extends Component {
 
 		this.state = {
 			showingOriginal: true, 
-			showingUpdates: false
+			showingUpdates: false,
+			updatedArticleIndex: 0 
 		}
 
 		this.swapArticle = this.swapArticle.bind(this)
 	}
 
-	async swapArticle(){
+	async swapArticle(event){
+		console.log("SWAPING ARTICLE", event.target.dataset)
+		if (event.target.dataset.update){
+			console.log(
+				"Select update number ", 
+				event.target.dataset.update
+			)
+			this.setState({
+				updatedArticleIndex: event.target.dataset.update
+			})
+		}
+
 		this.setState({
 			showingOriginal: !this.state.showingOriginal, 
 			showingUpdates: !this.state.showingUpdates
@@ -141,7 +153,11 @@ export default class Post extends Component {
 						this.state.showingUpdates 
 						? 	<div className={Styles.updatedContentCard}>
 						        <div className={Styles.title}>
-									{this.props.postsData.updatedArticles[0].title}
+									{
+										this.props.postsData
+											.updatedArticles[this.state.updatedArticleIndex]
+											.title
+									}
 								</div>
 
 						        <div
@@ -149,7 +165,10 @@ export default class Post extends Component {
 									style={{
 						              backgroundSize: `cover`,
 						              backgroundImage: `url(${
-						              	this.props.postsData.updatedArticles[0].data.cover}
+						              	this.props.postsData
+						              		.updatedArticles[this.state.updatedArticleIndex]
+						              		.data.cover
+						              	}
 						              )`
 						            }}
 								>
@@ -161,14 +180,20 @@ export default class Post extends Component {
 								<div 
 									className={Styles.content}
 						            dangerouslySetInnerHTML={{ 
-						            	__html: this.props.postsData.updatedArticles[0].contentHtml 
+						            	__html: this.props.postsData
+						            		.updatedArticles[this.state.updatedArticleIndex]
+						            		.contentHtml 
 						           	}} 
 						        />
 
 						        <div className={Styles.tagLine}>
-									{this.props.postsData.updatedArticles[0].data.tags.map(
-										(item, index) => <div key={index} className={Styles.tag}>{item}</div>
-									)}
+									{
+										this.props.postsData
+											.updatedArticles[1]
+											.data.tags.map(
+												(item, index) => <div key={index} className={Styles.tag}>{item}</div>
+											)
+									}
 								</div>	
 					        </div>
 
@@ -182,7 +207,9 @@ export default class Post extends Component {
 
 											return(
 												<div 
-													key={index} className={Styles.updateCard}
+													data-update={index}
+													key={index} 
+													className={Styles.updateCard}
 													onClick={this.swapArticle}
 													style={{
 						      							backgroundImage: `url(${article.data.cover})`,
