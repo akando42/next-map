@@ -10,6 +10,7 @@ yarn dev
 
 ## TODO
 [ ] Map with each location having a timeline.  
+[ ] Sync Image assets between Local Folder and Google Storage. 
 [X] Voice Over from Text
 [X] Design for Location-Based Stories Blog.  
 [X] Build the Landing Layout.  
