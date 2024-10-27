@@ -11,7 +11,7 @@ summary: "#SeaPower has always beaten #Land armies because of the cheaper cost o
 published: true
 ---
 
-# Indian Ocean Gene Groups Competion
+# Napoleon Contest British Domination via Israel and Vietnam
 
 Before the arrival of the British Navy, the Mongol Genes and their Horses dominated most of the Indian Subcontinent and East Asia. The Mongol married princesses from the Karachi River Delta and established the Mughal empire with two capitals in Multan and Delhi. 
 
