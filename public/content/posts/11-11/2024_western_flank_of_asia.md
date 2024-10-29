@@ -29,8 +29,6 @@ published: true
 ![Chinese Port in Cambodia](https://storage.googleapis.com/spykman-world/Ream_Naval_Base.png)
 
 ## Israel Is Real or Another British Invention
-
-
 ## Researches
 
 The Royal Dynasty of Northern India - The Mughal Empire or EM Pile 
@@ -66,12 +64,11 @@ https://en.wikipedia.org/wiki/Hartmut_Neven
 
 Large presence of Indian and Pakistan in Hanoi after COVID19 ?!
 
-Indian agents intercepting Hanoi online messages to the world ?
+Indian agents or Pakistani at Hyderabad intercepting Hanoi online messages to the world ?
 
-Hyderbad intercepting Messages from Hanoi to the US ? 
+The Pacifics Internet cable was cut by the Japanese navy ?!
 
-The Pacifics cable was cut by the Japanese navy ?!
+Indian or Pakistani men driving Vietnamese military jeep on Kim Ma street in 2022?
 
-Indian or Pakistani men driving Vietnamese military jeep on the streets of Hanoi ?
+Indian holding a large knife on HaiNan island and posting it on Instagram mean Indian is controlling Chinese Nuclear Submarines ?
 
-Indian Holding a large knife on HaiNan island and posting it on Instagram ?!
