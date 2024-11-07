@@ -6,11 +6,11 @@ path: "/11-11_pakistan_chaos"
 cover: "content/posts/11-11/Mongol_vs_British_Influence_of_India.png"
 date: "11-11-2023"
 title: "Pakistan Chaos and The One Sided Strategic Partnership With China"
-tags: ['India','Pakistan','Bangladesh','United Kingdom','United States', 'English', 'Bio Weapon', 'Infested Mode', 'Opium', 'Pharmacists', 'Spykman World','GeoGenetics']  
-summary: "#SeaPower has always beaten #Land armies because of the cheaper cost of moving good as well as the flexibility of rivers and ocean highway. Whoever control the #IndianOcean will end up control Euro Asia in 21 century."
+tags: ['India', 'Pakistan', 'Bangladesh', 'United Kingdom', 'United States', 'English', 'Bio Weapon', 'Infested Mode', 'Opium', 'Pharmacists', 'Spykman World','GeoGenetics']  
+summary: "#Noncompeting #GeneGroups Separated By #LargeOceans and #Mountains could become allies in the age of #FiberOptics #Internet and #SpaceSatelites"
 published: true
 ---
-## Indian Continent The Hide Out of For Ancient Genetics
+## Indian Continent The Hide Out of For Ancient Genetic Groups
 
 ![The Gene Conversion by Architecture of India and Southern China](https://storage.googleapis.com/spykman-world/Austrian_Tax_Collection_in_Ka-Ra-Chi_and_Sai-Gone.png)
 
