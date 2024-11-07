@@ -5,9 +5,9 @@ lng: 81.88449879560726
 path: "/11-11_pakistan_chaos"
 cover: "content/posts/11-11/Mongol_vs_British_Influence_of_India.png"
 date: "11-11-2023"
-title: "Pakistan Chaos and The One Sided Strategic Partnership With China"
+title: "Pol-Icyfication of India continent via iPhone, XO females and Islamic warriors"
 tags: ['India', 'Pakistan', 'Bangladesh', 'United Kingdom', 'United States', 'English', 'Bio Weapon', 'Infested Mode', 'Opium', 'Pharmacists', 'Spykman World','GeoGenetics']  
-summary: "#Noncompeting #GeneGroups Separated By #LargeOceans and #Mountains could become allies in the age of #FiberOptics #Internet and #SpaceSatelites"
+summary: ""
 published: true
 ---
 ## Indian Continent The Hide Out of For Ancient Genetic Groups
@@ -52,3 +52,10 @@ published: true
 
 ![Major Sea Cable Port of the Internet](https://storage.googleapis.com/spykman-world/Tibetan_Deltas_Internet_Seacable_Ports.png)
 
+## Thoughts
+
+Indian Ocean genetics groups have been least altered by North Atlantics gene groups but their mind have been highly influenced Britain and American languages, cultures and technical training.
+
+India will be the next iPhone mega factories, XO marketplaces and rapid gene updates with more and more Pol_Icy gene. 
+
+#Noncompeting #GeneGroups Separated By #LargeOceans and #Mountains could become allies in the age of #FiberOptics #Internet and #SpaceSatelites
