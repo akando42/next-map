@@ -46,6 +46,10 @@ published: true
 
 ![Cambodian Ream Port](https://storage.googleapis.com/spykman-world/Cambodian_Ream_Port.png)
 
+![Chinese Port in Myanmar](https://storage.googleapis.com/spykman-world/KyauKphyu.png)
+
+![TEA People Energy Supply Port](https://storage.googleapis.com/spykman-world/TEA_people_energy_suppy_route.png)
+
 ![Chinese Port in Sri Lanka](https://storage.googleapis.com/spykman-world/SriLanka_Port_of_Colombo.png)
 
 ![Sri Lanka the Broken Piece from the Buddha Tooth](https://storage.googleapis.com/spykman-world/Srilanka_The_broken_piece_from_Indian_buddha_Tooth.png)
