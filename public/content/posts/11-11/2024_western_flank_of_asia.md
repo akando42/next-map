@@ -118,6 +118,8 @@ With the Swiss nanobots, SpaceX satelites and Google Quantum Supercomputer, the 
 
 ![Indian Controls Lahore Water Reserves](https://storage.googleapis.com/spykman-world/Indian_Control_Lahore_Water_Reserves.png)
 
+![2025 Nuclear Controllers](https://storage.googleapis.com/spykman-world/2025_Nuclear_Controllers.png)
+
 ## Thoughts
 
 India will be the next iPhone mega factories, XO marketplaces and rapid gene updates with more and more Pol_Icy gene. 
