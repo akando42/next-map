@@ -2,7 +2,7 @@
 zoom: 6  
 lat: 7.665672742993175
 lng: 81.88449879560726
-path: "/11-11_pakistan_chaos"
+path: "the_declining_mobility_advantages_of_siberian_nomadic_genes_in_pakistan_china_and_the_mekong"
 cover: "content/posts/11-11/Mongol_vs_British_Influence_of_India.png"
 date: "11-11-2023"
 title: "The Declining Mobility Advantages of the Siberian Nomadic Gene Groups"
