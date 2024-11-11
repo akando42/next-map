@@ -207,6 +207,7 @@ export default class Post extends Component {
 
 											return(
 												<div 
+													id={article.data.path}
 													data-update={index}
 													key={index} 
 													className={Styles.updateCard}

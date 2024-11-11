@@ -5,12 +5,12 @@ lng: 81.88449879560726
 path: "/11-11_pakistan_chaos"
 cover: "content/posts/11-11/Mongol_vs_British_Influence_of_India.png"
 date: "11-11-2023"
-title: "Pol-Icyfication of India continent via iPhone, XO females and Islamic warriors"
+title: "The Declining Mobility Advantages of the Siberian Nomadic Gene Groups"
 tags: ['India', 'Pakistan', 'Bangladesh', 'United Kingdom', 'United States', 'English', 'Bio Weapon', 'Infested Mode', 'Opium', 'Pharmacists', 'Spykman World','GeoGenetics']  
-summary: ""
+summary: "Mobility advantages from sperm speed to horses, cars, planes and rockets are the major deciding factors that enable some genes to expand faster while other dying slowly in tree mode"
 published: true
 ---
-## Pakistan The Nomadic Last Stand Against North Sea Genes
+## Pakistan - The Nomadic Last Stand Against North Sea Genes
 
 The Mixing of Siberian Tibetan East Asian people and the Iranian Persian in Central Asia resulted in two powerful empires of the ancient Era: the Golden Horde of Eastern Europe that dominated Slavic tribes of modern Russia and the Mughal Empire that ruled over the Indian subcontinent until the arrival of British Naval ships. 
 
@@ -98,28 +98,36 @@ Port of Gwadar in Pakistan is currently served mainly as a Tibetan East Asian ge
 
 ![Gwadar Qua Da Money Washing Chinese Port in Pakistan for Islamic Female Experience](https://storage.googleapis.com/spykman-world/Gwadar_PORT_China_Pakistan_Silk_Road.png)
 
-## Delhi India A Loyal North Sea Ally
+## Delhi India - A Loyal North Sea Ally
 
-With the Swiss newest nanobot invention at the lake Geneva, the massing of SpaceX Starlink satelites and Google newest Quantum Supremacy super computer, now it has become possible to coordinate million of people in real-time to go after same objectives. This is like the German Tank Blitz radio advantages over everyone else but on steroid with wireless satelite-based brain to quantum computer interface. Without the quantum computer, its only possible to coordinate few thounsand people. Without the space-internet satelite, you can only do that in few kilometer radius and without the Geneva nanobot, real-time accurate muscle coordination on the road is not possible.
-
-![Google Quantum Supremacy](https://storage.googleapis.com/spykman-world/Google_2019_Quantum_Supremacy.png)
-
-With the Swiss nanobots, SpaceX satelites and Google Quantum Supercomputer, the Western leaders were able to coordinate million of African, European and Indian Bangladesh civilian drivers across vast distance to overrun Tibetan East Asian major cities, paralyze command control of Mekong nations, China and Japan and spread HIV and STDs among their population. Blood type AB of North East Asia were the priority targets with more than 100 millions in China, Japan, Korea and Mekong nations dying from STDs related diceases since 2019. 
-
-![Remote Control Car Drivers Charging from Paris to Beijing](https://storage.googleapis.com/spykman-world/RC_MARIO_CAR_RACE.png)
-
-![Indian Driving Soviet Jeep on The Street of Hanoi](https://storage.googleapis.com/spykman-world/Indian_Driving_Soviet_Jeep_on_KimMa_Street.png)
-
-![Major Sea Cable Port of the Internet](https://storage.googleapis.com/spykman-world/Tibetan_Deltas_Internet_Seacable_Ports.png)
-
-![The Gene Conversion by Architecture of India and Southern China](https://storage.googleapis.com/spykman-world/Austrian_Tax_Collection_in_Ka-Ra-Chi_and_Sai-Gone.png)
+The Bay of Bengal once served as the profitable Opium trade route between British India and Southern China continued to be a strong British influence area after the fall of Qing dynasty. Instead of Opium, the Burma road from Bangladesh to Kunming was used a critical supply line to enable to Kumintang Taiwanese to put up major resistance against the Manchurian Japanese invasion in China. 
 
 ![Dai Ly Controls Hanoi Water Reserves](https://storage.googleapis.com/spykman-world/DaiLy_Control_Hanoi_Water_Reserve.png)
 
+Since the end of WW2, British continues to maintain two strong ally bases in Delhi India and Shenzhen China to guard against any resurgences of the nomadic Mughal genes and nomadic Qing genes. Shenzhen and Delhi population centers are constantly being updates with new genes via the Swiss medical selection process to counter the expansion of regional natural selection genes of Mughal and Qing in India, Mekong Peninsula and China.
+
+![The Gene Conversion by Architecture of India and Southern China](https://storage.googleapis.com/spykman-world/Austrian_Tax_Collection_in_Ka-Ra-Chi_and_Sai-Gone.png)
+
+Natural selection process favors the more aggressive expansionary male genes with two last Royal dynasties of India and China are both nomadic horse archor tribes that control territorials of thousand square kilometers in size. However with European architects and doctors ability to design fortified mega cities with strictly controlled water supply and now central Air Conditioner, the once easy target farming villages have evolved into mega bio-chemical traps for the nomadic young Siberian Tibetan genes. 
+
 ![Indian Controls Lahore Water Reserves](https://storage.googleapis.com/spykman-world/Indian_Control_Lahore_Water_Reserves.png)
 
+Responding to the Tibetan East Asian genes from the Yellow Yangzte delta attempts to circumvent the British gene barriers in Red River delta and Bangladesh to expand beyond their shoreline, the anti-Chinese anti Sperm Mobility agendas started to be promoted around the globe since 2015 via the combination of British Artificial Intelligence companies like Deep Mind, Cambridge Analytica and social media platforms of Facebook, Twitter and Google Alphabet. British AI now can directly manipulate billion of human minds via social media via the fiber optics sea cable network to create anti-travellers attacks and cause widespread fears to reduce nomadic Tibetan East Asian gene mobility. Megacities in the Old World became dead traps for the adventurers and explorers. 
+
+![Major Sea Cable Port of the Internet](https://storage.googleapis.com/spykman-world/Tibetan_Deltas_Internet_Seacable_Ports.png)
+
+The nomadic Tibetan East Gene are no longer processing the moblity advatanges they once had in the 13 century. North Sea genes in Russia, America and Britain are now controlling the gasoline production as well as the design and engineering of the most efficient mobility vehicles. While once nomadic Tibetan East Asian gene got trapped in highrise Western design building, the North Sea gene minions in India and Mekong Peninsula are being supplied with cars and cash from the West to do the dirty works for the Empire.  
+
+![Remote Control Car Drivers Charging from Paris to Beijing](https://storage.googleapis.com/spykman-world/RC_MARIO_CAR_RACE.png)
+
+The Swiss newest nanobot invention at the lake Geneva, SpaceX Starlink Internet satelites and Google Quantum Supremacy supercomputer enables the hordes of million Western drivers to be coordinated in real time. This is like the German Tank Blitz radio advantages over everyone else but on steroid with wireless satelite-based brain to quantum computer interface. Without the quantum computer, its only possible to coordinate few thousand people. Without the space-internet satelite, you can only do that in few kilometer radius and without the Geneva nanobot, real-time accurate muscle coordination on the road is not possible.
+
+![Google Quantum Supremacy](https://storage.googleapis.com/spykman-world/Google_2019_Quantum_Supremacy.png)
+
+With the Swiss nanobots, SpaceX satelites and Google Quantum Supercomputer, the Western leaders were able to coordinate million of African, European and Indian Bangladesh civilian drivers across vast distance to overrun Tibetan East Asian major gene capitals, paralyze command control of Mekong nations, China and Japan and spread HIV and STDs among their population. Blood type AB of North East Asia were the priority targets with more than 100 millions in China, Japan, Korea and Mekong nations dying from STDs related diceases since 2019. 
+
+![Indian Driving Vietnamese Military Jeep on The Street of Hanoi](https://storage.googleapis.com/spykman-world/Made-In-KAZAN-Soviet-Jeep.png)
+
+Nuclear weapons once thought to be an effective deterrence againt invasions has become irrelevance in the age of space-based internet satelites and nanobots. Millions of human dressing in civilian clothing with no military insignia, driving civilian cars and boarding civilian planes can just cross national borders to cause more dead and property damages than the nuclear bombs that once dropped on Hiroshima and Nagasaki. 
+
 ![2025 Nuclear Controllers](https://storage.googleapis.com/spykman-world/2025_Nuclear_Controllers.png)
-
-## Thoughts
-
-India will be the next iPhone mega factories, XO marketplaces and rapid gene updates with more and more Pol_Icy gene. 
