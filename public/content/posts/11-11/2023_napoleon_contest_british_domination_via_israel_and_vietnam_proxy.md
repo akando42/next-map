@@ -4,7 +4,7 @@ lat: 7.665672742993175
 lng: 81.88449879560726
 path: "/11-11_napoleon_contest_british_domination_via_israel_and_vietnam_proxy"
 cover: "content/posts/11-11/Napoleon_contesting_British_domination.png"
-date: "11-11-2024"
+date: "11-11-2023"
 title: "Napoleon Contest British Domination via Israel and Vietnam Proxy"
 tags: ['India','Asia','Asian American','Asian Association','India Ocean','Spykman World','GeoGenetics']  
 summary: "#SeaPower has always beaten #Land armies because of the cheaper cost of moving good as well as the flexibility of rivers and ocean highway. Whoever control the #IndianOcean will end up control Euro Asia in 21 century."
