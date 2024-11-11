@@ -106,7 +106,7 @@ The Bay of Bengal once served as the profitable Opium trade route between Britis
 
 Since the end of WW2, British continues to maintain two strong ally bases in Delhi India and Shenzhen China to guard against any resurgences of the nomadic Mughal genes and nomadic Qing genes. Shenzhen and Delhi population centers are constantly being updates with new genes via the Swiss medical selection process to counter the expansion of regional natural selection genes of Mughal and Qing in India, Mekong Peninsula and China.
 
-![The Gene Conversion by Architecture of India and Southern China](https://storage.googleapis.com/spykman-world/Austrian_Tax_Collection_in_Ka-Ra-Chi_and_Sai-Gone.png)
+![The Gene Conversion by Architecture of India and Southern China](https://storage.googleapis.com/spykman-world/XO_Traps_In_Lahore_and_Hanoi_to_Delete_Travel_Genes.png)
 
 Natural selection process favors the more aggressive expansionary male genes with two last Royal dynasties of India and China are both nomadic horse archor tribes that control territorials of thousand square kilometers in size. However with European architects and doctors ability to design fortified mega cities with strictly controlled water supply and now central Air Conditioner, the once easy target farming villages have evolved into mega bio-chemical traps for the nomadic young Siberian Tibetan genes. 
 
