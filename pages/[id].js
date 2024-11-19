@@ -189,7 +189,7 @@ export default class Post extends Component {
 						        <div className={Styles.tagLine}>
 									{
 										this.props.postsData
-											.updatedArticles[1]
+											.updatedArticles[0]
 											.data.tags.map(
 												(item, index) => <div key={index} className={Styles.tag}>{item}</div>
 											)
