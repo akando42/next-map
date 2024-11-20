@@ -15,3 +15,4 @@
 [ ] Ability to apply information influences of the GeoGen Area to the outside World. 
 [ ] Ability to apply trade influences of the GeoGen Area to the outside World. 
 [ ] Ability to create secured genetics settlements outside of its genetics centers.
+
