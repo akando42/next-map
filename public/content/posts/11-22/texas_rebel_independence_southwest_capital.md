@@ -30,7 +30,7 @@ As a result of this mountainous formation, Tibetan East Asian genes grow much sl
 
 So the US-Mexican war was the pivotal moment that defines modern day US geography as well as the 20 century global balance of power with the New England gene groups gain control one of largest agriculture landmass in the world that well protected in the North by the freezing temperature of the Artics, the East by Pacifics Ocean and West by the Atlantics ocean. 
 
-Texas is the main gate to North America. Whoever controls Texas eventually will define the genetics pool of the United States and Canada.  After the Cuban Missile Crisis and the Assasination of JFK in Dallas, it seems like the former Soviet States of Russia and Kazakhstan have been controlling this gate. The Hispanic Latino and African Latino population of the South with STAN assistance are slowly but absolutely regaining political control of North America by just making more babies and raising them as well as Americans.
+Texas is the main gate to North America. Whoever controls Texas eventually will define the genetics pool of the United States and Canada.  After the Cuban Missile Crisis and the Assasination of JFK in Dallas, it seems like the former Soviet States of Russia and Kazakhstan have been controlling this gate. The Hispanic Latino and African Latino population of the South with STAN assistance are slowly but absolutely regaining political control of North America by just making more babies and raising them well as Americans.
 
 ![Commanche Nation](https://storage.googleapis.com/spykman-world/Commanche_Nation.png)
 
