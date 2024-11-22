@@ -62,13 +62,19 @@ The JFK assassination put a stop to migration of New English gene groups South t
 
 ![Texas Demographic Change](https://storage.googleapis.com/spykman-world/Texas_Demographics_Change.png)
 
+The California economy and mega Tech giants are built around high tech semiconductors imported from Tibetan East Asian nations. And the Texas economy is also built around high tech semiconductors. Every weapon system built by Lockheed Martin, the largest weapon producer in the World, comes with an embedded computer. These results in gene pool share change with Tibetan East Asian gained enough support to become San Francisco and San Antonio city mayors and large shareholders in critical American corporations of California and Texas.
+
 ![Leaders of South West Nation](https://storage.googleapis.com/spykman-world/Hispanic_Asian_Black_Leaders_of_SouthWestNation.png)
+
+The Hispanic and Tibetan East Asian population growth and gene pool share in the United States defines the Economic growth of California and Texas. In 2020, California and Texas already account for 23% of the US Economy and 20% of US Population. If the election results in Washington lead to Tibetan East Asian and Hispanics population throttle via Sterilization or Travel Prohibition in California and Texas then a Civil War could easily be brown out between South Western States and New England power center.
+
+![Natural Gas and Oil Pipeline from Houston](https://storage.googleapis.com/spykman-world/Natural_Gas_Pipeline_Texas.png)
 
 ![Major Gulf of Mexico Cities ](https://storage.googleapis.com/spykman-world/Most_Populous_Cities_Of_the_Caribbean.png)
 
 ![Gulf of Mexico The Medditerian of the New World](https://storage.googleapis.com/spykman-world/Gulf_of_Mexico_the_MEDITERRIAN_of_the_new_World.png)
 
-![Natural Gas and Oil Pipeline from Houston](https://storage.googleapis.com/spykman-world/Natural_Gas_Pipeline_Texas.png)
+![Lake of the Western Forces](https://storage.googleapis.com/spykman-world/Lakes_of_the_Western_Forces.png)
 
 ![LockHeat_Mart_Teen_RD_Center](https://storage.googleapis.com/spykman-world/LockHeat_MartTeen_RD_Center.png)
 
@@ -84,11 +90,15 @@ The JFK assassination put a stop to migration of New English gene groups South t
 
 ## New England Sherif Attempt to Regain Control
 
+The Mississippi agriculture belt will always result in population advantages of North Eastern states with majority of US population growth will come from this area. As the result, the North Eastern states will always have an advantages in Men Power for any kind of military recruitment during Civil War. Only migrations from other regions or food imports from other regions could result in the alternation of this population balance. Air travel migration is highly expensive so Food and Human importing via land and sea from Central and Latin America could be the only real threat to the New England balance of power. 
+
 ![Mississipi High Agriculture Production Region](https://storage.googleapis.com/spykman-world/missisipi_united_states.png)
+
+New England planners and the Department of Defense in Washington DC and Virginia have also planned the locations of US Military installations, ammunition storage and weapon research facilities to reduce chances of any break away movements from Southern and Western states. Majority of US ammunition storage and ground-based army unit weapon production factories are located in the North Eastern states with only Nevada facility is located in the West. In the case of a Civil War, Texas, California and other South Western states will run out of ammunition while the North Eastern states can keep on fighting with larger ammunition stockpile and military recruitment pool.
 
 ![New England Sherif Army Munnition Depots Placement](https://storage.googleapis.com/spykman-world/US_Terrain_and_Military_Ammunition_Depots.png)
 
-![Lake of the Western Forces](https://storage.googleapis.com/spykman-world/Lakes_of_the_Western_Forces.png)
+Ground control weapon research facilies are also located in the East with US main Battle Tank, Armor Vehicle built by General Dynamics corporation of the North East. Large production faciliies for M4 Riffles, Handguns and Long-Range Sniper guns are also located in the East with Smiths and Wesson factory tuck way in the Tennessee high mountain. Even ground-control robot dogs are also being researched in Boston of Massachusetts not California or Texas. 
 
 ![General Dynamics Stryker Armor Vehicles](https://storage.googleapis.com/spykman-world/General_Dynamics_Strykers_Armor_Vehicle.png)
 
