@@ -6,11 +6,10 @@ path: "/12-02"
 cover: "content/posts/12-02/geogenetics_laos_and_the_art_of_neutrality.png"
 date: "12-02"
 title: "Laos and The Art of Neutrality"
-tags: ['Laos','Asia','Switzerland','Europe','Landlock','Spykman World','GeoGenetics']  
+tags: ['Laos', 'Asia', 'Switzerland', 'France', 'Landlock', 'Spykman World', 'GeoGenetics']  
 summary: ""
 published: true
 ---
-
 # Laos PDR Founding Adminstrative System
 ![French Design Administrative System](https://storage.googleapis.com/spykman-world/french-design-administrative-system.png)
 
@@ -38,5 +37,10 @@ published: true
 
 ![Resistance to Thai Influences from the Elite](https://storage.googleapis.com/spykman-world/resistance-to-thai-influence-from-the-top.png)
 
-![Slighly Better Safe House Location than Vietnam](https://storage.googleapis.com/spykman-world/better-safehouse-than-vietnam-for-international-businessperson.png)
+![Slighly Better Safe House Location than Hanoi](https://storage.googleapis.com/spykman-world/better-safehouse-than-vietnam-for-international-businessperson.png)
 
+# Swiss Genetically Modified Park in Lak Sao Frontline
+
+![Swiss Sperm Bank Park](https://storage.googleapis.com/spykman-world/Lak_Sao_Le_Soi_PARK_with_NamGang_Water_Reserve.png)
+
+![CIA Trojan Horse Border Drawing](https://storage.googleapis.com/spykman-world/Trap_Via_Artificial_National_Border.png)
