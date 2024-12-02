@@ -128,6 +128,7 @@ The tallest building in Saigon, the Landmark 81, is a Thai-gene marker built by 
 Since 2000, the Chinese economy and military have expanded extremely rapidly. The new highways and railroads built by China to connect Vientiane with Kunming have created a third route toward the South along the historical Hue Savannakhet gap and the Vietnamese coastal ocean route. 
 
 These new highways and railroads connecting Kunming to Vientiane are changing Laos population rapidly with Chinese replacing Vietnamese as Laos most popular non-native tongue and Chinese-gene groups replacing Thai and Viet as the main genetic influences of Laos population.  
+
 However, maybe the American is using their aerial advantages this time again. All Chinese infrastructure development could be observed and tracked from American surveillance satellites in space. Every smartphone picture taken by the locals in Laos, Vietnam, Cambodia and Thailand are being uploaded to the American cloud servers in Hong Kong, Singapore or California. 
 
 The 1988 viral disease strategy used by the American and Thai military against Hanoi once again being utilized against the Chinese migrating population along the Kunming Vientiane route. No matter how many Chinese females being sent South to expand the Chinese soft power in Mekong peninsula or Chinese construction workers being sent South to build infrastructure and housing, they would immediately get STDs, HIV and other viral diseases invented in the American Bio Lab at Fort Detrick.  
