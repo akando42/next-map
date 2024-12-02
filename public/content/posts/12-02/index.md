@@ -10,6 +10,59 @@ tags: ['Laos', 'Asia', 'Switzerland', 'France', 'Landlock', 'Spykman World', 'Ge
 summary: ""
 published: true
 ---
+# Laos PDR Founding Adminstrative System
+![French Design Administrative System](https://storage.googleapis.com/spykman-world/french-design-administrative-system.png)
+
+![Vietnam French Influenced](https://storage.googleapis.com/spykman-world/vietnam-french-influenced-social-management-method.png)
+
+![Bloodtype at Founding](https://storage.googleapis.com/spykman-world/three-different-bloodtype-at-founding.png)
+
+![Strong Vietnam and Thailand Influences at Founding](https://storage.googleapis.com/spykman-world/strong-thai-vietnam-influences-at-founding.png)
+
+![No Freedom of Pregnancy](https://storage.googleapis.com/spykman-world/no-freedom-of-pregnancy.png)
+
+![Large Population of XO](https://storage.googleapis.com/spykman-world/large-population-of-xo.png)
+
+# Present Laos Thailand Strong Partnership
+
+![Lack of Infrastructure with Vietnam](https://storage.googleapis.com/spykman-world/lack-of-infrastructure-with-vietnam.png)
+
+![Closely Simliar Alphabet to Thailand](https://storage.googleapis.com/spykman-world/closely-similiar-alphabet-to-thailand.png)
+
+![Close Genetics Pool with Thailand](https://storage.googleapis.com/spykman-world/close-genetics-mixing-with-thai.png)
+
+![Thailand as Largest Present Trading Partners](https://storage.googleapis.com/spykman-world/thailand-as-present-largesting-trading-partner.png)
+
+![Strong Thailand Influences](https://storage.googleapis.com/spykman-world/strong-thailand-influences.png)
+
+![Resistance to Thai Influences from the Elite](https://storage.googleapis.com/spykman-world/resistance-to-thai-influence-from-the-top.png)
+
+![Slighly Better Safe House Location than Hanoi](https://storage.googleapis.com/spykman-world/better-safehouse-than-vietnam-for-international-businessperson.png)
+
+# Swiss Genetically Modified Park in Lak Sao Frontline
+
+![Nam Ngum Water Reserves](https://storage.googleapis.com/spykman-world/Nam_Ngum_Water_Reserve.png)
+
+![Thai Land That Loung Gene Marker in Central Vientiane](https://storage.googleapis.com/spykman-world/Thailand%20Gene%20Marker.png)
+
+![Genetics Influences in Laos Cabinets](https://storage.googleapis.com/spykman-world/Gene_Influences_in_Laos_Cabinets.png)
+
+![Vietianne Savannakhet Agriculture Regions of Laos](https://storage.googleapis.com/spykman-world/Laos_Two_Agriculture_and_Population_Center.png)
+
+![Laos China Dongyan Refinery](https://storage.googleapis.com/spykman-world/Lao-China-Dongyan-Refinery.png)
+
+![Sepon Gold Mine](https://storage.googleapis.com/spykman-world/SEPON_Gold_Mine.png)
+
+![Hue Savannakhet in Truong Son Mountain Range](https://storage.googleapis.com/spykman-world/Hue_Savannakhet_Gap_In_TruongSon_Range.png)
+
+![Mekong Arable Central Region](https://storage.googleapis.com/spykman-world/LacViet_Lost_Arrable_Land_To_Thailand.png)
+
+![Swiss Sperm Bank Park](https://storage.googleapis.com/spykman-world/Lak_Sao_Le_Soi_PARK_with_NamGang_Water_Reserve.png)
+
+![CIA Trojan Horse Border Drawing](https://storage.googleapis.com/spykman-world/Trap_Via_Artificial_National_Border.png)
+
+# Draft
+
 Laos geography could be characterized as mostly mountainous with two narrow flatland areas around Vietiena and Savannakhet on the Western size of the famous Truong Son mountain range.  The capital of Laos, Vientiane has the closely similar spelling with Vienna, Austria as well as the geography of mountainous Swiss Alps. 
 
 While the Swiss Alps is the mountainous difficult terrain separating two different gene groups of Europe, the Northern Germanic tribes and the Southern Italian Mediterranean tribes, Laos mountainous terrain also separates two different gene groups of Viet and Thai. 
@@ -81,37 +134,4 @@ The 1988 viral disease strategy used by the American and Thai military against H
 
 As of 2023, Chinese Huawei is closing down their office in Laos because of widespread diseases, extremely high food inflation caused by American dollar printing sprees and CIA-funded criminal gangs attacking Vietnamese and Chinese businesses and families in Laos. 
 
-# Laos PDR Founding Adminstrative System
-![French Design Administrative System](https://storage.googleapis.com/spykman-world/french-design-administrative-system.png)
 
-![Vietnam French Influenced](https://storage.googleapis.com/spykman-world/vietnam-french-influenced-social-management-method.png)
-
-![Bloodtype at Founding](https://storage.googleapis.com/spykman-world/three-different-bloodtype-at-founding.png)
-
-![Strong Vietnam and Thailand Influences at Founding](https://storage.googleapis.com/spykman-world/strong-thai-vietnam-influences-at-founding.png)
-
-![No Freedom of Pregnancy](https://storage.googleapis.com/spykman-world/no-freedom-of-pregnancy.png)
-
-![Large Population of XO](https://storage.googleapis.com/spykman-world/large-population-of-xo.png)
-
-# Present Laos Thailand Strong Partnership
-
-![Lack of Infrastructure with Vietnam](https://storage.googleapis.com/spykman-world/lack-of-infrastructure-with-vietnam.png)
-
-![Closely Simliar Alphabet to Thailand](https://storage.googleapis.com/spykman-world/closely-similiar-alphabet-to-thailand.png)
-
-![Close Genetics Pool with Thailand](https://storage.googleapis.com/spykman-world/close-genetics-mixing-with-thai.png)
-
-![Thailand as Largest Present Trading Partners](https://storage.googleapis.com/spykman-world/thailand-as-present-largesting-trading-partner.png)
-
-![Strong Thailand Influences](https://storage.googleapis.com/spykman-world/strong-thailand-influences.png)
-
-![Resistance to Thai Influences from the Elite](https://storage.googleapis.com/spykman-world/resistance-to-thai-influence-from-the-top.png)
-
-![Slighly Better Safe House Location than Hanoi](https://storage.googleapis.com/spykman-world/better-safehouse-than-vietnam-for-international-businessperson.png)
-
-# Swiss Genetically Modified Park in Lak Sao Frontline
-
-![Swiss Sperm Bank Park](https://storage.googleapis.com/spykman-world/Lak_Sao_Le_Soi_PARK_with_NamGang_Water_Reserve.png)
-
-![CIA Trojan Horse Border Drawing](https://storage.googleapis.com/spykman-world/Trap_Via_Artificial_National_Border.png)
