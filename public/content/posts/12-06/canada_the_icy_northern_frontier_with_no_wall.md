@@ -10,11 +10,17 @@ summary: ""
 tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'GeoGenetics']  
 published: true
 ---
+![Canada Climate Map](https://storage.googleapis.com/spykman-world/Climate_Map.png)
+
+![Vancouver Metro Farmland Distribution]()
+
+![Edmonton Chicago Oil Pipeline](https://storage.googleapis.com/spykman-world/Edmonton-Chicago-oil-pipeline.png)
+
 ## Draft
 
 ## Research
 
-### Wind Map and Weather Pattern.
+### Wind Map and Weather Pattern
 - Most of Northern Canada are PermaFrost Inhabitable, difficult to build road or develop agriculture farms
  
 - Pacific Northern wind bring regular rain to Vancouver but can not pass over the Rocky Mountain 
