@@ -23,6 +23,8 @@ published: true
 
 ![Canada Climate Map](https://storage.googleapis.com/spykman-world/Climate_Map.png)
 
+![Canadian Head of States 10 Years Term](https://storage.googleapis.com/spykman-world/Canadian_Head_of_States_Since_1984.png)
+
 ## Draft
 
 ## Research
@@ -65,8 +67,17 @@ Largest cities in Canada  are
 - English Viking migrant via the Norther Atlantics sailboats
 - Spanish Roman migrant via the Caribbean Mississippi Northern advances 
 - Tibetan East Asian migrant via Gasoline Pacifics Airlines and Container Ships.
+- South Asian migrant via Gasoline Pacifics Airlines with Large Spike after Wars in Middle East.
+- Canada is 70% White, 7.1% Indian, 5.6% Tibetan East Asian, 4.3% Black and 1.9% Arab 
 
 ### Present and Past National Border
+
+- Majority of Canadian territorial was part of the French Empire
+- The British defeated French Empire in North America and acquire most of Canadian territorial
+- The United States Indepdence caused the British to lose all of its southern territorial but get to keep Canada
+- The British attempted to expand Canada by attacking and burning Washington DC and the White House but fail to reacquire United States.
+- After the British Empire collapse, Canada gained its indepedence with the modern day Map and become both American and British ally.
+- Canada claimed most of islands and northern coastline routes in the Arctics along its border but ignored by the US Navy. 
 
 ### Major Outputs via Exports, Needs for Import
 - Canadian export oil and gas from the Alberta steppe region to United States and East Asia
@@ -74,12 +85,24 @@ Largest cities in Canada  are
 - Member state of the F35 program with defense part exported to Turkey
 
 ### Trade Network via Sea Ports, Highway, Railways and AirFreight
+- Large Oil and Natural Gas Pipeline connecting to US Central and East Coast
+- Large Westcoast Seaports in Vancouver near US Washington State
+- Large Eastcoast Seaports in Toronto near US New England New York area
+- Highway system connecting and interoperable with US highway system, little border check between Canada and US.
+- Intergrated Rail Network between Canadian cities and American cities in the East along Missisipi river
+- Canadian Airlines and Airports are mostly Boeing aircrafts with American architectures.
 
 ### Internet Marine Cable, News Sites, TV Anchors and Social Media Influencers.
+- The Far North Fiberoptics cables passing along Canadian northern border connecting Alaska with Ireland and Norway.
+- Tokyo-Vancouver Cable also connecting Japan to Canadian Westcoast via the Pacifics route.
+- Most famous Canadian youtube channel belongs to an Arab family https://www.youtube.com/@SierraRhiaFAM/
+- Richest Canadian is the Chinese founder of Binance Changpeng Zhao
 
 ### Information influences of the GeoGen Area to the outside World.
+- Most of Porn sites are own by Canadian companies
 
 ### Trade influences of the GeoGen Area to the outside World.
+- United states population are highly dependent on Canadian Oil and Gas industry for its transportation, cooking and heating need
 
 ### Secured genetics settlements of Canadian abroad
 - Canada, US VISA program
