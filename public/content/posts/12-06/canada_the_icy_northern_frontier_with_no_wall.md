@@ -10,11 +10,18 @@ summary: ""
 tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'GeoGenetics']  
 published: true
 ---
+
+![Canadian Seatlements at Night](https://storage.googleapis.com/spykman-world/Canadian_Settlements_At_Night.png)
+
+![Vancouver Metro Farmland Distribution](https://storage.googleapis.com/spykman-world/Vancouver_Metro_Farmland_Distribution.png)
+
+![Canadian Alberta Agriculture Rich Region](https://storage.googleapis.com/spykman-world/Canada_Alberta_Agriculture_Rich_Region.png)
+
+![Edmonton Denver Chicago Oil Triangle](https://storage.googleapis.com/spykman-world/Edmonton-Chicago-Denver-Oil-Triangle.png)
+
+![Edmonton Oil Refineries and Storages](https://storage.googleapis.com/spykman-world/Edmonton_Candian_Oil_Refinery_and_Storage.png)
+
 ![Canada Climate Map](https://storage.googleapis.com/spykman-world/Climate_Map.png)
-
-![Vancouver Metro Farmland Distribution]()
-
-![Edmonton Chicago Oil Pipeline](https://storage.googleapis.com/spykman-world/Edmonton-Chicago-oil-pipeline.png)
 
 ## Draft
 
@@ -47,10 +54,10 @@ published: true
 - The Canadian Steppe Plain of Alberta with Calgary and Edmonton as largest cities
 
 ### Gene Groups and Demographics Distribution
-- Largest cities in Canada  
-==> North East cities of Toronto, Ottawa and Montreal  
-==> Central cities of Calgary and Edmonton and Winnipeg 
-==> Western city of Vancouver —> large Asian immigrants population here. Wife of the Northern Asian families survive long only.
+Largest cities in Canada  are
+- North East cities of Toronto, Ottawa and Montreal  
+- Central cities of Calgary and Edmonton and Winnipeg 
+- Western city of Vancouver with large Asian immigrants population here. Wife of the Northern Asian families survive long only at Van-Cu-Vo
 
 ### Genetics Flow via Migration and Invasion
 - Siberian Asian migrants via the Icy Bering Strait to become Native American
@@ -73,6 +80,10 @@ published: true
 ### Information influences of the GeoGen Area to the outside World.
 
 ### Trade influences of the GeoGen Area to the outside World.
+
+### Secured genetics settlements of Canadian abroad
+- Canada, US VISA program
+- Canadian Forces Station Alert - https://en.wikipedia.org/wiki/CFS_Alert
 
 
 
