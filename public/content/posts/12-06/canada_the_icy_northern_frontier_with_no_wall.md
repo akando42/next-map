@@ -114,8 +114,9 @@ Largest cities in Canada  are
 - United states population are highly dependent on Canadian Oil and Gas industry for its transportation, cooking and heating need
 
 ### Secured genetics settlements of Canadian abroad
-- Canada, US VISA program
-- Canadian Forces Station Alert - https://en.wikipedia.org/wiki/CFS_Alert
+- Canadian and American can cross each other border freely to earn money, mate with the locals, sightseeing or education but can only rent properties not own houses in within each others border. 
+  
+- Canadian Forces Station Alert is the Northern Most Military Base in the Artics, a common territorial for all nations to conduct research and NATO-friendly military activities. 
 
 
 
