@@ -10,9 +10,14 @@ summary: ""
 tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'Indian', 'GeoGenetics']  
 published: true
 ---
+## Vancouver The Pacifics North West City of Siberian East Asian
 ![Canadian Seatlements at Night](https://storage.googleapis.com/spykman-world/Canadian_Settlements_At_Night.png)
 
 ![Vancouver Metro Farmland Distribution](https://storage.googleapis.com/spykman-world/Vancouver_Metro_Farmland_Distribution.png)
+
+![Canadian Cities Gene Group Shares](https://storage.googleapis.com/spykman-world/Canada_Demographic_by_Cities.png)
+
+## The Central Alberta Open Steppe of Gas and Farmland
 
 ![Canadian Alberta Agriculture Rich Region](https://storage.googleapis.com/spykman-world/Canada_Alberta_Agriculture_Rich_Region.png)
 
@@ -20,11 +25,13 @@ published: true
 
 ![Edmonton Oil Refineries and Storages](https://storage.googleapis.com/spykman-world/Edmonton_Candian_Oil_Refinery_and_Storage.png)
 
+## The Great Lake New England of Original Canadian
+
 ![Canada Climate Map](https://storage.googleapis.com/spykman-world/Climate_Map.png)
 
 ![Canadian Head of States 10 Years Term](https://storage.googleapis.com/spykman-world/Canadian_Head_of_States_Since_1984.png)
 
-![Canadian Cities Gene Group Shares](https://storage.googleapis.com/spykman-world/Canada_Demographic_by_Cities.png)
+![Canadian British Troops Burned Down the White House](https://storage.googleapis.com/spykman-world/Canadian_British_Empire_Troops_Burned_Down_WH_August_24_1814.png)
 
 ## Draft
 
