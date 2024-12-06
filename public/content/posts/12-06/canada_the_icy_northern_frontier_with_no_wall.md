@@ -7,10 +7,9 @@ cover: "content/posts/12-06/geogenetics-canada-the-icy-northern-frontier-with-no
 date: "12-06"
 title: "Canada - The Icy Northern Frontier with No Wall"
 summary: ""
-tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'GeoGenetics']  
+tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'Indian', 'GeoGenetics']  
 published: true
 ---
-
 ![Canadian Seatlements at Night](https://storage.googleapis.com/spykman-world/Canadian_Settlements_At_Night.png)
 
 ![Vancouver Metro Farmland Distribution](https://storage.googleapis.com/spykman-world/Vancouver_Metro_Farmland_Distribution.png)
@@ -24,6 +23,8 @@ published: true
 ![Canada Climate Map](https://storage.googleapis.com/spykman-world/Climate_Map.png)
 
 ![Canadian Head of States 10 Years Term](https://storage.googleapis.com/spykman-world/Canadian_Head_of_States_Since_1984.png)
+
+![Canadian Cities Gene Group Shares](https://storage.googleapis.com/spykman-world/Canada_Demographic_by_Cities.png)
 
 ## Draft
 
@@ -83,6 +84,7 @@ Largest cities in Canada  are
 - Canadian export oil and gas from the Alberta steppe region to United States and East Asia
 - Also export food maybe from Agriculture rich region of Alberta to United States West Coast and Vancouver 
 - Member state of the F35 program with defense part exported to Turkey
+- Large Importers of Rice to feed the Tibetan East Asian population in Coastal Cities
 
 ### Trade Network via Sea Ports, Highway, Railways and AirFreight
 - Large Oil and Natural Gas Pipeline connecting to US Central and East Coast
