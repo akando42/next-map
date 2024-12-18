@@ -10,6 +10,29 @@ title: "Geography and Genetics of TEA people"
 tags: ['Novosibirsk','Beijing','Pongyang','Chengdu','Shanghai','Shenzhen','Hanoi','Vietiane','GeoGenetics']  
 published: true
 ---
+![Northern Snow Cities](https://storage.googleapis.com/spykman-world/Cities%20with%20Snow.png)
+
+![Novosibisk](https://storage.googleapis.com/spykman-world/Obs%20River%20and%20Novosibisk.png)
+
+![Novosibisk Rail Terminal](https://storage.googleapis.com/spykman-world/Novosibisk%20Train%20Terminal.png)
+
+![Novosibisk Outdated Aircraft Production Plant](https://storage.googleapis.com/spykman-world/Novosibisk%20Aircraft%20Production%20Plant.png)
+
+![Winter Wind Southern Marine Merchants Cities](https://storage.googleapis.com/spykman-world/Winter_Southern_Advances.png)
+
+![Yangzte River Port Cities](https://storage.googleapis.com/spykman-world/Yangzte%20River%20Port%20Cities.png)
+
+![Shanghai German Chinese Volkswagen Industrial Zone](https://storage.googleapis.com/spykman-world/Shanghai%20Volkswagen%20Industrial%20Zone.png)
+
+![Hangzhou Small Seperated Water Reserves](https://storage.googleapis.com/spykman-world/Hangzhou%20Artificial%20Water%20Reservoir.png)
+
+![Alibaba HikVision Headquarters in HangZhou Hang Trau](https://storage.googleapis.com/spykman-world/Alibaba_and_HikVision_Headquarter.png)
+
+![Jack Ma Elon Musk Freaking Out about Water Nanobots](https://storage.googleapis.com/spykman-world/JackMa_ElonMusk_Debates_and_Clues.png)
+
+![Jack Ma Joko Widodo](https://storage.googleapis.com/spykman-world/Flat_Back_of_the_Head.png)
+
+![China UNICOM Weird Brain Interface Datacenter](https://storage.googleapis.com/spykman-world/Hangzhou%20Tech%20Park.png)
 
 
 
