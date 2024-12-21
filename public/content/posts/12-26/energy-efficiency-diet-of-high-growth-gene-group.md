@@ -38,6 +38,8 @@ published: true
 
 ![Chien Trau Ancient Capital of the Sang Empire](https://storage.googleapis.com/spykman-world/ChienTrau_Ancient_and_Modern_Capital_of_the_Sang_Empire.png)
 
+![Water Inefficiency Diet of Water Abundance Tibetan East Asian Cultures](https://storage.googleapis.com/spykman-world/Rich_Chinese_Girl_Capital_of_Sang.png)
+
 
 
 
