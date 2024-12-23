@@ -40,6 +40,8 @@ published: true
 
 ![Water Inefficiency Diet of Water Abundance Tibetan East Asian Cultures](https://storage.googleapis.com/spykman-world/Rich_Chinese_Girl_Capital_of_Sang.png)
 
+![Aggressive Mayors of Modern Chinese Cities](https://storage.googleapis.com/spykman-world/Aggressive_Mayors_of_Chinese_Cities.png)
+
 
 
 
