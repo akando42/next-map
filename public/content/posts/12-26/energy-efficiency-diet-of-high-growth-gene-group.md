@@ -38,10 +38,19 @@ published: true
 
 ![Chien Trau Ancient Capital of the Sang Empire](https://storage.googleapis.com/spykman-world/ChienTrau_Ancient_and_Modern_Capital_of_the_Sang_Empire.png)
 
+![Tea People Gene Expression in Different Regions](https://storage.googleapis.com/spykman-world/Tea%20gene%20expression%20by%20Regions.png)
+
 ![Water Inefficiency Diet of Water Abundance Tibetan East Asian Cultures](https://storage.googleapis.com/spykman-world/Rich_Chinese_Girl_Capital_of_Sang.png)
+
+![Largest Apple Foxconn Factory in Chien Trau China](https://storage.googleapis.com/spykman-world/Apple_Foxconn_Factory_in_Chien_Trau_Formal_SHANG_Capital.png)
+
+![iPhone Features Allowing Brain Control Since 2015](https://storage.googleapis.com/spykman-world/iphone_features_allowing_brain_control_since_2015.png)
+
+![Brain Freeze via Nanobot in Water and RF Broadcasting](https://storage.googleapis.com/spykman-world/brain-freeze-via-nanobot-in-water-and-rf-broadcasting.gif)
 
 ![Aggressive Mayors of Modern Chinese Cities](https://storage.googleapis.com/spykman-world/Aggressive_Mayors_of_Chinese_Cities.png)
 
+![COVID Testing as cover for Nanobot Detection Crew](https://storage.googleapis.com/spykman-world/COVID_TESTING_FOR_NANOBOT_DETECTION.png)
 
 
 
