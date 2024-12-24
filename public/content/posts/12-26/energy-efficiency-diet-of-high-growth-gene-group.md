@@ -7,7 +7,7 @@ cover: "content/posts/12-26/sang_capital_of_china.png"
 date: "12-26"
 summary: "The Tibetan East Asian genes multiplies and evolves extremely rapidly after reaching the Yellow Yangzte area with the abundances of fertile aggregable lands and fresh water pouring down from the Himalaya"
 title: "Easily Impregnable Gene Groups via Imported Hightech Diet"
-tags: ['Novosibirsk', 'Beijing', 'Pongyang', 'Chengdu', 'Shanghai', 'Shenzhen', 'Hanoi', 'Vietiane', 'GeoGenetics']  
+tags: ['Novosibirsk', 'Xian', 'Beijing', 'Shenyang', 'Pongyang', 'Chengdu', 'Shanghai', 'Shenzhen', 'Hanoi', 'Vietiane', 'GeoGenetics']  
 published: true
 ---
 ![Northern Snow Cities](https://storage.googleapis.com/spykman-world/Cities%20with%20Snow.png)
@@ -43,6 +43,8 @@ published: true
 ![Water Inefficiency Diet of Water Abundance Tibetan East Asian Cultures](https://storage.googleapis.com/spykman-world/Rich_Chinese_Girl_Capital_of_Sang.png)
 
 ![Largest Apple Foxconn Factory in Chien Trau China](https://storage.googleapis.com/spykman-world/Apple_Foxconn_Factory_in_Chien_Trau_Formal_SHANG_Capital.png)
+
+![TEA Tibetan East Asian Technology Founders ](https://storage.googleapis.com/spykman-world/TEA_Tibetan_East_Asian_TECHNOLOGY_Founders.png)
 
 ![iPhone Features Allowing Brain Control Since 2015](https://storage.googleapis.com/spykman-world/iphone_features_allowing_brain_control_since_2015.png)
 
