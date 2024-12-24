@@ -6,7 +6,7 @@ path: "/12-26"
 cover: "content/posts/12-26/sang_capital_of_china.png"
 date: "12-26"
 summary: "The Tibetan East Asian genes multiplies and evolves extremely rapidly after reaching the Yellow Yangzte area with the abundances of fertile aggregable lands and fresh water pouring down from the Himalaya"
-title: "Energy Efficiency Diet of High Growth Gene Group"
+title: "Easily Impregnable Gene Groups via Imported Hightech Diet"
 tags: ['Novosibirsk', 'Beijing', 'Pongyang', 'Chengdu', 'Shanghai', 'Shenzhen', 'Hanoi', 'Vietiane', 'GeoGenetics']  
 published: true
 ---
