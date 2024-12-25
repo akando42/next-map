@@ -38,7 +38,7 @@ published: true
 - Snow in cities North of the Yellow River
 - Extreme amount of Rain in cities South of the Pearl river.
 
-Historically, it is easier to invade the South via Ocean Sail Boat during Winter from Oct to April and easier to invade the North via Horse during summer from May to September.\
+Historically, it is easier to invade the South via Ocean Sail Boat during Winter from Oct to April and easier to invade the North via Horse during summer from May to September.
 
 It is easier to move troop on Land during Summer from April to October in area North of the Yangtze River
 - Snow and Ice will cause high casualty among mobilizing troops
