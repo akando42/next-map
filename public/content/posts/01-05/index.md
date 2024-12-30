@@ -15,3 +15,25 @@ published: true
 ## Sustainable Population Count that California Central Valley Can Support
 
 ## Why It Is Easier to Settle in Seatle than San Francisco
+
+
+## RESEARCH
+
+### Terrain via Mountain, Delta, Desert, Coastline, Ocean
+- Long coastline from San Francisco to San Diego
+- The Sierra mountain separated California Coastline from its Central Valley Agriculture Area
+- 40,761.86 km² California Central Valley Agriculture Region
+
+### Weather Pattern via Wind, Rain and Temperature
+
+
+### Major River, Water Reserve Lakes
+
+### Genetics Flow via Emigration, Immigration and Invasion
+### Present and Past National Border
+### Major Outputs via Exports, Needs for Import
+### Trade Network via Sea Ports, Highway, Railways and AirFreight
+### Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+### Information Influences of the GeoGen Area to the outside World
+### Trade Influences of the GeoGen Area to the outside World
+### Secured Genetics Settlements outside of GeoGen Center
