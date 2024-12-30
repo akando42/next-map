@@ -10,12 +10,18 @@ title: "Golden Gate Bridge - The East West Link"
 tags: ['Japan', 'China', 'Vietnam','California', 'Washington', 'Seatle', 'United States', 'Pacifics Ocean', 'Golden Gate', 'Spykman World','GeoGenetics']  
 published: true
 ---
+
+![Silicon Valley Mountain Water Reservoir](https://storage.googleapis.com/spykman-world/Silicon_Valley_Mountain_Water_Reservoirs.png)
+
+![Bakersfield Cali Dairy Farm](https://storage.googleapis.com/spykman-world/Haagsma_Pinheiro_Dairy_Farm.png)
+
+![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
+
 ## The East Asian Beachhead or Guest House
 
 ## Sustainable Population Count that California Central Valley Can Support
 
 ## Why It Is Easier to Settle in Seatle than San Francisco
-
 
 ## RESEARCH
 
