@@ -10,13 +10,17 @@ title: "Golden Gate Bridge - The East West Link"
 tags: ['Japan', 'China', 'Vietnam','California', 'Washington', 'Seatle', 'United States', 'Pacifics Ocean', 'Golden Gate', 'Spykman World','GeoGenetics']  
 published: true
 ---
+![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
+
+![Stockton River Created Chinese Slaves Sold to American from the Last Qing Empress](https://storage.googleapis.com/spykman-world/Qing_Empress_Defeat_Seatlement.png)
+
+![California Governors](https://storage.googleapis.com/spykman-world/California_Governers.png)
+
 ![Silicon Valley Mountain Water Reservoir](https://storage.googleapis.com/spykman-world/Silicon_Valley_Mountain_Water_Reservoirs.png)
 
 ![Bakersfield Cali Dairy Farm](https://storage.googleapis.com/spykman-world/Haagsma_Pinheiro_Dairy_Farm.png)
 
-![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
-
-![Stockton River Created Chinese Slaves Sold to American from the Last Qing Empress](https://storage.googleapis.com/spykman-world/Qing_Empress_Defeat_Seatlement.png)
+![Christian Mission for Californian](https://storage.googleapis.com/spykman-world/Christian_Mission_For_Californian.png)
 
 ## The East Asian Beachhead or Guest House
 
