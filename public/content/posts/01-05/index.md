@@ -190,16 +190,12 @@ The California and US gene management policies was built toward limiting any kin
 ### Secured Genetics Settlements outside of GeoGen Center
 
 ==> Many Apartments, Hotels, Restaurants, Bars named California around the World or Modeled after Famous Californian movie sets
-
 ==> California is an example of High Quality Living Space where People from every culture can live well together that run by the Roman Davis from California Central Valley
-
 ==> Californian are very likable, highly knowledgable about different cultures and can survive and build settlements in China, Japan, Vietnam, India, Continental Europe, Britain, Russia, Africa, Middle Eastern because they might have friends from one of these regions of the World in California. 
 
 ==> Californians built Floating Platform Settlement in Ocean for tech startups to circumvent the Immigration Laws of the Atlantic East Coast. 
-
 ==> California hosts large Naval Base in San Diego and regularly send sailors on Aircraft Carriers to Hawaii, Japan, Korea, Philipine and Singapore.
-
-==> There are no Large Armor Tank Base in California to guard against any kind of serious secession movements form this state. 
+==> There are no Large Tank Base or Ammunition Storages in California to guard against any kind of serious secession movements from this state. 
 
 ### Images
 ![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
