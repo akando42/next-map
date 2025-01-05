@@ -18,7 +18,32 @@ During the ice age, it is possible to cross from Siberia to California through t
 
 After surviving the Alaskan Ice Bridge crossing, the Eskimo Manchurian genes quickly flourished in the North America land scape with few near peer competition. One of these Eskimo Manchurian branches developed into The Aztec Asian-Tech Empire that controlled California, Mexico and Central America. 
 
-The Aztec Mexican and Manchurian Chinese still share many common genetics traits until the modern day like Black Hair, Brown Eyes, Light Skin. Both the Aztec Mexican and Manchurian Chinese are also skilled horse archers showing that they were probably among the first few human gene groups that domesticated horses for transportation need. 
+The Aztec Mexican and Manchurian Chinese still share many common genetics traits until the modern day like Black Hair, Brown Eyes, Light Skin. Both the Aztec Mexican and Manchurian Chinese are also skilled horse archers showing that they were probably among the first few human gene groups that domesticated horses for transportation and hunting need. 
+
+The domination of Manchurian Eskimo gene groups of the American continent last until the arrival of Columbus in 15 century. The 13 century Mongol Horse Archer invasion of Eastern Europe led to mass domestication of horses in European armies. European military planners also start to develop competitive edges to counter the Horse Archer advantages with Gun-Power Muskets and Cannon Ocean Sail Ship. These technological adoptions and inventions of the European engineers led to the overwhelming advantages for Spanish, French and British army when they reached the Asian-Tech AZTec civilizations in the American continent.
+
+The Ocean Sail Ship allows the European navy to transport large heavy cannon guns that can bombard the horse archers along the coastlines and river banks beyond the range of bow and arrow.  While it takes hundred of gene cycles to circle the Earth on foot and horses, it only take less than 3 generations for the European sailors and engineers to circle the globe via the Free Wind Energy created through the Earth Rain Making Distillation process.  
+
+The Roman Christian alphabet enabled the compounding advantages in Medicine and Engineering. While the Ocean Sail Ship, Gun Cannon and Limited Gun powder only allows the Spanish, British and French navy to control the Atlantics coastal cities, the first Uni-Lever 1 vs Many Viral disease weapon developed by Roman Christian doctor enabling a small unit of the Spanish Navy to cause wide spread fear and command control collapse for the Aztec Asian Tech Empire, the most advanced Asian Tech civilizations in America before the arrival of Columbus. 
+
+The continuous shipment of African slaves from the slave port of Angola to South and Central America by the Spanish Ocean Sailboat continued to rapidly alter the ecosystem balance of the American continent. New African genes and new viral diseases from Europe and Africa caused the mass casualty of Manchurian Native American gene groups in North, Central and South America.  During these rapid alters of ecosystem balance via human invented transportation methods, few Manchurian Native American genes survived as the Half Manchurian Half Spanish offsprings in California, Texas and Mexico. 
+
+While the arrival of horsemen across the Icy Alaskan Bering Strait led to the total domination of Manchurian Eskimo genes with no near peer competition in the American continent, the arrival of Christian alphabet and its rapid engineering and medical innovation, the Manchurian Eskimo genes are now only guests at their formal home.  The Manchurian Native American gene group as of 2024 have only a small genetics footprint left along the Western Pacific coastline in Silicon Valley and Hollywood. 
+
+They do not have control their own water and food supply from the California Central Valley in front of these coastal cities nor the Pacific Ocean behind these coastal cities. All NEWS broadcasting centers like CNN, FOXNEWS, CNBC, BLOOMERG are all in the Atlantics East Coast with only Mobile Applications like Twitter and TikTok that delivering real NEWS without the East Coast censorship.  
+
+### Images
+![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
+
+![Stockton River Created Chinese Slaves Sold to American from the Last Qing Empress](https://storage.googleapis.com/spykman-world/Qing_Empress_Defeat_Seatlement.png)
+
+![California Governors](https://storage.googleapis.com/spykman-world/California_Governers.png)
+
+![Silicon Valley Mountain Water Reservoir](https://storage.googleapis.com/spykman-world/Silicon_Valley_Mountain_Water_Reservoirs.png)
+
+![Bakersfield Cali Dairy Farm](https://storage.googleapis.com/spykman-world/Haagsma_Pinheiro_Dairy_Farm.png)
+
+![Christian Mission for Californian](https://storage.googleapis.com/spykman-world/Christian_Mission_For_Californian.png)  
 
 ## FACTS
 
@@ -159,6 +184,19 @@ The California and US gene management policies was built toward limiting any kin
 - Top Agriculture producers of almonds, pistachios, wine, and walnuts
 ### Trade Network via Sea Ports, Highway, Railways and AirFreight
 
+- Large Naval Ports in Seatle, Portland, San Francisco, Los Angeles and San Diego
+  for Container Ship and Naval War Ship.
+
+- Interstate 80-120 Kilometers an Hour Highways crossing the Rocky Mountain ranges connecting California, Portland and Washington with the Misssipi River delta states.
+  
+- Large Civilian Airports in Seatle, San Francisco and Los Angeles.
+  
+- Large Miliary Airports behind the Sierra mountain range.
+
+- Fiber Optics Cable developed by Facebook and Google connecting California with Japan and China coastal cities. 
+
+- Gold-Rush Era Rail transportaion network connecting across the Rocky mountain range.
+
 ### Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
 - Facebook
 - Google
@@ -206,17 +244,4 @@ The California and US gene management policies was built toward limiting any kin
 ==> Californians built Floating Platform Settlement in Ocean for tech startups to circumvent the Immigration Laws of the Atlantic East Coast. 
 ==> California hosts large Naval Base in San Diego and regularly send sailors on Aircraft Carriers to Hawaii, Japan, Korea, Philipine and Singapore.
 ==> There are no Large Tank Base or Ammunition Storages in California to guard against any kind of serious secession movements from this state. 
-
-### Images
-![Silicon Valley without any River](https://storage.googleapis.com/spykman-world/SanFran-SanJose.png)
-
-![Stockton River Created Chinese Slaves Sold to American from the Last Qing Empress](https://storage.googleapis.com/spykman-world/Qing_Empress_Defeat_Seatlement.png)
-
-![California Governors](https://storage.googleapis.com/spykman-world/California_Governers.png)
-
-![Silicon Valley Mountain Water Reservoir](https://storage.googleapis.com/spykman-world/Silicon_Valley_Mountain_Water_Reservoirs.png)
-
-![Bakersfield Cali Dairy Farm](https://storage.googleapis.com/spykman-world/Haagsma_Pinheiro_Dairy_Farm.png)
-
-![Christian Mission for Californian](https://storage.googleapis.com/spykman-world/Christian_Mission_For_Californian.png)
 
