@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/functions": "^2.0.2",
     "gray-matter": "^4.0.3",
     "mapbox-gl": "^2.0.0",
     "mongodb": "^4.4.0",
