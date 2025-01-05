@@ -12,13 +12,13 @@ published: true
 ---
 # California Once An East Asian Beachhead Now A Guest House
 
-California was used to be an Island full of T-Rex and other Dinosaur like the Island of Japan. California merged with Mississippi River delta after Tectonic Shift in the Earth Surfaces that created North America. During the ice age, it is possible to cross from Siberia to California through the Alaskan Ice Bridge.
+California was used to be an Island full of T-Rex and other Dinosaurs. California merged with Mississippi River delta after Tectonic Shift in the Earth Surfaces that created North America. The clashing between the Island of California and the Mississippi Delta formed large mountain formation in the Middle of North America nowadays called the Rocky Mountain Range. 
 
-This Alaskan Ice Bridge allows not just the dinosaurs but other countless waves of animals and humans to cross from Manchuria into North America on foot. The Eskimo Manchurian gene was among the few human gene mutations that survived this dangerous crossing and make it to North America. 
+During the ice age, it is possible to cross from Siberia to California through the Alaskan Ice Bridge. This Alaskan Ice Bridge allows not just the dinosaurs but other countless waves of animals and humans to cross from Manchuria into North America on foot. The Eskimo Manchurian gene was among the few human gene mutations that survived this dangerous crossing and make it to North America. 
 
 After surviving the Alaskan Ice Bridge crossing, the Eskimo Manchurian genes quickly flourished in the North America land scape with few near peer competition. One of these Eskimo Manchurian branches developed into The Aztec Asian-Tech Empire that controlled California, Mexico and Central America. 
 
-The Aztec Mexican and Manchurian Chinese still share many common genetics traits until the modern day like Black Hair, Brown Eyes, Light Skin. Both the Aztec Mexican and Manchurian Chinese are also skilled horse archers showing that they were probably among the first few human gene groups that domesticated horses for transportation and hunting purposes.
+The Aztec Mexican and Manchurian Chinese still share many common genetics traits until the modern day like Black Hair, Brown Eyes, Light Skin. Both the Aztec Mexican and Manchurian Chinese are also skilled horse archers showing that they were probably among the first few human gene groups that domesticated horses for transportation need. 
 
 ## FACTS
 
