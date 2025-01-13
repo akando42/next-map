@@ -3,7 +3,7 @@ zoom: "6"
 lat: 13.85512660570624
 lng: 100.53925276321912
 path: "/01-25"
-cover: "/content/posts/01-25/geogenetics_jan_25_thailand.jpg"
+cover: "/content/posts/01-25/GeoGenetics_Vietnamese_Star_Jan25.png"
 date: "01-25"
 summary: ""
 title: "Thai Worships Vietnamese Unsubconsciously"

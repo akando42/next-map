@@ -1,18 +1,16 @@
-## CHECK LIST
-[ ] The GeoGen Area Wind Map and Weather Pattern.
-[ ] The GeoGen Area Major River, Water Supply. 
-[ ] The GeoGen Terrain via Mountain, River, Ocean, Flatland and Deserts
+## GEOGEN Checklist
+[ ] Terrain via Mountain, Delta, Desert, Coastline, Ocean
+[ ] Weather Pattern via Wind, Rain and Temperature
+[ ] Major River, Water Reserve Lakes 
 
+[ ] Genetics Flow via Emigration, Immigration and Invasion. 
 [ ] The GeoGen Area major Gene Groups with their Common and Different features.
 [ ] Genetics flow of the GeoGen Area via migrations and invasions.
-[ ] The GeoGen Area Artificial national borders.
 
-[ ] The GeoGen Group major Outputs for self-consumption and foreign trades.
-[ ] The GeoGen Area Trade Network via Paved Road, Railway and Ocean Container.
+[ ] Present and Past National Border
+[ ] Major Outputs via Exports, Needs for Import
+[ ] Trade Network via Sea Ports, Highway, Railways and AirFreight
 
-[ ] The GeoGen Area Internet Cable Port, News Sites, TV Anchors and Social Media Influencers. 
-
-[ ] Ability to apply information influences of the GeoGen Area to the outside World. 
-[ ] Ability to apply trade influences of the GeoGen Area to the outside World. 
-[ ] Ability to create secured genetics settlements outside of its genetics centers.
-
+[ ] Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+[ ] Information Influences of the GeoGen Area to the outside World
+[ ] Secured Genetics Settlements outside of GeoGen Center
