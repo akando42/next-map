@@ -9,6 +9,8 @@ yarn dev
 ```
 
 ## TODO
+[ ] Post Unique Path and Timestamp
+[ ] Fact Section
 [ ] Map with each location having a timeline.  
 [ ] Sync Image assets between Local Folder and Google Storage. 
 [X] Voice Over from Text

@@ -3,147 +3,227 @@ zoom: "6"
 lat: 28.540381629725182
 lng: 33.97484315008055
 path: "/12-26"
-cover: "content/posts/12-26/spykman-world-moses-hannibal-maozedong.jpg"
+cover: "content/posts/12-26/sang_capital_of_china.png"
 date: "12-26"
-summary: "#Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. #Moses, #Hannibal and #MaoZeDong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak #Destruction beyond imagination."
-title: "A Full Cup is Bout To Spill, From Moses to Hannibal to Maozedong"
-tags: ['Israel','Italy','China','Egypt','Rome','China','Moses','Hannibal','Mao Zedong',Spykman World','Nicholas Spykman']  
+summary: "The Yellow Yangzte area with the abundances of fertile aggregable lands and fresh water pouring down from the Himalaya is an extremely fast scaler that allowing any gene groups to control this area to multiple rapidly"
+title: "Easily Impregnable Gene Groups via Imported Hightech Diet"
+tags: ['Novosibirsk', 'Xian', 'Beijing', 'Shenyang', 'Pongyang', 'Chengdu', 'Shanghai', 'Shenzhen', 'Hanoi', 'Vietiane', 'GeoGenetics']  
 published: true
 ---
-Belief is a powerful force that gives meaning to life beyond the mundane existence for most common people, making people push themselves to their limit. Moses, Hannibal and Maozedong knew how to tap into these powerful forces and pull off the impossible but it is also a dangerous force that can wreak destruction beyond imagination.
+![Northern Snow Cities](https://storage.googleapis.com/spykman-world/Cities%20with%20Snow.png)
 
-![The Curvy Wave](https://storage.googleapis.com/spykman-world/curvy_wave.png)
+![Novosibisk](https://storage.googleapis.com/spykman-world/Obs%20River%20and%20Novosibisk.png)
 
-### Egyptian and the Way Out from Slavery With Moses
+![Novosibisk Rail Terminal](https://storage.googleapis.com/spykman-world/Novosibisk%20Train%20Terminal.png)
 
-Moses was the leader of the Israelites, an enslaved minority working under the Egyptian Pharaoh building his pyramids and other megastructure projects. 
+![Novosibisk Outdated Aircraft Production Plant](https://storage.googleapis.com/spykman-world/Novosibisk%20Aircraft%20Production%20Plant.png)
 
-![Moses Splitting the Red Sea](https://storage.googleapis.com/spykman-world/moses_spliting_the_red_sea.png)
+![Winter Wind Southern Marine Merchants Cities](https://storage.googleapis.com/spykman-world/Winter_Southern_Advances.png)
 
-The Pharaohs need more smart slaves like the Hebrews to be able to finish his megastructure projects faster but when there are too many of them then their numbers might result in disobedience and even a revolution. The guards build nothing and consume more resources than the slaves so it does not make sense to have too many guards either. 
+![Yangzte River Port Cities](https://storage.googleapis.com/spykman-world/Yangzte%20River%20Port%20Cities.png)
 
-![The Pyramids of Giza to Attract Immigrants](https://storage.googleapis.com/spykman-world/pyramid_of_giza.png)
+![Shanghai German Chinese Volkswagen Industrial Zone](https://storage.googleapis.com/spykman-world/Shanghai%20Volkswagen%20Industrial%20Zone.png)
 
-To limit the strength of the slaves within the Egyptian empire, the Pharaoh ordered all new born Hebrew boys to be killed or turned into XO female in order to assimilate the Hebrew into the Egyptian identity, to make the Hebrew looking more like the Egyptian. By reducing the number of Hebrew baby boys, more XY and XO Hebrew marriages and more inter-marriages between the Egyptian man and Hebrew women, the Pharaoh would make few Hebrew leaders looking more like them and be able to use them as middle managers to direct the Hebrew slave population.
+![Hangzhou Small Seperated Water Reserves](https://storage.googleapis.com/spykman-world/Hangzhou%20Artificial%20Water%20Reservoir.png)
 
-![The North African Looking Increasingly More European](https://storage.googleapis.com/spykman-world/tunis-cairo-telaviv-faces.png)
+![Alibaba HikVision Headquarters in HangZhou Hang Trau](https://storage.googleapis.com/spykman-world/Alibaba_and_HikVision_Headquarter.png)
 
-People have the tendency to comply and follow the people who look like them in the pre-tele-vision era. Most animals do not attack or eat their kinds. Allying with the people who look like you is a natural evolutionary tendency of most animals. Howerver, these tendencies have heavily reduced with people screentime and constant bombardment of American media via Television and smartphone devices. 
+![Jack Ma Elon Musk Freaking Out about Water Nanobots](https://storage.googleapis.com/spykman-world/JackMa_ElonMusk_Debates_and_Clues.png)
 
-![Israel IS REAL American](https://storage.googleapis.com/spykman-world/israel-is-american.png)
+![Jack Ma Joko Widodo](https://storage.googleapis.com/spykman-world/Flat_Back_of_the_Head.png)
 
-One theory is that after the Pyramids were finished, Moses, an Egyptian-Israelite mixed boy, led the unemployed slaves away from the Niles through the deserts to a dry mountain called Mount Sinai to die so they are no longer a threat to the Egyptian empire. 
+![China UNICOM Weird Brain Interface Datacenter](https://storage.googleapis.com/spykman-world/Hangzhou%20Tech%20Park.png)
 
-![Giza to Sinai](https://storage.googleapis.com/spykman-world/giza-to-sinai-mount.png)
+![The 3 Gates to Chinese Civilization](https://storage.googleapis.com/spykman-world/Beijing-Xian-Nanjing-Triangle-with-ChienTrau-at-the-center.png)
 
-Modern infantry training is 40 km a day running. So a trip from Giza to Mount Sinai of 463 km would take at least 12 days or more. They are marching with women, children and the elderly so it probably will take much longer and they are marching away from water sources to a dry mountain with no water.
+![Chien Trau Ancient Capital of the Sang Empire](https://storage.googleapis.com/spykman-world/ChienTrau_Ancient_and_Modern_Capital_of_the_Sang_Empire.png)
 
-![Delta and River to a Dry Mountain](https://storage.googleapis.com/spykman-world/giza-to-mount-sinai.png)
+![Tea People Gene Expression in Different Regions](https://storage.googleapis.com/spykman-world/Tea%20gene%20expression%20by%20Regions.png)
 
-Another theory is that Moses marched his followers from one isolated settlement to others with goats as water supply and food to recruit more followers into one single strong force. They marched from Giza to Sinai and came back to the Pyramids of Giza as a snowballed army to take on the Pharaoh and his guards. 
+![Water Inefficiency Diet of Water Abundance Tibetan East Asian Cultures](https://storage.googleapis.com/spykman-world/Rich_Chinese_Girl_Capital_of_Sang.png)
 
-![Mountain Goats of Israel](https://storage.googleapis.com/spykman-world/mountain-goat-israel.png)
+![Largest Apple Foxconn Factory in Chien Trau China](https://storage.googleapis.com/spykman-world/Apple_Foxconn_Factory_in_Chien_Trau_Formal_SHANG_Capital.png)
 
-People would join them along the way, weaker elders and childrens would die and by the time they got to Mount Sinai, only stronger men, women and older children would survive. They would be fit for services, free of dependents and ready to take the Pyramid of Giza. However without any supply from Red Sea port, longterm water and food supply will still be a major issue for this newly found Hebrew army. 
+![TEA Tibetan East Asian Technology Founders ](https://storage.googleapis.com/spykman-world/TEA_Tibetan_East_Asian_TECHNOLOGY_Founders.png)
 
-![Dry Mountain Military Camp or Subsaharan African Death Trap](https://storage.googleapis.com/spykman-world/red-sea-resupply-or-die.png)
+![iPhone Features Allowing Brain Control Since 2015](https://storage.googleapis.com/spykman-world/iphone_features_allowing_brain_control_since_2015.png)
 
-That is kind of what happened in the Egyptian myth where Moses marched to Mount Sinai and came back with God 10 commandments, rained hells down to Giza, and liberated the Egyptian slaves. Moses drafted his army by walking from one small community of free Israelites in the desert to the others with the escaped Israelite slaves. The group kept getting larger and stronger and by the time they get back to Giza, they would be a stronger fighting force than the Egyptian army. One thing for sure is that no one can build a nation from Mount Sinai and they need to come back to the Nile. 
+![Brain Freeze via Nanobot in Water and RF Broadcasting](https://storage.googleapis.com/spykman-world/brain-freeze-via-nanobot-in-water-and-rf-broadcasting.gif)
 
-![Rain down Missiles on Cairo Dream](https://storage.googleapis.com/spykman-world/moses_rain_down_missiles_on_cairo.gif)
+![Aggressive Mayors of Modern Chinese Cities](https://storage.googleapis.com/spykman-world/Aggressive_Mayors_of_Chinese_Cities.png)
 
-### Hannibal and the Impossible March Toward Rome
+![COVID Testing as cover for Nanobot Detection Crew](https://storage.googleapis.com/spykman-world/COVID_TESTING_FOR_NANOBOT_DETECTION.png)
 
-After millions of years of random tectonic plates movement, somehow the Western civilization was awarded the largest bay on earth: the Mediterranean with the Baltic sea came in second. The Mediterranean served as a Kid swimming pool for the infant empires of the Western world to iterate their ocean fairing equipment design and made the infantanic first steps in sea explorations. It is like a massive mother womb with plenty of salts and spaces. 
+# RESEARCH
 
-![Baltics vs Mediterranean Navy](https://storage.googleapis.com/spykman-world/baltics_vs_mediterranean.png)
+## Terrain via Mountain, Delta, Desert, Coastline, Ocean
 
-From 300 BC, Carthage and Rome were the two main powers of the Western civilization. Carthage is the capital of modern day Tunisia. She was rewarded with a fertile delta of the Medjerda river as well as a Northern African port at the center of the Mediterranean. Carthage arable land allowed the early traders to quickly grow their settlement population and have surpluses for trading with other city states in the Mediterranean. 
+- Yellow Yangzte Delta from Xian to Qingdao, Beijing to Nanjing is the largest Flatland area in China that is highly fertile for agriculture development as well as easy for infrastructure development. The earliest Tibetan East Asian wall cities, road network, canals and writing systems were developed here in this Yellow Yangzte food basket.  
 
-![Cathrage Marching On Rome](https://storage.googleapis.com/spykman-world/Carthrage_marching_on_Rome.png)
+- West flank of Yellow Yangtze area is the Truong Son Eternal Mountain Great Wall of China stretching from the Gobi desert in the North to the Tibetan Highland in the South. These Eternal Mountain system of China is the Great Wall that prevents invasions across the West flank toward Yellow Yangzte food basket as well as making it difficult to expansionary Chinese dynasties to reach beyond these difficult terrain area toward Central Asia or Pakistan India region.  
 
-With trading boats and vessels as the main low energy per mile mode of transportation via the ocean natural highways and the Mediterranean calm sea, Carthage quickly became the largest metropolis in the world. Profitable trading with city states and colonies around the Mediterranean sea allows Carthage to build the largest navy in the Mediterranean and inevitably come into conflict with Rome for the dominance of the Mediterranean sea and its trading routes. 
+- Eastern flank of China is the extremely long Coastline from port of Canton Shenzhen in the South to the Dalian port of the Manchu in the North. Along this extremely long coastline are several near-shore islands served both as the Enemy Naval Proxy Barracks as well the Frontline Naval Guard-Posts for several Chinese naval dynasties.  Hainan island, Hong Kong island, Taiwan island, Okinawa island  and the Island of Japan have been exchanged hands between the early Chinese Farming kingdom of Yin Yang, the Qing dynasty, the British Empire, the Japanese Empire and now the American.  
 
-![Mediterranean Shipping Lanes](https://storage.googleapis.com/spykman-world/mediterranean-shipping-lanes.png)
+- The calm seas between Chinese East coast have allowed regular exchanges of trades as well naval invasion between North East Asian civilizations of Mongolia, Manchuria, Korea and Japan. Yellow Sea around Dalian and Sea of Japan around South Korea have seen non stop commerces as well as several large naval battles between Russia vs Japan, UK vs Qing Dynasty,  China vs Japan.  
 
-Carthage, the trading empire, strength lies in its superior ability to negotiate and trade with different ethnic groups who spoke different languages and have different traditions. Carthage income sources come from its superior capability to build and control ocean faring vessels and make favorable trades with other city states. It's like the Inter-Milan. 
+- The Eternal Mountain Range Great Wall of China covered most of the Yellow Yangzte food basket Northern Flank but left a small gap near Beijing. These small gap in geography has allows several foreign gene groups to invade deep inside the Chinese interial flatland like the Mongolian tribes, the Manchurian tribes, the Japanese Empires and left long-lasting impacts on the genetics makeup for China.  
 
-![Cathrage Harbor Modern Day Tunisia](https://storage.googleapis.com/spykman-world/cathrage-harbor-modern-tunisia.png)
+- Beyond the Eternal Mountain Range in the North of China is the vastly under developed region of Siberia. The Russian Empire were the first one be able to develop large human settlements in the harsh climate area along the Siberian Railway. It is extremely difficult to survive the 6 months long winter without regular supply of food, fuel and man powers from the Core population centers around Moscow to Siberia.  
 
-Rome, a militaristic empire, strength lies in its systematic thinking and a well-structured and well-trained infantry force. No wonder why Mos-Cow, who called itself the third Rome, started with the MOS - Man Operating System and ended with COW - Commanding Officer Woman. Rome income comes from its ability to subdue city states like a Mafia and get regular tributes from the rich city states for protection. It’s like the AC-Milan. 
+- Beyond the Eternal Mountain Range in the West is the Chinese Western regions historically not part of China. However with Soviet fuels, trucks as well modern Chinese Silk Rail network, now is possible for Yellow Yangzte gene groups to develop larger settlement beyond the Western Eternal Mountain Range closers to Central Asian Steppe. However, with late Soviet projects to eliminate water lakes and rivers in Central Asia, there is severe lack of population growth and water supply in Central Asia to allow Yellow Yangzte gene groups and Caspian Sea Steppe gene groups to develop large human settlements in Central Asia.
 
-![Roman Legion](https://storage.googleapis.com/spykman-world/roman-legion.png)
+- South of the Yellow Yangzte food basket is the Southern Mountainous Region of China that historically ruled separately by hundred of different Viet tribes. Wuhan, Nanchang and Shenzhen are only  three small flatland regions of Southern China that allowed the development of large human settlements outsides of the Yellow Yangzte food basket.  
 
-Even with a superior navy at the beginning of the Punic war, the ramping tactic via superior ship control of Carthrage’s navy failed to secure their dominance at sea against the new infantry-first design of the Roman naval ship. And then by picking the battlefield location of Sicily in the expected all-out war between Rome and Carthage, Rome was able to minimize Carthage naval advantages while maximizing its Infantry advantage and won the first Punic war. 
+- South of Southern Chinese Mountainous Region is A Large Shielded Ocean along the Coast of Vietnam and Philippine that historically allows regular trading between Yellow Yangzte trading posts in the North and Mekong trading posts in the South via the use of Ocean Wind powered Sailboats. The Winter Southern Wind allowed several Northern dynasties from Yellow Yangzte with their sophisticated Blue Ocean Sailboat Design to invade dynasties along the modern Vietnamese coastlines.  The Summer Wind Reversal also allowed traders and migrants from Vietnam to reach Chinese coastal cities in Canton and Shanghai and left significant genetics footprint along Chinese coastal towns.  
 
-![Roman First Decisive Battle](https://storage.googleapis.com/spykman-world/silicy-first-decisive-battle.png)
+- The Southern portion of the Enteral Mountain Range of China has shielded most of invading gene groups from the Yellow Yangzte delta to reach South via land that allowed independent development of gene groups in the Dali Kunming Highland region as well as the Red River delta region. First with the introduction of Mongolian horses in 13 century, and then Gasoline powered trucks in 19 century and now the high speed electromagnetic rail network in 21 century, the Yellow Yangzte foodbasket have been able to gradually reach beyond the Southern Eternal Mountain Range and connect directly with  the Mekong Food Basket gene groups via Land routes.  
 
-Carthage lost their naval superiority after Rome destroyed and ravaged their ships and their capital during the first Punic War. Hannibal is the son of a Carthage general who failed to capture the crucial strategic island of Sicily in the struggle between Carthage and Rome for the dominance of the Mediterranean sea. Hannibal was born and raised to take on Rome. 
+## Weather Pattern via Wind, Rain and Temperature
+- Strong Winter NorthEast Wind from Shanghai to Saigons from Oct to April
+- Strong Summer SouthWest Wind from Laos to Canton from May to September
+- Snow in cities North of the Yellow River
+- Extreme amount of Rain in cities South of the Pearl river.
 
-![Cathrage Capital](https://storage.googleapis.com/spykman-world/cathrage-capital.png)
+Historically, it is easier to invade the South via Ocean Sail Boat during Winter from Oct to April and easier to invade the North via Horse during summer from May to September.
 
-He was trained from childhood to lead a land coalition of flexible, diverse forces from all corners of Carthage Empire whose skills and tactics are exotic and unpredictable to take on  Rome's rigid military structure. Carthage had to evolve itself from a Naval and Trading Empire whose main mission is to protect trade routes and maximize profits to a combined land force of Libyan infantry and French Gallic infantry, Spanish horsemen and African elephants to take on the Roman shield walls.
+It is easier to move troop on Land during Summer from April to October in area North of the Yangtze River
+- Snow and Ice will cause high casualty among mobilizing troops
+- Lack of Food production during winter also make capturing territorials less attractive. 
 
-![Hannibal Crossing the Swiss Alps](https://storage.googleapis.com/spykman-world/hannibal.png)
+It is easiest to move troops on Land during Winter in area South of The Yangtze River from November to March. 
+- North East South West winds enabled Sailboats to sail down toward Vietnamese costal region and Indonesia
+- Lack of Rain during winter enabled easier troop movement while rainy season come with mud, mosquitos and diseases 
+- Vientiane Mekong river settlements have the temp range from 17 to 25 dry winter with no rain.
+- Hanoi and Pearl river settlements have the temp range from 15 to 27, no snow dry winter with little rain. 
+- Yangzte river settlements have the temperature ranges from 3 to 22 degree, no ice or snow during winter
+- Yellow river settlements have the temperature ranges from -8 to 22 degrees with snows in Dec, Jan and Feb
+- Pyongyang Yellow Sea settlements have temp range from -11 to 21, frozen river during Winter with snows in Nov to March
+- Novosibisk Siberian settlements have the temp range from -21 to 14 degree, thick ices and snow during winter from Nov to April. Lot of Snow coming from the Black Sea and the Arctics sea. 
 
-Carthage could have focused on upgrading their naval ships with the infantry, horse and elephant transport ability. However, as a naval trading empire with little engineering and science capability, the ability to evolve their ship design quickly during war would not be possible. So instead of building an amphibious landing force and retaking Sicily and using it as a stepping stone to take on Rome,  Hannibal used their silver and negotiation skill to create a massive combined army and march on Rome through Spain on land.
+## Major River, Water Reserve Lakes
+- Yellow River passing by Xian, Taiyuan, Zhengzhou, Qingdao
+- Yangzte River passing by Kunming, Chongqing, Wuhan, Nanjing, Hangzhou, Shanghai, Ningbo.
+- Pearl River passing by Kunming, Nanning, Shenzhen, Haikou.
+- Red River passing by Kunming, Hanoi, Haiphong, Haikou.
+- Mekong River passing by Kunming, Vientiane, Phnom Penh, Saigone.
+- Large Water Reserve Lake NorthEast of Beijing.
+- Very Small Water Reserve Lake SouthWest of Ningbo.
+- China Largest Hydroelectric Dam Tam Diep Three Mountain West of Wuhan. 
+- Many Hydroelectric Dams on Yangzte, Red River and Mekong River.
 
-![Hannibal vs Rome](https://storage.googleapis.com/spykman-world/cathrage_vs_roma_during_hannibal.png)
+## Gene Groups and Demographics Distribution
+- Largest Companies in Shenzhen and Pearl River Delta
+DJI, Huawei Technologies, Tencent, BYD, China Ping An, Evergrande, ZTE
+
+- Largest Companies in Shanghai and Yangzte River Delta
+Alibaba, HikVision, Binance ==> Enabling and Forcing capital flight from China. 
+
+- Largest Companies in Beijing and Yellow River Delta
+SINOPEC, JD.com, Baidu, Xiaomi, ICBC, Merchant Bank, Foxconn, Bytedance, Wanda
+
+## Genetics Flow via Emigration, Immigration and Invasion
+- The agriculture of wet rices first invented and developed from ZhengZhou China that allowed Food Surplus dynasties to develop walled cities and armies.  
+
+- Mobile invading gene groups from Western Mountainous Region, The North East Nomadic Tribes  and Southern Naval Tribes formed three separated Gene Capitals in Xian, Beijing and Nanjing that contested and divided the Food Basket of Yellow Yangzte delta for several generations until the victory of the  Southern Naval Tribes from WUHAN following by the invention of HAN writing system for entire Yellow Yangzte River delta.  
+
+- From Wuhan victory to the Qing Dynasty, Yellow Yangzte river delta was ruled mostly by the Southern Naval Gene Groups with the main Capitals moving between Vu Han and Nam Trinh. 
+
+- These Southern Naval Rulers was first interrupted by the Mongol Invasion via the the Bac Trinh gap in 13 century and then finally fully subdued by the Manchurian horsemen in 17 century.  
+
+- During WW2, with Air and Naval dominance from Japan, the ecosystem genetics balance of Xian, Beijing and Nanjing was drastically altered. The Japanese military wiped out most of Nam Trinh and Bac Trinh, left many widows and bastard children in China, Hainan, Taiwan but failed to reach Xian and was stopped at at ZhengZhou.
+
+- Following the drastic shuffle of Chinese gene groups during WW2, only the Mountainous gene group of Xian, Wuhan and Nanchang seems to be able to survive. Most of the original Nomadic Manchurian were eliminated via the WW2 fighting or later by the Red Army. The farming villages and coastal cities gene groups were also gradually replaced by Ocean, Rail and Air imported Gene Groups from Kazakhstan, Korea, Japan and California.
+
+- With foreign direct investment for massive manufacturing plants and paved road built up in China, Japanese, Korean and Nestle Genes are quickly changing Chinese genetics makeup. HIV and ED food are being used against the Old gene groups in China with the helps from Smart Cameras made by Japanese-funded companies like HIKVISION and DAHUA while Chinese female brains could be controlled directly from their iPhone to increase the probability of pregnancy with Japanese, Korean, Kazahstan or Swiss Nestle sperms in Vietnam and Taiwan. 
+
+- Beijing Capital Design
+==> Beijing forbidden city is a formal Qing capital but now controlled by Russia minions from its Soviet Era HydroElectric Dam
+==> Chinese Congress on the Westside
+==> Museum of Chinese People on the Eastside.
+==> New genes being introduced from the Western Upstreams while Old Gene migrating to US and Mekong delta.
+
+## Present and Past National Border
+- Fragmented Warring States 
+- Qin Shi Huang Xian capturing all Yellow Yangzte River Delta
+- Three Kingdoms of Xian, Beijing and Nanjing Contesting Yellow Yangzte
+- Wuhan captured all Yellow Yangzte
+- Wuhan captured Shenzhen and Hanoi
+- Wuhan lost control of Yellow Yangzte to the Mongol Horse Archers
+- Mongol expanded to Eastern Europe, Korea and Vietnam
+- Mongol collapsed after Eastern Europe developing their Calvary formattion. 
+- Resurgence of Wuhan after Mongol collapse
+- Qing horse archers recaptured Yellow Yangzte and Southern China and moved capital to Beijing
+- Qing collapsed after European navy march on Beijing, Shanghai and Canton
+- Canton Shenzhen UK Friendly Army captured most of Yellow Yangzte and Southern China. 
+- Manchu partnered up with Japanese to recapture Yellow Yangzte but failed to reach Xian or fully capture Southern China
+- Communist China with Soviet Siberian Railway weapons started a revolution in Nanchang far away from ports of Shanghai and Canton
+- Communist China united Xian and Wuhan powerbases recaptured Yellow Yangzte from Shenzhen Canton force after Japanese lost their homeland in Tokyo.
+- Shenzhen Canton forces fleed to Taiwan, Vietnam and Thailand in 1945.
+- Soviet Union collapsed in 1990, cut supplies to Communist China and Vietnam. Taiwanese forces recaptured their bases in Shenzhen and Shanghai, open up Chinese ports to Japanese, Korean and American trades. 
+- Japanese invented the iPhone, sold their products to Chinese and American under the Apple name with American CEO to track every human on earth. 
+- 2015 Japanese bought NANOBOT tech from European Union, integrated with iPhone and related products to turn everyhuman in China, South East Asia and United States into Pokemon Go remote control robots.
+
+## Major Outputs via Exports, Needs for Import
+==> Top Export Categories of China are: 
+- Consumer Electronics like Internet Routers, IP Cameras, Smartphones, Computers, Display Screens with companies like ZTE, HikVision, TPLink, Xiaomi, DJI, Foxconn, Samsung, Sony, LG having their headquarters or manufacturing plants in China. 
+
+- Machineries in Light Industry and Agriculture like Oil Refinery, Electrics Turbine, Lazer Cuter, Industrial Printer, Tractor, Water Pump, Food Processing Automation with countless family businesses around major transportation hubs like Zhengzhou, Shanghai and Shenzhen.
+
+- Electrics Vehicles to Electrics Cars and Electric Scooter to European and Mekong Delta nations with Vietnamese market flooded with Chinese Electric Scooters and European markets flooded with Chinese Electrics Cars.
+
+Alibaba is the largest ecommerce platforms to faciliate exports of Chinese Consumer Electrics and Industrial Machines to foreign markets. 
+
+Alibaba commence businesses are to slowly rob Chinese people by selling Chinese products to Western world below production cost or below living wage. [Alibaba and 40 Robbers](https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves)would target and surround 01 Rich Chinese family man in the delta at a time, attacking their water sources to scare them to run to the mountainous Western region or migrate to Europe, Australia and America and then replace their spot with one of their agent from Western mountainous regions. 
+==> Wealth transfer from China to the West. 
+
+==> Top Import Categories of China are
+- Hightech Electrical components from Taiwan, Japan, Korea and United States with Chinese phones embeded with Chips manufactured by companies like TSMC, NVIDIA, Broadcom, Qualcom, Samsung, Intel. 
+
+- Oil and mineral fuels with Oil imported from Middle Eastern nations or drilling off the Vietnamese and Philipine coastal region and Natural Gas importing from Russia for heating and cooking needs. 
+
+- Minerals like Iron Ores, Alumminum Ores also imported from outside of China from nations with weak industrial bases like Mekong delta nations, Africa and Australia.  
+
+## Trade Network via Sea Ports, Highway, Railways and AirFreight
+- Three large sea hubs in Dalian, Shanghai and Shenzhen
+- Foreign naval bases and trade hubs in Hainan, Cambodia, Sri Lanka, Pakistan and Djobouti
+- Extensive Rail Network across major Chinese cities both in Yellow Yangzte delta and the Southern Chinese mountainous regions. 
+- Highspeed freight rail connecting Zhangzhou Foxconn base with Kazan, Moscow and Continental Europe.
+- Highspeed freight rail connecting Chengdu to Kunming and Vientiane Laos. 
+- Oil and Gas Pipelines connecting Myanmar Oil Refineries from Indian Ocean to Kunming
+- Oil and Gas Pipelines connecting Siberian Oil Fields and Refineries from Novosibisk to Xian and Beijing
+
+## Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+- Baidu search engine controls most of Internet websites in China and basing out of Beijing
+- Every Chinese citizens being tracked by Facial Recognition cameras, Internet routers and Smartphones in China.  
+- Tencent of Southern China Canton have controls of communication of Chinese via its WeChat messaging app.
+- Every TV Stations daily broadcasting scripts being control by the State Information Polices
+- Google, Youtube, Facebook and Medium is blocked in China.
+
+## Information Influences of the GeoGen Area to the outside World
+- Mark Zuckerburg wife is a Chinese American doctor.
+- Largest AWS server cluster is in Hong Kong.
+- Larg investment in cash and technology for the productions of Hollywood movies via companies like Wanda Group
+- Bytedance TikTok is the fastest growing social medica company in the world.
+
+## Trade Influences of the GeoGen Area to the outside World
+- Most of American consumer products Made in China with 15% of US Imports coming from China. 
+- Most of Korea consumer products Made in China with 22% of South Korea Imports coming from China.
+- Most of Japanese consumer products Made in China with 23% of Japanese Imports coming from China. 
+- Most of Vietnamese products Made in China with 36% of Vietnamese Imports comming from China. 
+
+## Secured Genetics Settlements outside of GeoGen Center
+- Chinese as President Candidate in American Election of 2020
+- China Towns in every American Cities
+- Chinese wifes among Korean, Japanese and Vietnamese leaderships.
+- Chinese majority in Taiwanese gov
+- Chinese majority Thailand gov
+- Chinese in Malaysia and Singapore
+- Chinese as part of Philipine cabinet
+- Chinese as part of Australian cabinet
+- China Towns in Russia
+- China Towns in Continental Europe
+- China Towns in United Kingdom
 
-The African elephant was added to the combined army of Carthage to serve as the tank of the Ancient era.  However, half of Hannibal's army perished and no siege equipment or elephants survived long after the march through the mountainous Alps of Switzerland. The uphill battle of Carthage culture and civilization could have just ended there at the city of Milan where the weakened army of Hannibal can not be resupplied. 
 
-![Hannibal Crossing the Alps](https://storage.googleapis.com/spykman-world/hannibal_combined_army.png)
 
-The good news is Hannibal is having his back against the massive wall of the Alps mountain so no worry about being outflanked. The previous Roman expansion campaigns in France and Switzerland also made a lot of enemies for them in the North. It is unclear whether through trading or personal charisma or common grudges toward Rome, many French Gallic and Swiss warriors as well as Northern Italian tribes who did not speak Latin, joined Hannibal and his forces through his march across the Alps as well as supplying them with warriors, weapons, food and intelligence.
-
-![Hannibal vs Milan Fortress](https://storage.googleapis.com/spykman-world/hannibal-vs-milan-fortress.png)
-
-Whether the Roman army did not really have a lot of friends in Italy outside of their city walls or Hannibal had a massive network of spies in Italy before and during his campaigns, the Roman legions kept being outmaneuvered and ambushed in their own backyard. Hannibal's more mobile army and his understanding of Italian terrain kept getting him victories after victories, destroying Roman legion after legion from North to South of Italy. Roman Legion structure is the same across all Roman armies so if you figure how to crack one, you can kinda keep cracking all the others.
-
-![Hannibal vs Roman Leigions](https://storage.googleapis.com/spykman-world/hannibal-vs-roman-legions.png)
-
-However, without siege equipment, Hannibal can not take on Rome directly with his horses and elephants. Rome is also too well supplied so the under-supplied Hannibal army can not surround and starve out Rome either like smaller city states and towns in Italy. So Hannibal continued his strategy of parading from around Italy, liberating one Italian tribute city state after the others and making Rome look bad. Rome will then have to send more legions chasing after his more mobile army with their heavy shields and armors. 
-
-![Hannibal vs Roman Heavy Infantry](https://storage.googleapis.com/spykman-world/hannibal-vs-roman-heavy-infantry.png)
-
-After destroying close to 20 Roman legions with his army and allies across Italy, Hannibal sent messengers to Rome to ask for their surrender of the Sicily island as well as messengers to Carthage for reinforcements and supplies.Bad news for Hannibal, the Roman senates would not negotiate because they knew in the long run it is very difficult for Hannibal to resupply his army across Spain and the Alps as well as through the Mediterranean sea while Rome can resupply itself indefinitely through its seaport and its naval fleet. 
-
-![ROMA Fortress vs Hannibal](https://storage.googleapis.com/spykman-world/roma-fortress.png)
-
-The continued threats from the Roman navy and their forward forces in Valencia, Spain also made the Carthage senates less confident in sending the rest of their army and navy to resupply Hannibal force in Italy while the capital was still being raided directly from Sicily. So in the end after destroying so many Roman legions, the army of Hannibal was still bleeding slowly and declining in numbers. Eventually, Hannibal had to set sail back to Carthage with a small surviving force and never be able to come back to Italy.
-
-![Sicily vs Cathrage Capital](https://storage.googleapis.com/spykman-world/sicily-vs-cathrage.png)	
-
-### Mao Zedong and The Long March to North West China
-The #LongMarch or #TrườngChinh was the famous military maneuver that propelled #MaoZeDong into becoming the leader of the #CCP and their #RedArmy.  The #LongMarch saved the party from total annihilation by the #KMT and put their peasant army beyond the reach of the #KMT logistic supply line. 
-
-![MaoZeDong Long March](https://storage.googleapis.com/spykman-world/maozedong-long-march.png)
-
-In the early 1900, the #Qing dynasty after centuries of stagnation finally collapsed with #Puyi, a 2 year old, as their last emperor. #Puyi did survive through WW2 and the Civil War though to become a conversation partner of #MaoZeDong inside #Beijing #ForbiddenCity. After the #Qing collapse and the founding of the #RepublicOfChina, all the #Ports of China are now open for #Western power influences.
-
-![Puji Chinese Last Qing Emperor](https://storage.googleapis.com/spykman-world/puji-version-001.png)
-
-The Chinese #KMT military started to follow Japan's footsteps by adopting Western military structures, clothings, weapons and tactics. Chinese coastal cities are quickly urbanized with Western building architectures, railways and cars. Both the Communism and Facism ideologies as well as weapons, ammunition and gasoline were traveling from Europe and their colonies North from the port of Canton, Fujian and Shanghai. 
-
-![Port of Canton](https://storage.googleapis.com/spykman-world/port-of-canton.png)
-
-The struggle between the 1000s year of Chinese cultures and identities and newly imported Western cultures and influences turned the once united Qing dynasty whose map did not look like a chicken into fragmented warring states once again. Someone once said “Chaos is the Ladder” and Mao Zedong were super good at climbing that very fragile ladder. The CCP was founded by Chinese Abroaders who studied in Soviet secret universities but their influences on Chinese affairs and the CCP faded away after the Long March. 
-
-![Maoz Waving](https://storage.googleapis.com/spykman-world/bac-waving.gif)
-
-While the upper classes, urban coastal cities service workers and #KMT militaries quickly gained wealth and influence after their newly adopted identities through Chinese industrialization. The peasants and scholars in the Chinese interior cities had little to gain from the newly chaotic state of Chinese affairs. 
-
-![KMT Depositors](https://storage.googleapis.com/spykman-world/kmt-bankers.gif)
-
-By moving the fragile Chinese Red Army and their supporters on foot and horses, who had unlimited range as long as they had food and water,  to the Chinese interior provinces and mountainous terrains, now the KMT gasoline-powered war machine had a range problem. 
-
-![No Gas Station in the Mountain like Tesla Charger](https://storage.googleapis.com/spykman-world/the-gasoline-runningout.gif)
-
-KMT and the Empire of Japan had a shared ideology but after the rape of Nam Kinh, two Western-influenced Industrialized military became mortal enemy. Both the Empire of Japan and KMT failed to reach the CCP strong base of highly elevated delta of Xian during the Chinese modern Three Kingdom period of the 1940s. 
-
-![Nam Kinh Sample](https://storage.googleapis.com/spykman-world/namking-sample.png)
-
-While #KMT and #EmpireofJapan were erosing each other strength, the Red Army was being restocked with supplies, weapons and ammunition to full strength through the narrow of passes of #Xian mountain range. After WW2, the RED army being supplied directly from #SoViet #TranSiberian railway in the north quickly overran the #KMT #Canton-based UK-backed army. 
-
-![Siberian Supply Line](https://storage.googleapis.com/spykman-world/astana-cheese.png)
 

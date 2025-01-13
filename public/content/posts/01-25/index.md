@@ -6,7 +6,7 @@ path: "/01-25"
 cover: "/content/posts/01-25/GeoGenetics_Vietnamese_Star_Jan25.png"
 date: "01-25"
 summary: ""
-title: "Thai Worships Vietnamese Unsubconsciously"
+title: "Thai Worships Vietnamese Subconsciously"
 tags: ['Thailand', 'Burma', 'Laos','Cambodia','Vietnam', 'Malaysia', 'United States', 'Blonde', 'Golden Temple', 'Gold Star', 'Spykman World', 'GeoGenetics']
 published: true
 ---
