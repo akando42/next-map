@@ -86,6 +86,7 @@ export default class Main extends Component {
         <Head>
           <title>GeoGenetics</title>
           <meta name="description" content="The Longterm Impacts of Genetics and Geography on World Destiny" />
+          <meta name="algolia-site-verification"  content="CED6ECFABC9CB172" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
