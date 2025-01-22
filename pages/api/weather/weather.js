@@ -159,11 +159,15 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 				tomorrowRain.map(rainTime => {
 					let rainHour = rainTime.time.split(" ")[1]
 					sms_content = sms_content.concat(`${rainHour} `)
-				})
 
+				})
+				console.log("Sending SMS")
+				console.log(sms_content)	
 				await sendMessage(sms_content)
 			} else {
 				let no_rain = `${currentTime} Weather Alert! No rain tomorrow !!!`
+				console.log("Sending SMS")
+				console.log(sms_content)	
 				await sendMessage(no_rain)
 			}
 		});
