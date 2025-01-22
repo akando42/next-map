@@ -18,7 +18,6 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 			console.log(message.body);
 	}
 	
-
 	const url = `http://api.weatherapi.com/v1/forecast.json?key=26bcc7dae3224523bde121531242908&q=Hanoi&days=2&aqi=no&alerts=no`;
 	const request = http.request(url, (response) => {
 		let data = '';
@@ -155,7 +154,7 @@ module.exports.handler = schedule('0 0 * * *', async (event) => {
 			// ]
 			let sms_content = `${currentTime} Weather Alert! There will be rain tomorrow at ` 
 			console.log(sms_content)
-			
+
 			if (tomorrowRain.length > 0){
 				tomorrowRain.map(rainTime => {
 					let rainHour = rainTime.time.split(" ")[1]
