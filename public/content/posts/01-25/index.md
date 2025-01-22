@@ -25,35 +25,31 @@ The Mountain formations in the North, West and East surrounding Thailand heartla
 - Vietnamese overextended 1979 invasion of Cambodia allowed Thai agents to infiltrate the Truong Son mountain range and collapsed the Hanoi leadership in 1989.  
 
 Two delta regions: 
-==> North East Mekong river delta contested with Laos and Vietnam in the Past
-==> Chao Praya river delta invaded by Burmese in the Past
+- North East Mekong river delta contested with Laos and Vietnam in the Past
+- Chao Praya river delta invaded by Burmese in the Past
 
 Gulf of Thailand
-==> Looking like the Baltic Sea with little tropical storms or high speed ocean wind. 
-==> Bangkok and Gulf of Thailand Famous for Western tourisms
-==> The Pataya Artificial Port famous for the Shemales and XO hookers
-==> The Nearby Seaport allowing regular docking for American carriers and their Seaman sailor. 
+- Looking like the Baltic Sea with little tropical storms or high speed ocean wind. 
+- Bangkok and Gulf of Thailand Famous for Western tourisms
+- The Pataya Artificial Port famous for the Shemales and XO hookers
+-  The Nearby Seaport allowing regular docking for American carriers and their Seaman sailor. 
 
 Thailand Terrain could be classified into 4 Different Regions
 
-==> The Mountainous Chiangmai region with many water reserve lakes and airports
-==> The Mekong North East Delta region near Laos, Vietnam and Cambodia border
-==> The South Gulf of Bangkok Pattaya area for American navy ship docking and Western tourisms 
-==> The Phuket Indian Ocean area
-
+- The Mountainous Chiangmai region with many water reserve lakes and airports
+- The Mekong North East Delta region near Laos, Vietnam and Cambodia border
+- The South Gulf of Bangkok Pattaya area for American navy ship docking and Western tourisms 
+- The Phuket Indian Ocean area
 
 ### Weather Pattern via Wind, Rain and Temperature
-==> DEC - MARCH Cold and Dry Winter,  Weather can get bellow 10 during winter but not below 0. Lot of Rain During Summer near the Mekong River with city like Udon Thani  and Ubon Rachathani having 300mm of Rain in Summer. 
-==> DEC - APRIL Cool and Dry Winter near Chiangmai not Too Much rain during Summer.  
-
-==> Bangkok and Pattaya tempetures ranging from 20-30 degree with Wet summer above 300 mm of Rain. Lot of rain in Aug and September
-==> Phukhet is year around Hot around 28 degree with extremely rainy summer around Sep 
-
-Khao ==> Meaning RICE in Laos and Thai
-Khao or Gao ==> Meaning paying for someone food or someone pay the food cost for you. 
-
-==> Vietnamese planned Rice in Laos and Thai and brought the Wet Rice technique to the Mekong. 
-==> Rice farming in Laos did not do that well but did great near the Mekong North East Thailand region. 
+- DEC - MARCH Cold and Dry Winter,  Weather can get bellow 10 during winter but not below 0. Lot of Rain During Summer near the Mekong River with city like Udon Thani  and Ubon Rachathani having 300mm of Rain in Summer. 
+- DEC - APRIL Cool and Dry Winter near Chiangmai not Too Much rain during Summer.  
+- Bangkok and Pattaya tempetures ranging from 20-30 degree with Wet summer above 300 mm of Rain. Lot of rain in Aug and September
+- Phukhet is year around Hot around 28 degree with extremely rainy summer around Sep 
+- Khao ==> Meaning RICE in Laos and Thai
+- Khao or Gao ==> Meaning paying for someone food or someone pay the food cost for you in Vietnamese. 
+- Vietnamese planned Rice in Laos and Thai and brought the Wet Rice technique to the Mekong. 
+- Rice farming in Laos did not do that well but did great near the Mekong North East Thailand region. 
 
 ### Major River, Water Reserve Lakes
 - Mekong River flowing by Vientiane of Laos,  Udon Thani and Nakhon Phanom of Thai and Savannakhet of Laos and Phnompenh Cambodia and Saigon, Vietnam
@@ -62,20 +58,21 @@ Khao or Gao ==> Meaning paying for someone food or someone pay the food cost for
 - Chaos Praya River flowing from Chiangmai to Bangkok and Pattaya
 
 ### Genetics Flow via Emigration, Immigration and Invasion.
-- Many fragmented Khmer culture city states of Native Mekong river tribes.  ==> Cambodian flag indicating that the Khmer temples built by the American architectures and the Native construction workers to create common identity for different Khmer tribes around the Mekong.  ==> The Time Square architecture for Royal Prisoners in Mandalay, Chiangmai, Ankovat and Hue.  
-  
 - Vietnamese and Yellow Yangzte genes introduction through the Hue Savannakhet Gap and the Mekong River to North East Thailand Tayland during the Pre-Colonial period. 
-  
- - North West Sukhoi-Thai Founding Gene Pool of Swiss Russian gene started around Chiangmai Water Reserve Lakes after 1945, claiming to be Royal by the Western Historian.   
 
+- Many fragmented Khmer culture city states of Native Mekong river tribes.  
+- Cambodian flag indicating that the Khmer temples built by the American architectures and the Native construction workers to create common identity for different Khmer tribes around the Mekong.  
+
+- The Time Square architecture for Royal Prisoners in Mandalay, Chiangmai, Hanoi, Hue and Ankovat.  
+- North West SukhoiThai Founding Gene Pool of Swiss Russian gene started around Chiangmai Water Reserve Lakes after 1945, claiming to be Royal by the Western Historian.   
+  
 - Ayutthaya AI-UT-Thai Kingdom of XO  Small Dick Shemales Founding Gene Pool started in Bangkok and Pattaya from the Colonial Period to serve as entertainment girls and service workers for the Western military installations in Thailand.  
 
-- SIAMESE == SI-ARMED-HONGKONG ?!==> Thai infiltrations as the main source of STDs and HIV in Hanoi.
+- SIAMESE == SI-ARMED-HONGKONG ==> Thai infiltrations as the main source of STDs and HIV in Hanoi.
 -  The Western doctors using Chiangmai Thuong Mai Thai XO Hookers and Gang Members as Disease Carriers like Le Hong Phong, Pham Hong Thai ==> Similar tactics to  the Aztec Bio-War in South America .
    
-- Is the Disease Carriers and New Gene coming from Chiangmai ?  
 - Vietnamese refugees after the collapse of Saigon in 1975 migrated to Thailand.
-- Vietnamese prisoners transported to Thailand after the collapse of Hanoi in 1990 from wild spread diseases via Le Hong Phong Pham and Pham Hong Thai from Thailand and HongKong (TEA mercenaries controlled by Western powers).
+- Vietnamese prisoners transported to Thailand after the collapse of Hanoi in 1990 from wild spread diseases via Le Hong Phong and Pham Hong Thai from Thailand and HongKong (TEA mercenaries controlled by Western powers).
 
 ### The GeoGen Area major Gene Groups with their Common and Different features.
 - The North West Chiangmai Lighter Skin with more Tibetan East Asian mix from Southern China and Vietnam.
@@ -139,11 +136,10 @@ Largest Companies in Thailand
 - Thaksin AIS Ai-So Telecom === MoBiPhone
 - Siam Cement 
 
-==> Thai probably import most FOOD PROCESSING machineries from China and Japan ?!
-==> Import most Oil and Gas from UAE Middle East
-==> Import Vehicle or Manufacturing techniques from Japan
-
-DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
+Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
+- Thai probably import most FOOD PROCESSING machineries from China and Japan. 
+- Import most Oil and Gas from UAE Middle East
+- Import Vehicles or Manufacturing Systems from Japan
 
 ### Trade Network via Sea Ports, Highway, Railways and AirFreight
 - Sea Port of Pattaya and Bangkok are main hubs for ocean trades with China and Western powers.  
@@ -161,7 +157,7 @@ DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 - Thai massage stores around the World as P2P messaging system. 
 
 ## Infographics
-![Pre Colonial Ocean Human Trafficking]
+![Pre Colonial Ocean Human Trafficking](https://storage.googleapis.com/spykman-world/Chinese%20Marine%20Merchant%20Migrants.png)
 
 ![Ankovat Time Square](https://storage.googleapis.com/spykman-world/Royal_Cambodian_Time_Square.png)
 
