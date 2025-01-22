@@ -149,6 +149,8 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 
 ### Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
 - Pattaya XO city is the main Seaport for International Internet Cable with large Switch Las Vegas Datacenters.
+- Most popular NEWS broadcasting channel is Channel7HDNews - https://www.youtube.com/channel/UC2OtDM92rLjt4mm43ED1Q-w.
+- Most popular Youtube Influencers are the Kaykai Salaider XO Thai Nguyen - https://www.youtube.com/@KaykaiSalaiderChannel.
 
 ### Information Influences of the GeoGen Area to the outside World
 - Clone Double agents planning in Vietnam, China, Laos and California.
