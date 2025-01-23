@@ -10,8 +10,33 @@ title: "Thai Worships Vietnamese Subconsciously"
 tags: ['Thailand', 'Burma', 'Laos','Cambodia','Vietnam', 'Malaysia', 'United States', 'Blonde', 'Golden Temple', 'Gold Star', 'Spykman World', 'GeoGenetics']
 published: true
 ---
-## Thailand The Land of Western Powers
-## Sorrow of The Betrayers 
+## Thailand Tay Land The Land of Western Powers
+Thailand was used to be part of 4 different kingdoms: The Lan Na Kingdom of Chiangmai, The Lan Sang Kingdom of Vientiane, the Aiuttaya Kingdom of Bangkok and The Khmer Kingdom of Ankovat.
+
+==> With Yellow Yangzte river genes expanding to Burma and Vietnam and mix with the local Royal gene. Lan Na kingdom and Khemer kingdom was slowly weaken and disappeared. 
+
+==> Aiuttaya Kingdom with Mountainous terrain in the West, North and East shielding the Bangkok capital and the food basket from regular invasions from Burma, Vietnama and China was able to have a mostly independent development until the arrival of Western Colonial power.  
+
+==> The mostly underdeveloped and massive Chaos Praya and Mekong river delta far away from the Yellow Yangzte advanced cilization was chosen by Western naval power to be the base for their Guard Dog population to counter the Yellow Yangzte just like the Indian civilization. 
+
+==> Western Power built Ankovat Time Square to move the Khmer Royal and Soldiers there, imprison them, make they work like slaves until they die. 
+
+==> Western Power also built Chiangmai Time Square to move the Aiuttaya royals and soldiers there, imprisoned them away from their Delta powerbase. 
+
+==> Western power then started the Thai Kingdom to create an ecosystem-counter to the Yellow Yangzte river gene pool. They moved Khmer population with Laos, Kazah, Burmese and Southern Chinese via trains and naval ships to the Chaos Praya river mouth near their biggest seaport in South East Asia, the Pattaya port.
+
+==> Thai will be the Guard-Dog aka Tay-Lan for Western settements in South East Asia.
+
+==> The Western naval imported Rice agriculture tech from Vietnam to Thailand to ensure equivilant nutrition input and also dig the Chao Praya River canal with TNT to build an extensive irrigation system to allow superior food production for their Guard Dog population. 
+
+==> They also turn part of Thai population into Siam Si-Armed to infiltrate and spread diceases in Vietnam and Southern China to stop the Southern advances of Yellow Yangzte river gene toward the Southern Sea near Western Naval Power territorial around the Strait of Malaca and Indonesia. 
+
+==> Since 1945, Siam have being used just like African slaves in South America to eradicate advanced local population like the Aztec there via Viral Diceases and Western Guns. 
+
+==> The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electronic light in Asia. They also sent a new King home from a Boston Hospital to legitimate the modern Thailand-TayLan-TayLand border and create a common culture and identity of the Thai concept. 
+
+## Sorrow of The Betrayers
+
 ## Vietnamese Flag Symbol A Thai Migrants Puller
 
 
@@ -32,7 +57,7 @@ Gulf of Thailand
 - Looking like the Baltic Sea with little tropical storms or high speed ocean wind. 
 - Bangkok and Gulf of Thailand Famous for Western tourisms
 - The Pataya Artificial Port famous for the Shemales and XO hookers
--  The Nearby Seaport allowing regular docking for American carriers and their Seaman sailor. 
+- The Nearby Seaport allowing regular docking for American carriers and their Seaman sailor. 
 
 Thailand Terrain could be classified into 4 Different Regions
 
@@ -159,6 +184,7 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 - Thai massage stores around the World as P2P messaging system. 
 
 ## Infographics
+
 ![Pre Colonial Ocean Human Trafficking](https://storage.googleapis.com/spykman-world/Chinese%20Marine%20Merchant%20Migrants.png)
 
 ![Ankovat Time Square](https://storage.googleapis.com/spykman-world/Royal_Cambodian_Time_Square.png)
@@ -188,6 +214,8 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 ![Ubon Ratchathani Airbase](https://storage.googleapis.com/spykman-world/Ubon%20Ratchathani%20Airbase.png)
 
 ![Nakhon Ratchasima](https://storage.googleapis.com/spykman-world/Nakhon%20Airbase.png)
+
+![CP Foods Using Internet and Diceases To Turn Human Into Food](https://storage.googleapis.com/spykman-world/CP%20Communist%20Party%20Food%20Processor.png)
 
 ![Channel7HDNews](https://storage.googleapis.com/spykman-world/ThaiChannel7News.png)
 
