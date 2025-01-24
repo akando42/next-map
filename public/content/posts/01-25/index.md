@@ -6,11 +6,11 @@ path: "/01-25"
 cover: "/content/posts/01-25/GeoGenetics_Vietnamese_Star_Jan25.png"
 date: "01-25"
 summary: ""
-title: "Thai Worships Vietnamese Subconsciously"
+title: "The Mekong Gold Star Liberator"
 tags: ['Thailand', 'Burma', 'Laos','Cambodia','Vietnam', 'Malaysia', 'United States', 'Blonde', 'Golden Temple', 'Gold Star', 'Spykman World', 'GeoGenetics']
 published: true
 ---
-## Thailand Tay Land The Land of Western Power
+## Thailand Tay Land The Land of Western Powers
 
 Thailand was used to be part of 4 different kingdoms: The Lan Na Kingdom of Chiangmai, The Lan Sang Kingdom of Vientiane, the Aiuttaya Kingdom of Bangkok and The Khmer Kingdom of Ankovat.
 
@@ -30,7 +30,7 @@ Some of Thai population also got turned into Siam Si-Armed to infiltrate and spr
 
 Since the founding of modern Thailand, Siam aka Si-Armed has being used just like African slaves in South America to eradicate advanced local population like the Aztec via the WMD of Viral Diseases. The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electric light in Asia to turn it into an effective mosquitos trap. 
 
-## Sorrow of The Betrayers
+## Pattaya and Bangkok The Infectious Threesomes
 
 Not just Viral Diceases, since 1945 Thailand also has become a safe zone for American Airforce and their Thai soldiers to launch bombing campaigns along the Truong Son Western flank of Vietnam and Red River delta. Most of the bombing of Hanoi and Laos was initiated from Thai Airports near Udon Thani and Udon Ratchathani. 
 
@@ -44,8 +44,21 @@ These RED HIV-positive Zombie Army of Siam and Red Khmer started to launch attac
 
 The Siam HIV-positive clone doubles was able to blend into the Vietnamese military occupying Phnompenh, returned back to Hanoi and caused wildspread HIV and Viral Skin diseases in the capital. 13 years after the 1975 withdrawal, Hanoi became Phnompenh with Sick police and military cooking Sick patients for food during a famine that caused the collapse of Communist leadership and the Vietnamese currency in 1988. 
 
-## Vietnamese Flag Symbol A Thai Migrants Puller
+## The Northern Lac Viet Fight or Die Option
 
+Since 1989, the Vietnamese government have been run secretly by the American-funded criminal gangs CHXH and the Thai secret police from behind the curtain. Instead of Bangkok and Pattaya being the only Infection Mosquitos Trap for Yellow Yangzte genes, Hanoi and Haiphong has also become the early Infection Mosquitos Trap at the Gate of Pearl River delta. 99% of all Yellow Yangzte and Pearl River delta genes migrating South would get infected with HIV or other STDs related diceases by the time they got to the Da Nang narrow coastline. 
+
+Saigon and the Mekong river mouth once was the food basket for the Northern Lac Viet genes after 1975 have slowly become the high yield nutrition sources for the Thai Tay genes introducing from the West via the Chiangmai Trang Mai airports and Bangkok naval ports. By 2000, most of food production have been removed from Red River delta with Mekong delta around Saigon HCM and Thai Tay genes control the food and water supply of the Hanoi capital population. 
+
+Once was the army of horse archers that dominated the Mekong delta, now the Northern Lac Viet are having to fight for the survival of their gene groups and the control of Red River delta food basket and water sources. During the COVID-19 incident in 2019, it seems like 1989 cannibalism horror of Hanoi is being repeated the second times with infections spreading from Hanoi to Beijing and Tokyo. This time the Aztec viral dicease WMD also get the assistances from high tech IP cameras, Internet routers and Smartphones. 
+
+Large population of Thai VP with uterus being removed since childhood had been planned in Hanoi since 1989 to serve as the eyes and ears Mule Spies for the Thai and American military in the South to warn against any kind of military movements of Chinese or rebellions from the Northern Lac Viet. The VP Thai Viet without the capability to form biological bonds with the Northern Lac Viet population will forever serve as the attack vectorer and secret leakers that reduce the chance of survival for this frontline Tibetan East Asian gene groups. The Thai population built up in Thai Nguyen and Thai Binh are posting survival threat to the Native Northern Lac Viet gene groups in Hanoi and surrouding provinces. 
+
+For the gene group survival, the Northern Lac Viet will have no choices but first secure a water and food source independent from Saigon HCM and Thailand. They will then have to keep all the Thai Viet VP population within a managed area in Red River delta or deport them South to reduce disruption to health and local economy of the Northern Lac Viet gene groups.
+
+They will then have to also build a buffer security zone around Nghe An into Laos or even Thai border to guard the gate of Red River delta and stop infiltration of Thai Siam Si-Armed spies and infected gang members into this food basket high population area. 
+
+To take back control of Vientiane, Savannakhet and North Eastern Thai cities like Udon Thani and Khon Kaen will not be an easy task with a full strength Thai military and American military assistance. A critical strike against Bangkok and Pattaya area before a surge of military personel into Laos and North East Thailand resembling to the Russian takeover of Eastern Ukraine is necessary to put a permanent stop to continuous lethal infection diceases spreading North from Pattaya toward Hanoi, Beijing and Tokyo. 
 
 ## Facts
 ### Terrain via Mountain, Delta, Desert, Coastline, Ocean
