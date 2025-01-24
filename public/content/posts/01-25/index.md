@@ -10,32 +10,38 @@ title: "Thai Worships Vietnamese Subconsciously"
 tags: ['Thailand', 'Burma', 'Laos','Cambodia','Vietnam', 'Malaysia', 'United States', 'Blonde', 'Golden Temple', 'Gold Star', 'Spykman World', 'GeoGenetics']
 published: true
 ---
-## Thailand Tay Land The Land of Western Powers
+## Thailand Tay Land The Land of Western Power
+
 Thailand was used to be part of 4 different kingdoms: The Lan Na Kingdom of Chiangmai, The Lan Sang Kingdom of Vientiane, the Aiuttaya Kingdom of Bangkok and The Khmer Kingdom of Ankovat.
 
-==> With Yellow Yangzte river genes expanding to Burma and Vietnam and mix with the local Royal gene. Lan Na kingdom and Khemer kingdom was slowly weaken and disappeared. 
+With Yellow Yangzte river genes expanding to Burma and Vietnam and mix with the local Royal gene, Lan Na kingdom and Khemer kingdom was slowly weaken and disappeared. 
 
-==> Aiuttaya Kingdom with Mountainous terrain in the West, North and East shielding the Bangkok capital and the food basket from regular invasions from Burma, Vietnama and China was able to have a mostly independent development until the arrival of Western Colonial power.  
+Aiuttaya Kingdom with Mountainous terrain in the West, North and East shielding the Bangkok capital and the Chaos Praya food basket delta from regular invasions by Burmeses, Chinese and Vietnamese gene groups. Aiuttay was able to have a mostly independent development until the arrival of Western colonial power.  
 
-==> The mostly underdeveloped and massive Chaos Praya and Mekong river delta far away from the Yellow Yangzte advanced cilization was chosen by Western naval power to be the base for their Guard Dog population to counter the Yellow Yangzte just like the Indian civilization. 
+The mostly underdeveloped and massive Chaos Praya and Mekong river delta far away from the Yellow Yangzte advanced civilization was chosen by Western naval power to be the base for their Guard Dog Tay Lan population to counter the Yellow Yangzte just like the Indian civilization and their massive Opium farms. 
 
-==> Western Power built Ankovat Time Square to move the Khmer Royal and Soldiers there, imprison them, make they work like slaves until they die. 
+The old alpha genes of Khmer, Aiutaya and Yangon Royals and military commanders were moved to Time Square prison in Ankovat, Chiangmai and Mandalay far away from their delta power base. These native alpha genes was then imprisoned and forced to work like slaves to build large cultural stone structures until they died.  
 
-==> Western Power also built Chiangmai Time Square to move the Aiuttaya royals and soldiers there, imprisoned them away from their Delta powerbase. 
+Western power then started the Thai Kingdom to create an ecosystem-counter to the Yellow Yangzte gene pool. They moved Khmer population with Laos, Kazah, Burmese and Southern Chinese via trains and naval ships to the Chaos Praya river mouth near their biggest seaport in South East Asia, the Pattaya port. People of Laos, Kazah, Burmese and Southern Chinese will then all be call Thai with a brand new King sent home from a Boston Hospital to legitimate the brain new kingdom. 
 
-==> Western power then started the Thai Kingdom to create an ecosystem-counter to the Yellow Yangzte river gene pool. They moved Khmer population with Laos, Kazah, Burmese and Southern Chinese via trains and naval ships to the Chaos Praya river mouth near their biggest seaport in South East Asia, the Pattaya port.
+The Western Naval Colonial Power also imported Rice agriculture tech from Vietnam to Thailand to ensure equivalent nutrition input and digged the Chao Praya River canal with TNT to build an extensive irrigation system to allow superior food production for their Tay-Lan Guard Dog population. 
 
-==> Thai will be the Guard-Dog aka Tay-Lan for Western settements in South East Asia.
+Some of Thai population also got turned into Siam Si-Armed to infiltrate and spread diceases in Vietnam and Southern China to stop the Southern advances of Yellow Yangtze genes toward the Southern Sea near Western Naval Power territorial around the Strait of Malacca and Indonesia.
 
-==> The Western naval imported Rice agriculture tech from Vietnam to Thailand to ensure equivilant nutrition input and also dig the Chao Praya River canal with TNT to build an extensive irrigation system to allow superior food production for their Guard Dog population. 
-
-==> They also turn part of Thai population into Siam Si-Armed to infiltrate and spread diceases in Vietnam and Southern China to stop the Southern advances of Yellow Yangzte river gene toward the Southern Sea near Western Naval Power territorial around the Strait of Malaca and Indonesia. 
-
-==> Since 1945, Siam have being used just like African slaves in South America to eradicate advanced local population like the Aztec there via Viral Diceases and Western Guns. 
-
-==> The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electronic light in Asia. They also sent a new King home from a Boston Hospital to legitimate the modern Thailand-TayLan-TayLand border and create a common culture and identity of the Thai concept. 
+Since the founding of modern Thailand, Siam aka Si-Armed has being used just like African slaves in South America to eradicate advanced local population like the Aztec there via the WMD of Viral Diseases. The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electronic light in Asia to turn it into an effective mosquitos trap. 
 
 ## Sorrow of The Betrayers
+
+Not just Viral Diceases, since 1945 Thailand also has become a safe zone for American Airforce and their Thai soldiers to launch bombing campaigns along the Truong Son Western flank of Vietnam and Red River delta. Most of the bombing of Hanoi and Laos was initiated from Thai Airports near Udon Thani and Udon Ratchathani. 
+
+These bombers launching from Thailand Tay Land Airbases have turn the Hue-Savannakhet infiltration path for Northern horse archers into a meet grinder with generations of young Chinese and Vietnamese soldiers disappeared there from 1954 to 1975. 
+
+After decades of wars against the American military, the Northern TEA genes was finally be able to reopen the Hue Savannakhet gene expansion path to reach Saigon and its agriculture rich region in 1975. However, the seem be stunning victory against Western genes in South East Asia did not last long without fully eliminating the American safe Habor near Pattaya and their airbases along the Western bank of the Mekong river. 
+
+The American and Siam Si-Armed has turned Khmer population near Ankovat and Phnompenh into RED Khmer HIV positive there right before the withdrawl from Saigon in 1975 mirroring the effective Bio strategy against the high fertility population of Aztec Mexican. The RED Khmer regime turned HIV Khmer population into food for their armed HIV police force there hence the name POL-POT or Police Pot. HIV patients as Food for the Armed Police has turned Cambodia into the most horror genocide in South East Asia history.  
+These RED HIV-positive Zombie Army of Siam and Khmer started to launch attacks against the Vietnamese Western flank following the fall of Saigon in 1975 under the American Navy and Airforce directives to draw the Vietnamese military into a costly war in Cambodia. The quick collapse of Phnompenh in 1979 actually later resulted into the spreading of infections back toward Hanoi. 
+
+The Siam-HIV positive clone doubles was able to blend into the Vietnamese military occupying Phnompenh, returned back to Hanoi and caused wildspread HIV and Viral Skin diseases in the capital. 13 years after the 1975 withdrawal, Hanoi became Phnompenh with Sick police and military cooking Sick patients for food during a famine that caused the collapse of Communist leadership and the Vietnamese currency in 1988. 
 
 ## Vietnamese Flag Symbol A Thai Migrants Puller
 
