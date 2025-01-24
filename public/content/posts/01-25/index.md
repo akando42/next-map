@@ -34,7 +34,7 @@ Since the founding of modern Thailand, Siam aka Si-Armed has being used just lik
 
 Not just Viral Diceases, since 1945 Thailand also has become a safe zone for American Airforce and their Thai soldiers to launch bombing campaigns along the Truong Son Western flank of Vietnam and Red River delta. Most of the bombing of Hanoi and Laos was initiated from Thai Airports near Udon Thani and Udon Ratchathani. 
 
-These bombers launching from Thailan Tay-Lan Airbases have turned the Hue-Savannakhet infiltration path for Northern horse archers into a meet grinder with generations of young Chinese and Vietnamese soldiers disappeared there from 1954 to 1975. 
+These bombers launching from Thailan Tay-Lan Airbases have turned the Hue-Savannakhet infiltration path for Northern horse archers into a meat grinder with generations of young Chinese and Vietnamese soldiers disappeared there from 1954 to 1975. 
 
 After decades of wars against the American military, the Northern TEA genes was finally be able to reopen the Hue Savannakhet gene expansion path to reach Saigon and its agriculture rich region in 1975. However, the stunning victory against Western genes in South East Asia did not last long without fully eliminating the American Safe Habor near Pattaya and their Airbases along the Western bank of the Mekong river. 
 
