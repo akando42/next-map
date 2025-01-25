@@ -5,60 +5,100 @@ lng: 100.53925276321912
 path: "/01-25"
 cover: "/content/posts/01-25/GeoGenetics_Vietnamese_Star_Jan25.png"
 date: "01-25"
-summary: ""
+summary: "Last century, western doctors have been very successful at throttling the growth of high fertility Asian Tech population via the use of WMD viral diceases and saturating firepowers in geographical stroke point areas"
 title: "The Mekong Gold Star Liberator"
 tags: ['Thailand', 'Burma', 'Laos','Cambodia','Vietnam', 'Malaysia', 'United States', 'Blonde', 'Golden Temple', 'Gold Star', 'Spykman World', 'GeoGenetics']
 published: true
 ---
 ## Thailand Tay Land The Land of Western Powers
 
-Thailand was used to be part of 4 different kingdoms: The Lan Na Kingdom of Chiangmai, The Lan Sang Kingdom of Vientiane, the Aiuttaya Kingdom of Bangkok and The Khmer Kingdom of Ankovat.
+Thailand was used to be part of 4 different kingdoms: The Lan Na Kingdom of Chiangmai, The Lan Sang Kingdom of Vientiane, the Aiuttaya Kingdom of Bangkok and The Khmer Kingdom of Ankovat. 
 
-With Yellow Yangzte river genes expanding to Burma and Vietnam and mix with the local Royal gene, Lan Na kingdom and Khemer kingdom was slowly weaken and disappeared. 
+![Ankovat Time Square](https://storage.googleapis.com/spykman-world/Royal_Cambodian_Time_Square.png)
+
+With Yellow Yangzte river genes expanding to Burma and Vietnam and mix with the local Royal gene, Lan Na kingdom of Kingdom and Khemer kingdom of Ankovat was slowly weaken and disappeared. 
+
+![Pre Colonial Ocean Human Trafficking](https://storage.googleapis.com/spykman-world/Chinese%20Marine%20Merchant%20Migrants.png)
 
 Aiuttaya Kingdom with Mountainous terrain in the West, North and East shielding the Bangkok capital and the Chaos Praya food basket delta from regular invasions by Burmeses, Chinese and Vietnamese gene groups. Aiuttay was able to have a mostly independent development until the arrival of Western colonial power.  
 
+![Ocean Current Map](https://storage.googleapis.com/spykman-world/Ocean_Current_Map.png)
+
 The mostly underdeveloped and massive Chaos Praya and Mekong river delta far away from the Yellow Yangzte advanced civilization was chosen by Western naval power to be the base for their Guard Dog Tay Lan population to counter the Yellow Yangzte just like the Indian civilization and their massive Opium farms. 
+
+![Opium Farm](https://storage.googleapis.com/spykman-world/Opium_Farm.png)
 
 The old alpha genes of Khmer, Aiutaya and Yangon Royals and military commanders were moved to Time Square prison in Ankovat, Chiangmai and Mandalay far away from their delta power base. These native alpha genes was then imprisoned and forced to work like slaves to build large cultural stone structures until they died.  
 
+![Chiangmai Thuong Mai Time Square](https://storage.googleapis.com/spykman-world/Royal%20Chiangmai%20Time%20Square.png)
+
 Western power then started the Thai Kingdom to create an ecosystem-counter to the Yellow Yangzte gene pool. They moved Khmer, Laos, Kazah, Burmese and Southern Chinese population via trains and naval ships to the Chaos Praya river mouth near their biggest seaport in South East Asia, the Pattaya port. People of Laos, Kazah, Burmese and Southern Chinese will then all be called Thai with a brand new King sent home from a Boston Hospital to legitimate the new border.
+
+![Mekong Peninsula Railnetwork](https://storage.googleapis.com/spykman-world/Mekong_Peninsula_Rail_Network.png)
 
 The Western Naval Colonial Power also imported Rice agriculture tech from Vietnam to Thailand to ensure equivalent nutrition input and digged the Chao Praya River canal with TNT to build an extensive irrigation system to allow superior food production for their Tay-Lan Guard Dog population. 
 
-Some of Thai population also got turned into Siam Si-Armed to infiltrate and spread diceases in Vietnam and Southern China to stop the Southern advances of Yellow Yangtze genes toward the Southern Sea near Western Naval Power territorial around the Strait of Malacca and Indonesia.
+![Thailand Tay Land Irrigation System](https://storage.googleapis.com/spykman-world/Chao_Praya_River.png)
 
-Since the founding of modern Thailand, Siam aka Si-Armed has being used just like African slaves in South America to eradicate advanced local population like the Aztec via the WMD of Viral Diseases. The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electric light in Asia to turn it into an effective mosquitos trap. 
+Some of Thai population also got turned into Siam Si-Armed to infiltrate and spread diceases in Vietnam and Southern China to stop the Southern advances of Yellow Yangtze genes toward the Southern Sea near Western Naval Power territorial around the Strait of Malacca and Indonesia. Since the founding of modern Thailand, Siam aka Si-Armed has being used just like African slaves in South America to eradicate advanced local population like the Aztec via the WMD of Viral Diseases. The West also built the first Hydroelectric Dam near Chiangmai to light up Bangkok, the first city with electric light in Asia to turn it into an effective mosquitos trap.
+
+![Si-Armed Infection](https://storage.googleapis.com/spykman-world/Srilanka_Artist_Vision_of_Mekong_Children_Teeth.png) 
 
 ## Pattaya and Bangkok The Infectious Threesomes
 
 Not just Viral Diceases, since 1945 Thailand also has become a safe zone for American Airforce and their Thai soldiers to launch bombing campaigns along the Truong Son Western flank of Vietnam and Red River delta. Most of the bombing of Hanoi and Laos was initiated from Thai Airports near Udon Thani and Udon Ratchathani. 
 
+![Ubon Ratchathani Airbase](https://storage.googleapis.com/spykman-world/Ubon%20Ratchathani%20Airbase.png)
+
 These bombers launching from Thailan Tay-Lan Airbases have turned the Hue-Savannakhet infiltration path for Northern horse archers into a meat grinder with generations of young Chinese and Vietnamese soldiers disappeared there from 1954 to 1975. 
+
+![Udon Thani Airbase](https://storage.googleapis.com/spykman-world/Udon%20Thani%20Airbase.png)
 
 After decades of wars against the American military, the Northern TEA genes was finally be able to reopen the Hue Savannakhet gene expansion path to reach Saigon and its agriculture rich region in 1975. However, the stunning victory against Western genes in South East Asia did not last long without fully eliminating the American Safe Habor near Pattaya and their Airbases along the Western bank of the Mekong river. 
 
-The American and Siam Si-Armed has turned Khmer population near Ankovat and Phnompenh into RED Khmer HIV positive there right before the withdrawl from Saigon in 1975 mirroring the effective Bio strategy against the high fertility population of Aztec Mexican. The RED Khmer regime turned HIV Khmer population into food for their armed HIV police force hence the name POL-POT or Police Pot. HIV patients as Food for the Armed Police has turned Cambodia into the most horror genocide in South East Asia history.  
+![Ocean Oil Tankers around Mekong Peninsula](https://storage.googleapis.com/spykman-world/Oil_Tanker_Map.png)
+
+The American and Siam Si-Armed has turned Khmer population near Ankovat and Phnompenh into RED Khmer HIV positive there right before the withdrawl from Saigon in 1975 mirroring the effective Bio strategy against the high fertility population of Aztec Mexican. The RED Khmer regime turned HIV Khmer population into food for their armed HIV police force hence the name POL-POT or Police Pot. HIV patients as Food for the Armed Police has turned Cambodia into the most horror genocide in South East Asia history. 
+
+![CP Foods Using Internet and Diceases To Turn Human Into Food](https://storage.googleapis.com/spykman-world/CP%20Communist%20Party%20Food%20Processor.png)
 
 These RED HIV-positive Zombie Army of Siam and Red Khmer started to launch attacks against the Vietnamese Western flank following the fall of Saigon in 1975 under the American Navy and Airforce directives to draw the Vietnamese military into a costly war in Cambodia. The quick collapse of Phnompenh in 1979 actually later resulted in the spreading of infections back toward Hanoi. 
 
+![Vietnam troops in Cambodia](https://storage.googleapis.com/spykman-world/1980%20Vietnamese%20Troop%20in%20Cambodia.png)
+
 The Siam HIV-positive clone doubles was able to blend into the Vietnamese military occupying Phnompenh, returned back to Hanoi and caused wildspread HIV and Viral Skin diseases in the capital. 13 years after the 1975 withdrawal, Hanoi became Phnompenh with Sick police and military cooking Sick patients for food during a famine that caused the collapse of Communist leadership and the Vietnamese currency in 1988. 
+
+![HIV and Pink Skin created Famine in Red River delta in 1988](https://storage.googleapis.com/spykman-world/Pink_Skin_Dicease.png)
 
 ## The Northern Lac Viet Fight or Die Option
 
 Since 1989, the Vietnamese government have been run secretly by the American-funded criminal gangs CHXH and the Thai secret police from behind the curtain. Instead of Bangkok and Pattaya being the only Infection Mosquitos Trap for Yellow Yangzte genes, Hanoi and Haiphong has also become the early Infection Mosquitos Trap at the Gate of Pearl River delta. 99% of all Yellow Yangzte and Pearl River delta genes migrating South would get infected with HIV or other STDs related diceases by the time they got to the Da Nang narrow coastline. 
 
+![Faked Listerine and BJ spreading HIV near Da Nang](https://storage.googleapis.com/spykman-world/Listerine.png)
+
 Saigon and the Mekong river mouth once was the food basket for the Northern Lac Viet genes after 1975 have slowly become the high yield nutrition sources for the Thai Tay genes introducing from the West via the Chiangmai Trang Mai airports and Bangkok naval ports. By 2000, most of food production have been removed from Red River delta with Mekong delta around Saigon HCM and Thai Tay genes control the food and water supply of the Hanoi capital population. 
+
+![Landmark81](https://storage.googleapis.com/spykman-world/Landmark81.png)
 
 Once was the army of horse archers that dominated the Mekong delta, now the Northern Lac Viet are having to fight for the survival of their gene groups and the control of Red River delta food basket and water sources. During the COVID-19 incident in 2019, it seems like 1989 cannibalism horror of Hanoi is being repeated the second times with infections spreading from Hanoi to Beijing and Tokyo. This time the Aztec viral dicease WMD also get the assistances from high tech IP cameras, Internet routers and Smartphones. 
 
+![Alibaba Chip in Every Cameras in Hanoi](https://storage.googleapis.com/spykman-world/Alibaba_Chip.png)
+
 Large population of Thai VP with uterus being removed since childhood had been planned in Hanoi since 1989 to serve as the eyes and ears Mule Spies for the Thai and American military in the South to warn against any kind of military movements of Chinese or rebellions from the Northern Lac Viet. The VP Thai Viet without the capability to form biological bonds with the Northern Lac Viet population will forever serve as the attack vectorer and secret leakers that reduce the chance of survival for this frontline Tibetan East Asian gene groups. The Thai population built up in Thai Nguyen and Thai Binh are posting survival threat to the Native Northern Lac Viet gene groups in Hanoi and surrouding provinces. 
+
+![Thai Nguyen and Thai Binh Trojan Horse Population](https://storage.googleapis.com/spykman-world/Gf-HU6qbQAAt-J6.jpeg)
 
 For the gene group survival, the Northern Lac Viet will have no choices but first secure a water and food source independent from Saigon HCM and Thailand. They will then have to keep all the Thai Viet VP population within a managed area in Red River delta or deport them South to reduce disruption to health and local economy of the Northern Lac Viet gene groups.
 
+![VPBank Thai Viet and Minions Bank](https://storage.googleapis.com/spykman-world/VPBank.png)
+
 They will then have to also build a buffer security zone around Nghe An into Laos or even Thai border to guard the gate of Red River delta and stop infiltration of Thai Siam Si-Armed spies and infected gang members into this food basket high population area. 
 
+![Buffer Security Zone in Laos and North East Thailand](https://storage.googleapis.com/spykman-world/The%20Fall_of_Udon_Thani.png)
+
 To take back control of Vientiane, Savannakhet and North Eastern Thai cities like Udon Thani and Khon Kaen will not be an easy task with a full strength Thai military and American military assistance. A critical strike against Bangkok and Pattaya area before a surge of military personel into Laos and North East Thailand resembling to the Russian takeover of Eastern Ukraine is necessary to put a permanent stop to continuous lethal infection diceases spreading North from Pattaya toward Hanoi, Beijing and Tokyo. 
+
+![The Mekong Frontline](https://storage.googleapis.com/spykman-world/Mekong_Frontline.png))
 
 ## Facts
 ### Terrain via Mountain, Delta, Desert, Coastline, Ocean
@@ -205,37 +245,23 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 
 ## Infographics
 
-![Pre Colonial Ocean Human Trafficking](https://storage.googleapis.com/spykman-world/Chinese%20Marine%20Merchant%20Migrants.png)
-
-![Ankovat Time Square](https://storage.googleapis.com/spykman-world/Royal_Cambodian_Time_Square.png)
-
 ![Hue Time Square](https://storage.googleapis.com/spykman-world/Royal_Hue_Time_Square.png)
 
 ![Mandalay Time Square](https://storage.googleapis.com/spykman-world/Royal_Mandalay_Time_Square.png)
 
 ![Post Colonial Air Human Trafficking](https://storage.googleapis.com/spykman-world/Jetstream_Wind_Current_To_Save_Jetfuel.png)
 
-![Si-Armed Infection](https://storage.googleapis.com/spykman-world/Srilanka_Artist_Vision_of_Mekong_Children_Teeth.png)
 
-![Ocean Oil Tankers around Mekong Peninsula](https://storage.googleapis.com/spykman-world/Oil_Tanker_Map.png)
+
+
 
 ![Mekong Peninsula Fiberoptics Cable](https://storage.googleapis.com/spykman-world/FiberOptics_Cable.png)
 
-![Mekong Peninsula Railnetwork](https://storage.googleapis.com/spykman-world/Mekong_Peninsula_Rail_Network.png)
-
 ![Vietnam vs Thailand Military Strength Index](https://storage.googleapis.com/spykman-world/Vietnam_vs_Thailand_Military_Strength_Index.png)
-
-![The Fall of Udon Thani](https://storage.googleapis.com/spykman-world/Mekong_Frontline.png)
-
-![Udon Thani Airbase](https://storage.googleapis.com/spykman-world/Udon%20Thani%20Airbase.png)
 
 ![Khon Kaen Armor](https://storage.googleapis.com/spykman-world/Khon%20Kaen%20Armor.png)
 
-![Ubon Ratchathani Airbase](https://storage.googleapis.com/spykman-world/Ubon%20Ratchathani%20Airbase.png)
-
 ![Nakhon Ratchasima](https://storage.googleapis.com/spykman-world/Nakhon%20Airbase.png)
-
-![CP Foods Using Internet and Diceases To Turn Human Into Food](https://storage.googleapis.com/spykman-world/CP%20Communist%20Party%20Food%20Processor.png)
 
 ![Channel7HDNews](https://storage.googleapis.com/spykman-world/ThaiChannel7News.png)
 
