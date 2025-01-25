@@ -245,27 +245,43 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 
 ## Infographics
 
+Red River delta Royal Time Square prison in Hue
+
 ![Hue Time Square](https://storage.googleapis.com/spykman-world/Royal_Hue_Time_Square.png)
+
+Yangon Ya-Ngon Royal Time Square prison in Mandalay
 
 ![Mandalay Time Square](https://storage.googleapis.com/spykman-world/Royal_Mandalay_Time_Square.png)
 
+Human Air Trafficking from the Western Human Farm
+
 ![Post Colonial Air Human Trafficking](https://storage.googleapis.com/spykman-world/Jetstream_Wind_Current_To_Save_Jetfuel.png)
 
-
-
-
+Pattaya Mosquitos Trap of Bright Light and Large LCD Screens
 
 ![Mekong Peninsula Fiberoptics Cable](https://storage.googleapis.com/spykman-world/FiberOptics_Cable.png)
 
+Viet Rocket Artilery vs Thai Airsuperiority
+
 ![Vietnam vs Thailand Military Strength Index](https://storage.googleapis.com/spykman-world/Vietnam_vs_Thailand_Military_Strength_Index.png)
+
+Khon Kaen Armor at Large Water Reserve Lake Defensive Strong Point
 
 ![Khon Kaen Armor](https://storage.googleapis.com/spykman-world/Khon%20Kaen%20Armor.png)
 
+Nakhon Ratchasima Airbase Guarding the Gate of Bangkok
+
 ![Nakhon Ratchasima](https://storage.googleapis.com/spykman-world/Nakhon%20Airbase.png)
+
+Thai Channel7HDNews looking like Vietnamese
 
 ![Channel7HDNews](https://storage.googleapis.com/spykman-world/ThaiChannel7News.png)
 
+Thai Provincial Diverse Sources of Mayonnaise
+
 ![Thai Largest Cities Mayonnaise](https://storage.googleapis.com/spykman-world/Largest_Thai_City_Mayonnaise.png)
+
+XO-CHXH Majority Among Thai Female Population
 
 ![Thai Holes](https://storage.googleapis.com/spykman-world/Thai_Holes.png)
 
