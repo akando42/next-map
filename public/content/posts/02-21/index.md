@@ -182,11 +182,12 @@ Barrack Obama also really enjoyed Bun Cha, a High-Sugar Food invented in 1988 Fa
 ⇒ Or Putin seems to lose his mind and sacrifying his troops like Computer Game characters during the march on Kiev. 
 
 2023
-⇒ Joe Biden seems to lose his mind or being remote controlled by someone. 
-⇒ The Quantum Link might be causing Health damages to its Connected nodes or a Super Computer running the Global Presidental mouthpieces and even the President of United State is not able to control his own brain anymore. 
+⇒ Joe Biden seems to lose his mind or being remote controlled by a Super Computer. 
+⇒ The Quantum Link might be causing Health damages to its Connected nodes 
+⇒ A Super Computer running the Global Presidential mouthpieces now and even the President of United State is not able to control his own brain or his mouth anymore. 
 
 2024
-⇒ Massing of American, Russian, Japanese or Chinese controlled HIV-Vision cameras in China, Vietnam and Laos that is manufactured by the HIKVISION Chinese Secret Police Corporation to remote control the Vichy governments of South East Asia and even China. 
+⇒ Massing of Russian controlled HIV-Vision cameras in China, Vietnam and Laos that is manufactured by the HIKVISION Chinese Secret Police Corporation to remote control the Vichy governments of South East Asia and even China. 
 
 ![Remote Controlled Humans with Nanobots](https://storage.googleapis.com/spykman-world/hikvision-hq.png)
 
