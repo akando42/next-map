@@ -7,7 +7,7 @@
   left: 30px;
   position: fixed;
   z-index: 2;
-  animation: rotating 4s linear infinite;
+  animation: rotating 6s linear infinite;
 }
 
 @keyframes rotating {
@@ -17,5 +17,27 @@
 
   to {
     transform: rotateY(360deg);
+  }
+}
+
+
+@keyframes clockWise {
+  from {
+    transform: rotateZ(0deg);
+  }
+
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+
+
+@keyframes earthWise {
+  from {
+    transform: rotateZ(360deg);
+  }
+
+  to {
+    transform: rotateZ(0deg);
   }
 }

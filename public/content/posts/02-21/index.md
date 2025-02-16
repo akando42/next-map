@@ -164,7 +164,6 @@ Barrack Obama also really enjoyed Bun Cha, a High-Sugar Food invented in 1988 Fa
 
 2019
 ⇒ second SAR-COVID variant and a global pandemic originated from Wuhan, China
-
 ![Vaccine to Chip people in East Asia](https://storage.googleapis.com/spykman-world/vaccine-to-chip-people.png)
 
 2020
@@ -173,7 +172,6 @@ Barrack Obama also really enjoyed Bun Cha, a High-Sugar Food invented in 1988 Fa
 
 2021
 ⇒ Joe Biden BJ became US president on a diplomatic strategy against defeated China 
-
 ![Superspreading of STD](https://storage.googleapis.com/spykman-world/ma-xa-thai.png)
 
 2022 
