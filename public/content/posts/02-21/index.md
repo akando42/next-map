@@ -3,7 +3,7 @@ zoom: 4
 lat: 44.32067055651093 
 lng: 125.41364864311889
 path: "/02-21"
-cover: "content/posts/02-21/spykman-world-permanent.jpg"
+cover: "content/posts/02-21/GeoGenetics_The_Machurian_Candidate.png"
 date: "02-21"
 title: "The Manchurian Candidate"
 summary: ""
@@ -11,6 +11,36 @@ tags: ['Russia', 'China', 'United States', 'Vladimir Putin', 'Donald Trump', 'Vi
 published: true
 ---
 ## The Manchurian Candidate
+
+![The MC MosCow Manchurian Candidate](https://storage.googleapis.com/spykman-world/The_MC_MosCow_Machurian_Candidate.png)
+
+![Post WW2 Human Trafficking Law](https://storage.googleapis.com/spykman-world/Swiss%20Human%20Trafficking%20Law.png)
+
+![The Breaking of Nash Equilibrium](https://storage.googleapis.com/spykman-world/Vietnam-Japan-Russia.png)
+
+![DF41 Nuclear Tip ICBM](https://storage.googleapis.com/spykman-world/DF41_DeadPool_DP.png)
+
+![Alibaba Mobility Gene vs Settled Population](https://storage.googleapis.com/spykman-world/333_Cities.png)
+
+![Blood Type AB in North Asia](https://storage.googleapis.com/spykman-world/BloodtypeAB.png)
+
+![Starlink Internet Coverage](https://storage.googleapis.com/spykman-world/Starlink_Internet_Coverage.png)
+
+![Internet FREE Nomadic Heartland](https://storage.googleapis.com/spykman-world/Internet_FREE_Nomadic_Heartland.png)
+
+![North Asia Critical Transportation Infrastructure](https://storage.googleapis.com/spykman-world/North_Asia_Critical_Transport_Infrastructure.png)
+
+![North Asia Critical Heating Oil and Gas Cities](https://storage.googleapis.com/spykman-world/Oil_and_Natural_Gas_Pipeline.png)
+
+![Alibaba Cities Directed or Directing Russia](https://storage.googleapis.com/spykman-world/Alibaba_Cities_Directed_From_Russia.png)
+
+![Manchu vs Norway Influences of North Asia](https://storage.googleapis.com/spykman-world/Norway_vs_Manchu_Influence_of_North_Asia.png)
+
+![Xian Natural Gas Rail Hub](https://storage.googleapis.com/spykman-world/Xian_Natural_Gas_Rail_Hub.png)
+
+![Yakutsk Rail Station](https://storage.googleapis.com/spykman-world/Yakut_Railstation.png)
+
+![Tynda Rail Station](https://storage.googleapis.com/spykman-world/Tynda_Railstation.png)
 
 ### Donald Trump Russia and The Attempt at Reviving the Blonde Hair Blue Eye Supremacy
 
@@ -22,7 +52,7 @@ In 2009, Bitcoin was invented in 2009 right after the 2008 Financial Crisis as a
 
 ![Switching from GOLD to Electricity Cost as Anchor of Value](https://storage.googleapis.com/spykman-world/bitcoin-invention.png)
 
-By 2010, Chinese and Japanese economies in combined while not surpassed the United States economy just yet did achieve a significant share of the global total production outputs. If all Chinese and Japanese export goods and services would be priced around US Dollar then their worker wages and natural resources pricing would become highly vulnerable against US Dollar printing. Xi-JinPing, a Xian-Japananese mixed baby, became Chinese's premier in 2013 with the promise of strengthening the Chinese position at the Trade Negotiating Table and not repeating Japanese trade negitiating humiliation of the 1980 that resulted in the following Japanese decades of low birth rate and economic stagnation.  
+By 2010, Chinese and Japanese economies in combined while not surpassed the United States economy just yet did achieve a significant share of the global total production outputs. If all Chinese and Japanese export goods and services would be priced around US Dollar then their worker wages and natural resources pricing would become highly vulnerable against US Dollar printing. Xi-JinPing, a Xian-Japananese mixed baby, became Chinese's premier in 2013 with the promise of strengthening the Chinese position at the Trade Negotiating Table and not repeating Japanese trade negptiating humiliation of the 1980 that resulted in the following Japanese decades of low birth rate and economic stagnation.  
 
 ![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
 
@@ -58,6 +88,35 @@ Barrack Obama also really enjoyed Bun Cha, a High-Sugar Food invented in 1988 Fa
 
 ## Facts
 ### Northmen of Asian Nations
+
+Trung Yen and the Manchurian candidate
+Afghanistan-Mongolia-Manchuria as the 47th American President Controller 
+
+# Terrain via Mountain, Delta, Desert, Coastline, Ocean
+
+# Weather Pattern via Wind, Rain and Temperature
+
+# Major River, Water Reserve Lakes
+
+# Genetics Flow via Emigration, Immigration and Invasion.
+
+# The GeoGen Area major Gene Groups with their Common and Different features.
+
+# Genetics flow of the GeoGen Area via migrations and invasions.
+
+# Present and Past National Border
+
+# Major Outputs via Exports, Needs for Import
+
+# Trade Network via Sea Ports, Highway, Railways and AirFreight
+
+# Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+
+# Information Influences of the GeoGen Area to the outside World
+
+# Secured Genetics Settlements outside of GeoGen Center
+
+
 
 ### Global Related Events
 - 2001 ⇒ World Trade Center built on extremely low reserve capital lending of Wall Street banks collapsed after a Kamikaze style attack by Central Asia actors
@@ -103,16 +162,6 @@ Barrack Obama also really enjoyed Bun Cha, a High-Sugar Food invented in 1988 Fa
 ⇒ Donald Trump became 47th US President and continue to make damaging moves against US Global Dominance established since the end of World War 2 and the Brenton Wood Agreement
 
 ### Images
-
-![Post WW2 Human Trafficking Law](https://storage.googleapis.com/spykman-world/Swiss%20Human%20Trafficking%20Law.png)
-
-![The Breaking of Nash Equilibrium](https://storage.googleapis.com/spykman-world/Vietnam-Japan-Russia.png)
-
-![DF41 Nuclear Tip ICBM](https://storage.googleapis.com/spykman-world/DF41_DeadPool_DP.png)
-
-![Alibaba Mobility Gene vs Settled Population](https://storage.googleapis.com/spykman-world/333_Cities.png)
-
-![Blood Type AB in North Asia](https://storage.googleapis.com/spykman-world/BloodtypeAB.png)
 
 ![Mr Trong 2015 Visit](https://storage.googleapis.com/spykman-world/2015-white-house-visit.png)
 
