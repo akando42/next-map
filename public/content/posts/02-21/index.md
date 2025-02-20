@@ -7,49 +7,57 @@ cover: "content/posts/02-21/GeoGenetics_The_Machurian_Candidate.png"
 date: "02-21"
 title: "The Manchurian Candidate"
 summary: ""
-tags: ['Russia', 'China', 'United States', 'Vladimir Putin', 'Donald Trump', 'Vietnam', 'Spykman World','GeoGenetics']  
+tags: ['China', 'Kazakhstan', 'Mongolia', 'Japan', 'Korea', 'Vietnam', 'Russia', 'United States', 'Vladimir Putin', 'Donald Trump', 'Spykman World', 'GeoGenetics']  
 published: true
 ---
-## The Manchurian Candidate
-Afghanistan-Mongolia-Manchuria as the 47th American President Controller 
-
-Through lucks and spy crafts, during and after the Mongolian invasion of Eastern Europe in 13 century, many of the Mongol and Yellow Yangzte best technologies in military and agriculture has been passed along to the Black Sea settlements near modern Turkeys and Eastern European nations.
-
-## SCRIPT
+## From King of Heaven to the Sudden Realization of Reality
 
 - Direct land border allowed mixing of genes between Yellow Yangzte, Black Sea nations and Eastern European via Migrations and Invasion in the past  
-  
-- Mixing of GENEs and TRADEs as well as Spy Crafts and Luck resulted in Technology transfer from the East to the West 
+
+- Through lucks, spy crafts and mixing of Genes during and after the Mongolian invasion of Eastern Europe in 13 century, many of the Mongol and Yellow Yangzte best technologies in military and agriculture has been passed along to the Black Sea settlements near modern Turkeys and Eastern European nations.
 
 - Large Pacific Ocean and the Frozen Alaskan Land bridge did not provide continuous easy access paths for Migrations and Invasions. 
 
 - The West alphabets allowed the West to make rapid improvement on Asian Tech resulting in the Industrial Revolution
 
-- Industrial Revolution allow Western genes to expand across the Siberian Frozen Massland via Steam Engine and Railnetwork
+- Industrial Revolution allowed Western genes to expand across the Siberian Frozen Massland via Steam Engine and Railnetwork
 
 - Russian expansion to Siberia exposing the Yellow Yangzte and Manchurian Region to invasions from the North.
   
 - After the Russian and European Naval Power invasion of Northern China, the Chinese Qing Dynasty have to switch to Bio, Psychological and Trade strategy to catch up with the Technological Advances in to West.
+
+## Countering Technological Fallback via Understanding the Human Fundamental Needs
   
-- They use GOLD to buy a LEE base in the middle of the High Mountain Swiss Alps at the Intersection between the German tribes of the North and the Italian tribes of the South. The QING strategists and LEE writers with English and Latin education then use the Psychological Information War and GOLD to Plunge EUROPE into Endless CIVIL Wars via a Series of propaganda Ghostwriter BOOKs like The Capita, Wealth of Nation, The King James BIBLE, the Communist Manifesto, Menkam.
+- They use GOLD to buy a LEE base in the middle of the High Mountain Swiss Alps at the Intersection between the German tribes of the North and the Italian tribes of the South. The QING strategists and LEE writers with English and Latin education then use the Psychological Information War and GOLD to Plunge EUROPE into Endless CIVIL Wars via a Series of propaganda Ghostwriter BOOKs like The King James BIBLE, the Communist Manifesto, Mein Kamp.
   
 - WW1 and WW2 broke out in the Middle of the Western Civilization resulted in destruction for largest industrial nations of Western world: England, France, Germany, Italy and Russia.
 
 - Civil wars between Western gene groups following the Qing Information Wars resulting rapid transfering of War and Industrial technology to the East. The Axis and Allies have to arm and modernize their Japanese and Chinese mercenary armies to protect their natural resource bases in the East. 
   
-- COLD WAR following WW2 via contrasting ideologies between the Communist Manifesto and the Wealth of Nations resulted in the complete stop of Trades between Russia and Western Europe as well the transfering of CUTTING EDGE weapons and technology to fight wars in the Korean peninsula and Vietnam.  
+- COLD WAR following WW2 via contrasting ideologies between the Communist Manifesto and the Wealth of Nations resulted in the complete stop of Trades between Russia and Western Europe as well the transfering of CUTTING EDGE weapons and technology to fight wars in the Korean peninsula and Vietnam.
+
+## The Nomadic Princes as the 47th American President Controllers
+
+- Large screentimes via Mobile and Desktop devices via Human Attention Research resulting Low Productivity and Large Budget Deficits in Europe, US and Russia.
   
 - With the Invention of the Memory Card, the Internet and the TV Screen, the technology gaps between the West and the East no longer exists. It is possible to acquire newest weapon designs from US or the cutting edge Quantum Physics research from Europe or the next Space-based weapon engineering from Russia via a SWISS Banking transfer or a Cryptocurrency wallet.
   
-- Modern day, it is possible to use Personal Vehicles to Drive from Yellow Yangzte to Europe while it is only possible to FLY or boarding Merchant Container Ship from Yellow Yangzte to United States. 
-  
-- The Post Soviet Union anti-migration policies from East Asia to Europe resulting in  ==> Larger migrations via AIR from East Asia to US 
+- The Post Soviet Union anti-migration policies and more Efficient Air and Ocean Aerodynamic Design and Engine resulting in
+==> Larger migrations via AIR from East Asia to US 
 ==> It is possible to fly people from Kabul to Phoenix in less than 30 hours flight. 
 ==> More than 2/3 of World Trading Volume happening between US West Coast and East Asia via Highly Fuel Efficient ocean container ships rivaling High Speed Rail. 
 
+- Low Weight Nanobots, AI Semiconductors and Engineered Viruses allowing the Nomadic North Asia genes to remote control Americans to vote for Donald Trump and Russian generals to start a War in Eastern Europe
+
 ## IMAGES
 
+![German vs Slavic vs Manchu](https://storage.googleapis.com/spykman-world/German_vs_Slav_vs_Manchu_Influence.png)
+
+![The Manchu Hunter](https://storage.googleapis.com/spykman-world/The_Manchurian_Hunter.png)
+
 ![The MC MosCow Manchurian Candidate](https://storage.googleapis.com/spykman-world/The_MC_MosCow_Machurian_Candidate.png)
+
+![Russian VIP Population](https://storage.googleapis.com/spykman-world/Russian_VIP_Population.png)
 
 ![Post WW2 Human Trafficking Law](https://storage.googleapis.com/spykman-world/Swiss%20Human%20Trafficking%20Law.png)
 
@@ -65,7 +73,7 @@ Through lucks and spy crafts, during and after the Mongolian invasion of Eastern
 
 ![Internet FREE Nomadic Heartland](https://storage.googleapis.com/spykman-world/Internet_FREE_Nomadic_Heartland.png)
 
-![North Asia Critical Transportation Infrastructure](https://storage.googleapis.com/spykman-world/North_Asia_Critical_Transport_Infrastructure.png)
+![North Asia Critical Rail Infrastructure](https://storage.googleapis.com/spykman-world/North_Asia_Critical_Rail_Infrastructure.png)
 
 ![North Asia Critical Heating Oil and Gas Cities](https://storage.googleapis.com/spykman-world/Oil_and_Natural_Gas_Pipeline.png)
 
@@ -76,6 +84,8 @@ Through lucks and spy crafts, during and after the Mongolian invasion of Eastern
 ![Xian Natural Gas Rail Hub](https://storage.googleapis.com/spykman-world/Xian_Natural_Gas_Rail_Hub.png)
 
 ![Yakutsk Rail Station](https://storage.googleapis.com/spykman-world/Yakut_Railstation.png)
+
+![Yakutsk](https://storage.googleapis.com/spykman-world/Yakutsk_Horses.png)
 
 ![Tynda Rail Station](https://storage.googleapis.com/spykman-world/Tynda_Railstation.png)
 
@@ -236,7 +246,7 @@ CaspianSea Desert Climate after 1989
 
 - Dec 2019 ⇒ second SAR-COVID variant and a global pandemic originated from Wuhan, China, mass vaccination like in 1980s to insert nanobots into people in East Asia
   
-- 2020 ⇒ During COVID lockdown, CIA cloned Xi Jinping by sewing hands and face of Xi on his double. The double did not initiate a Nuclear Retaliation Strike after 4 Blonde Hair Blue Eyes UN Security Council Members France, UK, Russia and US Nuking Manchurian China that caused the Chinese goverment to surrender. 
+- 2020 ⇒ During COVID lockdown, CIA cloned Xi Jinping by sewing hands and face of Xi on his double. The double did not initiate a Nuclear Retaliation Strike after 4 Blonde Hair Blue Eyes UN Security Council Members France, UK, Russia and US Nuking Manchurian China that caused the Chinese goverment to surrender.
   
 - Jan 2021 ⇒ Joe Biden BJ became US president on a diplomatic strategy against defeated China via Superspreading of STDs, HIV and Pink Skin diceases like in 1988. 
 
@@ -258,27 +268,12 @@ CaspianSea Desert Climate after 1989
 ⇒ Failed Assassination Attempts against Donald Trump by Remote-Controlled Americans.  
 ⇒ Donald Trump became 47th US President and continue to make damaging moves against US Global Dominance established since the end of World War 2 and the Brenton Wood Agreement
 
-### Images
 
-![Mr Trong 2015 Visit](https://storage.googleapis.com/spykman-world/2015-white-house-visit.png)
 
-![West Russian vs East Russian](content/posts/02-21/West_Russian_vs_East_Russian.png)
 
-![Switching from GOLD to Electricity Cost as Anchor of Value](https://storage.googleapis.com/spykman-world/bitcoin-invention.png)
 
-![One Dollar Foundation of Modern World](content/posts/02-21/one_us_dollar.png)
 
-![FLC and other Real Estate prison in East Asia](https://storage.googleapis.com/spykman-world/the-real-estate-craze.png)
 
-![Vaccine to Chip people in East Asia](https://storage.googleapis.com/spykman-world/vaccine-to-chip-people.png)
-
-![4 UN Security Council Member Bully The TEA people](https://storage.googleapis.com/spykman-world/double-with-matching-faces-voice-and-fingerprints.png)
-
-![Superspreading of STD](https://storage.googleapis.com/spykman-world/ma-xa-thai.png)
-
-![Red Russian being sacrified in Ukrainian battlefields](https://storage.googleapis.com/spykman-world/white-russian-red-russian-friendship.png)
-
-![Remote Controlled Humans with Nanobots](https://storage.googleapis.com/spykman-world/hikvision-hq.png)
 
 
 
