@@ -75,7 +75,7 @@ published: true
 
 ![North Asia Critical Rail Infrastructure](https://storage.googleapis.com/spykman-world/North_Asia_Critical_Rail_Infrastructure.png)
 
-![North Asia Critical Heating Oil and Gas Cities](https://storage.googleapis.com/spykman-world/Oil_and_Natural_Gas_Pipeline.png)
+![North Asia Critical Heating Oil and Gas Cities](https://storage.googleapis.com/spykman-world/Critical_Oil_and_Natural_Gas_Pipeline_Across_North_Asia.png)
 
 ![Alibaba Cities Directed or Directing Russia](https://storage.googleapis.com/spykman-world/Alibaba_Cities_Directed_From_Russia.png)
 
