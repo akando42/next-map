@@ -79,8 +79,6 @@ published: true
 
 ![Alibaba Cities Directed or Directing Russia](https://storage.googleapis.com/spykman-world/Alibaba_Cities_Directed_From_Russia.png)
 
-![Manchu vs Norway Influences of North Asia](https://storage.googleapis.com/spykman-world/Norway_vs_Manchu_Influence_of_North_Asia.png)
-
 ![Xian Natural Gas Rail Hub](https://storage.googleapis.com/spykman-world/Xian_Natural_Gas_Rail_Hub.png)
 
 ![Yakutsk Rail Station](https://storage.googleapis.com/spykman-world/Yakut_Railstation.png)
