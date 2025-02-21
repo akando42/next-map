@@ -6,7 +6,7 @@ path: "/02-21"
 cover: "content/posts/02-21/GeoGenetics_The_Machurian_Candidate.png"
 date: "02-21"
 title: "The Manchurian Candidate"
-summary: ""
+summary: "The #Gene Biological #Needs Stay Relatively #Constant Through Out Human #Technological #Evolution. Via Intelligent Gene Alliance, the #GeneBalance Could Be Altered Quickly Within #FewGenerations."
 tags: ['China', 'Kazakhstan', 'Mongolia', 'Japan', 'Korea', 'Vietnam', 'Russia', 'United States', 'Vladimir Putin', 'Donald Trump', 'Spykman World', 'GeoGenetics']  
 published: true
 ---
@@ -38,7 +38,7 @@ published: true
 
 ## The Nomadic Princes as the 47th American President Controllers
 
-- Large screentimes via Mobile and Desktop devices via Human Attention Research resulting Low Productivity and Large Budget Deficits in Europe, US and Russia.
+- Large screentimes via Mobile and Desktop devices via Human Attention Research resulting in Low Productivity and Large Budget Deficits in Europe, US and Russia.
   
 - With the Invention of the Memory Card, the Internet and the TV Screen, the technology gaps between the West and the East no longer exists. It is possible to acquire newest weapon designs from US or the cutting edge Quantum Physics research from Europe or the next Space-based weapon engineering from Russia via a SWISS Banking transfer or a Cryptocurrency wallet.
   
