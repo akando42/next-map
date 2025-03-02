@@ -41,6 +41,10 @@ published: true
 
 ![English Channel Tunnel](https://storage.googleapis.com/spykman-world/English_Channel_Tunnel.png)
 
+![London Annual Tempeture](https://storage.googleapis.com/spykman-world/London_Annual_Tempeture.png)
+
+![Atmosphere Gulfstream Bring Snow Cloud South](https://storage.googleapis.com/spykman-world/Gulf_Stream_Brings_ARCTICS_CLOUD_South.png)
+
 ### BRITISH FACTS
 # Terrain via Mountain, Delta, Desert, Coastline, Ocean
 
