@@ -6,7 +6,7 @@ path: "/03-13"
 cover: "content/posts/03-13/spykman-world-going-forward-to-keep-balance.jpg"
 date: "03-13"
 summary: ""
-title: ""
+title: "The Leftist Centurion Advantage"
 tags: ['France', 'Italy', 'Germany', 'Britain', 'GeoGenetics', 'Spykman World']
 published: true
 ---
