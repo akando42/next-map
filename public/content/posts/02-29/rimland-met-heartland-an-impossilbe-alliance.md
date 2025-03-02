@@ -4,7 +4,7 @@ lat: 49.39550691979702
 lng: -0.6069647895747321
 path: "/02-29"
 cover: "content/posts/02-29/spykman-world-who_let_the_dog_out.jpg"
-date: "02-29"
+date: "02-29-2024"
 title: "Rimland Met Heartland - An Impossible Alliance"
 tags: ['Japan', 'Russia', 'England', 'Germany', 'Hitler', 'Churchill', 'Spykman World','Nicholas Spykman']  
 published: true
