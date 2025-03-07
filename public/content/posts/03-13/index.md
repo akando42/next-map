@@ -6,15 +6,25 @@ path: "/03-13"
 cover: "content/posts/03-13/spykman-world-going-forward-to-keep-balance.jpg"
 date: "03-13"
 summary: ""
-title: "The Leftist Centurion Advantage"
-tags: ['France', 'Italy', 'Germany', 'Britain', 'GeoGenetics', 'Spykman World']
+title: "Lyon The Lefthand of Roman Soldier"
+tags: ['Italy', 'France', 'Austria', 'Germany', 'Britain', 'Russia', 'GeoGenetics', 'Spykman World']
 published: true
 ---
-![]()
+![Lyon the Left Hand of Milan](https://storage.googleapis.com/spykman-world/Terrain_Map.png)
 
-![]()
+![French Settlements along Major Rivers](https://storage.googleapis.com/spykman-world/Waterway_map.png)
 
-![]()
+![Large Agriculture Land Area](https://storage.googleapis.com/spykman-world/Largest_Agricultural_Land_Area_in_Europe.png)
+
+![Farming Civilization Capitals](https://storage.googleapis.com/spykman-world/FarmLand.png)
+
+![French Cities Mayonasse](https://storage.googleapis.com/spykman-world/FRENCH_CITIES.png)
+
+![French Presidents from 1945 to 2025](https://storage.googleapis.com/spykman-world/French_Presidents_1945_2025.png)
+
+![CPU Cities of France](https://storage.googleapis.com/spykman-world/France_at_Night.png)
+
+![Largest French Corporations By Market Cap](https://storage.googleapis.com/spykman-world/Largest_French_Corps_by_MarketCAP.png)
 
 ### FRANCE FACTS
 
