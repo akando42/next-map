@@ -9,7 +9,7 @@ yarn dev
 ```
 
 ## TODO
-[ ] Post Unique Path and Timestamp
+[ ] Post Unique Path and Timestamp for SEO
 [ ] Airplane Ticket Pricing to Each Location on Stories 
 [ ] Fact Section 
 [ ] Sync Image assets between Local Folder and Google Storage. 
