@@ -52,6 +52,10 @@ published: true
 
 ![CPU Cities of France](https://storage.googleapis.com/spykman-world/France_at_Night.png)
 
+![Paris Lyon French First Highspeed Rail in 1978](https://storage.googleapis.com/spykman-world/1978_Paris_Lyon_Highspeed_Rail.png)
+
+![French Renault as Winner of 2013 Fomula 1 Championship](https://storage.googleapis.com/spykman-world/2013_Formula_One%20_World_Championship_Winner.png)
+
 ![French Presidents from 1945 to 2025](https://storage.googleapis.com/spykman-world/French_Presidents_1945_2025.png)
 
 ![Largest French Corporations By Market Cap](https://storage.googleapis.com/spykman-world/Largest_French_Corps_by_MarketCAP.png)

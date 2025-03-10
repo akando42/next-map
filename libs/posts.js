@@ -132,6 +132,17 @@ export async function getPostData(postsDirectory, id) {
 
     const matterResult = matter(fileContents)
     const content = matterResult.content
+    
+
+
+    // CONTENT FILTERING for TAGS keyword
+
+    // EXPEDIA API REVERSE TAG KEYWORD for PRICING
+
+    // INSERT LINK INTO MARKDOWN
+
+    
+
 
     // Use remark to convert markdown into HTML string
     const processedContent = await remark()
@@ -151,6 +162,8 @@ export async function getPostData(postsDirectory, id) {
   let contentHtml = original.contentHtml
   let content = original.content
   let data = original.data
+
+
 
   let updates = articles.filter(file => file.split(".")[0] !== "index")
   // console.log("UPDATES ", updates)
