@@ -46,7 +46,7 @@ There are 5 major river system in France that resulted in 5 major human settleme
 - The Rhone River flowing through the French Italian cities of Lyon and Marseille 
 - The Siene River flowing through the English Normandy city of Paris  
 - The Garone River flowing through the French Spanish city of Bourdeaux  
-- -The Loire River flowing through the city of Nantes 
+- The Loire River flowing through the city of Nantes 
 
 ### Genetics Flow via Emigration, Immigration and Invasion
 
@@ -60,8 +60,8 @@ So around 20% of France population are mixed with or fully imported Genes from o
 
 German Northern Europe 
 - THE == Trojan Horse Everyone
-- DIE == Dick In Egg or Delete Instantly Everyone
-- DE == Dick Egg or Delete Everyone  
+- DIE == Delete Instantly Everyone
+- DE == Delete Everyone  
 
 Roman Southern Europe
 - French LE == Loser Egg
