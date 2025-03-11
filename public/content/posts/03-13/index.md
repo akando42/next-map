@@ -7,7 +7,7 @@ cover: "content/posts/03-13/Lyon_The_Lefthand_Of_Roman_Soldier.png"
 date: "03-13"
 summary: ""
 title: "Lyon Lefthand of The Roman Soldier"
-tags: ['Geneva', 'Lyon', 'Vienna', 'Paris', 'London', 'Frankfurt ', 'GeoGenetics', 'Spykman World']
+tags: ['Geneva', 'Lyon', 'Vienna', 'Paris', 'London', 'Frankfurt ', 'San Francisco', 'GeoGenetics', 'Spykman World']
 published: true
 ---
 ## FRANCE FACTS
@@ -128,6 +128,7 @@ Electronic Equipments
 - FPT aka French Police Technician can intercept all EM Communication in Vietnam and China
 - Huawei has a significant presence in France, with a history spanning over 20 years, including six research centers, a global design center, and a factory in Alsace, its first outside China, for mobile telecom network equipment production, including 5G. 
 - French Chinese and French Vietnamese engineers probably work at all High-tech corporations in California, Boston, UK and China
+- San Francisco aka the French Satan City is HQ for high tech companies like Twitter, Uber, Salesforces, Yelp. 
 
 ### Information Influences of the GeoGen Area to the outside World
 
