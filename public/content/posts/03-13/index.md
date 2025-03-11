@@ -7,7 +7,7 @@ cover: "content/posts/03-13/Lyon_The_Lefthand_Of_Roman_Soldier.png"
 date: "03-13"
 summary: ""
 title: "Lyon Lefthand of The Roman Soldier"
-tags: ['Italy', 'France', 'Austria', 'Germany', 'Britain', 'Russia', 'GeoGenetics', 'Spykman World']
+tags: ['Geneva', 'Lyon', 'Vienna', 'Paris', 'London', 'Frankfurt ', 'GeoGenetics', 'Spykman World']
 published: true
 ---
 ## FRANCE FACTS
