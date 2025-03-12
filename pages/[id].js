@@ -17,6 +17,8 @@ export async function getStaticProps({ params }) {
   const postsData = await getPostData(postsDirectory, params.id)
   const coverImage = "https://geogenetics.dystillvision.com/"+postsData.cover
 
+  // console.log("POST DATA \n", postsData)
+
   return {
     props: {
       postsData, 
@@ -66,11 +68,24 @@ export default class Post extends Component {
 		})
 	}
 
-	componentDidMount(){}
+	async logPostData(){
+		let postsData = this.props.postsData
+		console.log("POST DATA ", postsData)
+		let tags = postsData.tags
+
+		let contentHtml = postsData.contentHtml
+		let cities = tags.filter((tag) => (tag !== "GeoGenetics" & tag !== "Spykman World"))
+
+		console.log("Cities", cities)
+		console.log("HTML ", contentHtml)
+	}
+
+	componentDidMount(){
+		this.logPostData()
+	}
 
 	render(){
 		// console.log("POST DATA", this.props.postsData)
-
 		return (
 			<div className={Styles.background}>
 				<Head>

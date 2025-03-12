@@ -133,16 +133,35 @@ export async function getPostData(postsDirectory, id) {
     const matterResult = matter(fileContents)
     const content = matterResult.content
     
-
+    const metaData = matterResult.data
+    console.log(
+      "##### META DATA ####\n\n\n", metaData
+    )
 
     // CONTENT FILTERING for TAGS keyword
+    const tags = metaData.tags
+    console.log(tags)
+
+    const cities = tags.filter((tag) => (tag !== "GeoGenetics" & tag !== "Spykman World"))
+    console.log("Cities", cities)
 
     // EXPEDIA API REVERSE TAG KEYWORD for PRICING
 
+    let airFun = []
+    cities.map(city => airFun.push({
+      'origin': city, 
+      'destination': 'Hanoi'
+    }))
+
+    console.log(airFun)
+
     // INSERT LINK INTO MARKDOWN
-
     
+    let contentArray = content.split(" ")
+    console.log("ACTUAL CONTENT \n\n\n", contentArray)
 
+    let cityMentions = contentArray.filter(content => cities.includes(content))
+    console.log("City Mentioned", cityMentions)
 
     // Use remark to convert markdown into HTML string
     const processedContent = await remark()
@@ -163,8 +182,6 @@ export async function getPostData(postsDirectory, id) {
   let content = original.content
   let data = original.data
 
-
-
   let updates = articles.filter(file => file.split(".")[0] !== "index")
   // console.log("UPDATES ", updates)
 
@@ -175,7 +192,7 @@ export async function getPostData(postsDirectory, id) {
     let updateData = await parseContent(
       postsDirectory, id, update
     )
-    console.log("UPDATE CONTENT ", updateData)
+    // console.log("UPDATE CONTENT ", updateData)
     updatedArticles.push(updateData)
   })
 

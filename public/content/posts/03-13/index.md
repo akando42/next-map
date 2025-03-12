@@ -7,35 +7,40 @@ cover: "content/posts/03-13/Lyon_The_Lefthand_Of_Roman_Soldier.png"
 date: "03-13"
 summary: ""
 title: "Lyon Lefthand of The Roman Soldier"
-tags: ['Geneva', 'Lyon', 'Vienna', 'Paris', 'London', 'Frankfurt ', 'San Francisco', 'GeoGenetics', 'Spykman World']
+tags: ['Geneva', 'Lyon', 'Marseille', 'Nice', Frankfurt ', 'Paris', 'London', 'San Francisco', 'GeoGenetics', 'Spykman World']
 published: true
 ---
 ## FRANCE FACTS
 
 ### Terrain via Mountain, Delta, Desert, Coastline, Ocean
 
-- France have Coastal Climate with West and Northern coastlines facing the Atlantic Ocean and its Southern coastline facing the Mediterrain 
-- Most of France are flatland area which allowing Ocean Wind to flow deep inland and crossing between the Atlantics and The Mediterrain
-- Long Coastline allowing Mild Temperature even at High Attitude location with Warm Ocean current flowing up and down the Coastline like a Refrigerator
-- The SouthWest section is bordering the Swiss Alps which resulting in Ocean Rainy Cloud stopping at the Swiss Alps mountain foot with the city of LYON receiving more RAIN during the SUMMER than most other CITIES in France. 
+- France have Coastal Climate with West and Northern coastlines facing the Atlantic Ocean and its Southern coastline facing the Mediterrain with the famous Marseille city near the Southern Coast of France. 
 
-- Flatland and regular Mild Amount of Rain from the Atlantics and the Mediterrain allowing large area of Arable land in France.
-- France and Ukraine probably are 2 highest Agriculture Output Nations in Europe. 
+- Most of France are flatland area which allowing Ocean Wind to flow deep inland and crossing between the Atlantics and The Mediterrain to regulate inland tempeature and rain. 
 
-FRANCE probably haves the largest FARMER population in EUROPE throughout most of its history just like China. 
+- Long Coastline allowing Mild Temperature even at High Attitude location with Warm Ocean current flowing up and down the Coastline like a Refrigerator. Paris is laying deeper inland but still have mild climate at high latittude.
+
+- The SouthWest section is bordering the Swiss Alps which resulting in Ocean Rainy Cloud stopping at the Swiss Alps mountain foot with the city of Lyon receiving more RAIN during the SUMMER than most other CITIES in France. 
+
+- Flatland and regular Mild Amount of Rain from the Atlantics and the Mediterrain allowing large area of Arable land in France. Farming regions around Paris is the deciding factor allowing Paris to grow to one of the largest city in Europe.
+
+- France and Ukraine are 2 highest Agriculture Output Nations in Europe. 
+
+- FRANCE probably has the largest FARMER population in EUROPE throughout most of its history just like China. 
 
 ### Weather Pattern via Wind, Rain and Temperature
 
 French cities latitudes are in the ranges of 43-51 degree North with Ulanbaton at 47 degree North in comparison. 
+
 At these latitudes with lower Angle of SUN LIGHT, the Evening and Night can get very COLD with regular Sub-Zero Icy Night during Winter and even Autumn. 
 
-Roman Soldiers will have significant challenges to survive the WINTER in Deep Island cities in High Altitude coordinates like Berlin or Moscow without Ocean Wind and Current temperature regulation.
+Roman Soldiers will have significant challenges to survive the WINTER in Deep Island cities in High Altitude coordinates like Frankfurt or Moscow without Ocean Wind and Current temperature regulation.
 
 Southern France has milder Medditerrain like climate which allowing Higher Agriculture Output per Square Kilometers of Agriculture Land than most of European nations like Germany, Ukraine, Russia
 
 Two Ocean FRONTS allowing more regular RAIN and less Severe WINTER COLD and SUMMER HEAT
 
-Much more RAIN in the SOUTHERN FRANCE sometimes resulting in CLOGGING and Massacre of GERMAN Hordes in the Muddy Terrain of the Mediterrain SOUTH.
+Much more RAIN in the SOUTHERN FRANCE sometimes resulting in CLOGGING and Massacre of GERMAN Hordes in the Muddy Terrain of the Mediterrain SOUTH in cities like Lyon, Marseille or Nice.
 
 ### Major River, Water Reserve Lakes
 
