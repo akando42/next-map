@@ -4,6 +4,10 @@
 	background-color: red;
 }
 
+/*a {
+	background-color: red;
+}*/
+
 .container {
 	position: absolute;
 	width: 100vw;
@@ -91,6 +95,20 @@
 .content p {
 	/*background-color: red;*/
 	text-align: left !important;
+}
+
+.content a {
+	background-color: black;
+	color: yellow;
+	padding: 0 6px;
+}
+
+.content a:hover {
+	transform: scale(1.04);
+}
+
+.content a:active {
+	transform: scale(0.96);
 }
 
 .title {

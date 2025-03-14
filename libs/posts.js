@@ -158,28 +158,52 @@ export async function getPostData(postsDirectory, id) {
     // INSERT LINK INTO MARKDOWN
     
     let contentArray = content.split(" ")
-    console.log("ACTUAL CONTENT \n\n\n", contentArray)
+    // console.log("ACTUAL CONTENT \n\n\n", contentArray)
 
-    let cityMentions = contentArray.filter(content => cities.includes(content))
+    let cityMentions = contentArray.filter(
+      content => cities.includes(content)
+    )
+
+    let newContent = ""
     console.log("City Mentioned", cityMentions)
 
+    contentArray.map(content => {
+      if(cities.includes(content)){
+        let link = `[**${content}**](http://localhost:3000/) `
+        // let link = `<div>${content}</div> `
+        console.log("CITY ", link)
+        newContent = newContent.concat(link)
+
+        // newContent = newContent.concat("Hoang ")
+      } else {
+        newContent = newContent.concat(`${content} `)
+      }
+    })
+
     // Use remark to convert markdown into HTML string
+    // const processedContent = await remark()
+    //   .use(html)
+    //   .process(content)
+
     const processedContent = await remark()
       .use(html)
-      .process(matterResult.content)
+      .process(newContent)
 
     const contentHtml = processedContent.toString()
+    // contentHtml.replace("<strong>*</strong>", "<strong>Hoang</strong")
 
     return {
       contentHtml: contentHtml,
       content: content, 
-      data: matterResult.data
+      data: matterResult.data,
+      cityMentions: cityMentions
     }
   }
 
   let original =  await parseContent(postsDirectory, id, 'index.md')
   let contentHtml = original.contentHtml
   let content = original.content
+  let cityMentions = original.cityMentions
   let data = original.data
 
   let updates = articles.filter(file => file.split(".")[0] !== "index")
@@ -199,9 +223,10 @@ export async function getPostData(postsDirectory, id) {
   // Combine the data with the id
   return {
     id,
+    cityMentions: cityMentions,
+    updatedArticles,
     contentHtml,
     content,
-    ...data,
-    updatedArticles
+    ...data
   }
 }

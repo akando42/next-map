@@ -7,13 +7,12 @@ cover: "content/posts/03-13/Lyon_The_Lefthand_Of_Roman_Soldier.png"
 date: "03-13"
 summary: ""
 title: "Lyon Lefthand of The Roman Soldier"
-tags: ['Geneva', 'Lyon', 'Marseille', 'Nice', Frankfurt ', 'Paris', 'London', 'San Francisco', 'GeoGenetics', 'Spykman World']
+tags: ['Bordeaux', 'Lyon', 'Marseille', 'Nice', 'Paris', 'Frankfurt ', 'London', 'San Francisco', 'Geneva', 'GeoGenetics', 'Spykman World']
 published: true
 ---
 ## FRANCE FACTS
 
 ### Terrain via Mountain, Delta, Desert, Coastline, Ocean
-
 - France have Coastal Climate with West and Northern coastlines facing the Atlantic Ocean and its Southern coastline facing the Mediterrain with the famous Marseille city near the Southern Coast of France. 
 
 - Most of France are flatland area which allowing Ocean Wind to flow deep inland and crossing between the Atlantics and The Mediterrain to regulate inland tempeature and rain. 
@@ -36,11 +35,11 @@ At these latitudes with lower Angle of SUN LIGHT, the Evening and Night can get 
 
 Roman Soldiers will have significant challenges to survive the WINTER in Deep Island cities in High Altitude coordinates like Frankfurt or Moscow without Ocean Wind and Current temperature regulation.
 
-Southern France has milder Medditerrain like climate which allowing Higher Agriculture Output per Square Kilometers of Agriculture Land than most of European nations like Germany, Ukraine, Russia
+Southern France has milder Medditerrain like climate which allowing Higher Agriculture Output per Square Kilometers of Agriculture Land than most of European nations like Germany, Ukraine, Russia which allows Paris to become one of the most populous city in France and Europe.
 
-Two Ocean FRONTS allowing more regular RAIN and less Severe WINTER COLD and SUMMER HEAT
+Two Ocean FRONTS allowing more regular RAIN and less Severe WINTER COLD and SUMMER HEAT which cities like Marseille and Nice became the favourite installations for Roman Soldiers. 
 
-Much more RAIN in the SOUTHERN FRANCE sometimes resulting in CLOGGING and Massacre of GERMAN Hordes in the Muddy Terrain of the Mediterrain SOUTH in cities like Lyon, Marseille or Nice.
+Much more RAIN in the SOUTHERN FRANCE sometimes resulting in CLOGGING and Massacre of GERMAN Hordes in the Muddy Terrain of the Mediterrain SOUTH around the famous Lyon mountainous valley region. 
 
 ### Major River, Water Reserve Lakes
 
