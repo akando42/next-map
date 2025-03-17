@@ -54,6 +54,41 @@ export function getSortedPostsData(postsDirectory) {
   })
 }
 
+
+export async function getAllPostsData(postsDirectory){
+  const dirNames = fs.readdirSync(postsDirectory).filter(checkType)
+  
+  function checkType(dirName){
+      return dirName != ".DS_Store"
+  }
+
+  const allPostsData = dirNames.map(dirName => {
+    // Remove ".md" from file name to get id
+    const id = dirName.replace(/\.md$/, '')
+
+    // Read markdown file as string
+    const fullPath = path.join(postsDirectory, id, `index.md`)
+
+    // console.log(fullPath);
+
+    // Read File Sync (if on there are files)
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+
+    // Use gray-matter to parse the post metadata section
+    const matterResult = matter(fileContents)
+    const content = matterResult.content
+
+    // Combine the data with the id
+    return {
+      id,
+      content,
+      ...matterResult.data
+    }
+  })
+
+  return allPostsData
+}
+
 export function getAllPostIds(postsDirectory) {
   let articlesList = []
   let dirList = fs.readdirSync(postsDirectory)

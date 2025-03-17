@@ -5,7 +5,7 @@ lng: -122.47848470061092
 path: "/01-05"
 cover: "/content/posts/01-05/geogenetics-jan-05-golden-gate-bridge-the-east-west-link.png"
 date: "01-05"
-summary: ""
+summary: "The Mississippi River farmland region was a limitless energy source for early East Asian gene groups expansion but now is fully under controlled by Western European gene groups"
 title: "Golden Gate Bridge - The East West Link"
 tags: ['Japan', 'China', 'Vietnam','California', 'Washington', 'Seatle', 'United States', 'Pacifics Ocean', 'Golden Gate', 'Spykman World','GeoGenetics']  
 published: true

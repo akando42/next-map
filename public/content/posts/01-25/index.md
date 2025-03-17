@@ -157,19 +157,14 @@ Thailand Terrain could be classified into 4 Different Regions
 -  The Western doctors using Chiangmai Thuong Mai Thai XO Hookers and Gang Members as Disease Carriers like Le Hong Phong, Pham Hong Thai ==> Similar tactics to  the Aztec Bio-War in South America .
    
 - Vietnamese refugees after the collapse of Saigon in 1975 migrated to Thailand.
+
 - Vietnamese prisoners transported to Thailand after the collapse of Hanoi in 1990 from wild spread diseases via Le Hong Phong and Pham Hong Thai from Thailand and HongKong (TEA mercenaries controlled by Western powers).
 
-### The GeoGen Area major Gene Groups with their Common and Different features.
-- The North West Chiangmai Lighter Skin with more Tibetan East Asian mix from Southern China and Vietnam.
-- The North East Mekong native Khmer gene group with less refined facial features but lighter skin color.  
-- The Southern Phukhet Bangkok Pattaya Darker Skin tone with more Indian Mix.
-- XO Hooker population from China and Western Human Farms in Australia, US and Europe with current Thai Prime Minister Paetongtarn Shinawatra a PS-SF-XO Pattaya.
-- Large Chinese marine merchant population. Currently there are 7-10 million Chinese marine merchants settled in Bangkok and Pattaya.  
-  
-### Genetics flow of the GeoGen Area via migrations and invasions.
 - The Chiangmai Air Route from Western Human Farms. ChiangMai Square == Chu Dien == Cho Duc == Dogs Breed in Switzerland to control the Locals.  
-==> Thaksin 26 July 1949 is a Chiangmai Native German Dog “Bac Si” Dog.  
-==> “Bac Si” nanobot chip everyhuman in Hanoi after COVID vaccine, remote control Military, Police, Gangs and Construction Workers and Hookers!
+
+- Thaksin born 26 July 1949 is a Chiangmai Native German Dog “Bac Si” Dog.  
+
+- “Bac Si” nanobot chip everyhuman in Hanoi after COVID vaccine, remote control Military, Police, Gangs and Construction Workers and Hookers!
  
 - The Hue-Savannakhet allowed Gap invasions from Vietnam pre-colonial period as well as migrants from Southern China to Laos and North East Thailand from 1953-1956.
     
@@ -184,6 +179,13 @@ Thailand Terrain could be classified into 4 Different Regions
 - Only continuously maintained Royal Lineages in the world are: Russian Royal, Romanian Royal and Rwanda Royal while other Royals around the world are Doctor Movie Props.  ==> Only NATO CAAC still maintain their Blonde, Brunette and Black Royal lineages.
   
 - Post-Colonial THAI SIAM are HIV patients with GUNs ==> SI-ARMED SIAM
+
+### The GeoGen Area major Gene Groups with their Common and Different features.
+- The North West Chiangmai Lighter Skin with more Tibetan East Asian mix from Southern China and Vietnam.
+- The North East Mekong native Khmer gene group with less refined facial features but lighter skin color.  
+- The Southern Phukhet Bangkok Pattaya Darker Skin tone with more Indian Mix.
+- XO Hooker population from China and Western Human Farms in Australia, US and Europe with current Thai Prime Minister Paetongtarn Shinawatra a PS-SF-XO Pattaya.
+- Large Chinese marine merchant population. Currently there are 7-10 million Chinese marine merchants settled in Bangkok and Pattaya.  
 
 ### Present and Past National Border
 Thailand Tay Land used to be 4 different kingdoms:  
@@ -234,8 +236,10 @@ Thai DEPENDENT on CHINA, JAPAN for Daily Needs and US for Security Needs
 
 ### Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
 - Pattaya XO city is the main Seaport for International Internet Cable with large Switch Las Vegas Datacenters.
-- Most popular NEWS broadcasting channel is Channel7HDNews - https://www.youtube.com/channel/UC2OtDM92rLjt4mm43ED1Q-w.
-- Most popular Youtube Influencers are the Kaykai Salaider XO Thai Nguyen - https://www.youtube.com/@KaykaiSalaiderChannel.
+
+- Most popular NEWS broadcasting channel is [Channel7HDNews](https://www.youtube.com/channel/UC2OtDM92rLjt4mm43ED1Q-w)
+
+- Most popular Youtube Influencers are the [Kaykai Salaider XO Thai Nguyen](https://www.youtube.com/@KaykaiSalaiderChannel)
 
 ### Information Influences of the GeoGen Area to the outside World
 - Clone Double agents planning in Vietnam, China, Laos and California.
