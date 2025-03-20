@@ -6,7 +6,9 @@ path: "/08-08"
 cover: "content/posts/08-08/spykman-world-the-role-of-US-dollar-in-21-century.png"
 date: "08-08"
 title: "The Role of US Dollar in 21 Century"
-tags: ['Dollar Bill', 'Dollar Digits', 'Gold Bullion','United States of America','Reserve Currency','Troy Ounce','Spykman World','Nicholas Spykman']    
+summary: "Since 1900, America was the most populous nation in the Western world with the Western European gene groups here the world largest exporters of war and industrial equipments. However, only with full adoption of automation and robotics that the US industries and its currency can keep up with the productivity growth outside of America in 21 century" 
+
+tags: ['Dollar Bill', 'Dollar Digits', 'Gold Bullion','United States of America','Reserve Currency','Troy Ounce','Spykman World','GeoGenetics']    
 published: true
 ---
 
