@@ -5,7 +5,7 @@ lng: 139.85757745906926
 path: "/08-10"
 cover: "content/posts/08-10/spykman-world-japan-nation-that-tips-the-scale-of-future-world-order.jpg"
 date: "08-10"
-summary: "With in the introduction of Western genes and advanced technologoes at the doorstep of Yellow Yangzte gene groups, Tokyo became the new alpha of East Asia. By 21 century, these Western seeds now even have the options to outsight their Western creators or just keep East Asia the Farming Animals of the West"
+summary: "With in the introduction of Western genes and advanced technologies at the doorstep of Yellow Yangzte gene groups, Tokyo became the new alpha of East Asia. By 21 century, these Western seeds now even have the options to outsight their Western creators or just keep East Asia the Farming Animals of the West"
 title: "Japan - Nation That Tips The Scale of Future World Order"
 tags: ['Japan', 'Sunrise', 'Rising Wave','World Bank','IMF','Spykman World','Nicholas Spykman']    
 published: true
