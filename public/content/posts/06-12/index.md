@@ -6,6 +6,7 @@ path: "/06-12"
 cover: "content/posts/06-12/Sundaland_Turn_Oil_Reserve.png"
 date: "06-12"
 title: "Philippine The East Sea Gene Mixer"
+summary: "Extreme alternation of an enviroment geography can alter the genetic balance of continent with the sunken landbridge from Mekong to Australia temporary stopping the advances of Tibetan East Asian gene group there"
 tags: ['Philippine', 'Spain', 'United States', 'GeoGenetics', 'Spykman World', 'Nicholas Spykman'] 
 published: true
 ---

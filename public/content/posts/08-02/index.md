@@ -6,7 +6,8 @@ path: "/08-02"
 cover: "content/posts/08-02/spykman-world-gulf-of-tonkin-and-the-future-of-southeast-aisa.png"
 date: "08-02"
 title: "Gulf of Tonkin and The Southeast Asia Destiny"
-tags: ['Gulf of Tonkin', 'South China Sea', 'Vietnam','South East Asia','Denisovan','The Aquatic Ape Theory','Blue Water Navy','Competition','Spykman World','Nicholas Spykman']    
+summary: "The Tibetan East Asian gene group first evolved to live a semi-aquatic life in the sunken landbridge between the Mekong and Australia by standing upright. At the beginning of 21 century, they also finally reached advanced level to truely command the dangerous inhospitable deep ocean Geography just like the Mediterrain gene groups"
+tags: ['Gulf of Tonkin', 'South China Sea', 'Vietnam','South East Asia','Denisovan','The Aquatic Ape Theory','Blue Water Navy','Competition','Spykman World','GeoGenetic']    
 published: true
 ---
 ## Gulf of Tonkin and The Southeast Asia Destiny

@@ -6,6 +6,7 @@ path: "/08-05"
 cover: "content/posts/08-05/spykman-world-will-america-continue-to-be-a-symbol-of-liberty.png"
 date: "08-05"
 title: "Will America Continue To Be The Liberty Enlightening the World"
+summary: "The North America blue ocean moat flat plain provides the best geography in the world with abundance of farmland, minerals and energy for gene expansion. While the Western European were the first one to fully unite the continent, this gene group declining fertility rate and energy efficiency might result in the new dominating alpha in upcoming century"
 tags: ['United States', 'Statue of Liberty', 'Liberty','North America','South America','The New World','Spykman World','Nicholas Spykman']    
 published: true
 ---
@@ -40,6 +41,11 @@ The government structure of Native American tribes at the arrival of Columbus wa
 ![French Influences in America](https://storage.googleapis.com/spykman-world/EM-AB-EM.png)
 
 ### The Dark Age or a New Sun for The Post American World
+
+- Declining Fertility rate of Western European American
+- Most population growth coming from Hispanic and East Asian Immigrants
+- Declining Energy Efficienty via Large Budget Deficit
+- Highly dependent on immigrations for new breakthrough in productivity growth
 
 
 

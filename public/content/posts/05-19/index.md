@@ -6,11 +6,11 @@ path: "/05-19"
 cover: "content/posts/05-19/Nestle.png"
 date: "05-19"
 title: "Latin Doctor Global Influences via Gene Injection"
-summmary: "When a biological organism be able to find a way to expand its genetics footprint by comsuming their ecosystem competitors, that
-biological organism will end up dominating its ecosystem."
+summary: "When a biological organism be able to find a way to expand its genetics footprint by comsuming their ecosystem competitors, that biological organism will end up dominating its ecosystem."
 tags: ['Italia', 'France', 'United States', 'Switzerland', 'Pakistan', 'India', 'China', 'Vietnam', 'Laos', 'Cambodia', 'North Korea','GeoGenetics', 'Spykman World'] 
 published: true
 ---
+
 ### Stepping Stone for Roman Gene Expansion in Europe
 
 After Rome achieved both food security via farming in the Milan region as well as technological advances via various trading ports in the Mediterranean sea, its engineers and military started to expand across the Alps into the European heartland. 

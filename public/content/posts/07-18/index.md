@@ -6,6 +6,7 @@ path: "/07-18"
 cover: "content/posts/07-18/spykman-world-mein-kampf.png"
 date: "07-18"
 title: "An Inquiry Into Adolf Hitler's Mein Kampf and Its Impact on History"
+summary: "Highly populous gene groups can select and train small part of its own population to suspress the gene survival instinct for the pure pursude of destruction against its ecosystem competion"
 tags: ['Mein Kampf', 'Adolf Hitler', 'Germany', 'My Struggle', 'Great Depression','Economic Recession','Gold Standard','Bank of England','World War II']    
 published: true
 ---
