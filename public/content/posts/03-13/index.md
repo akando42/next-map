@@ -5,7 +5,7 @@ lng: 4.836324925079577
 path: "/03-13"
 cover: "content/posts/03-13/Lyon_The_Lefthand_Of_Roman_Soldier.png"
 date: "03-13"
-summary: ""
+summary: "The human gene has evolved to god-like level with ability to rewrite its own natural codes, gene codes of other biological forms in its environment as well as manipulating the physical world in subatomic level"
 title: "Lyon Lefthand of The Roman Soldier"
 tags: ['Bordeaux', 'Lyon', 'Marseille', 'Nice', 'Paris', 'Frankfurt ', 'London', 'San Francisco', 'Geneva', 'GeoGenetics', 'Spykman World']
 published: true
