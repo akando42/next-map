@@ -6,7 +6,7 @@ path: "/04-26"
 cover: "content/posts/04-26/black_sea_the_gate_to_western_civilizations.png"
 date: "04-26"
 title: "Black Sea - The Gate to Western Civilizations"
-summary: "Modern nations was founded by connecting city states via an efficient #TransportationNetwork. Nation border not being drawn after #GeographicalAnchors often result in wars and eventually redrawn by the dominating power to reach #GeographicalEquilibrium."
+summary: "Modern nations was founded by connecting city states via an efficient #TransportationNetwork. Nation border not being drawn after Geographical Anchors often result in wars and eventually redrawn by the Dominating Gene Groups to reach Geographical Equilibrium."
 tags: ['Ukraine', 'Turkey', 'Romania', 'Bulgary', 'Moldova','Russia', 'Spykman World','Nicholas Spykman'] 
 published: true
 ---

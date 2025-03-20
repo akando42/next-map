@@ -6,11 +6,10 @@ path: "/03-31"
 cover: "content/posts/03-31/geogenetics-communism-and-the-reinvention-of-god-6-le-minus-6.png"
 date: "03-31"
 title: "Communism and the Reinvention of God"
-summary: "Tibetan East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West."
-tags: ['Ho Chi Minh', 'Mao Zedong', 'Communism', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel','India', 'Spykman World','Nicholas Spykman'] 
+summary: "Tibetan East Asian nation states are severely lacked any indigenous philosophers to guide the development of East Asian society and culture to best benefit their genetic groups but borrow heavily social and culture architectures from the West. As the result, the  operating system of East Asia is quite self-destructive to its own gene survival and multiplication"
+tags: ['Farm Animals', 'Ho Chi Minh', 'Mao Zedong', 'Communism', 'Jesus', 'Ganhdi', 'Vietnam', 'Israel', 'India', 'Spykman World','GeoGenetics'] 
 published: true
 ---
-
 ### Christianity and Its Lack of Adoption in The East
 
 While Christianity and its various variants were quickly adopted by European tribes in England, Scandinavia and Eastern Europe who lacked sophisticated rituals, architectural monuments and government structures, Christianity met heavy resistance among East Asian civilizations. Even after The West had conquered Beijing, the apex of East Asian culture expression, during the Boxer rebellion in 1899 with the cutting edge firearm and ship building technology, the Christian missionaries were still not able to convert Chinese, Vietnamese, Korean, Japanese or Thai into Christianity.
