@@ -6,6 +6,7 @@ path: "/02-29"
 cover: "content/posts/02-29/When_Gene_Lost_Its_Freewill.png"
 date: "02-29"
 title: "When The Gene Lost Its Freewill"
+summary: "Genes were created to maximize its energy consumption by taking actions that maximizing its longevity as well as making as many backup copies of itself via many offsprings. However, when the gene lost control of its biological brain to high-tech nano bots and supercomputers, it could behave in self-destructing manor"
 tags: ['Britain', 'Japan', 'United States', 'ARM', 'DeepMind', 'AstraZenica', 'Cambridge', 'GeoGenetics', 'Spykman World']  
 published: true
 ---
