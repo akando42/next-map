@@ -124,10 +124,9 @@ export default class Book extends Component {
 				<div className={styles.topSection}>
 					<div className={styles.bookSummary}>
 						GENE is the natural codes for all life forms
-						that can evolve and change to use energy
-						increasingly more efficiency to overcome 
-						GEOGRAPHY challenges and make more copy 
-						of itself 
+						that can evolve and change to acquire increasingly
+						more ENERGY for itself and its many copies to 
+						overcome GEOGRAPHY challenges
 					</div>
 
 					<div className={styles.bookTitle}>
@@ -137,13 +136,13 @@ export default class Book extends Component {
 					<div className={styles.bookSubtitle}>
 						GEN_CONSTANT * Gen_Count 
 						<br/>
-						+ 
+						- 
 						<br/>
 						GEO_CONSTANT * Gen_Geography
 						<br/>
 						= 
 						<br/>
-						GENE_EXPANSION_COST 
+						GENE_TOTAL_ENERGY 
 					</div>
 				</div>
 				<div className={styles.content}>
