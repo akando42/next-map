@@ -6,6 +6,7 @@ path: "/09-11"
 cover: "content/posts/09-11/spykman-world-9-11-asymetrical-warfare-false-flag-or-a-knock.jpeg"
 date: "09-11"
 title: "Asymetrical Warfare, False Flag or A Knock"
+summary: ""
 tags: ['Asymetrical Warfare', 'False Flag Operation', 'A Knock','Dystopian','Four Horsemen','Spykman World','Nicholas Spykman']    
 published: true
 ---
@@ -257,7 +258,7 @@ A KNOCK THEORY
 The TEST of former Communist states planners to go after extremely high value target deep inside enemy territorial
 
 The slow and no response from American Air Control and Air Defenses.
-⇒ American Carriers and its forward deployed strategy has been making the American homeland extremely safe since the 1900s.
+⇒ American Carriers and its forward deployed strategy has been making the American homeland extremely safe since the 1900s which resulting in the lack of readiness of American Homeland Security forces. 
 
 ⇒ Both Nazi Germany and Japan were never able to reach US Soils and attack any high value targets. Always had to fight at their door steps in England, Hawaii, The Philippine and Australia. 
 
