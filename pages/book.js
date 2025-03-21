@@ -142,7 +142,7 @@ export default class Book extends Component {
 						<br/>
 						= 
 						<br/>
-						GENE_TOTAL_ENERGY 
+						GEN_TOTAL_ENERGY 
 					</div>
 				</div>
 				<div className={styles.content}>
