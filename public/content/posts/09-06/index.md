@@ -6,6 +6,7 @@ path: "/09-06"
 cover: "content/posts/09-06/Geogenetics_Pornography_The_Third_Pilar_In_The_Trinity_Of_Power.png"
 date: "09-06"
 title: "Pornography - The Third Pillars In The Trinity of Power"
+summary: "The genes can reprogram itself to optimize for its survival and multplication via its bio chemical reward and punishment system. However since the birth of Christ, the wise gene who know itself and other human had figure out the ways to hack this bio-chemical system to trick the enemy genes into self-destruction"
 tags: ['American Power', 'Movie', 'XXX','Trinity','Influence','Spykman World','Nicholas Spykman']    
 published: true
 ---
