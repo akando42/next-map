@@ -124,7 +124,7 @@ export default class Book extends Component {
 				<div className={styles.topSection}>
 					<div className={styles.bookSummary}>
 						GENE is the natural codes for all life forms
-						that can evolve and change to acquire increasingly
+						that can evolve and adapt to acquire increasingly
 						more ENERGY for itself and its many copies to 
 						overcome GEOGRAPHY challenges
 					</div>
