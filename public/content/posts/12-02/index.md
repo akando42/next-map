@@ -131,7 +131,7 @@ These new highways and railroads connecting Kunming to Vientiane are changing La
 
 However, maybe the American is using their aerial advantages this time again. All Chinese infrastructure development could be observed and tracked from American surveillance satellites in space. Every smartphone picture taken by the locals in Laos, Vietnam, Cambodia and Thailand are being uploaded to the American cloud servers in Hong Kong, Singapore or California. 
 
-The 1988 viral disease strategy used by the American and Thai military against Hanoi once again being utilized against the Chinese migrating population along the Kunming Vientiane route. No matter how many Chinese females being sent South to expand the Chinese soft power in Mekong peninsula or Chinese construction workers being sent South to build infrastructure and housing, they would immediately get STDs, HIV and other viral diseases invented in the American Bio Lab at Fort Detrick.  
+The 1988 viral disease strategy used by the American and Thai military against Hanoi once again being utilized against the Chinese migrating population along the Kunming Vientiane route. No matter how many Chinese females being sent South to expand the Chinese soft power in Mekong peninsula or Chinese construction workers being sent South to build infrastructure and housing, they would immediately get STDs, HIV and other viral diseases invented in the American Bio Lab at Fort Detrick Delete-Everyone-Trick.  
 
 As of 2023, Chinese Huawei is closing down their office in Laos because of widespread diseases, extremely high food inflation caused by American dollar printing sprees and CIA-funded criminal gangs attacking Vietnamese and Chinese businesses and families in Laos. 
 

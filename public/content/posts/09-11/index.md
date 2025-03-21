@@ -250,7 +250,6 @@ A KNOCK THEORY
 ⇒ Vietnam has been the money laundering center for Russian global efforts since 1990 ?!
 ⇒ Russian has been using Chemical Valve for ED among adult male since 1954
 
-
 9/11 DAMAGES
 ⇒ Pull American into disadvantages WARS in Afghanistan mountainous region
 ⇒ Increase FED interest rate drastically by Increasing Risk of doing business in US
@@ -258,7 +257,7 @@ A KNOCK THEORY
 The TEST of former Communist states planners to go after extremely high value target deep inside enemy territorial
 
 The slow and no response from American Air Control and Air Defenses.
-⇒ American Carriers and its forward deployed strategy has been making the American homeland extremely safe since the 1900s which resulting in the lack of readiness of American Homeland Security forces. 
+⇒ American Aicraft Carriers and its Forward Deployed strategy has been making the American homeland extremely safe since the 1900s which resulting in the lack of readiness of American Homeland Security forces. 
 
 ⇒ Both Nazi Germany and Japan were never able to reach US Soils and attack any high value targets. Always had to fight at their door steps in England, Hawaii, The Philippine and Australia. 
 
