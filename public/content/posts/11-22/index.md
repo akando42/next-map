@@ -3,171 +3,114 @@ zoom: 10
 lat: 32.77827966119764
 lng: -96.79800561213413
 path: "/11-22"
-cover: "content/posts/11-22/spykman-world-JFK_limo.png"
-date: "11-22"
-title: "John F. Kennedy Assassination and the Dilution of Adam Smith Vision"
-tags: ['England','Assassination','John F. Kennedy','Texas','Florida','The Atlantic','Spykman World','Nicholas Spykman']  
-summary: "After 1975, the #American planners switched from an #ATOM #Superpower to #BIT #Superpower via #USDollars as Global #ReservesCurrency and #USInternet as #GlobalCommunicationNetwork. Did this switch from #ATOM to #BIT make America stronger or weaker?"
+cover: "content/posts/11-22/Lockheed_Martins_Built_Around_Soviet_and_German_Engineers.png"
+date: "11-22-2024"
+title: "San Antonio The Rebelious Capital of Western Force"
+tags: ['California','Arizona','Texas','Colorado','Missisipi River','Colorado River','Hispanic','Mexico', 'Gulf of Mexico', 'Spykman World', 'GeoGenetics']
+summary: ""
 published: true
 ---
-### JOHN F. KENNEDY ASSASSINATION - A PIERCING BULLET THAT CHANGE HISTORY
+## Texas with Geography of a Power Base
 
-JFK assassination at the high of the COLD WAR marked the beginning of a constant dilution of working-class hard-earn value unit with US Dollar printing spree.
+Texas territory was a fertile wetland around the Southernmost tributary to the Mississippi river. Before the arrival of Spanish and English colonizers, the land was the home of Native American Commanche nation with the Fort Worth riverbank being the capital of the Comanche group. 
 
-![US Dollar and Gold Price](https://storage.googleapis.com/spykman-world/US_Dollar_and_Gold_Price.png)
+![Commanche Nation](https://storage.googleapis.com/spykman-world/Commanche_Nation.png)
 
-Nowaday, #FED minutes is being watched by bankers and policy makers around the world. If The #FED signals their lowering of interest rates and more quantitative easing, every other central banks would follow with their own policies of lowering interest rates and quantitative easing. 
+The easy to defend, difficult to attack geography make Texas ideal as the power base that kept changing hands from the Comanche to the Spanish Empire to the Mexican nation then the American and now modern day 1945 Stan Wolf Bush Family. The Southern Delta forming between the Mississippi river basin and the Colorado river basin enables the flourishing growth of different human genetics groups throughout history of this region. 
 
-![US Federal Reserves Chairmans](https://storage.googleapis.com/spykman-world/us_federal_reserves_chairmans.png)
+![US Terrain and the Military City Placement](https://storage.googleapis.com/spykman-world/US_Terrain_and_Military_City_Placements.png)
 
-If you are a #BigBank and at the top with access to cheap, ultra-low interest credit then you are cool but if you have a normal working person with a saving then you are the suckers.
+The Colorado Rocky Mountain in the West slows down migrations of human and animal in the East West direction. That’s the reason why until the modern day, we are still not seeing a large population of Tibetan East Asian Japanese, Chinese, Vietnamese or Pacific Islander East of the Rocky Mountain range. 
 
-![Largest Banks In United States by Total Assets](https://storage.googleapis.com/spykman-world/largest_banks_in_united_states.png)
+![Rocky Mountain Range](https://storage.googleapis.com/spykman-world/Rocky_Mountain_Range.png)
 
-Original role of the Bank is to #HoldDeposit from value creators or saving and lend it back to businesses to create more value. Modern banking does not make money by lending out money from their depositor money anymore. Modern banking makes money from extra-cash print out by the FED and central banks around the world and charge their depositors ridiculous fees.
+The narrow stroke point between the Mexican Monterrey Mountain range and the Gulf of Mexico enables whoever controls Texas to throttle the migrations of humans and animals in the North South direction. When the Spanish Empire and Mexican nation was able to control the Texas region then they had access to the West Coast territory of California as well as the East Coast territory of Florida. However, after the New English American was able to gain control of Texas, the Spanish speaking planners of the South had to quickly relinquish control of the massive territorial West of the Rocky Mountain as well the entire Florida peninsula. 
 
-![American Bankers Get Rich From Negative Balances of Average American Depositors](https://storage.googleapis.com/spykman-world/negative_account_balances_make_bankers_rich.png)
+![US Territorial Map Before and After Mexican War](https://storage.googleapis.com/spykman-world/US_Territorial_Map_Before_and_After_Mexican_War.png)
 
-Normal working people have no to little access to the #EquityMarket to counter this value erosion trend created by #CentralBanks and the FEDs. And even if you have a portfolio to counter the FED’s induced value-erosion policies, each financial crisis, you will get robbed of all your hard-earn value and wealth are increasing concentrating on the top 1%.  The king and monarchy is already back and we do not even know it. 
+Till the modern day, the Rocky Mountain range position closer to the West Coast is still the major impacting factor to the population growth of North America with the East side receiving more rainfall from the Atlantic ocean storms. The Rocky mountain range blocked most of the rainy clouds of the Pacifics to reach deep inside North America with only two small deltas formed in California Central Valley and Washington Portland Delta. As a result of this mountainous formation, Tibetan East Asian genes grow much slower in the North America West Coast than in China, Japan or the Mekong Peninsula. And California is not China so they do not just turn mountains to cement like in Chengdu to change the weather. 
 
-![401K account holders vs the rest of population](https://storage.googleapis.com/spykman-world/longterm-investments-in-401k.png)
+![California Texas vs New England Agriculture Regions](https://storage.googleapis.com/spykman-world/California_Texas_vs_NewEngland_Agriculture.png)
 
-The modern 30 years #Mortgage at 5% interest rate and Consumer Credit Card industry at 21% interest while the big banks are getting near 0% interest from OUR government is just another form of Bondage that had enslaved European people in 17 & 18 century and led them to escape the continent and find freedom in the United States. 
+So the US-Mexican war was the pivotal moment that defines modern day US geography as well as the 20 century global balance of power with the New England gene groups gain control one of largest agriculture landmass in the world that well protected in the North by the freezing temperature of the Artics, the East by Pacifics Ocean and West by the Atlantics ocean. 
 
-![The Banks Own two third of all American homes](https://storage.googleapis.com/spykman-world/mortgage_free.png)
+![Mississipi High Agriculture Production Region](https://storage.googleapis.com/spykman-world/missisipi_united_states.png)
 
-This distortion of natural cycle of value creation started with the Cold War and the Vietnam War. The US needed extra financial resources in order to fund the IRON curtain countries and the US dollar is the value anchor of the whole world anyway so no one can stop it. Extra dollars were being shipped to #IronCurtain countries via IMF and World BANK lending and financial assistant programs. 
+Texas is the main gate to North America. Whoever controls Texas eventually will define the genetics pool of the United States and Canada.  After the Cuban Missile Crisis and the Assasination of JFK in Dallas, it seems like the former Soviet States of Russia and Kazakhstan have been controlling this gate. 
 
-![Iron Curtain Countries](https://storage.googleapis.com/spykman-world/iron-curtain-countries.png)
+![Concealed Revolver](https://storage.googleapis.com/spykman-world/Texas_Concealed_Revolver.png)
 
-These IRON curtains countries will then maximize their #Exports via Industrial built-up WHILE AMERICANs will maximize their #Imports by absorbing the OUTPUT from IRON-CURTAIN countries via Consumption and Credit Usage.
+The Hispanic Latino and African Latino population of the South with STAN assistance are slowly but absolutely regaining political control of North America by just making more babies and raising them well as Americans.  
 
-![Every Takes Dollar because the Currency is Backed by Golds and Nukes](https://storage.googleapis.com/spykman-world/print-money-to-buy-stuffs.png)
+![Texas vs Mexican Flag](https://storage.googleapis.com/spykman-world/Common_RED_AND_WHITE_color_scheme_of_Texas_and_Mexican_Flag.png)
 
-This is supposed to be a UP-Ward Spiral or an UPward ReCURSIVE process with the US lifting the entire world industrial and productivity output. However, they overdid it and the Vietnam War eventually led to the collapse of Brenton Wood agreement and Richard Nixion got rid of the Gold standard. This led to the beginning of the Down-ward Spiral Process of VALUE.
+## Stan Nation of the South West
 
-![Richard Nixon suspended Gold Standard temporarily but forever](https://storage.googleapis.com/spykman-world/suspend_gold_standard_temporary_maybe.gif)
+Lyndon B Johson and Boris Yetson, two sons of the 1945 STAN wolf, orchestrated the collapse of the Berlin Wall that allowed the STAN Siberian Persion genes to migrate to Western Europe and North America and gain controls of critical energy and defense positions within the formal New England gene playground. With the War of Terrorism under George H.W Bush, even more Afghanistan and Pakistan migrants are being allowed to enter the United States and gaining genetic foothold within the Golden North American landmass.
 
-If Kennedy was still president, the US probably end the Vietnam War 10 years earlier, did not have to break the post WWII Brenton Wood agreement and the Gold Standard and start the Down-ward spiral of the World value storage and productivity growth.
+![White Son of 1945 STAN](https://storage.googleapis.com/spykman-world/White_SON_of_1945_STAN_Wolf.png)
 
-![JFK First Lady Running Away Instinctively from JFK Corpse](https://storage.googleapis.com/spykman-world/JFK_first_lady_running_from_JFK_corpse.png)
+Rocket fuel and its design was first invented in Germany during WW2 and the first group to master Intercontinental Ballistic Missile ICBM was Soviet Union scientists. The sons of these scientists later on found a University in the West Coast called STAN_Ford which became the launchpad for most Silicon Valley startups like Yahoo, Google, Apple, Uber, AirBNB. 
 
-The Vietnam War and Kennedy assisassisation marked the peak of the US role as the world's leader and start the deceleration process of US industrial and productivity growth. 
+![STAN_Ford_University](https://storage.googleapis.com/spykman-world/Stan-FORD_University.png)
 
-![WW2 and the Internet Boosted US Productivity Growth](https://storage.googleapis.com/spykman-world/ww2_and_the_internet_boosted_us_productivity_growth.png)
+Since 1945, The Soviet Union has always had an edge over NATO and the United States in missile technology started with the first Satellite in orbit launched from Kazakhstan Space Station. During the height of the COLD WAR in 1963 between the United States and the SoViet Union, the Nash Equilibrium of the Nuclear Arm race was actually broken by a Soviet Latino sniper via a long range ballistic bullet hitting the nuclear controller of the United States. 
 
-US economy gradually transitioned from Productivity Growth and Value Creation Activities to Financial and Lending related activities with their share of the GDP gradually moving away from Value Creation activities into more of Financial and Banking related activities. 
+![JFK New England Assassination in STAN Foreign Base](https://storage.googleapis.com/spykman-world/JFK_first_lady_running_from_JFK_corpse.png)
 
-![Moved From Making Hardware Stuffs and Trade Them to Making Digital products and Trade them](https://storage.googleapis.com/spykman-world/us_moved_from_manufacturing_and_trading_to_banking_and_it.png)
+The JFK assassination put a stop to migration of New English gene groups South toward Texas empty landmass full of Energy and Farmland. The Mexican and Hispanic of Central and South America never regained their territorial loss but after the 1963 JFK assassination the migration flow from the South once again picked up steam with the new Texas gatekeeper. Hispanics was only 16.4% of the population of Texas in 1970s but by 2020 they have reached 40% and became the deciding votes in every American election since 2000.  
 
-Nowaway, US has to heavily relied on its Financial Sector to pop up its GDP with very little to none productivity growth. Real Estate is just another money-sunk credit-driven industry. We like to live in a nice house but a mansion or a one bed-room studio does not help to increase or decrease our individual Productivity. 
+![Texas Demographic Change](https://storage.googleapis.com/spykman-world/Texas_Demographics_Change.png)
 
-![Sky High Housing Price Pop Up by FED Cheap Credit](https://storage.googleapis.com/spykman-world/skyhigh-housing-price-popup-by-FED-cheap-credits.png)
+The California economy and mega Tech giants are built around high tech semiconductors imported from Tibetan East Asian nations. And the Texas economy is also built around high tech semiconductors. Every weapon system built by Lockheed Martin, the largest weapon producer in the World, comes with an embedded computer. These results in gene pool share change with Tibetan East Asian gained enough support to become San Francisco and San Antonio city mayors and large shareholders in critical American corporations of California and Texas.
 
-Manufacturing, Agriculture, Transportation, Technology, Science and Research was the main driver that propelled the US into the World number 1 economy and will most likely propell China and Germany into number 1 and 2 spot of the World Economy since they see the most improvement in Productivity growth as well as Population growth since WWII and have a very strong industrial and technology value creation economy. 
+![Leaders of South West Nation](https://storage.googleapis.com/spykman-world/Hispanic_Asian_Black_Leaders_of_SouthWestNation.png)
 
-![Germany and China Deep Insight of American Lifes](https://storage.googleapis.com/spykman-world/china-germany-deep-insight-of-american-lifes.png)
+The Hispanic and Tibetan East Asian population growth and gene pool share in the United States defines the Economic growth of California and Texas. In 2020, California and Texas already account for 23% of the US Economy and 20% of US Population. If the election results in Washington lead to Tibetan East Asian and Hispanics population throttle via Sterilization or Travel Prohibition in California and Texas then a Civil War could easily be brown out between South Western States and New England power center.
 
-The US is holding on to its number 1 spot with more cheap credit, its unfair advantage as Currency reserve and its NUKE to pressure non-Nuclear nations like Germany and Japan in trade negotiating table. Well humans can INVENT NUKE then we should be able to figure out a way to DISABLE NUKE. 
+![Natural Gas and Oil Pipeline from Houston](https://storage.googleapis.com/spykman-world/Natural_Gas_Pipeline_Texas.png)
 
-![US Military Bases in Germany](https://storage.googleapis.com/spykman-world/us-military-bases-in-germany.png)
+![Major Gulf of Mexico Cities ](https://storage.googleapis.com/spykman-world/Most_Populous_Cities_Of_the_Caribbean.png)
 
-### Fort Knox, Kentucky - The Golden Eggs Stash That Ensure American Perpetual Dominance.
+![Gulf of Mexico The Medditerian of the New World](https://storage.googleapis.com/spykman-world/Gulf_of_Mexico_the_MEDITERRIAN_of_the_new_World.png)
 
-Gold is something we all believe in since before the birth of Christ, across different cultures, at the time of war or peace as long as the Sun is still shining with its golden rays. Gold reserve is the requirement of a true world superpower. As of today, top 6 countries in gold reserves are USA, Germany, Italy, France, China and Russia.
+![Lake of the Western Forces](https://storage.googleapis.com/spykman-world/Lakes_of_the_Western_Forces.png)
 
-![American Gold Reserves Vault in Fort Knox](https://storage.googleapis.com/spykman-world/american-gold-reserves-vault-with-new-airport.png)
+![LockHeat_Mart_Teen_RD_Center](https://storage.googleapis.com/spykman-world/LockHeat_MartTeen_RD_Center.png)
 
-United Kingdom, currently ranked as number 17, somehow lost most of its gold reserves but still keep Germany’s Gold as hostage in the Bank of England. United Kingdom with its past greatness but current bad shape looking like the usual suspect of 2016 election meddling. United Kingdom more than anyone else understand the crucial role of a nation treasure in its long-term prospect. 
+![Lockheed Martins LockHeat MartTeen HIMAR Rocket Artilery](https://storage.googleapis.com/spykman-world/HIMARS.png)
 
-![The King uses Social media not Gold no More to Show his Face](https://storage.googleapis.com/spykman-world/gold-reserves-in-ton-by-countries.png)
+![Lockheed Martins LockHeat MartTeen F35 Single Seat Lighting](https://storage.googleapis.com/spykman-world/F35.png)
 
-During the early 1700 War of Spanish Succession, France and Spain are moving too close to become a formidable and dangerous coalition. If France and Spain become a single cohesive unit, Britain’s war in the American continent as well the Indian subcontinent is a lost cause. 
+![Lockheed Martins LockHeat MartTeen Javelins](https://storage.googleapis.com/spykman-world/JAVELINS_Texas_Instruments.png)
 
-![The Spanish British War of 1700s](https://storage.googleapis.com/spykman-world/the-spanish-british-wars-of-1700s.png)
+![Raytheon Patriots Missile Defense](https://storage.googleapis.com/spykman-world/Patriot_Missile_Defense.png)
 
-So the British diplomats and planners pitched Holy Roman Empire aka Modern Germany and its allies into a major war against Spain and France on land as well as at sea in the Mediterian and the Caribean. 
+![General Atomics Predator](https://storage.googleapis.com/spykman-world/General_Atomics_MQ1_Predator.png)
 
-![Wars at Sea between British Royal Navy and Spanish Armada](https://storage.googleapis.com/spykman-world/wars-at-sea-between-british-royal-navy-and-spanish-armada.png)
+## New England Sherif Attempt to Regain Control
 
-Spain's power was drawing mainly from its endless gold supply from Central and South America. Understanding this, British sponsored piracies activities in the Caribbean to deal lethal blows to Spain’s strength and eventually force Spain to its knees and forever prevent the creation of a formiddle giant: France and Spain as a cohesive unit. 
+The Mississippi agriculture belt will always result in population advantages of North Eastern states with majority of US population growth will come from this area. As the result, the North Eastern states will always have an advantages in Men Power for any kind of military recruitment during Civil War. Only migrations from other regions or food imports from other regions could result in the alternation of this population balance. Air travel migration is highly expensive so Food and Human importing via land and sea from Central and Latin America could be the only real threat to the New England balance of power. 
 
-![Spanish Gold Supply From Latin America](https://storage.googleapis.com/spykman-world/spanish-gold-supply-from-south-america.png)
+![Mississipi High Agriculture Production Region](https://storage.googleapis.com/spykman-world/missisipi_united_states.png)
 
-Nowaday, we can still find clues of these past piracy activities along the Treasure Coast of Florida. The sinking of Spanish 1715 treasure fleet marked the decline of Spain as a major European power and start the Golden age of Ocean piracies in the Carribean as well as around the world. 
+New England planners and the Department of Defense in Washington DC and Virginia have also planned the locations of US Military installations, ammunition storage and weapon research facilities to reduce chances of any break away movements from Southern and Western states. Majority of US ammunition storage and ground-based army unit weapon production factories are located in the North Eastern states with only Nevada facility is located in the West. In the case of a Civil War, Texas, California and other South Western states will run out of ammunition while the North Eastern states can keep on fighting with larger ammunition stockpile and military recruitment pool.
 
-![Spanish Fleet Frequent Sunk Location Became the Florida Treasure Coast](https://storage.googleapis.com/spykman-world/spanish-frequent-sunk-location.png)
+![New England Sherif Army Munnition Depots Placement](https://storage.googleapis.com/spykman-world/US_Terrain_and_Military_Ammunition_Depots.png)
 
-The Spanish 1715 treasure fleet was sunk during a big tropical hurricane. However like the Malaysia Flight 370, the geography and the political implication tells a very different story.
+Ground control weapon research facilies are also located in the East with US main Battle Tank, Armor Vehicle built by General Dynamics corporation of the North East. Large production faciliies for M4 Riffles, Handguns and Long-Range Sniper guns are also located in the East with Smiths and Wesson factory tuck way in the Tennessee high mountain. Even ground-control robot dogs are also being researched in Boston of Massachusetts not California or Texas. 
 
-![Spanish Golden Trade Route through the North Atlantics Ocean](https://storage.googleapis.com/spykman-world/the-similiarity-between-chinese-pacifics-and-spanish-atlantics-trade-routes.png)
+![General Dynamics Stryker Armor Vehicles](https://storage.googleapis.com/spykman-world/General_Dynamics_Strykers_Armor_Vehicle.png)
 
-Spain and France are major land power but also have a long coast line and direct access to the Mediaterian and Atlantic. Both languages are Latin-based language and both countries are past Roman Empire territorials with main religion as Roman Catholics and population is heavily Romanized.  
+![General Dynamics M1 Battle Tank](https://storage.googleapis.com/spykman-world/General_Dynamics_M1_Battle_Tank.png)
 
-![The Soldier DNA](https://storage.googleapis.com/spykman-world/spanish-french-roman-soldiers-dna.png)
+![General Dynamics Phalanx AI Machine Gun](https://storage.googleapis.com/spykman-world/PhalanxAI_Machine_Gun_General_Dynamics.png)
 
-Britain like Russia wants to be Christian but think of themselves as better and want to create their own separate branch of Christian to reduce influence from the Pope and the Roman Catholic church. Both British, Northern German and Russian monarchs have Nordic Scandinavian origins. So here it is, the Protestian of the England, the Orthodox of the Russia and the New Holy Roman Empire of Germany banned together to fight the Catholic Roman Empire states of France and Spain. 
+![Barrett High Precision Sniper Gun](https://storage.googleapis.com/spykman-world/Barrett_High_Precision_Sniper_Gun.png)
 
-![The Propagandist DNA](https://storage.googleapis.com/spykman-world/german-british-russian-propagandist-dna.png)
+![Boston Dynamics Sniper Robodog](https://storage.googleapis.com/spykman-world/Boston_Dynamics_Sniper_Robodog.png)
 
-Most likely the sinking of Spanish 1715 fleet is not an accident but the first black-ops sea raids of 18 centuries. The Treasure Fleet was first spot and followed by pirates at New Provinces Port, Nassau. And then the main British fleet anchored at New Water, Jacksonville, North Carolina was sent under darkness southward to intercept the Treasure fleet with order to sink all ships. 
+![Smiths and WellSon MP9 Shield Plus](https://storage.googleapis.com/spykman-world/Smiths_and_WellSon_MP9_Shield_Plus.png)
 
-![British Royal Navy and Pirates vs Spanish Armada](https://storage.googleapis.com/spykman-world/british-navy-and-pirates-vs-spanish-armanda.png)
+![High Mountain Smith and WellSon](https://storage.googleapis.com/spykman-world/Smith_and_Wesson_High_Mountain_Gun_Factory_Tennessee.png)
 
-#Pirates sponsored by the Crown will then make sure most of treasure will be captured and shared among Caribean pirates as kick-start capital for further piracy payroll, working capital, ship upgrade and weapon purchases.
-
-![Gold Coins from SUNKEN Spanish Armada](https://storage.googleapis.com/spykman-world/pirates-of-caribbean-golds.png)
-
-After the sinking of Spanish treasure fleet of 1715, we saw the Golden Age of Caribean piracies from 1716 - 1726. The whole Spanish Succession War and The Pirates of Carribeans look a lot like the #China-Russia relationship of 21 century and South China Sea dispute.  
-
-![Russian Merchants of Chaos](https://storage.googleapis.com/spykman-world/russian-merchant-of-chaos.png)
-
-Post WW2 of 1949, People Liberation Army with no expedition naval forces was not able to capture the Kinmen Island, which is only 11 kilometers from its shores from Taiwan. During the height of the Cold War of 1980s, China was still a developing nation with backward industrial capabilities as well as a peasant army with minimum naval or air force. 
-
-![Taiwan vs China Balance of Military Power](https://storage.googleapis.com/spykman-world/real-balance-of-power-between-taiwan-and-china.png)
-
-At the beginning of 21 century, America's biggest ally, England is at the sunset of its power and China is rising to number 2 Economy. The PLAN possesses with both land, sea and air offensive nuclear and conventional capabilities but still has never conducted any successful real-world naval campaigns.
-
-![Chinese Refurbish Aircraft Carrier](https://storage.googleapis.com/spykman-world/chinese-Refurbish-aircraft-carrier.png)
-
-After the Soviet Union collapse, Russia still have the 2nd largest nuclear stockpiles, energy and mineral productions and reserves only after the US. It’s cold-war era weapon could be easily upgraded or mass-produced with the right investment in R&D as well as production capabilities. And China has the money as well as the infrastructure. 
-
-![Russia and Northern Europe OIL and Gas Deposit](https://storage.googleapis.com/spykman-world/europe-oil-and-gas-deposits.png)
-
-However, Russia of 21 century no longer has a fully RED flag. Russia and China both have large blood type B population but Blood type B in Russia has declined to a minority share of population. Russian is still a highly Caucasian Christian society while China is still a highly East Asian Confucious society. 
-
-![RUSSIA-SOVIET-CHINA](https://storage.googleapis.com/spykman-world/RUSSIAN-SOVIET-CHINA.png)
-
-Both countries have long common border that could trigger major conflict like France and Germany but luckily their capital, the power center of gravity and all its major population centers are far away from each other with Moscow near the Baltics sea and Beijing near the Pacifics. 
-
-![Moscow Empty Space Beijing](https://storage.googleapis.com/spykman-world/moscow-buffer-beijing.png) 
-
-So if both focus on the geographic and economic factors then they compliment each others and have great synergy, looking like a perfect M & A. However, if both focus on ethnicity and religious factors then they are vastly different and could be arch enemy. World War losers let their land become the battle ground while the winners fund the war and sell weapons to both sides. 
-
-![Stalingrad and Berlin in 1945](https://storage.googleapis.com/spykman-world/stalingrad-and-berlin-1945.png) 
-
-Most WWII casualties are in Russia and China and maybe the American weapon designer was planning to wipe out or convert half of the world population to Blood type A and O with the majority of that trunk comes from Middle East, China, India and Indonesia. That’s why the newest stealth fighters are F35 and we have little more than 7 billion people on earth. 
-
-![Countries Part of the F35 Program](https://storage.googleapis.com/spykman-world/countries-part-of-f35-program.png) 
-
-Russia is the land-bridge between East and West. It has the power to unite the Euro-Asia Continent or plunge itself and the entire continent into another wars. Ater 2020, maybe Russia prefers constant Chaos in Euro Asia and keep their wife and children in United States or Canada.
-
-![2021 Putin Biden Submit](https://storage.googleapis.com/spykman-world/2021_putin_biden_submit.png)
-
-### Triple Headed Eagle and Its Mandate From the Sky
-
-Whether the West likes it or not, Russian history proved it is the true liberator of all people regardless of religions, ethnicities or nationalities. Russian soldiers never set foot on the soil of any countries without direct threats to its national security or invited. 
-
-![Communist Union at its Peak](https://storage.googleapis.com/spykman-world/the-communist-union-at-its-peak.png) 
-
-Americans need to look into mirror, fix its soul, redeem its karma from past African slavery, native Americans massacre and modern day White Christian supremacy first before it can truly claim its role as world liberators or the promoters of liberal and democratic value.  
-
-![San Francisco High Tech High Homeless City](https://storage.googleapis.com/spykman-world/san-francisco-fed-made-homeless.png) 
-
-People wants to be liberated from their suffering and the West sold their snake oil promise of democracy as a magic pill that will cure it all. However, all democracy ever brought to developing nations are internal chaos, death, hunger and suffering. Protestant Christian and Democracy is an inflammable combination that burns and destroys all stable non-Christian non-Western social structure. 
-
-![Twitter Algorithm Driven Arab Spring](https://storage.googleapis.com/spykman-world/twitter-algorithm-driven-arab-springs.png)
-
-People wants food, clean air and water, housing, healthcare, child development and then when they have free-time then they will go to vote.
-
-![Dollar Store Food Cans](https://storage.googleapis.com/spykman-world/dollar-store-food-cans.png)
