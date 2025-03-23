@@ -5,9 +5,9 @@ lng: 102.61474361790651
 path: "/12-02"
 cover: "content/posts/12-02/geogenetics_laos_and_the_art_of_neutrality.png"
 date: "12-02"
-title: "Laos and The Art of Neutrality"
+title: "Laos and The Art of Neutrality" 
 tags: ['Laos', 'Asia', 'Switzerland', 'France', 'Landlock', 'Spykman World', 'GeoGenetics']  
-summary: ""
+summary: "Gene groups expand outside of their original food basket when they acquire superior mobility form to overcome difficult geography and get pushed back when they encounter more advanced form of mobility from other competing gene group"
 published: true
 ---
 # Laos PDR Founding Adminstrative System
@@ -134,5 +134,3 @@ However, maybe the American is using their aerial advantages this time again. Al
 The 1988 viral disease strategy used by the American and Thai military against Hanoi once again being utilized against the Chinese migrating population along the Kunming Vientiane route. No matter how many Chinese females being sent South to expand the Chinese soft power in Mekong peninsula or Chinese construction workers being sent South to build infrastructure and housing, they would immediately get STDs, HIV and other viral diseases invented in the American Bio Lab at Fort Detrick Delete-Everyone-Trick.  
 
 As of 2023, Chinese Huawei is closing down their office in Laos because of widespread diseases, extremely high food inflation caused by American dollar printing sprees and CIA-funded criminal gangs attacking Vietnamese and Chinese businesses and families in Laos. 
-
-

@@ -6,7 +6,7 @@ path: "/09-11"
 cover: "content/posts/09-11/spykman-world-9-11-asymetrical-warfare-false-flag-or-a-knock.jpeg"
 date: "09-11"
 title: "Asymetrical Warfare, False Flag or A Knock"
-summary: ""
+summary: "Permanent gene expansion right after a technological upgrade is necessary to maximize these temporary advantages before technologies will be quickly copied by other comparable genes group"
 tags: ['Asymetrical Warfare', 'False Flag Operation', 'A Knock','Dystopian','Four Horsemen','Spykman World','Nicholas Spykman']    
 published: true
 ---
