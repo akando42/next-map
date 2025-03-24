@@ -6,7 +6,7 @@ path: "/12-06"
 cover: "content/posts/12-06/geogenetics-canada-the-icy-northern-frontier-with-no-wall.png"
 date: "12-06"
 title: "Canada - The Icy Northern Frontier with No Wall"
-summary: ""
+summary: "The climate line is an invisible barrier that is extremely difficult to cross that often resulted in geographical graveyard for gene groups who were not evolutionary adapted but attempted for a breakthrough"
 tags: ['Japan ','China', 'Russia ', 'Canada ', 'USA ', 'France ', 'Britain ', 'Indian', 'GeoGenetics']  
 published: true
 ---
