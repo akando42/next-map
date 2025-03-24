@@ -151,7 +151,7 @@ export default class Book extends Component {
 							return (
 								<div className={styles.chapter}>
 									<div className={styles.title}>
-										{post.title} 
+										{post.title} ({post.date})
 									</div>
 									<div className={styles.summary}>
 										{post.summary} 
@@ -195,7 +195,6 @@ export default class Book extends Component {
 						})
 					}
 				</div>
-
 			</div>
 		)
 	}
