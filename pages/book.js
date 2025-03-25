@@ -161,67 +161,67 @@ export default class Book extends Component {
 			compresses: [
 				{
 					'name':'WMD VIRAL DICEASE',
-					'link':''
+					'link':'#01-25'
 				}, 
 				{
 					'name':'DECLINING FERTILITY RATE',
-					'link':''
+					'link':'#08-05'
 				}, 
 				{
 					'name':'FOREIGN GENE MASKING AS NATIVE GENE',
-					'link':''
+					'link':'#10-07'
 				}, 
 				{
 					'name':'RANDOM SHUFFLE OF GENE GROUPS',
-					'link':''
+					'link':'#07-27'
 				}, 
 				{
 					'name':'OVERCOMMITTING FORCES EXPANDING ACROSS CLIMATE LINE',
-					'link':''
+					'link':'#12-06'
 				}, 
 				{
 					'name':'FAIL TO GUARD GEOGRAPHICAL GATEWAY',
-					'link':''
+					'link':'#11-22'
 				}, 
 				{
 					'name':'LIMITED CLOSED ECOSYSTEM',
-					'link':''
+					'link':'#08-18'
 				}, 
 				{
 					'name':'LIMITED ENERGY SOURCES',
-					'link':''
+					'link':'#08-08'
 				}, 
 				{
 					'name':'INDEFENSIBLE GEOGRAPHICAL BORDER',
-					'link':''
+					'link':'#04-26'
 				}, 
 				{
 					'name':'GEOGRAPHICAL STROKE POINT',
-					'link':''
+					'link':'#02-15'
 				}, 
 				{
 					'name':'EXTREME ALTERNATION OF GEOGRAPHICAL ENVIRONMENT',
-					'link':''
+					'link':'#08-05'
 				}, 
 				{
 					'name':'FAIL TO FORM STRONG COALITION',
-					'link':''
+					'link':'#04-09'
 				}, 
 				{
 					'name':'BORROW SOCIAL ARCHITECTURE',
-					'link':''
+					'link':'#03-31'
 				}, 
 				{
 					'name':'COMPETING WITH MORE ADVANCED MOBILITY ENEMY',
-					'link':''
+					'link':'#12-02'
 				}, 
 				{
 					'name':'OVERWHELMING SURVEILLANCE FROM ENEMY',
-					'link':''
+					'link':'#10-17'
 				}, 
 				{
 					'name':'GENE LOST ITS FREEWILL',
-					'link':''
+					'link':'#02-29'
 				} 
 			],
 			currentContentID: '',
@@ -346,7 +346,12 @@ export default class Book extends Component {
 						{
 							this.state.compresses.map(compress => {
 								return (
-									<a href={compress.link} className={styles.do}>
+									<a 
+										href={compress.link} 
+										className={styles.do}
+										data-link={compress.link} 
+										onClick={this.openArticle}
+									>
 										{compress.name}
 									</a>
 								)
