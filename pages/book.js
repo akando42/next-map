@@ -232,6 +232,7 @@ export default class Book extends Component {
 		this.listPost = this.listPost.bind(this)
 		this.loadText = this.loadText.bind(this)
 		this.hideText = this.hideText.bind(this)
+		this.openArticle = this.openArticle.bind(this)
 	}
 
 	async listPost(){
@@ -263,6 +264,25 @@ export default class Book extends Component {
 			currentContent: '',
 			currentContentID: '', 
 			showingContent: false
+		})
+	}
+
+	async openArticle(event){
+		let link = event.target.dataset.link
+		let contentID = link.replace('#', '')
+		let currentContent = this.state.posts.filter(post => post.date === contentID)[0].content
+		console.log("UPDATING", contentID, currentContent)
+
+		let processedContent = await remark()
+	      .use(html)
+	      .process(currentContent)
+
+    	const contentHtml = processedContent.toString()
+
+		this.setState({
+			showingContent: true,
+			currentContentID: contentID,
+			currentContent: contentHtml
 		})
 	}
 
@@ -307,7 +327,12 @@ export default class Book extends Component {
 						{
 							this.state.expands.map(expand => {
 								return (
-									<a href={expand.link} className={styles.do}>
+									<a 
+										href={expand.link} 
+										className={styles.do}
+										data-link={expand.link} 
+										onClick={this.openArticle}
+									>
 										{expand.name}
 									</a>
 								)
