@@ -72,6 +72,158 @@ export default class Book extends Component {
 		super(props)
 		this.state = {
 			posts: [], 
+			expands: [
+				{
+					'name':'WATER AND FARMLAND ABUNDANCE',
+					'link':'#12-26'
+				}, 
+				{
+					'name':'ENERGY ABUNDANCE',
+					'link':'#08-05'
+				},
+				{
+					'name':'START WITH DEFENSIBLE GEOGRAPHY',
+					'link':'#09-02'
+				}, 
+				{
+					'name':'QUIETLY INCREASE NUMBER IN HOSTILE ZONE',
+					'link':'#07-24'
+				},
+				{
+					'name':'SINGLE DIRECTION',
+					'link':'#02-02'
+				}, 
+				{
+					'name':'BUILD ALLIANCE',
+					'link':'#02-21'
+				},
+				{
+					'name':'GENE COMPATIBILITY FOR LONG LASTING ALLIANCE',
+					'link':'#07-31'
+				},
+				{
+					'name':'ACHIEVE GENE ISLAND FORTRESS',
+					'link':'#01-05'
+				},
+				{
+					'name':'TRAPPING LURING',
+					'link':'#03-20'
+				},
+				{
+					'name':'MAKE CALCULATED RISKY EXPERIMENT AT SMALL COST',
+					'link':'#07-21'
+				}, 
+				{
+					'name':'INCREASE RISK TOLERANCE WHILE NOT DECREASE SURVIVABILITY',
+					'link':'#09-13'
+				},
+				{
+					'name':'CONTINUOUSLY COMPOUND TECH UPGRADES',
+					'link':'#07-16'
+				}, 
+				{
+					'name':'MOBILITY UPGRADES ALLOW FASTER EXPANSION',
+					'link':'#11-11'
+				},
+				{
+					'name':'MAPPING ALL EARTH GEOGRAPHY',
+					'link':'#08-10'
+				}, 
+				{
+					'name':'COMMAND DANGEROUS INHOSPITABLE GEOGRAPHY',
+					'link':'#09-13'
+				},
+				{
+					'name':'GENE EXPANSION RIGHT AFTER BREAKTHROUGH TECH UPGRADE',
+					'link':'#09-11'
+				},
+				{
+					'name':'MAKE DANGEROUS TOOLS',
+					'link':'#07-13'
+				},
+				{
+					'name':'PREEMPTIVE ATTACK',
+					'link':'#07-04'
+				},
+				{
+					'name':'FORWARD DEPLOY AT ENEMY DOORSTEP',
+					'link':'#07-29'
+				},
+				{
+					'name':'CONSUME COMPETITOR FOR MORE ENERGY',
+					'link':'#05-19'
+				},
+				{
+					'name':'REWRITE NATURAL GENE CODE',
+					'link':'#03-13'
+				}
+			],
+			compresses: [
+				{
+					'name':'WMD VIRAL DICEASE',
+					'link':''
+				}, 
+				{
+					'name':'DECLINING FERTILITY RATE',
+					'link':''
+				}, 
+				{
+					'name':'FOREIGN GENE MASKING AS NATIVE GENE',
+					'link':''
+				}, 
+				{
+					'name':'RANDOM SHUFFLE OF GENE GROUPS',
+					'link':''
+				}, 
+				{
+					'name':'OVERCOMMITTING FORCES EXPANDING ACROSS CLIMATE LINE',
+					'link':''
+				}, 
+				{
+					'name':'FAIL TO GUARD GEOGRAPHICAL GATEWAY',
+					'link':''
+				}, 
+				{
+					'name':'LIMITED CLOSED ECOSYSTEM',
+					'link':''
+				}, 
+				{
+					'name':'LIMITED ENERGY SOURCES',
+					'link':''
+				}, 
+				{
+					'name':'INDEFENSIBLE GEOGRAPHICAL BORDER',
+					'link':''
+				}, 
+				{
+					'name':'GEOGRAPHICAL STROKE POINT',
+					'link':''
+				}, 
+				{
+					'name':'EXTREME ALTERNATION OF GEOGRAPHICAL ENVIRONMENT',
+					'link':''
+				}, 
+				{
+					'name':'FAIL TO FORM STRONG COALITION',
+					'link':''
+				}, 
+				{
+					'name':'BORROW SOCIAL ARCHITECTURE',
+					'link':''
+				}, 
+				{
+					'name':'COMPETING WITH MORE ADVANCED MOBILITY ENEMY',
+					'link':''
+				}, 
+				{
+					'name':'OVERWHELMING SURVEILLANCE FROM ENEMY',
+					'link':''
+				}, 
+				{
+					'name':'GENE LOST ITS FREEWILL',
+					'link':''
+				} 
+			],
 			currentContentID: '',
 			currentContent: '',
 			showingContent: false
@@ -145,12 +297,45 @@ export default class Book extends Component {
 						GEN_TOTAL_ENERGY 
 					</div>
 				</div>
+
+				<div className={styles.table}>
+					<div className={styles.expand_outcome}>
+							SPEED UP GENE EXPANSION
+					</div>
+					<div className={styles.expand}>
+
+						{
+							this.state.expands.map(expand => {
+								return (
+									<a href={expand.link} className={styles.do}>
+										{expand.name}
+									</a>
+								)
+							})
+						}
+					</div>
+					<div className={styles.compress_outcome}>
+							SLOW DOWN GENE EXPANSION
+					</div>
+					<div className={styles.compress}>
+						{
+							this.state.compresses.map(compress => {
+								return (
+									<a href={compress.link} className={styles.do}>
+										{compress.name}
+									</a>
+								)
+							})
+						}
+					</div>
+				</div>
+
 				<div className={styles.content}>
 					{
 						this.state.posts.map(post => {
 							return (
 								<div className={styles.chapter}>
-									<div className={styles.title}>
+									<div className={styles.title} id={post.date}>
 										{post.title} ({post.date})
 									</div>
 									<div className={styles.summary}>
