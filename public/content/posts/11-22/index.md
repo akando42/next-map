@@ -4,7 +4,7 @@ lat: 32.77827966119764
 lng: -96.79800561213413
 path: "/11-22"
 cover: "content/posts/11-22/Lockheed_Martins_Built_Around_Soviet_and_German_Engineers.png"
-date: "11-22-2024"
+date: "11-22"
 title: "San Antonio The Rebelious Capital of Western Force"
 tags: ['California','Arizona','Texas','Colorado','Missisipi River','Colorado River','Hispanic','Mexico', 'Gulf of Mexico', 'Spykman World', 'GeoGenetics']
 summary: "Gene civil war happened within a GeoGen centrer when the dominating genes lost control of major geographical gateways to new Foreign Gene groups"
