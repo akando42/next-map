@@ -83,6 +83,7 @@ export default class Main extends Component {
   render(){
     return (
       <div className={styles.container}>
+
         <Head>
           <title>GeoGenetics</title>
           <meta name="description" content="The Longterm Impacts of Genetics and Geography on World Destiny" />
@@ -115,6 +116,7 @@ export default class Main extends Component {
             }   
           </div>
         </main>
+        
       </div>
     )
   }
