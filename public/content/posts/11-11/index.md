@@ -4,7 +4,7 @@ lat: 7.665672742993175
 lng: 81.88449879560726
 path: "/11-11"
 cover: "content/posts/11-11/Mongol_vs_British_Influence_of_India.png"
-date: "11-11-2024"
+date: "11-11"
 title: "The Declining Mobility Advantages of the Siberian Nomadic Gene Groups"
 tags: ['India', 'Pakistan', 'Bangladesh', 'United Kingdom', 'United States', 'English', 'Bio Weapon', 'Infested Mode', 'Opium', 'Pharmacists', 'Spykman World','GeoGenetics']  
 summary: "Mobility advantages from sperm speed to horses, cars, planes and rockets are the major deciding factors that enable some genes to expand faster while other dying slowly in tree mode"

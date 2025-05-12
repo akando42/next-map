@@ -1,0 +1,14 @@
+.container {
+	width: 120px;
+	height: 160px;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	margin: 10px 0;
+	justify-content: center;
+	align-items: center;
+}
+
+.container:active {
+	transform: scale(0.96);
+}

@@ -201,7 +201,7 @@ export default class Book extends Component {
 				}, 
 				{
 					'name':'EXTREME ALTERNATION OF GEOGRAPHICAL ENVIRONMENT',
-					'link':'#08-05'
+					'link':'#06-12'
 				}, 
 				{
 					'name':'FAIL TO FORM STRONG COALITION',
@@ -236,7 +236,11 @@ export default class Book extends Component {
 	}
 
 	async listPost(){
-		console.log(this.props.postsData)
+		console.log(
+			"PROPS Watching Heavy Water or Agent Orange Drinkers Kim Ma Ghost Doctors",
+			this.props.postsData
+		)
+
 		this.setState({
 			posts: this.props.postsData
 		})
@@ -270,7 +274,20 @@ export default class Book extends Component {
 	async openArticle(event){
 		let link = event.target.dataset.link
 		let contentID = link.replace('#', '')
+
+		console.log(
+			"TYPING WATCHER VOICE", 
+			link, 
+			contentID
+		)
+
+		console.log(
+			"POSTS more voice from watchers ", 
+			this.state.posts
+		)
+
 		let currentContent = this.state.posts.filter(post => post.date === contentID)[0].content
+
 		console.log("UPDATING", contentID, currentContent)
 
 		let processedContent = await remark()

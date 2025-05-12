@@ -1,3 +1,4 @@
+
 ## Logging Events and New Discoveries by Coordinates
 Application to track new discoveries and major events around a Location Coordinate.
 
@@ -9,6 +10,7 @@ yarn dev
 ```
 
 ## TODO
+[ ] Hidden Research Section
 [ ] Post Unique Path and Timestamp for SEO
 [ ] Airplane Ticket Pricing to Each Location on Stories 
 [ ] Fact Section 
