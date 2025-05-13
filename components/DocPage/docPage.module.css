@@ -1,0 +1,15 @@
+.pageContainer {
+	width: 600px;
+	height: 900px;
+	background-color: white;
+	color: black;
+	padding: 20px;
+}
+
+.content h1 {
+	font-weight: 700
+}
+
+.content p {
+	font-weight: 200
+}

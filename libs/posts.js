@@ -54,7 +54,6 @@ export function getSortedPostsData(postsDirectory) {
   })
 }
 
-
 export async function getAllPostsData(postsDirectory){
   const dirNames = fs.readdirSync(postsDirectory).filter(checkType)
   

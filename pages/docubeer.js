@@ -4,32 +4,20 @@ import path from 'path'
 import remark from 'remark'
 import html from 'remark-html'
 import DocCard from "../components/DocCard"
+import DocPage from "../components/DocPage"
 
 import styles from '../styles/Docubeer.module.css'
-import { getAllPostsData } from '../libs/posts'
+import { getPagesData } from '../libs/pages'
 
 const docsDirectory = "public/content/locations"
 
 export async function getServerSideProps() {
-  const postsData = await getAllPostsData(docsDirectory)
-
-  const detailPostsData = await postsData.map(async(data) => {
-  	const processedContent = await remark()
-      .use(html)
-      .process(data.content)
-
-    const contentHtml = await processedContent.toString()
-    console.log(contentHtml)
-    console.log(data)
-    return {
-    	...data,
-    	contentHtml
-    }
-  })
+  let doc_id = "caracas"
+  const pagesData = await getPagesData(docsDirectory, doc_id)
 
   return {
     props: {
-      postsData
+      pagesData
     }
   }
 }
@@ -60,7 +48,7 @@ export default class Docubeer extends Component {
 		// )
 
 		let doc_id = event.target.dataset.id
-
+		
 		this.setState({
 			doc_id: doc_id, 
 			doc_content: `Doc Content ${doc_id}`
@@ -68,6 +56,7 @@ export default class Docubeer extends Component {
 	}
 
 	componentDidMount(){
+		console.log(this.props.pagesData)
 	}
 
 	render(){
@@ -85,7 +74,6 @@ export default class Docubeer extends Component {
 										action={this.loadContent}
 										doc_id={doc}
 									/>
-
 								</div>
 							)
 						})
@@ -93,7 +81,9 @@ export default class Docubeer extends Component {
 				</div>
 
 				<div className={styles.docsContent}>
-					{this.state.doc_content}
+					<DocPage 
+						pageContent={this.props.pagesData.htmlString} 
+					/>
 				</div>
 			</div>
 		)
