@@ -1,0 +1,27 @@
+### The Volga Rulers of Europe and Asia
+
+While Western Europe is dominated by German Northmen gene with their gene capital in modern day Frankfurt along the Rhine river, east of the Poland gateway and the Carpathian mountain is another endless open plane that defined 19 and 20 century world history: the Eastern Europe Siberian open plane. 
+
+This open plane has one geographical barrier formed by the Ural Mountain and the Volga that served as the natural gene battle line between the Western and Eastern competing gene groups. Melting snows and ices from the frozen hills north of Moscow formed the Dniper river and the Western branch of the Volga river that allowed Northmen Viking gene group to reach South all the way to the Black Sea and Caspian Sea with their Viking boats. 
+
+The Viking raids from Scandinavian nations and the Baltic states create many settlements and towns along these two rivers bank with Vladimir, modern day Kiev, the largest Viking settlement in Eastern Europe.  Through intermixing between these Northmen Viking tribes and the local tribes, the Viking gene and culture started to become large part of Eastern European gene pool and identity via Kievan Russ culture with modern days monuments, religious buildings and symbols showing high value for Gold and the Blonde color just like Western European cultures like German, French and British. 
+
+The Ural Mountain and the Arctics Ocean snow and ice creates the second branch of the Volga river flowing from the East. With the Western Moscow branch and the Eastern Ural branch, Volga river becomes the largest and longest river in Europe that enables the development of the most diverse bio ecosystem in Europe. 
+
+The endless grass field from mountain foothill of Kazakhstan all the way to the Western European gateway of Poland allows countless waves of nomadic horsemen to raid Eastern European towns and cities. During the age of horse archers, the Volga river city of Kazan and Astrakhan would host the forward calvary bases of Mongolian Golden Horde that launched their attacks deep inside Eastern Europe and collected regular tributes from capital city of the Viking Northmen princes, Vladimir along the Dniper River.
+
+The Golden Horde of Northern Asia horsemen only accepted defeats after the Roman engineers and Viking Northmen created the Fortress Kremlin of Moscow at the middle point between the Dniper and the Volga river. This Far North fortress of Moscow with frozen rivers and forests draw the Golden Horde calvary into high casualty winter wars against highly fortified well supplied Roman and Kievan Russ. These winter wars eventually collapsed the Golden Horde and the Mongolian federation that once dominated the Kazakhstan Poland open plane. 
+
+Following the Mongolian Empire collapse, the area between the Carpathian mountain and the Volga river became the territorial of the Western European gene groups with Roman and Kievan Russ became the dominating genetic groups of Eastern Europe. During Napolenic War and WW2, the Ural mountain and the Volga river served as the impossible gene barrier that defeated the French Napoleonic musketeers and the Nazi Germany tank blitz.   With Stalin and the Soviet army top generals stationing in the Volga city of Samara and most of Soviet War Industries evacuated East of the Volga ahead of the German Barbarossa offensive campaign from the West, the German war machines of tanks and planes were stroked off their gasoline and received a massive unrecoverable defeat on the Western bank of the Volga river at the city of Stalingrad.  
+
+Following World War 2, the endless grass field from Poland to Kazakhstan became the largest agriculture region in Europe that feed and propel the Soviet Union into the largest economy in Europe and second largest economy in the world after United States.  
+The Baika mountain range is the geographical barrier between Siberia and the Tibetan Plateau with the deepest large in the world, lake Baika. Water flowing North from the Baika mountain range to the Arctic Ocean forms the Ob river system and the Eastern part of the Poland Kazakhstan open plane.
+
+Lake Baika is the largest body of fresh water in Euro Asia continent, hosting two famous cities of the human civilization: Irkutsk, the MIG Aircraft Design and Manufacturing center and Ulanbarton, the ancient capital of the Mongolian Empire.
+Under the Stalin leadership and Soviet Union, the Mongolian and Kazah horsemen the East would direct their attention South and expand their gene South toward the Yellow Yangtze and Mekong river delta.  
+
+The Baika MIG aircraft design and manufacturing program as well as the Space and Missile research center in Kazakhstan serves as the backbone of the Chinese, North Korean and Vietnamese Air Force until modern day. 
+
+With victorious aerial campaigns against the American forces in Korea and Vietnam, the North Asia genes became a significant part of the Yellow Yangtze delta and Mekong nations gene pool with the most advanced technological innovations in East Asia being created by the Nomadic horsemen genes of Siberia.
+
+Until modern day, the ancient capital of the Western Mongolian Empire along the Volga river, Kazan is still serving as the major driver of world history and gene pool with more than half of the world nuclear arsenal under control of these Siberian horse archers and most of the world information flowing through the computer algorithms written of these Volga nomadic horsemen. 

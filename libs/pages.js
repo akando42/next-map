@@ -4,8 +4,17 @@ import matter from 'gray-matter'
 import remark from 'remark'
 import html from 'remark-html'
 
+
+export async function getChaptersList(postDirectory){
+	const folders = fs.readdirSync(postDirectory).filter(folder => folder !== ".DS_Store")
+	return {
+		folders
+	}
+}
+
 export async function getPagesData(postDirectory, id){
-	const dirPath = path.join(postDirectory, id)
+	const idCity = id.toLocaleLowerCase()
+	const dirPath = path.join(postDirectory, idCity)
 	const files = fs.readdirSync(dirPath)
 
 	console.log("Page Files ", files)

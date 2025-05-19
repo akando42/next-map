@@ -20,7 +20,7 @@ export default class DocCard extends Component {
 				className={Styles.container}
 				data-id={this.props.doc_id}
 			>
-				DocCard {this.props.doc_id}
+				{this.props.doc_id}
 			</div>
 		)
 	}

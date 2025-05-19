@@ -5,19 +5,23 @@ import remark from 'remark'
 import html from 'remark-html'
 import DocCard from "../components/DocCard"
 import DocPage from "../components/DocPage"
+import axios from "axios"
 
 import styles from '../styles/Docubeer.module.css'
-import { getPagesData } from '../libs/pages'
+import { getPagesData, getChaptersList } from '../libs/pages'
 
 const docsDirectory = "public/content/locations"
 
 export async function getServerSideProps() {
-  let doc_id = "caracas"
+  let doc_id = "ZhengZhou"
+
   const pagesData = await getPagesData(docsDirectory, doc_id)
+  const chaptersData = await getChaptersList(docsDirectory)
 
   return {
     props: {
-      pagesData
+      pagesData, 
+      chaptersData
     }
   }
 }
@@ -40,6 +44,15 @@ export default class Docubeer extends Component {
 		}
 
 		this.loadContent = this.loadContent.bind(this)
+		this.listDoc = this.listDoc.bind(this)
+	}
+
+	async listDoc(){
+		console.log(this.props.chaptersData)
+
+		this.setState({
+			docs: this.props.chaptersData.folders
+		})
 	}
 
 	async loadContent(event){
@@ -48,15 +61,18 @@ export default class Docubeer extends Component {
 		// )
 
 		let doc_id = event.target.dataset.id
-		
-		this.setState({
-			doc_id: doc_id, 
-			doc_content: `Doc Content ${doc_id}`
-		})
+		let docContent = await axios.get(`/api/location?doc_id=${doc_id}`)
+			.then(res => {
+				this.setState({
+					doc_id: doc_id, 
+					doc_content: res.data.htmlString
+				})
+			})
+
 	}
 
 	componentDidMount(){
-		console.log(this.props.pagesData)
+		this.listDoc()
 	}
 
 	render(){
@@ -82,7 +98,7 @@ export default class Docubeer extends Component {
 
 				<div className={styles.docsContent}>
 					<DocPage 
-						pageContent={this.props.pagesData.htmlString} 
+						pageContent={this.state.doc_content} 
 					/>
 				</div>
 			</div>
