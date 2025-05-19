@@ -1,11 +1,12 @@
-import Head from 'next/head'
-import { Component } from "react" 
+import axios from "axios"
 import path from 'path'
 import remark from 'remark'
 import html from 'remark-html'
+
+import Head from 'next/head'
+import { Component } from "react"
 import DocCard from "../components/DocCard"
 import DocPage from "../components/DocPage"
-import axios from "axios"
 
 import styles from '../styles/Docubeer.module.css'
 import { getPagesData, getChaptersList } from '../libs/pages'
