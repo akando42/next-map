@@ -1,0 +1,138 @@
+.markdownContainer {
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	border: 3px solid red;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.controlBox {
+	height: 5vh;
+	border-bottom: 1px solid red;
+	width: 90vw;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+	font-size: 16px;
+}
+
+.controlButton {
+	height: 3vh;
+	width: 6vh;
+	margin: 1vw;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	font-size: 12px;
+	background-color: red;
+	color: white;
+}
+
+.controlButton:hover{
+	transform: scale(1.1);
+}
+
+.controlButton:active{
+	transform: scale(0.9);
+}
+
+.title {
+	padding: 10px;
+	color: red;
+	border-bottom: 1px solid red;
+	height: 5vh;
+	width: 90vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.content {
+	height: 95vh;
+	padding: 5vw;
+	width: 100vw;
+	font-size: 12px;
+	color: black;
+	background-color: white;
+	font-weight: 200;
+	overflow-y: scroll;
+
+}
+
+.content p {
+	margin: 10px 0;
+}
+
+.content h2 {
+	margin: 5px 0;
+	font-weight: 700;
+}
+
+.content img {
+	width: 90vw;
+	height: auto;
+}
+
+.contentEditor {
+	height: 95vh;
+	padding: 5vw;
+	width: 100vw;
+	color: black;
+	background-color: white;
+}
+
+.markdownTitle {
+	height: 6vh;
+	background-color: white;
+	border: none;
+	color: red;
+	font-size: 21px;
+}
+
+.mediaAsset {
+	width: 100vw;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin: 10px 0;
+	position: relative;
+}
+
+.mediaImage {
+	width: 90vw;
+	border: 2px solid white;
+}
+
+.copyLink {
+	width: 60px;
+	height: 30px;
+	top: 10px;
+	right: 10px;
+	font-size: 10px;
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+	position: absolute;
+	display: flex;
+	flex-direction: row;
+	border: 1px solid white;
+	align-items: center;
+	justify-content: center;
+}
+
+.copyLink:active {
+	transform: scale(0.96);
+}
+
+.assetListing {
+	width: 100vw;
+	height: 90vh;
+	overflow: scroll;
+}

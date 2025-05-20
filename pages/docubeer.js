@@ -64,12 +64,13 @@ export default class Docubeer extends Component {
 		let doc_id = event.target.dataset.id
 		let docContent = await axios.get(`/api/location?doc_id=${doc_id}`)
 			.then(res => {
+				console.log("RES DATA ", res.data.content)
 				this.setState({
-					doc_id: doc_id, 
+					doc_id: doc_id,
+					doc_markdown: res.data.content,  
 					doc_content: res.data.htmlString
 				})
 			})
-
 	}
 
 	componentDidMount(){
@@ -100,6 +101,7 @@ export default class Docubeer extends Component {
 				<div className={styles.docsContent}>
 					<DocPage 
 						pageContent={this.state.doc_content} 
+						pageMarkdown={this.state.doc_markdown}
 					/>
 				</div>
 			</div>
