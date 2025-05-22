@@ -9,7 +9,7 @@ import DocCard from "../components/DocCard"
 import DocPage from "../components/DocPage"
 
 import styles from '../styles/Docubeer.module.css'
-import { getPagesData, getChaptersList } from '../libs/pages'
+import {getPagesData, getChaptersList, getResearchData} from '../libs/pages'
 
 const docsDirectory = "public/content/locations"
 
@@ -17,12 +17,15 @@ export async function getServerSideProps() {
   let doc_id = "ZhengZhou"
 
   const pagesData = await getPagesData(docsDirectory, doc_id)
+  const researchData = await getResearchData(docsDirectory, doc_id)
+
   const chaptersData = await getChaptersList(docsDirectory)
 
   return {
     props: {
       pagesData, 
-      chaptersData
+      chaptersData, 
+      researchData
     }
   }
 }
@@ -49,7 +52,8 @@ export default class Docubeer extends Component {
 	}
 
 	async listDoc(){
-		console.log(this.props.chaptersData)
+		// console.log(this.props.chaptersData)
+		// console.log("Research ", this.props.researchData)
 
 		this.setState({
 			docs: this.props.chaptersData.folders
@@ -62,13 +66,17 @@ export default class Docubeer extends Component {
 		// )
 
 		let doc_id = event.target.dataset.id
+
 		let docContent = await axios.get(`/api/location?doc_id=${doc_id}`)
 			.then(res => {
-				console.log("RES DATA ", res.data.content)
+				console.log("RES DATA \n", res)
+
 				this.setState({
 					doc_id: doc_id,
-					doc_markdown: res.data.content,  
-					doc_content: res.data.htmlString
+					doc_markdown: res.data.pagesData.content,  
+					doc_content: res.data.pagesData.htmlString, 
+					research_markdown: res.data.researchData.content, 
+					research_content: res.data.researchData.htmlString
 				})
 			})
 	}
@@ -102,6 +110,8 @@ export default class Docubeer extends Component {
 					<DocPage 
 						pageContent={this.state.doc_content} 
 						pageMarkdown={this.state.doc_markdown}
+						researchContent={this.state.research_content}
+						researchMarkdown={this.state.research_markdown}
 					/>
 				</div>
 			</div>

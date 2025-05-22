@@ -1,4 +1,4 @@
-import { getPagesData } from '../../libs/pages'
+import { getPagesData, getResearchData } from '../../libs/pages'
 
 export default async function handler(req, res){
 	let doc_id = req.query.doc_id
@@ -8,5 +8,16 @@ export default async function handler(req, res){
 		docsDirectory, doc_id
 	)
 
-	res.status(200).json(pagesData)
+	const researchData = await getResearchData(
+		docsDirectory, doc_id
+	)
+
+	console.log("Research Data", researchData)
+	console.log("Page Data", pagesData)
+
+	res.status(200).json({
+		success: true, 
+		pagesData: pagesData, 
+		researchData: researchData
+	})
 }

@@ -48,3 +48,41 @@ export async function getPagesData(postDirectory, id){
 		htmlString
 	}
 }
+
+export async function getResearchData(postDirectory, researchId){
+	
+	const idCity = researchId.toLocaleLowerCase()
+	const dirPath = path.join(postDirectory, idCity)
+	const files = fs.readdirSync(dirPath)
+
+	console.log("Page Files ", files)
+
+	const fullPath = path.join(dirPath, "research.md")
+	const fileContents = fs.readFileSync(fullPath, 'utf8')
+
+	console.log("Path\n", fullPath)
+	// console.log("File Contents\n", fileContents)
+
+	const matterResult = matter(fileContents)
+	const content = matterResult.content
+	const contentHTML = await remark()
+		.use(html)
+		.process(content)
+
+	const htmlString = contentHTML.toString()
+
+	const metaData = matterResult.data
+	const tags = metaData.tags
+
+	// console.log("Tags", tags)
+	// console.log("Content ", content)
+	// console.log("Meta Data", metaData)
+	// console.log("Content HTML", htmlString)
+
+	return {
+		researchId, 
+		postDirectory, 
+		content, 
+		htmlString
+	}
+}

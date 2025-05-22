@@ -6,8 +6,14 @@ export default class DocPage extends Component {
 	constructor(props){
 		super(props)
 
+		this.state = {
+			showingPageEditor: false, 
+			showingResearchEditor: false,
+		}
+
 		this.countHTML = this.countHTML.bind(this)
 		this.updatePage = this.updatePage.bind(this)
+		this.showPageEditor = this.showPageEditor.bind(this)
 	}
 
 	async countHTML(){
@@ -21,6 +27,12 @@ export default class DocPage extends Component {
 		console.log("Updating Page")
 	}
 
+	async showPageEditor(){
+		this.setState({
+			showingPageEditor: !this.state.showingPageEditor
+		})
+	}
+
 	componentDidMount(){
 		this.countHTML()
 	}
@@ -28,21 +40,46 @@ export default class DocPage extends Component {
 	render(){
 		return(
 			<div className={Styles.container}>
-				<div className={Styles.pageContainer}>
+				<div className={Styles.script}>
 					<div 
-						className={Styles.content}
-	            		dangerouslySetInnerHTML={{ 
-	            			__html: this.props.pageContent 
-	           			}} 
-					/>
+						className={Styles.showEditor}
+						onClick={this.showPageEditor}
+					>
+						{ 
+							this.state.showingPageEditor 
+							?   <span> Hide Editor </span>
+							: 	<span> Show Editor </span>
+						}						
+					</div>
+					
+					{
+						this.state.showingPageEditor 
+						?	<textarea 
+								type="text"
+								value={this.props.pageMarkdown}
+								onChange={this.updatePage}
+								className={Styles.editorContainer}
+							/>
+						:   <div className={Styles.pageContainer}>
+								<div 
+									className={Styles.content}
+				            		dangerouslySetInnerHTML={{ 
+				            			__html: this.props.pageContent 
+				           			}} 
+								/>
+							</div>
+					}
+					
 				</div>
-				<div className={Styles.editorContainer}>
-					<textarea 
-						type="text"
-						value={this.props.pageMarkdown}
-						onChange={this.updatePage}
-						className={Styles.editor}
-					/>
+				<div className={Styles.research}>
+					<div className={Styles.researchPanel}>
+						<div 
+							className={Styles.content}
+		            		dangerouslySetInnerHTML={{ 
+		            			__html: this.props.researchContent
+		           			}} 
+						/>
+					</div>
 				</div>
 			</div>
 
