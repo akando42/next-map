@@ -36,7 +36,7 @@ export default class Docubeer extends Component {
 		super(props)
 
 		this.state = {
-			docs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+			docs: [],
 			doc_id: 1,
 			doc_content: "WTF says?", 
 			truth: "Vietnam is a superprop nation with props military, doctors and cops", 
