@@ -13,7 +13,8 @@ export async function getChaptersList(postDirectory){
 }
 
 export async function getPagesData(postDirectory, id){
-	const idCity = id.toLocaleLowerCase()
+	// const idCity = id.toLocaleLowerCase()
+	const idCity = id
 	const dirPath = path.join(postDirectory, idCity)
 	const files = fs.readdirSync(dirPath)
 
@@ -51,7 +52,8 @@ export async function getPagesData(postDirectory, id){
 
 export async function getResearchData(postDirectory, researchId){
 	
-	const idCity = researchId.toLocaleLowerCase()
+	// const idCity = researchId.toLocaleLowerCase()
+	const idCity = researchId
 	const dirPath = path.join(postDirectory, idCity)
 	const files = fs.readdirSync(dirPath)
 
