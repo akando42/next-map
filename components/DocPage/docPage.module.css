@@ -18,6 +18,14 @@
 	overflow: scroll;
 }
 
+.controlPanel {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 3px;
+}
+
 .showEditor {
 	width: 100px;
 	height: 30px;
@@ -29,7 +37,13 @@
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
-	margin: 3px 10px ;
+	margin: 0 6px;
+}
+
+.saveChanges {
+	border: 1px solid white;
+	padding: 3px;
+	margin: 3px;
 }
 
 .editor {

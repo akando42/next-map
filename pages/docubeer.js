@@ -72,11 +72,12 @@ export default class Docubeer extends Component {
 				console.log("RES DATA \n", res)
 
 				this.setState({
+					researcher: "Hoang 21",
+					research_markdown: res.data.researchData.content, 
+					research_content: res.data.researchData.htmlString,
 					doc_id: doc_id,
 					doc_markdown: res.data.pagesData.content,  
-					doc_content: res.data.pagesData.htmlString, 
-					research_markdown: res.data.researchData.content, 
-					research_content: res.data.researchData.htmlString
+					doc_content: res.data.pagesData.htmlString
 				})
 			})
 	}
@@ -110,6 +111,8 @@ export default class Docubeer extends Component {
 					<DocPage 
 						pageContent={this.state.doc_content} 
 						pageMarkdown={this.state.doc_markdown}
+						docId={this.state.doc_id}
+						researchAuthor={this.state.researcher}
 						researchContent={this.state.research_content}
 						researchMarkdown={this.state.research_markdown}
 					/>
