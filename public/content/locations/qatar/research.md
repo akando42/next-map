@@ -1,7 +1,30 @@
 ### The Arabian peninsula between the Persian Gulf Sea and the Red Sea
 
-The Arabian peninsula between the Oman Sea and the Red Sea  
+The Desert Wars in the Christian Heart Land
+Largest energy generators in Mediterranean and Middle East
 
+Research
+Saudi Arabia 
+=> SAU DI aka Ca Sau Di aka White European Models shipping from Caucasian countries like Portugal, France, Germany or Russia to Middle Eastern nations. 
+==> The Map of Combined Continental Nations from Portugal to Russia looking like a Crocodile that can rival American navy. 
+==> Many mixed boys between White European Mom and Persian dad became Saudi Arabian royals and millionaires. 
+==> British gain influences of the Middle East and rally these desert tribes by sending SAU-DI or Non British White Girl Models from Continental Europe to marry local warlords of the Persian Gulf.
+==> Qatar is British and American base of Operation. American carriers and British navy regularly docking here. 
+==> Qatar is a peninsula so it is easy to defend by a navy kinda like South Korea. 
+==> British and American oil and gas expertises was transferred to the local Warlords of the Persian gulf along with White Girl marriage to sweeten the Perpetual Energy Extraction deal for the region 
+==> Both Saudi Arabia and Israel has White Mix but Israel has White Dad while Saudi Arabia has White mom. 
+==> Saudi Arabia is not as easy to control like Israel for the British and American but both representing American and British strategy to expand their Genes in the Middle East
+==> Saudi Arabia now has Population Parity with the Original Persian Empire of Iraq around 40 million.   ==> Saudi Arabia and Qatar, two American British allies, having the Highest Income in the Middle East. Qatar: ~ $71,568 per capita in 2024 and United Arab Emirates: ~ $49,550 per capita in 2024. 
+==> Middle East means Middle Finger East or Fuck East 
+==> Quang Tay means Erasing West or Kill West 
+==> The Mixed genes between White and local Persian grow rapidly like the Thai gene in  South East Asia  
+==> The Final Distillation Refined Oil and Gas became the enabling factor to allow White-Persian mixed called ARAB to outgrow the original Persian from Iraq and Iran with Cheaper Cooking Natural Gas and Car Gasoline 
+==> IR-AQ and IR-AN means there are some blood type B in their gene with IR means Infrared. 
+==> Basing on maybe believable Doctor mark by Last Name, Le and Pham in Vietnam is Blood Type B. 
+==> BIDV is construction workers with Blood type B backed by VinGroup and Chinese polices and militaries. 
+==> Vinhomes Riverside is the base of operation for Chinese polices called Hoa Lam and Truong Lam inside Red River delta with Infrastructure for Rapid Mobilization from Haiphong to Gia Lam. 
+
+The Arabian peninsula between the Oman Sea and the Red Sea  
 ==> The Arabian peninsula is Crossroad between Africa and Central Asia and Europe. 
 ==> African genes, European genes and Central Asian genes would cross each other paths here
 ==> All Arabian peninsula was part of the Persian Empire of Iran and the Ottoman Empire of Turkey. 
@@ -12,25 +35,25 @@ The Arabian peninsula between the Oman Sea and the Red Sea
 ==> British and American engineers with the Saudi Arabia princes built a nation of more than 30 million people from an empty desert with no farmland, water lake or river. 
 ==> First used the Qatar peninsula, the Bahrain island and the UAE United Arab Emirate as their startup coastal towns
 ==> Built an Oil Pipeline and Road Network connecting the Persian Gulf with the Red Sea across the Desert. 
-==> Qatar and Bahrain port would connect through Ryatdh in the high mountain desert to Qatar and Bahrain port.
-==> Ryatdh is the only city with underground water in the middle of the Arabian desert. Maybe they started drilling for Underground Water first using manual methods before they found OIL in the Arabian peninsula. 
+==> Qatar and Bahrain port would connect through Riyadh in the high mountain desert to Mecca as a Miracle of the Desert. 
+==> Riyadh is the only city with underground water in the middle of the Arabian desert. Maybe they started drilling for Underground Water first using manual methods before they found OIL in the Arabian peninsula. 
 ==> Maybe there are OIL everywhere within the Permian layer of the Underground Rock formation but they pick the Middle East for easy management of the Global Energy consumption. 
 ==> Permian layer required modern technology from Britain and US for drilling and pumping oil and gas up to the surface.  
-==> The Arabian Peninsula Used to be under the ocean but risen up, so that area contains large deposit of fossil fuel
+==> The Arabian Peninsula Used to be under the ocean but risen up like in the Bible Story so that area contains large deposit of fossil fuel
 ==> The Babylon river flowing from the Turkey highland to the Iraqi delta and the Persian Gulf resulting in the largest farmland region North of the Arabian Peninsula. 
 ==> The Persian delta of Babylon was the capital of the famous Persian empire that invaded Ancient Greek nation states and defeated Sparta. 
 ==> The naval stroke point of Constantinople, modern day Istanbul is the regular flash point of conflicts with the Greek genes of Europe and the Persian genes of the Asia
-==> The Iraq war is a repeat of the historical war between the Persian Empire and Macedonia. Persian Empire possesses the largest Delta of Arabian peninsula while Macedonia possesses the largest Delta of the Greek mountainous region.   
+==> The Iraq war is a repeat of the historical wars between the Persian Empire and Macedonia.   ==> Persian Empire possesses the largest Delta of Arabian peninsula while Macedonia possesses the largest Delta of the Greek mountainous region.   
 ==> The Hollywood movie of Alexander the Great was created as the propaganda tool to raise defense spending and public support for Bush dynasty invasion of Iraq and the Persian gene historical territorial. 
 ==> Kuwait and Saudi Arabia are two massive desert land area that drill testing and crude oil extraction could be done cheaply from the fossil fuel deposit underground. 
 ==> Saudi Arabia oil drilling field is the largest in the world next to the Qatar peninsula. 
 ==> Before WW2, Saudi Arabia was not a nation but a fragmented confederation of nomadic tribes living in the desert. 
-==> Iraq is the most populous nation in the Middle East with the longest river in the region.
+==> Persian Empire of Iraq and Iraq was 1 nation with the largest population in the Middle East with the longest river in the region.
 ==> Saudi Arabia and their RyAT capital started from a high mountain valley in the middle of the Arabia desert with British assistance to slowly erode the strength of Persian Empire of Babylon, modern day Iraq. 
 ==> RyAT, Saudi Arabia is the Arab capital of UK assassins. The assassins of Saudi Arabia capital did not have farmlands or any rivers but just an underground water spring and excessive mount of near ground surface oil wells. 
 ==> The post WW2 Saudi Arabia started out as a small mountain town of few thousands people in 1945 achieves a population of more than 30 million people by 2025 by selling and utilizing cheap oil and gas to exchange and build highly engineered cities in the middle of a Dry desert. 
 ==> The city of Ryat with very little rain but many engineers and energy able to reach the population of more than 7 million people
-==> British and American built 2 main highways, one from Bahrain and Qatar crossing Ryatdh aka RAT to the Red Sea and another one along the Red Sea coast.  
+==> British and American built 2 main highways, one from Bahrain and Qatar crossing Riyadh aka RAT to the Red Sea and another one along the Red Sea coast.  
 ==> Wanted Movie RAT with Casino watch  aka Succide Bombers or Kamikaze Pilots
 ==> All food supplies of Ryat comes from the Port of Bahrain and Qatar with almost no farmland anywhere in the Saudi Arabia desert.
 ==> All water supply of Ryat comes from Underground Drilling and Sea Water Desalination plants. 
@@ -52,14 +75,12 @@ The Arabian peninsula between the Oman Sea and the Red Sea
 ==> The first invasion of Iraq in 1990 is a first GPS war with American tanks, planes and missiles guided by US GPS constellation. 
 ==> US generals for the first time having square meter precise positions of all American and Iraqi assets on the battle field which allowed the American to destroy most of Iraqi hardwares of Tanks, Planes and Rocket Launchers during the first Iraqi war of Bush father George H.W Bush. 
 ==> The second Iraqi war of Bush son George W. Bush totally collapsed the leadership of Sadam Hussen and put Iraq into the state of chaos. 
-
 ==> The Iraqi Babylon population growth put into stand still after 2 Iraq invasions with their main river being slow destroyed and the Oasis of Babylon farming region slowly becoming a desert just like Saudi Arabia, the Sahara and the Aral Sea of Uzbekistan 
 ==> After the first and second Iraqi invasion, the American and British oil and gas corporations can push the Iraqi and Kuwait oil wells to Full Capacity to maintain stable energy price for their Economies.
 ==> Continuous insurgencies activities in the Middle East are still the major upward pressure on American energy input cost.  
 ==> The Western Texas new Oil Fracking technology is allowing American economies to rely less on the Crude Oil from highly volatile region of Middle East
 ==> By 2024, US is for real or bluffing that they are once again World Number 1 Oil Exporting nation by using US treasury to buy Texas Fracking Crude Oil for the US Energy Emergency Stockpile. 
 ==> From 1945 to 2025, the American and British coalition drastically altered the balance of the Middle East with the Persian genes being slowly erased while the British friendly Arabian tribe leaders become super wealthy kings and royals with mega cities of million people in the middle of the Arabian desert. 
-
 ==> United Arab Emirate with Emirate === EmMyRate aka The American Girl Discounted Gas Cost 
 ==> Largest Oil and Gas refineries in the Arabian peninsular are 
 - 3 Mecca oil refineries along the Red Sea  with capacities of 900,000 barrels
@@ -80,5 +101,47 @@ VNam 478.000
 ==> 3 Largest Saudi Arabian oil refineries near the Red Sea are around Mecca and Jedah with the combined capacities of around 900,000 barrels
 ==> World largest oil and gas refinery near Daewoo, Korea has a capacity of more than 600,000 barrels a day. 
 
+Can the British Assassins of Riyadh override Red Book of Land Title and Yellow Book of Gold Vault in Vietnam via the use of Face Book Identity Theft 
+HDBANK Facebook WHO is WHO is next door ?
+Terrorism 
+Obama vs Osama 
+Obama === Bloodtype O Black Dad White Mom Baby Boy Growing Up With Mom
+Osama === Bloodtype O Central Asian Dad White Mom BabyBoy Growing Up Without Mom
+Osama === Mixed Asian and White Boy Growing Up Without Mom
+Bin === Put In The Trash Can
+Laden === Black XO Kid Dead Body 
 
+
+Obama succeeded at Middle Finger East by 
+eliminated Osama who put black kids into trashcan  (Bin LA Den === Put Black Kid Into Trashcan) 
+captured Afghanistan women 
+flied them out  
+
+Al Queda Truth 
+
+HIV === Viruses invented in UK to reduce population growth in Africa
+Princess Diana assassination === The Leaking of HIV virus secret led to princess Diana death via a car accident
+Al QueDa === AoKeDa === Recruiting HIV Patients from the Internet for Large Scale Attack Missions
+Zalo === DaLo === HIV Patients Chat Group
+
+ISIS Islamic States
+
+A half White half Persian baby boy was born in a Boston Hospital near Harvard campus. A strong sperm from Afghanistan was flown there from Kabul to be inserted into a White female uterus via the direction of a Harvard PHD professor. 
+The boy name is Osama. After Osama turned 2 year-old, he was then adopted by a Saudi Arabian family in Riyadh. Osama childhood was kinda fun. His half blood appearance and superior IQ helped him to be quite popular at school.  
+His adopted parents were all formal military officers of the British army, so by the time Osama was 15 he was also a well-trained sniper.  In order to secure the energy artery of Europe via the Suez Canal and weaken the dominant Persian genes of the region, Osama parents were sent to the Middle East with other British construction engineers to build the Internet Information Policing Network and Road Network infrastructure across the Arabian peninsula from the Persian Gulf to the Red Sea. 
+With the Internet and Paved Road network, the British ideas and products as well as their agents can reach every home in the Middle East.
+Riyadh is a British miracle built in the middle of the Arabian desert to pull Persian and African men and women away from their gene capitals along the Nile and Babylon river to the supernatural capital of Saudi Arabia. 
+After 15 years growing up in Riyadh with his adopted parents, Osama got on a scholar ship and headed to America. Osama half blood visited New York, find many of his half blood brothers here who looks half White half Persian just like him.
+While Osama could get lucky once a while with white girls while going to bars with his half blood brothers, he can not achieve alpha dominant position and command other white men in New York to follow his plan at all though. He got upset, went home and organized the Persian brothers to bomb New York.
+***
+Greek and Roman genes attacked Persian water source and gene capital at Baghdad aka Babylon via the Kuwait Oil Drilling provocation near the Persian Gulf coastline. 
+Greek and Roman genes killed the River of Persia, slow down Persian population growth and the making of more Persian babies
+Osama babies pretending to be Persian, recruiting all Persian brothers from different North Africa and Asian nations to defend the upstream of the Babylon River after the invasions. 
+Osama baby first succeeded at leading Persian babies gene groups to captured entire Iraq aka Persian delta but then all the sudden disappeared.
+The American air force under the Trump administration bombed large concentration of Persian abroaders in the Babylon river upstream, eliminated most of Persian leaderships outside of Middle East.  
+Persian river is full of trash now, can not get clean drinking water in Babylon Baghdad like in the past. 
+Persian women all run to Riyadh and Mecca for Desalination water bottles now. 
+WANTED MOVIE
+Peanut Butter Bob to draw the Rats into the Trash truck for succide tanking missions. 
+Rats with Casino watch timer and TNT is the first wave of attack to open paths into the Fortress of the Assassin Society of New Jersey. 
 

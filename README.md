@@ -12,7 +12,7 @@ yarn dev
 ## TODO
 [ ] Hidden Research Section
 [ ] Post Unique Path and Timestamp for SEO
-[ ] Airplane Ticket Pricing to Each Location on Stories 
+[ ] Airplane Ticket Pricing From Each Locations on Stories 
 [ ] Fact Section 
 [ ] Sync Image assets between Local Folder and Google Storage. 
 [X] Voice Over from Text
