@@ -1,6 +1,5 @@
 # The Desert Wars in the Christian Heart Land
 
-
 ### Largest energy generators in Mediterranean and Middle East
 
 Permian Layer of Earth Mass Extinction Event and The Creation of Fossil Fuel
@@ -25,7 +24,8 @@ British and the North Sea gene was among the first human groups to extensively e
 Oil exists widely within Permian underground rock formations, but Britain focused on the Middle East as a primary exploration site due to its relatively close distance to the British Isles.
 Two British colonies—the United States and Australia—were also strategically positioned to explore and utilize these vast stored solar-energy deposits until the discovery of methods to rapidly compress solar energy into ultra-fast-charging, ultra lightweight batteries.
   
-Middle Eastern changing dominant genes along with their mode of transportations.
+### Middle Eastern changing dominant genes along with their mode of transportations.
+
 The Babylonians were among the earliest advanced civilizations to dominate the Middle Eastern region. At the height of Babylonian power, their influence extended across much of Mesopotamia, encompassing large parts of modern-day Iraq and neighboring Syria and Kuwait, positioned between the Mediterranean world and the Persian Gulf.
 
 Through the adoption and refinement of the wheel, Babylonian society dramatically increased agricultural productivity and construction capability. This technological advantage enabled the development of Babylon into one of the architectural marvels of the ancient world, supporting a population that may have numbered in the hundreds of thousands—exceptional by ancient standards
@@ -50,26 +50,40 @@ As agricultural productivity declined, the empire’s economic foundation weaken
 
 Camels proved superior to horses in desert environments. They could travel for weeks without water, carry heavy loads, and maintain competitive speeds over long distances. These advantages enabled Arab traders to link previously isolated desert tribes into expansive commercial networks spanning Arabia, the Red Sea, Egypt, North Africa.  
 
-The Arabian camels gave rise to the Caliphate Empires of the Middle East built around Islamic religion and the Desert trade network. 
-The Arabian camels connected isolating tribes in the Arabian peninsula, along the Red Sea coastline, Egypt and other North African nations into a common trade network. 
+The Arabian camels gave rise to the Caliphate Empires of the Middle East built around Islamic religion and the Desert trade network. The Arabian camels connected isolating tribes in the Arabian peninsula, along the Red Sea coastline, Egypt and other North African nations into a common trade network. 
+
 The scale and complexity of Arabian trade networks created practical demands for accounting, navigation, and finance, driving advances in mathematics and the adoption of Arabic numerals still used in the modern world. 
 The Arabian Islamic traders also develop a large Ocean trade network from Mediterranean to Indonesia with the Arab Caliphate sail boat design. 
-They buy agriculture products from Egypt, Iraq and India and trade it with tribes across the deserts of North Africa, Middle East and even Roman Empire. 
-The trade surplus allows the Arabian rulers became extremely rich, enabling the creation of large Mercenary army built around Gold and Islamic faith. 
+
+They buy agriculture products from Egypt, Iraq and India and trade it with tribes across the deserts of North Africa, Middle East and even Roman Empire. The trade surplus allows the Arabian rulers became extremely rich, enabling the creation of large Mercenary army built around Gold and Islamic faith. 
+
 The Arabian trade network of Camel, Ocean Ships, Gold and Islamic faith enables the Arabian genes to dominate the Middle East until modern day with Islamic being the largest religion in the world. 
-Saudi Arabian, the new Arabian, empowered by Gasoline and their Western European motherland. 
+
+### Saudi Arabian, the new Arabian, empowered by Gasoline and their Western European motherland. 
+
 After century of scientific advancements, European gene groups invent the Combustion Engine and turn fire into their unfair mobility advantage. The controlled explosion process of fossil fuel enables the European to turn the Babylonian wheel at 100 or 1000 time faster than horse power. 
+
 These mobility advantages enables the European genes to expand across the vast land mass from Portugal to Russian Far East city of Vladivostok. The revolutions of trains, cars and planes powered by burning gasoline enable the European genes to build large population centers that endures the long cold winter in Northern frontier of the Euro Asia world island. 
+
 The high mobility army of the Turkish Ottoman and Iranian Persian built around Eastern horses and Babylonian wheels once dominated the gene pool in Central Europe now being pushed back by the Northern Atlantics Viking in Britain, France, Germany and Russia.  
+
 To weaken Middle Eastern gene footprints in Europe,  Britain and France built the Suez Canal to connect India to the Mediterranean and created a strong ecosystem competitor in the Middle East to counter the Turkish Ottoman and Iranian Persian. 
+
 They first turn Qatar into a British colony and naval base and then build Oil and Natural Gas pipelines from Qatar across the Arabian desert to the Red Sea coast. Then they select and empower kings of these Arabian tribes into powerful rulers of energy exporting nations with Saudi Arabia being the largest most important one.
 Saudi means the White European tens and Saudi Arabian are people whose fathers are the native Arabs and mother are White European. Saudi in Latin secret code stands for the European region spreading from Portugal to Russian Far East city of Vladivostok looking like a Crocodile on the map. 
+
 Maybe by no coincidence, we also have popular premium French clothing brand called Lacoste with a Crocodile logo on it. Lacoste clothing original target market are tennis players who always need to stay focus on the Yellow tennis ball during their matches. 
+
 With new European female being transferred through the Red Sea to Saudi Arabia and new Energy technology and machineries being export to Saudi Arabia, the Saudi Arabian population in Middle East quickly grow in numbers. 
 Before the Fossil Fuel area, Babylon Iraq was the Middle East largest population center. After the arrival of British and other European powers, Saudi Arabia now is approaching and will soon surpass Babylon Iraq as Middle East most populous nation via the abundance of cooking natural gas and gasoline cars. 
+
 With much less farmland along the Red Sea coast but more efficient gasoline farming machinery and bio engineering, Saudi Arabia and Qatar residents nowadays have much higher living standard and income per capital than the native Babylonian wheel inventor of Iraq.
+
 Middle East was always the battle field where Blood type A in the West clashing with Blood type B in the East. First was the Greek vs Persian then now the Israelis and Saudi Arabian vs IR Infrared Iraq and Iran. 
 Another front when Western Blood type A and Eastern Blood type B clashing is Eastern Europe and Russia. When Eastern Europe and Russia was ruled by Kazan Black Hair Blood type B, we have the Soviet Union dominating the Euro Asia Continent. 
+
 Saudi Arabia and King Khalid Military City was the central piece of Western European blood type A strategy against Soviet Union Red Flag Blood type B domination during the Cold War. 
+
 King Khalid Military City serves as the Secret Underground command center and nuclear ICBM base with close proximity to Russian population centers allowing the US Missile Force minutes of advantages in travel time in case of an all out nuclear war. 
+
 Saudi Arabia and other OPEC nations American built energy exploration and refinery facilities allows Western power to control the Global energy market. First trick the Soviet Union into over built its energy production capacity and then flooded the market with new OPEC oil and gas coming online, NATO nations was able to collapse the Soviet Union economy from within, created mass unrest and final downfall of largest Blood type B empire ever built since the Genghis Khan Mongolian Empire. 
