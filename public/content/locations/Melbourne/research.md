@@ -1,36 +1,22 @@
 # The British ExConvicts Freezone Beyond The Reach of Japanese Imperial Navy
 
-[ ] Terrain via Mountain, Delta, Desert, Coastline, Ocean
-[ ] Weather Pattern via Wind, Rain and Temperature
-[ ] Major River, Water Reserve Lakes 
-
-[ ] Genetics Flow via Emigration, Immigration and Invasion. 
-[ ] The GeoGen Area major Gene Groups with their Common and Different features.
-
-[ ] Present and Past National Border
-[ ] Major Outputs via Exports, Needs for Import
-[ ] Trade Network via Sea Ports, Highway, Railways and AirFreight
-
-[ ] Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
-[ ] Information Influences of the GeoGen Area to the outside World
-[ ] Secured Genetics Settlements outside of GeoGen Center
-
-[ ] Information Influences of the GeoGen Area to the outside World
-[ ] Secured Genetics Settlements outside of GeoGen Center
 
 ### Terrain 
 
 Large Island 7.69 million square kilometers
+
 ==> 6th largest country in the world
 ==> Same size as Continental US
 
-998,217.16 km² farmable land in the South East region of the Island
-with 2 largest cities around this area Melbourne and Sydney
+998,217.16 km² farmable land in the South East region of the Island with 2 largest cities around this area Melbourne and Sydney
 
 3000 kilometers from Singapore 
+
 200 kilometer for 4 hours drive from Papua New Guinea to Australia 
 
 Indonesia Island Chain used to be above the ocean level allowing Cross by Land from Singapore to Australia
+
+Wallace Line between Indonesia and Australia even during the Ice Age resulted in 2 different ecosystems 
 
 ### Weather
 
@@ -38,18 +24,28 @@ Indonesia Island Chain used to be above the ocean level allowing Cross by Land f
 ### Major River, Water Reserve Lakes 
 
 East Coast mountain range resulting the Largest rivers in Australia concerntrated on the East Coast
+
 Large Rivers on East Coast creating large farmland regions around 2 Australia largest cities of Melbourne and Sydney
 
 ### Genetics flow of the GeoGen Area via migrations and invasions.
 
 Early Native Australian 
 ==> South East Asian population migrated to Australia through the Sunda land bridge, modern day Malayasia Indonesia before the Land bridge sunk below Sea Level. 
-==> Trapped population in Australia after the Sunkun land bridge of Sunda resulted in low nutrition per person ==> Shorter and Smaller build than other Human Groups
-==> Later on migrated back to South East Asia via sea route but still carry the Low Nutrition need adaptation ==> Smaller build of South East Asian and Southern Chinese population 
+
+==> Trapped population in Australia after the Sunkun land bridge of Sunda resulted in low nutrition per person 
+
+==> Shorter and Smaller build than other Human Groups
+
+==> Later on migrated back to South East Asia via sea route but still carry the Low Nutrition need adaptation 
+
+==> Smaller build of South East Asian and Southern Chinese population 
 
 British Convict Population
+
 ==> After losing the American colony, British transfered most of convicts and criminals to Australia instead to establish colony there
+
 ==> Establish New South Wales South West of Australia in the largest farm land area. 
+
 ==> 1788-1868 ==> Over 160,000 convicts transported as labors for the construction of the Colony 
 
 The Australian Gold Rush
@@ -66,6 +62,7 @@ Vietnam War Refugees
 
 Chinese Economics Expansion
 ==> China role as the World Factory resulting in Mineral and Raw Material from Australian mines being transfered to China to make Consumer Goods for American market. 
+
 ==> Chinese become the largest trading partner and migration source for Australian population growth since 2000s.
 
 ### Present and Past National Border
@@ -176,7 +173,28 @@ Export Australian Beef to Hanoi Lottee
 => Perth is part of the smaller farming region in the South West of the Island 
 => Australia has all the energy its need for its population
 
+### Melbourne Sydney Delta
+Near 400,000 square kilometer of farmland next to Melbourne and Sydney with Sydney having shorter distance to the main river and farmland area. 
 
+
+
+[ ] Terrain via Mountain, Delta, Desert, Coastline, Ocean
+[ ] Weather Pattern via Wind, Rain and Temperature
+[ ] Major River, Water Reserve Lakes 
+
+[ ] Genetics Flow via Emigration, Immigration and Invasion. 
+[ ] The GeoGen Area major Gene Groups with their Common and Different features.
+
+[ ] Present and Past National Border
+[ ] Major Outputs via Exports, Needs for Import
+[ ] Trade Network via Sea Ports, Highway, Railways and AirFreight
+
+[ ] Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+[ ] Information Influences of the GeoGen Area to the outside World
+[ ] Secured Genetics Settlements outside of GeoGen Center
+
+[ ] Information Influences of the GeoGen Area to the outside World
+[ ] Secured Genetics Settlements outside of GeoGen Center
 
 
 
