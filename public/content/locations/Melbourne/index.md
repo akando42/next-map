@@ -40,19 +40,21 @@
 
 - China, Japan, Korea, Indochina, South East Asian Island nations and Australia has almost the same timezone. 
 
+- Australia has very high level of food security with the Farmland area having same size as Yellow Yangzte but much lower population density. 
+
 - Large population of Vietnamese migrated to Australia after the Falls of Saigion has integrated well into the English Anglo Australian population
 
 - There are 600,000 Vietnamese currently living in Australia with Australian Vietnamese having access to Australian diet looking healthier and better than Vietnamese in Vietnam. 
 
 - China role as the World Factory resulting in Mineral and Raw Material from Australian mines being transfered to China to make Consumer Goods for American market.
 
-- Most of Australian Crude Oil is being refined in Singapore, Korea or China and resell back to Australia. 
+- Most of Australian Crude Oil is being refined in Singapore, Korea or China and resell back to Australia to keep the Gasoline price low and competitive. 
 
 - Chinese has become the largest trading partner and migration source for Australian population growth since 2000s.
 
 - BYD and Vinfast are two largest maker of Electric Cars for Australian market
 
-- Airtravel has become easy and cheap since after WW2 with regular direct flights between East Asia largest cities and Australia population centers of Sydney and Melbourne
+- Airtravel has become easy and cheap since after WW2 with regular direct flights between Australia population centers of Sydney and Melbourne with East Asia largest cities like Hanoi, Shanghai or Tokyo.
 
 - The Internet Economy has enabled Anglo English Australian and East Asian population to build products and earn living together. 
 
