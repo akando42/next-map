@@ -1,3 +1,29 @@
+[ ] Terrain via Mountain, Delta, Desert, Coastline, Ocean
+
+[ ] Weather Pattern via Wind, Rain and Temperature
+
+[ ] Major River, Water Reserve Lakes 
+
+[ ] Genetics Flow via Emigration, Immigration and Invasion. 
+
+[ ] The GeoGen Area major Gene Groups with their Common and Different features.
+
+[ ] Present and Past National Border
+
+[ ] Major Outputs via Exports, Needs for Import
+
+[ ] Trade Network via Sea Ports, Highway, Railways and AirFreight
+
+[ ] Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
+
+[ ] Information Influences of the GeoGen Area to the outside World
+
+[ ] Secured Genetics Settlements outside of GeoGen Center
+
+[ ] Information Influences of the GeoGen Area to the outside World
+
+[ ] Secured Genetics Settlements outside of GeoGen Center
+
 # The British ExConvicts Freezone Beyond The Reach of Japanese Imperial Navy
 
 
@@ -178,23 +204,7 @@ Near 400,000 square kilometer of farmland next to Melbourne and Sydney with Sydn
 
 
 
-[ ] Terrain via Mountain, Delta, Desert, Coastline, Ocean
-[ ] Weather Pattern via Wind, Rain and Temperature
-[ ] Major River, Water Reserve Lakes 
 
-[ ] Genetics Flow via Emigration, Immigration and Invasion. 
-[ ] The GeoGen Area major Gene Groups with their Common and Different features.
-
-[ ] Present and Past National Border
-[ ] Major Outputs via Exports, Needs for Import
-[ ] Trade Network via Sea Ports, Highway, Railways and AirFreight
-
-[ ] Internet Cable Port, News Sites, TV Anchors and Social Media Influencers
-[ ] Information Influences of the GeoGen Area to the outside World
-[ ] Secured Genetics Settlements outside of GeoGen Center
-
-[ ] Information Influences of the GeoGen Area to the outside World
-[ ] Secured Genetics Settlements outside of GeoGen Center
 
 
 
